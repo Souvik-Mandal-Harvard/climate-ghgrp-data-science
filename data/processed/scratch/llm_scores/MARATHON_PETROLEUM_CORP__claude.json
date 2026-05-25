@@ -1,0 +1,39 @@
+{
+  "parent_name": "MARATHON PETROLEUM CORP",
+  "overall_assessment": "Marathon Petroleum has a modest emissions intensity reduction target covering Scopes 1, 2, and partial Scope 3, with a 2030 interim milestone and a 2035 end target, but the commitment falls well short of net-zero or 1.5\u00b0C-aligned absolute reduction pledges and lacks SBTi validation or robust governance disclosure in the provided corpus.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "The company has a specific percentage intensity reduction target (30% Scope 1+2 by 2030; 15% Scope 3 category 11 by 2030) with a defined baseline year (2014/2019) and a 2035 end target, but the commitment is framed as an intensity target rather than an absolute reduction, is not aligned to 1.5\u00b0C or well-below-2\u00b0C, is not SBTi-validated, and Scope 3 coverage is only partial (category 11 only). This places it above a vague aspiration but below a specific absolute % with 1.5\u00b0C alignment.",
+      "evidence_quote": "30% reduction of scope 1 and 2 GHG emissions intensity by 2030 from 2014 levels; 15% reduction of scope 3 - category 11 GHG emissions by 2030 from 2019 levels"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The disclosure provides a baseline year (2014 for Scope 1+2; 2019 for Scope 3), a target year (2030 interim, 2035 end), and specific percentage reductions (30% and 15%). However, there is only one primary target type (intensity) and the end-target description is less precise than the interim, with no additional measurable milestones beyond the two data points.",
+      "evidence_quote": "End target: Emissions intensity target; Target year: 2035.0; % reduction: 38.0; Baseline year: 2014.0; Interim target: Interim year: 2030.0; Interim % reduction: 30.0"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target (2035) and one interim target (2030), which satisfies the 'long-term + 1 interim 5-15yr' criterion. However, there are no additional interim milestones, no near-term (<5yr) targets, and no annual or quinquennial tracking milestones disclosed in the corpus.",
+      "evidence_quote": "Interim target: Interim year: 2030.0; Interim % reduction: 30.0 ... End target: Target year: 2035.0; % reduction: 38.0"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker entry notes a published transition plan and annual reporting, but the corpus provides no detail on specific mechanisms, capital expenditures, named projects, or offset treatment. The 10-K excerpts are focused on financial accounting and cash flows with no climate mechanism disclosure. Only a vague reference to a transition plan exists.",
+      "evidence_quote": "Published transition plan: Yes; Reporting mechanism: Annual reporting"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and the company is not a Race to Zero member. There is no mention of board committee oversight, third-party emissions assurance, SBTi validation, or executive compensation linkage to climate targets in the provided corpus. Annual reporting is noted but no verification structure is described.",
+      "evidence_quote": "Accountability/governance: Not Specified; Race to Zero member: No; Reporting mechanism: Annual reporting"
+    }
+  }
+}

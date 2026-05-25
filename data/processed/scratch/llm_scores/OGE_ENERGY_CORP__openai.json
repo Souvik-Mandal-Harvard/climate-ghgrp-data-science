@@ -1,0 +1,38 @@
+{
+  "parent_name": "OGE ENERGY CORP",
+  "overall_assessment": "OGE Energy Corp's disclosures lack specific climate-emissions pledges, targets, or mechanisms, focusing instead on regulatory compliance and risk management.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "There is no mention of any climate-emissions commitment or net-zero target.",
+      "evidence_quote": "OG&E monitors developments in federal greenhouse gas (\u201cGHG\u201d) emissions regulations applicable to fossil fuel-fired electric generating units."
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No specific targets or years are defined for emissions reductions.",
+      "evidence_quote": "OG&E continues to monitor these regulatory developments and evaluate potential impacts on its operations."
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "No time-bound targets or interim goals are provided.",
+      "evidence_quote": "OG&E cannot predict the outcome of the EPA\u2019s reconsideration process, the proposed repeal, or the pending litigation."
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No mechanisms for achieving emissions reductions are described.",
+      "evidence_quote": "OG&E has sought and will continue to seek pollution prevention opportunities and to evaluate the effectiveness of its waste reduction, reuse and recycling efforts."
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is board oversight of risk management, but no specific climate governance or verification structures are mentioned.",
+      "evidence_quote": "The Board of Directors is responsible for reviewing and overseeing the long-term strategic plans and principal issues facing the Registrants."
+    }
+  }
+}

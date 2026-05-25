@@ -1,0 +1,38 @@
+{
+  "parent_name": "OGE ENERGY CORP",
+  "overall_assessment": "OGE Energy Corp's public disclosure corpus contains no climate emissions pledge, net-zero commitment, or GHG reduction target of any kind; the filings address climate regulation only as a compliance risk and make no voluntary emissions commitments.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "The corpus contains zero voluntary climate commitment or emissions reduction pledge. GHG is discussed exclusively as a regulatory compliance risk. The company is actively adding natural gas generation capacity with no stated decarbonization goal.",
+      "evidence_quote": "OG&E monitors developments in federal greenhouse gas ('GHG') emissions regulations applicable to fossil fuel-fired electric generating units."
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No base year, target year, percentage reduction, or any quantified emissions target is present anywhere in the corpus.",
+      "evidence_quote": "No relevant quote available \u2014 no emissions targets disclosed."
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "No near-term, interim, or long-term climate targets are disclosed. The only time-referenced content relates to regulatory compliance deadlines imposed externally (e.g., EPA rules), not voluntary company commitments.",
+      "evidence_quote": "No relevant quote available \u2014 no climate target timeline disclosed."
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No decarbonization mechanisms, transition plan, capital allocation toward emissions reduction, or offset strategy is described. Capital expenditure discussion focuses on new natural gas combustion turbines and battery storage, with no emissions-reduction framing.",
+      "evidence_quote": "OG&E is installing four combustion turbines with a total capacity of 896 MWs... OG&E also has a commitment related to the Frontier Energy Storage Project, which involves a purchase and sale agreement for a 300 MW battery storage facility in Oklahoma."
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "The Board and its committees are described as overseeing major risks, and a Corporate Risk Oversight Committee exists, but climate/emissions oversight is not specifically assigned to any committee. No third-party emissions assurance, SBTi validation, exec comp linkage to climate, or scenario analysis is mentioned. Board awareness of risk exists but no structured climate governance.",
+      "evidence_quote": "The Board of Directors is responsible for reviewing and overseeing the long-term strategic plans and principal issues facing the Registrants and includes the oversight of the major risk exposures and the risk management activities of the Registrants."
+    }
+  }
+}

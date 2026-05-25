@@ -1,0 +1,39 @@
+{
+  "parent_name": "ALLIANT ENERGY CORP",
+  "overall_assessment": "Alliant Energy has a stated net-zero aspiration for 2050 with a quantified 50% CO2 interim target by 2030, but the commitment is described as an 'aspiration' covering only utility operations (Scope 1+2, Scope 3 unspecified), lacks SBTi validation, and the disclosed mechanisms and governance details are sparse in the available corpus.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 5,
+      "reasoning": "The company aspires to net-zero by 2050 and has a 50% CO2 reduction target by 2030 from a 2005 baseline, covering Scope 1 and 2 from utility operations. However, the net-zero target is explicitly framed as an 'aspiration' rather than a firm commitment, Scope 3 is not specified, there is no SBTi validation, and the 1.5\u00b0C alignment is not explicitly claimed. This sits between a vague aspiration (2) and a specific % with 1.5\u00b0C alignment (8), landing around 5-6; conservatively scored 5 given the aspirational language and Scope 3 gap.",
+      "evidence_quote": "Aspire to achieve net-zero greenhouse gas emissions from our utility operations. / reduction of carbon dioxide (CO2) emissions from the electricity we generate by 50% from 2005 levels (which was approximately 24 million tons) by 2030"
+    },
+    "specificity": {
+      "score": 5,
+      "reasoning": "There is a base year (2005), an interim target year (2030) with a specific percentage (50% CO2 reduction), and a long-term target year (2050). However, the long-term target carries no explicit percentage reduction figure (% reduction listed as nan), and the interim target covers only CO2 from electricity generation rather than all GHGs across all operations. A single interim target with a measurable value but a hedged/aspirational long-term target warrants a mid-range score.",
+      "evidence_quote": "Interim % reduction: 50.0 / Interim year: 2030.0 / Baseline year: nan / % reduction: nan"
+    },
+    "time_horizon": {
+      "score": 5,
+      "reasoning": "There is a long-term target (2050 net-zero) and one interim target (2030, 50% CO2 reduction). Progress tracking is noted (39% reduction achieved by 2024 reported). However, only one interim milestone is present; there are no additional interim waypoints between 2030 and 2050, and no explicit annual or quinquennial milestones are described in the corpus.",
+      "evidence_quote": "In 2024, we achieved a 39% reduction in CO2e emissions compared to 2005 levels / Interim year: 2030.0 / End target year: 2050.0"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The 10-K corpus references renewable energy construction, solar generation projects, natural gas-fired generation, and energy storage in the context of risk factors and regulatory matters, but these are not presented as a structured decarbonization pathway with capex figures, named projects tied to emissions targets, or offset treatment. The Net Zero Tracker notes a published transition plan exists, but no substantive mechanism detail is present in the provided corpus.",
+      "evidence_quote": "our ability to site and construct new energy facilities, such as renewable energy, energy storage projects, or natural gas-fired electric generating units (EGUs)"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The Net Zero Tracker indicates accountability/governance is present and annual reporting is the reporting mechanism, and a published transition plan exists. The 10-K references the Audit Committee in the context of accounting estimates. However, the corpus does not confirm third-party emissions assurance, SBTi or other external target validation, or explicit executive compensation linkage to climate targets. Only one or two governance elements are evidenced in the available text.",
+      "evidence_quote": "Accountability/governance: Yes / Reporting mechanism: Annual reporting / Published transition plan: Yes"
+    }
+  }
+}

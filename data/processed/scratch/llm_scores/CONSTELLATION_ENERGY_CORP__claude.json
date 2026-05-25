@@ -1,0 +1,39 @@
+{
+  "parent_name": "CONSTELLATION ENERGY CORP",
+  "overall_assessment": "Constellation Energy has a moderately ambitious climate pledge\u2014100% carbon-free generation and 100% operational emissions reduction by 2040 with a 2030 interim target\u2014but the disclosure corpus is dominated by financial/debt disclosures with minimal climate mechanism detail, no published transition plan, and no SBTi validation, limiting scores on mechanism clarity and verification.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "The company commits to 100% reduction in operational emissions by 2040 vs. a 2020 baseline, covering Scopes 1, 2, and 3 per NZT, and targets 100% carbon-free generation. However, there is no SBTi validation, no explicit 1.5\u00b0C alignment claim, and the Scope 3 coverage is asserted in the NZT entry without elaboration. The methane interim target adds breadth but the overall framing stops short of a formally validated net-zero-all-scopes commitment.",
+      "evidence_quote": "reduce our operational emissions by 100 percent by 2040, compared to a 2020 baseline year...and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "There is a clear base year (2020), a long-term target year (2040) with a 100% reduction figure, and an interim target year (2030) with a 65% reduction figure plus a separate methane target (30% by 2030). This constitutes multiple targets with explicit years and percentages, but there is only one interim milestone and no additional granular milestones or sub-targets beyond these three data points.",
+      "evidence_quote": "increase the percentage of our owned electricity generation from carbon-free sources...with an interim goal of 95 percent by 2030; reduce our operational emissions...with an interim goal of 65 percent reduction by 2030; and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "The structure includes a long-term target (2040) and one interim target year (2030) with two distinct metrics (operational emissions 65% and carbon-free generation 95%). This satisfies 'long-term + 1 interim 5-15yr' but does not reach the threshold of multiple interim milestones or explicit annual/quinquennial tracking milestones.",
+      "evidence_quote": "increase the percentage of our owned electricity generation from carbon-free sources to 100 percent by 2040...with an interim goal of 95 percent by 2030; reduce our operational emissions by 100 percent by 2040...with an interim goal of 65 percent reduction by 2030."
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The 10-K corpus is almost entirely financial/debt disclosures with no climate mechanism detail. The NZT entry notes no published transition plan. The only mechanism implied is increasing carbon-free generation percentage, but no capex figures, named projects, offset treatment, or specific decarbonization pathways are described in the provided corpus.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The NZT entry notes annual reporting as the reporting mechanism but specifies 'Not Specified' for accountability/governance. There is no mention of board committee for climate, third-party emissions assurance, SBTi validation, or executive compensation linkage in the provided corpus. Annual reporting alone satisfies one element (reporting mechanism), placing this at the '1 element' level.",
+      "evidence_quote": "Reporting mechanism: Annual reporting\nAccountability/governance: Not Specified"
+    }
+  }
+}

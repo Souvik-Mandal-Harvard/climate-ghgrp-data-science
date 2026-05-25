@@ -1,0 +1,40 @@
+{
+  "parent_name": "TALEN ENERGY CORP",
+  "overall_assessment": "Talen Energy's disclosure corpus contains no climate emissions pledge, net-zero commitment, or emissions reduction targets; the climate-relevant text is limited to regulatory compliance discussions (RGGI, EPA GHG rules, CCR/ELG rules) with no voluntary ambition, specificity, time-horizon structure, mechanism clarity, or verification/governance framework evident.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_nzt_entry",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "No net-zero, carbon-neutral, or emissions-reduction commitment of any kind appears in the corpus. References to GHG are exclusively in the context of regulatory compliance risk (EPA GHG Rule, RGGI) rather than voluntary pledges.",
+      "evidence_quote": "In June 2025, the EPA released a proposed rule to repeal all GHG emission standards for fossil fuel-fired power plants... Operating decisions about the future of Colstrip are highly dependent on the fate of the EPA GHG Rule."
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No emissions reduction targets, base years, target years, or percentage reductions are disclosed. The corpus contains only financial accounting and regulatory compliance language.",
+      "evidence_quote": "Environmental product costs primarily include RGGIs and other emission product compliance costs that are mandated by certain states."
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "No short-term, interim, or long-term climate targets are present. The only forward-looking dates relate to regulatory deadlines and capacity market obligations, not voluntary climate commitments.",
+      "evidence_quote": "In 2020, the EPA issued changes that would exempt coal generation facility operators from meeting certain wastewater standards if the facility would commit to cease coal-fired generation by the end of 2028, which Talen elected for its wholly owned coal operations."
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No decarbonization mechanisms, transition plans, capital expenditure commitments for clean energy, or offset strategies are described. The corpus discusses only compliance with existing environmental regulations.",
+      "evidence_quote": "Talen is evaluating what: (i) potential discharge limits may apply; (ii) treatment may be required; and (iii) the implementation timeline may be."
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "No board climate committee, third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate metrics is mentioned anywhere in the corpus.",
+      "evidence_quote": null
+    }
+  }
+}

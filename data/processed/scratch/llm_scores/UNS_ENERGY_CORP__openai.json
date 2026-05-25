@@ -1,0 +1,40 @@
+{
+  "parent_name": "UNS ENERGY CORP",
+  "overall_assessment": "UNS Energy Corp's disclosures lack any specific climate-emissions pledges or targets, focusing instead on risks and impacts of climate change on operations.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_nzt_entry",
+    "no_sbti_entry"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "There is no commitment or mention of any climate-emissions targets or net-zero goals.",
+      "evidence_quote": "The Company\u2019s operations are subject to disruption from natural or human causes beyond its control, including risks from... climate change."
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No specific years or targets are defined for emissions reductions.",
+      "evidence_quote": "Efforts by governments, international bodies, businesses and consumers to reduce GHGs and otherwise mitigate the effects of climate change are ongoing."
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "There are no targets or timelines mentioned for emissions reductions.",
+      "evidence_quote": "The long-term effects of climate change are difficult to predict; however, such effects may be widespread."
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No mechanisms or pathways for achieving emissions reductions are discussed.",
+      "evidence_quote": "Increasing attention to ESG matters, including those related to climate change and sustainability, increasing societal, investor and legislative pressure on companies to address ESG matters, may result in increased costs..."
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "There is no mention of governance structures or verification processes related to climate targets.",
+      "evidence_quote": "Increasing attention to ESG matters, including those related to climate change and sustainability, increasing societal, investor and legislative pressure on companies to address ESG matters..."
+    }
+  }
+}

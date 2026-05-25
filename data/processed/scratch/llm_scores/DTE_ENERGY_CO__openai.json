@@ -1,0 +1,39 @@
+{
+  "parent_name": "DTE ENERGY CO",
+  "overall_assessment": "DTE Energy has a comprehensive climate-emissions pledge with specific targets and a clear timeline, but lacks detailed mechanisms and verification elements.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "DTE Energy has committed to net-zero carbon emissions across all scopes by 2050, which is aligned with 1.5\u00b0C targets.",
+      "evidence_quote": "Net zero carbon emissions of electricity delivered to DTE Electric customers and net zero carbon emissions for DTE Gas operations & supplied gas by 2050 (from 2005 baseline)."
+    },
+    "specificity": {
+      "score": 10,
+      "reasoning": "The company has defined a baseline year and multiple interim targets with explicit years and measurable milestones.",
+      "evidence_quote": "Reduction in carbon emissions generated from stationary equipment used in the production of electricity delivered to DTE Electric customers \u2014 Scope 1 \u2014 65% (2028), 85% (2032), 90% (2040) from 2005 baseline."
+    },
+    "time_horizon": {
+      "score": 10,
+      "reasoning": "DTE Energy has a long-term target for 2050 and multiple interim targets for 2028, 2032, and 2040.",
+      "evidence_quote": "Interim milestones \u2026 65% (2028), 85% (2032), 90% (2040) from 2005 baseline."
+    },
+    "mechanism_clarity": {
+      "score": 6,
+      "reasoning": "While there is a published transition plan, the specific mechanisms, capex, and offset treatments are not detailed.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "The company has accountability/governance and annual reporting but lacks third-party emissions assurance and external target validation.",
+      "evidence_quote": "Accountability/governance: Yes"
+    }
+  }
+}

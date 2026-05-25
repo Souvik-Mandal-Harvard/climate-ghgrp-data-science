@@ -1,0 +1,39 @@
+{
+  "parent_name": "WEC Energy Group Inc",
+  "overall_assessment": "WEC Energy Group Inc has set a carbon neutrality target for 2050 with interim targets for 2025 and 2030. However, the disclosure lacks detailed mechanisms and governance structures.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "The company has a carbon neutrality target for 2050 and an 80% reduction by 2030, but it lacks clarity on Scope 2 and 3 emissions.",
+      "evidence_quote": "Our long-term goal is to achieve carbon neutrality from electric generation by 2050, in alignment with the Paris climate agreement."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company provides specific interim targets for 2025 and 2030 but lacks a baseline year for the 2050 target.",
+      "evidence_quote": "60% below 2005 levels by the end of 2025, 80% below 2005 levels by the end of 2030."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "The company has a long-term target for 2050 and interim targets for 2025 and 2030.",
+      "evidence_quote": "60% below 2005 levels by the end of 2025, 80% below 2005 levels by the end of 2030."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "There is a published transition plan, but the mechanisms are not detailed in terms of specific projects or investments.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is no specified governance structure or third-party verification mentioned.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

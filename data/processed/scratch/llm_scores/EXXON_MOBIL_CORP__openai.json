@@ -1,0 +1,38 @@
+{
+  "parent_name": "EXXON MOBIL CORP",
+  "overall_assessment": "Exxon Mobil has set a net-zero target for 2050 covering Scopes 1 and 2, with interim intensity reduction targets for 2030. However, the ambition lacks Scope 3 coverage and SBTi validation.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "The company has a net-zero target for 2050 covering Scopes 1 and 2, but lacks Scope 3 coverage and SBTi validation.",
+      "evidence_quote": "\"In January 2022, we announced a 2050 net-zero GHG ambition for our operated assets, which requires new advancements in technology and practical government policies.\""
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company provides a long-term target year (2050) and interim targets for 2030, but lacks a baseline year and specific percentage reductions for the end target.",
+      "evidence_quote": "\"20-30% reduction in corporate-wide greenhouse gas intensity\""
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "Exxon Mobil has a long-term target for 2050 and multiple interim targets for 2030.",
+      "evidence_quote": "\"20-30% reduction in corporate-wide greenhouse gas intensity\""
+    },
+    "mechanism_clarity": {
+      "score": 6,
+      "reasoning": "The company mentions mechanisms like carbon capture and storage, but lacks detailed capex, dates, and quantified offset limits.",
+      "evidence_quote": "\"Our pursuit of lower-emission and other new business opportunities, including carbon capture and storage, hydrogen and ammonia, lower-emission fuels...\""
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "The company has accountability/governance and annual reporting but lacks third-party emissions assurance and SBTi validation.",
+      "evidence_quote": "Accountability/governance: Yes"
+    }
+  }
+}

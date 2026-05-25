@@ -1,0 +1,38 @@
+{
+  "parent_name": "EVERGY INC",
+  "overall_assessment": "Evergy Inc has a net-zero target for 2045 but lacks interim targets and detailed mechanisms for achieving this goal. The disclosure is sparse and lacks specificity in governance and verification.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "Evergy has a net-zero target for 2045 but does not specify a percentage reduction or cover Scope 3 emissions.",
+      "evidence_quote": "Achieve net-zero carbon emissions by 2045."
+    },
+    "specificity": {
+      "score": 2,
+      "reasoning": "Only a single long-term target year is specified without interim targets or detailed milestones.",
+      "evidence_quote": "End target: Net zero, Target year: 2045.0"
+    },
+    "time_horizon": {
+      "score": 2,
+      "reasoning": "There is only a single long-term target for 2045 with no interim targets.",
+      "evidence_quote": "Interim target: No target"
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "There is no mention of specific mechanisms or pathways to achieve the net-zero target.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "There is no evidence of governance structures or third-party verification related to climate targets.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "parent_name": "THE SOUTHERN CO",
+  "overall_assessment": "Southern Company has a net-zero target by 2050 with an interim target for 2030, but lacks comprehensive scope coverage and detailed mechanisms.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "The company has a net-zero target by 2050 but does not cover all scopes and lacks SBTi validation.",
+      "evidence_quote": "\"GHG emissions reduction goal of net zero emissions by 2050\""
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company provides a baseline year and specific interim target for 2030, but lacks multiple interim targets.",
+      "evidence_quote": "\"We also have an interim target to achieve 50% GHG emissions reduction by 2030 relative to 2007 levels.\""
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+      "evidence_quote": "\"Interim target: Emissions reduction target Interim year: 2030.0\""
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The disclosure lacks detailed mechanisms or quantified pathways for achieving the targets.",
+      "evidence_quote": "No specific mechanisms or pathways detailed in the provided text."
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "There is some accountability and governance mentioned, but no evidence of third-party verification or SBTi validation.",
+      "evidence_quote": "\"Accountability/governance: Yes\""
+    }
+  }
+}

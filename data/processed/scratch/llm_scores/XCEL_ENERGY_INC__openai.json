@@ -1,0 +1,39 @@
+{
+  "parent_name": "XCEL ENERGY INC",
+  "overall_assessment": "Xcel Energy has a comprehensive net-zero target for 2050 covering all scopes, with interim targets for 2030. However, the disclosure lacks detailed governance and verification structures.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "The company has a net-zero target for 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+      "evidence_quote": "Become an overall net-zero energy company by 2050, including providing 100% carbon-free electricity to customers by 2050 and delivering net-zero natural gas service by 2050."
+    },
+    "specificity": {
+      "score": 8,
+      "reasoning": "The company provides a base year and multiple interim targets with explicit years.",
+      "evidence_quote": "80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "The company has a long-term target for 2050 and multiple interim targets for 2030.",
+      "evidence_quote": "80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+    },
+    "mechanism_clarity": {
+      "score": 6,
+      "reasoning": "A published transition plan is mentioned, but specific mechanisms, capex, or project details are not provided.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is no specific mention of governance structures or third-party verification.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent_name": "Vistra Corp",
+  "overall_assessment": "Vistra Corp has set ambitious climate targets with specific interim goals, but lacks detailed mechanisms and governance structures for verification.",
+  "supplemental_indicators": {
+    "sbti_status": "targets_set"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "Vistra Corp commits to a 60% reduction in CO2e emissions by 2030 and achieving net zero by 2050, covering Scope 1, 2, and partial Scope 3.",
+      "evidence_quote": "Vistra is committed to a 60% reduction in CO2e emissions by 2030, compared to a 2010 baseline, and achieving net zero carbon emissions by 2050."
+    },
+    "specificity": {
+      "score": 8,
+      "reasoning": "Multiple precise targets are set for 2028 and 2030 with specific percentage reductions.",
+      "evidence_quote": "Vistra Corp. commits to reduce absolute scope 1 and 2 GHG emissions 58% by 2028 from a 2018 base year."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "Long-term target for 2050 with multiple interim targets for 2028 and 2030.",
+      "evidence_quote": "Vistra Corp. commits to reduce absolute scope 1 and 2 GHG emissions 58% by 2028 from a 2018 base year."
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "No detailed transition plan or mechanisms are provided.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "There is some governance structure, but no mention of third-party verification or executive compensation linked to climate targets.",
+      "evidence_quote": "Accountability/governance: Yes"
+    }
+  }
+}

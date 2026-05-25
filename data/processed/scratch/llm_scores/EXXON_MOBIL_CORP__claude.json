@@ -1,0 +1,39 @@
+{
+  "parent_name": "EXXON MOBIL CORP",
+  "overall_assessment": "ExxonMobil has a 2050 net-zero 'ambition' for Scope 1+2 operated assets with a 2030 intensity-based interim target, but the commitment is explicitly conditional on technology advances and government policy, excludes Scope 3, lacks SBTi validation, and is framed as an aspiration rather than a binding pledge\u2014resulting in moderate scores across most pillars.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "The company states a 2050 net-zero ambition covering Scopes 1 and 2 for operated assets, which provides a year and a net-zero framing. However, it is explicitly conditional ('requires new advancements in technology and practical government policies'), excludes Scope 3 entirely, is not SBTi-validated, and is described as an 'ambition' rather than a commitment. This places it above a vague aspiration but below a specific % reduction with 1.5\u00b0C alignment.",
+      "evidence_quote": "In January 2022, we announced a 2050 net-zero GHG ambition for our operated assets, which requires new advancements in technology and practical government policies. (covers Scopes 1 and 2)"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "There is a 2050 end-year target and a 2030 interim year with multiple specific percentage ranges (20-30% corporate GHG intensity, 40-50% upstream GHG intensity, 70-80% methane intensity, 60-70% flaring intensity). However, no absolute baseline year or baseline emissions figure is provided, and all targets are intensity-based rather than absolute, limiting comparability and accountability.",
+      "evidence_quote": "20-30% reduction in corporate-wide greenhouse gas intensity; 40-50% reduction in upstream GHG intensity; 70-80% reduction in corporate-wide methane intensity; 60-70% reduction in corporate-wide flaring intensity"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term 2050 net-zero ambition and one interim 2030 target set. This satisfies the 'long-term + 1 interim 5-15yr' criterion. However, there are no additional interim milestones between 2030 and 2050, no annual or quinquennial tracking milestones disclosed in the corpus, and no near-term (<5yr) targets identified.",
+      "evidence_quote": "End target: Net zero, Target year: 2050.0 ... Interim target: Emissions intensity target, Interim year: 2030.0"
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The 10-K references lower-emission business opportunities (CCS, hydrogen, ammonia, lower-emission fuels) and notes adoption of new technologies and operating practices to reduce emissions. However, no specific capital expenditure amounts, named projects with dates, or quantified offset limits are provided in the disclosed corpus. The transition plan is noted as published but its contents are not reproduced here.",
+      "evidence_quote": "our pursuit of lower-emission and other new business opportunities, including carbon capture and storage, hydrogen and ammonia, lower-emission fuels, Proxxima resin systems, carbon materials, low-carbon data centers, and lithium"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The Net Zero Tracker entry notes 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' suggesting some governance structure and annual progress reporting exist. However, the corpus contains no evidence of third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate targets. Only one or two elements of the rubric's four-element framework are evidenced.",
+      "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting"
+    }
+  }
+}

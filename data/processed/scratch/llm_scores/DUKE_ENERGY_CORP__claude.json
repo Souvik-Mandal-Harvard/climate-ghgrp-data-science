@@ -1,0 +1,38 @@
+{
+  "parent_name": "DUKE ENERGY CORP",
+  "overall_assessment": "Duke Energy has a publicly stated net-zero 2050 electricity-generation goal with a 50% CO2 reduction interim target for 2030, but the pledge is narrowly scoped to electricity generation (not all Scope 1+2+3), lacks SBTi validation, and the 10-K and NZT disclosures provide limited mechanism detail, interim milestones, or robust verification infrastructure.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "Duke Energy commits to net-zero CO2 by 2050 and a 50% reduction by 2030, but the target is explicitly limited to 'electricity generation' \u2014 not all Scope 1+2+3 emissions across the enterprise (natural gas distribution, Scope 3 are not clearly covered in the pledge). NZT records Scopes 1, 2, and 3 as covered, but the primary target language in both the 10-K and NZT description restricts the net-zero goal to electricity generation. No SBTi validation is present. This lands between a specific % target and a full 1.5\u00b0C-aligned all-scopes commitment.",
+      "evidence_quote": "We've set ambitious climate goals for our company, striving toward at least a 50% reduction in CO2 emissions from electricity generation in 2030 on the way to net-zero CO2 by 2050."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "Two target years are defined (2030 and 2050) with a specific percentage reduction for the interim target (at least 50% by 2030). However, no baseline year is recorded in the NZT entry (baseline year = nan), and there is only a single interim target rather than multiple precise milestones. The 10-K does not add further quantitative specificity.",
+      "evidence_quote": "Interim % reduction: 50.0 | Interim year: 2030.0 | Baseline year: nan"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target (net-zero 2050) and one interim target (50% reduction by 2030), which satisfies the 'long-term + 1 interim 5-15yr' criterion. However, there are no additional interim milestones (e.g., 2035, 2040) and no explicit annual or quinquennial tracking milestones disclosed in the corpus.",
+      "evidence_quote": "striving toward at least a 50% reduction in CO2 emissions from electricity generation in 2030 on the way to net-zero CO2 by 2050."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The 10-K mentions several mechanisms \u2014 nuclear fleet relicensing, renewables build-out, carbon capture and sequestration, advanced nuclear, hydrogen, and long-duration storage \u2014 but none are quantified with specific capex amounts, project names, or timelines tied to the emissions targets. Offset treatment is not addressed. The NZT notes a published transition plan exists, but the corpus does not contain its contents.",
+      "evidence_quote": "new technologies that are not yet commercially available or are unproven at utility scale will likely be needed, including carbon capture and sequestration and supporting infrastructure as well as new resources capable of following electric load over long durations such as advanced nuclear, hydrogen and long-duration storage."
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "NZT records 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' suggesting at least a governance structure and annual progress reporting exist. The 10-K references ESG/climate expectations from investors and regulators, implying board-level awareness. However, the corpus contains no explicit evidence of: (a) a named board committee for climate, (b) third-party emissions assurance, (c) SBTi or other external target validation, or (d) executive compensation linked to climate metrics. Two elements (governance structure + annual reporting) are evidenced, placing this at a 6.",
+      "evidence_quote": "Accountability/governance: Yes | Reporting mechanism: Annual reporting"
+    }
+  }
+}

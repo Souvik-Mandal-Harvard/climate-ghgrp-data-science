@@ -1,0 +1,39 @@
+{
+  "parent_name": "MARATHON PETROLEUM CORP",
+  "overall_assessment": "Marathon Petroleum has set specific emissions intensity targets for Scope 1, 2, and partially for Scope 3, but lacks comprehensive governance and verification structures.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "The company has set specific percentage reduction targets for Scope 1 and 2 emissions and a partial target for Scope 3.",
+      "evidence_quote": "30% reduction of scope 1 and 2 GHG emissions intensity by 2030 from 2014 levels; 15% reduction of scope 3 - category 11 GHG emissions by 2030 from 2019 levels."
+    },
+    "specificity": {
+      "score": 8,
+      "reasoning": "The company has defined a baseline year and multiple precise targets for 2030 and 2035.",
+      "evidence_quote": "Baseline year: 2014.0; Target year: 2035.0; Interim year: 2030.0."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "The company has set a long-term target for 2035 and an interim target for 2030.",
+      "evidence_quote": "End target: Emissions intensity target; Interim target: Emissions intensity target."
+    },
+    "mechanism_clarity": {
+      "score": 6,
+      "reasoning": "A published transition plan is mentioned, but details on specific mechanisms and capex are not provided.",
+      "evidence_quote": "Published transition plan: Yes."
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "Annual reporting is mentioned, but there is no specification of governance structures or third-party verification.",
+      "evidence_quote": "Reporting mechanism: Annual reporting; Accountability/governance: Not Specified."
+    }
+  }
+}

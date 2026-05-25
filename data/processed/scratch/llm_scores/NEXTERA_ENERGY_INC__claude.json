@@ -1,0 +1,38 @@
+{
+  "parent_name": "NEXTERA ENERGY INC",
+  "overall_assessment": "NextEra Energy has a moderately well-structured climate pledge anchored by a 2045 carbon-free goal with multiple interim intensity-reduction milestones, covering Scope 1 and 2 with partial Scope 3; however, the pledge is intensity-based rather than absolute, lacks SBTi validation, and the 10-K corpus provides limited detail on mechanisms, governance structures, and verification.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "The company commits to zero carbon by 2045 covering Scope 1 and Scope 2, with partial Scope 3. However, the targets are framed as electric generation intensity reductions (not absolute emissions), there is no explicit 1.5\u00b0C or well-below-2\u00b0C alignment claim in the corpus, and Scope 3 is only partially covered with no SBTi validation. This places it above a simple net-zero-with-year pledge but below full 1.5\u00b0C-aligned, all-scopes, SBTi-validated status.",
+      "evidence_quote": "In 2022, NextEra Energy announced its industry-leading goal to be carbon-emissions free by no later than 2045, with zero scope 1 direct emissions from owned assets and zero scope 2 indirect emissions from owned or leased operations."
+    },
+    "specificity": {
+      "score": 8,
+      "reasoning": "The corpus provides a base year (2005), a final target year (2045), and four explicit interim percentage-reduction milestones (70% by 2025, 82% by 2030, 87% by 2035, 94% by 2040). This constitutes multiple precise, dated targets. The main limitation is that these are intensity-based rather than absolute, and the base year metric is not fully elaborated in the available text.",
+      "evidence_quote": "We have set clear interim emissions-reduction targets, aiming for a 70% reduction in electric generation intensity by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "The structure includes a long-term target (2045), multiple interim milestones at roughly five-year intervals (2025, 2030, 2035, 2040), and a baseline year of 2005. This satisfies the 'long-term + multiple interim' criterion. It falls short of a perfect 10 because there is no evidence of explicit annual tracking milestones or quinquennial sub-targets beyond the five listed.",
+      "evidence_quote": "aiming for a 70% reduction in electric generation intensity by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The 10-K corpus references growth in wind, solar, and battery storage investments and mentions new renewable generation facilities entering service, but does not provide a detailed transition plan with named projects, specific capex figures tied to decarbonization, or quantified offset limits. The Net Zero Tracker notes a published transition plan exists, but the corpus itself does not contain its contents.",
+      "evidence_quote": "Results from new investments in 2025 increased primarily due to higher earnings related to new wind and solar generation and battery storage facilities that entered service during or after 2024."
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "The Net Zero Tracker entry confirms annual reporting and an accountability/governance structure is in place. The corpus does not provide evidence of board committee specifics, third-party emissions assurance, SBTi validation, or executive compensation linkage to climate targets within the available text. Two elements (annual reporting and governance accountability) are confirmed, but the others cannot be verified from this corpus.",
+      "evidence_quote": "Reporting mechanism: Annual reporting. Accountability/governance: Yes."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "parent_name": "EVERGY INC",
+  "overall_assessment": "Evergy has a net-zero by 2045 target covering Scopes 1 and 2, anchored in a 2005 baseline, but the pledge lacks interim milestones, a published transition plan, SBTi validation, and detailed mechanism clarity; the 10-K corpus is dominated by natural gas expansion plans with minimal climate-commitment language.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "Evergy commits to net-zero by 2045 with a 2005 baseline, covering Scopes 1 and 2, but Scope 3 is explicitly excluded, no 1.5\u00b0C alignment is claimed, and no percentage reduction target is stated. The target is described as 'in corporate strategy' rather than formally validated.",
+      "evidence_quote": "Achieve net-zero carbon emissions by 2045. [...] Scopes covered: 1=Yes, 2=Yes, 3=No"
+    },
+    "specificity": {
+      "score": 4,
+      "reasoning": "A target year (2045) and baseline year (2005) are provided, but no explicit percentage reduction target is set for the end goal. The only quantified reduction figure (57% CO2 reduction by 2024) is described as an achieved outcome, not a pre-established target, and no interim target value is defined.",
+      "evidence_quote": "Not a pre-established target but in 2024, Evergy have reduced their carbon dioxide emissions by 57 percent [...] compared with the 2005 baseline numbers."
+    },
+    "time_horizon": {
+      "score": 2,
+      "reasoning": "Only a single long-term target year (2045) is disclosed. The 2030 entry in the Net Zero Tracker is explicitly noted as 'not a pre-established target,' meaning there are no formal interim milestones or near-term commitments.",
+      "evidence_quote": "Interim target: No target [...] Not a pre-established target but in 2024, Evergy have reduced their carbon dioxide emissions by 57 percent."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The 10-K references renewable solar investments and natural gas plant construction as generation fleet changes, but no explicit decarbonization pathway, capex allocation to clean energy vs. fossil, offset strategy, or retirement schedule for coal/gas assets is articulated in the context of the net-zero pledge. Mechanisms are inferable but unquantified relative to the climate target.",
+      "evidence_quote": "Evergy's long-term strategy focused on affordability, reliability and sustainability, including the modernization and expansion of its generation fleet [...] The Evergy Companies use IRPs [...] IRPs indicated the addition of new supply side resources, including combined and simple cycle natural gas plants, would be needed."
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and 'Published transition plan: No.' The corpus references annual reporting as a mechanism but provides no evidence of board committee oversight of climate, third-party emissions assurance, SBTi validation, or executive compensation linked to climate targets.",
+      "evidence_quote": "Published transition plan: No [...] Accountability/governance: Not Specified [...] Reporting mechanism: Annual reporting"
+    }
+  }
+}

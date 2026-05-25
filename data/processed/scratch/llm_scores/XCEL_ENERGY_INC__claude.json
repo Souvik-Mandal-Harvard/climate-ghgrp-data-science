@@ -1,0 +1,39 @@
+{
+  "parent_name": "XCEL ENERGY INC",
+  "overall_assessment": "Xcel Energy has a moderately robust climate pledge with a net-zero 2050 target covering Scopes 1-3, an 80% interim reduction target by 2030, and a published transition plan, but the disclosure corpus lacks 10-K text and SBTi validation, limiting scores on mechanism clarity and verification/governance.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "Xcel commits to net-zero by 2050 covering Scopes 1, 2, and 3, with 100% carbon-free electricity and net-zero natural gas service. The 80% reduction target by 2030 vs. 2005 baseline implies alignment with well-below-2\u00b0C trajectories. However, no SBTi validation is present, preventing a score of 10.",
+      "evidence_quote": "Become an overall net-zero energy company by 2050, including providing 100% carbon-free electricity to customers by 2050 and delivering net-zero natural gas service by 2050."
+    },
+    "specificity": {
+      "score": 8,
+      "reasoning": "Multiple precise targets are present: 80% reduction in carbon emissions from electricity by 2030 vs. 2005 baseline; 25% reduction in natural gas GHGs by 2030 vs. 2020 baseline; net-zero methane on distribution system by 2030; and net-zero overall by 2050. Two distinct baseline years (2005 and 2020) and multiple measurable values are defined. Falls short of 10 due to absence of explicit annual/quinquennial milestones beyond these anchor years.",
+      "evidence_quote": "80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "There is a long-term target (net-zero 2050) and multiple interim targets at 2030 (electricity carbon -80%, natural gas GHGs -25%, net-zero methane on distribution). This satisfies 'long-term + multiple interim.' However, no explicit annual or quinquennial milestone tracking schedule is described in the corpus, preventing a score of 10.",
+      "evidence_quote": "Interim year: 2030.0 | Interim % reduction: 80.0 | Interim description: 80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "A published transition plan is noted and annual reporting is referenced, but the corpus provides no detail on specific mechanisms, capital expenditure amounts, named projects, or offset treatment. The 10-K excerpts are entirely absent, leaving only high-level target descriptions without quantified pathways.",
+      "evidence_quote": "Published transition plan: Yes | Reporting mechanism: Annual reporting"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "Annual reporting is confirmed and a published transition plan exists (suggesting some governance structure), but the corpus explicitly states 'Accountability/governance: Not Specified.' No board committee, third-party assurance, SBTi validation, or exec compensation linkage is evidenced in the available text. The 10-K risk factor and MD&A sections are blank, removing the primary source for governance disclosures. Scoring 4 for the annual reporting mechanism as one identifiable element.",
+      "evidence_quote": "Accountability/governance: Not Specified | Reporting mechanism: Annual reporting"
+    }
+  }
+}

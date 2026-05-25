@@ -1,0 +1,39 @@
+{
+  "parent_name": "DTE ENERGY CO",
+  "overall_assessment": "DTE Energy has a moderately detailed climate commitment anchored by a 2050 net-zero target with multiple interim milestones for Scope 1 electric emissions, but the 10-K corpus is largely silent on climate pledges and the NZT entry reveals gaps in Scope 2/3 quantification, SBTi validation, and mechanism specificity.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "DTE commits to net-zero by 2050 covering electricity delivered to DTE Electric customers and DTE Gas operations, with Scopes 1, 2, and 3 noted as covered per NZT. However, the NZT entry shows no explicit % reduction figure for the overall net-zero target, Scope 3 coverage is asserted but not quantified, and there is no SBTi validation. The commitment is 'in corporate strategy' rather than externally validated, limiting the score.",
+      "evidence_quote": "Net zero carbon emissions of electricity delivered to DTE Electric customers and net zero carbon emissions for DTE Gas operations & supplied gas by 2050 (from 2005 baseline); interim milestones \u2026"
+    },
+    "specificity": {
+      "score": 7,
+      "reasoning": "Multiple precise interim targets are provided for Scope 1 electric emissions: 65% by 2028, 85% by 2032, and 90% by 2040, all from a 2005 baseline, plus a 2050 net-zero end target. This constitutes a base year, multiple interim targets with explicit years, and measurable milestones. However, the overall net-zero % reduction field is blank, and gas-side interim targets are referenced but not quoted in the corpus, preventing a top score.",
+      "evidence_quote": "Reduction in carbon emissions generated from stationary equipment used in the production of electricity delivered to DTE Electric customers \u2014 Scope 1 \u2014 65% (2028), 85% (2032), 90% (2040) from 2005 baseline."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "DTE has a long-term 2050 net-zero target plus three explicit interim milestones at 2028, 2032, and 2040 for electric Scope 1 emissions. This satisfies 'long-term + multiple interim' criteria. Annual reporting is noted. The corpus does not confirm explicit annual or quinquennial tracking milestones beyond these four data points, preventing a score of 10.",
+      "evidence_quote": "Scope 1 \u2014 65% (2028), 85% (2032), 90% (2040) from 2005 baseline \u2026 Net zero \u2026 by 2050"
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The 10-K references renewable energy generation, energy waste reduction programs, and retirement of fossil-fueled generation assets as mechanisms, but these are framed as regulatory compliance risks rather than a proactive transition plan. The NZT entry notes a published transition plan exists, but no capex figures, named projects, dates, or offset treatment are present in the provided corpus text.",
+      "evidence_quote": "The Registrants could be required to install expensive pollution control measures or limit or cease activities, including the retirement of certain generating plants, based on these regulations."
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "The NZT entry confirms accountability/governance structures exist and annual reporting is in place (two elements). The corpus does not provide evidence of third-party emissions assurance, SBTi or other external target validation, executive compensation linkage to climate targets, or scenario analysis disclosure within the provided text. Two confirmed elements yield a score of 6.",
+      "evidence_quote": "Accountability/governance: Yes \u2026 Reporting mechanism: Annual reporting"
+    }
+  }
+}

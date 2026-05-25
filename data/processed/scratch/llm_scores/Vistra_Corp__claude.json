@@ -1,0 +1,36 @@
+{
+  "parent_name": "Vistra Corp",
+  "overall_assessment": "Vistra has SBTi-validated near-term targets covering Scopes 1, 2, and partial Scope 3 at 1.5\u00b0C alignment, plus a long-term net-zero 2050 commitment, but the 10-K itself is largely silent on climate pledges and the transition plan is not published, limiting mechanism clarity and governance transparency within the SEC filing.",
+  "supplemental_indicators": {
+    "sbti_status": "targets_set"
+  },
+  "data_quality_flags": [],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "NZT and SBTi sources confirm 1.5\u00b0C-aligned Scope 1+2 targets (58% by 2028 from 2018 base) and partial Scope 3 coverage (sold electricity 58%, use of sold products 42%), plus a net-zero 2050 long-term goal. SBTi status shows 'Target set' with 1.5\u00b0C classification for S1+2 and S1+3. Falls short of 10 because Scope 3 coverage is only partial (not all categories) and the net-zero target is not SBTi-validated at the long-term level.",
+      "evidence_quote": "Vistra Corp. commits to reduce absolute scope 1 and 2 GHG emissions 58% by 2028 from a 2018 base year. Vistra Corp also commits to reduce absolute scope 1 and 3 GHG emissions from all sold electricity 58% within the same timeframe. Vistra Corp. further commits to reduce absolute scope 3 GHG emissions from use of sold products 42% within the same timeframe."
+    },
+    "specificity": {
+      "score": 7,
+      "reasoning": "Multiple precise targets exist: 58% S1+2 by 2028 (2018 base), 58% S1+3 sold electricity by 2028, 42% S3 use-of-sold-products by 2028, and a separate 60% CO2e reduction by 2030 (2010 base) plus net-zero 2050. Base years and target years are explicit. However, no interim milestones between 2018 and 2028 are disclosed, and the 2030 target uses a different baseline than the SBTi targets, creating some inconsistency. Score of 8 is not reached because the multiple targets use different baselines and there are no sub-annual or quinquennial milestones.",
+      "evidence_quote": "Vistra is committed to a 60% reduction in CO2e emissions by 2030, compared to a 2010 baseline, and achieving net zero carbon emissions by 2050."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target (net-zero 2050) and one near-term/interim target cluster (2028 SBTi targets) and a 2030 milestone. This gives long-term + one interim (2028/2030), but no additional interim waypoints between 2028 and 2050, and no annual or quinquennial milestones with explicit tracking schedules are disclosed in the corpus.",
+      "evidence_quote": "Interim target: Emissions reduction target \u2014 Interim year: 2028.0 \u2014 Interim % reduction: 58.0 ... End target: Net zero \u2014 Target year: 2050.0"
+    },
+    "mechanism_clarity": {
+      "score": 3,
+      "reasoning": "The 10-K references coal plant retirements/repowering to natural gas, nuclear uprates adding carbon-free capacity, solar development, and battery storage, but these are framed as business strategy rather than as a quantified decarbonization pathway. No published transition plan exists per NZT. Dollar amounts for clean energy capex are mentioned ($300M solar/storage in 2026 budget) but not linked to emissions reduction targets. Offset treatment is not discussed.",
+      "evidence_quote": "We announced plans to repower the Coleto Creek and Miami Fort coal generation facilities as natural gas-fueled facilities upon their retirement no later than 2027 and the middle of 2028, respectively."
+    },
+    "verification_governance": {
+      "score": 5,
+      "reasoning": "Elements present: (c) SBTi external target validation confirmed ('Target set', 1.5\u00b0C classification); (a) a 'Sustainability and Risk Committee of the Board' exists with oversight responsibilities. Annual reporting mechanism is confirmed per NZT. However, the 10-K corpus does not evidence third-party GHG emissions assurance (element b) or executive compensation linked to climate targets (element d). No scenario analysis or offset/credit policy is disclosed in the corpus. Two elements confirmed plus annual reporting, but not three elements with annual progress reporting.",
+      "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting ... Target row: action=Commitment, status=Target set ... classification=1.5\u00b0C"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent_name": "CMS ENERGY CORP",
+  "overall_assessment": "CMS Energy has a net-zero target for 2050 covering all scopes, with interim targets and some mechanisms outlined, but lacks detailed governance and verification structures.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "The company has a net-zero target for 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+      "evidence_quote": "Net zero greenhouse gas emissions target for our entire business by 2050"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company provides a long-term target year and an interim target with a specific percentage reduction.",
+      "evidence_quote": "Interim goal to help our customers reduce Scope 3 emissions by 20 percent from 2020 levels by 2030."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+      "evidence_quote": "Interim year: 2030.0"
+    },
+    "mechanism_clarity": {
+      "score": 6,
+      "reasoning": "Multiple mechanisms are mentioned, such as energy waste reduction and renewable natural gas, but without detailed capex or timelines.",
+      "evidence_quote": "Our Scope 3 emissions reduction plan includes energy waste reduction, renewable natural gas, carbon offsets and emerging decarbonization technologies."
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is no specified governance structure or third-party verification mentioned.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

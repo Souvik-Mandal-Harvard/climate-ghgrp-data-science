@@ -1,0 +1,39 @@
+{
+  "parent_name": "AMEREN CORP",
+  "overall_assessment": "Ameren has a moderately well-articulated net-zero-by-2045 pledge with two interim milestones (60% by 2030, 85% by 2040) anchored to a 2005 baseline and framed as Paris/1.5\u00b0C-aligned, covering Scope 1 and 2 with only partial Scope 3; however, the 10-K corpus provides virtually no climate-commitment detail, mechanism specifics are thin, and SBTi validation is not confirmed in the available disclosure.",
+  "supplemental_indicators": {
+    "sbti_status": "unknown"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 7,
+      "reasoning": "Net-zero by 2045 with explicit 1.5\u00b0C/Paris alignment, covering Scope 1 and Scope 2 plus partial Scope 3. Falls short of a 10 because Scope 3 is only partial and SBTi validation is not confirmed in the corpus. Scores above 6 because the 1.5\u00b0C framing and dual-scope coverage are explicit.",
+      "evidence_quote": "Ameren's companywide goal of net-zero carbon emissions by 2045 are science based and consistent with the objectives of the Paris Agreement and limiting global temperature rise to 1.5 degrees Celsius. This goal encompasses both Scope 1 and Scope 2 emissions, including other greenhouse gas emissions of methane, nitrous oxide and sulfur hexafluoride."
+    },
+    "specificity": {
+      "score": 7,
+      "reasoning": "Three precise quantified targets are stated: 60% reduction by 2030, 85% reduction by 2040, and net-zero by 2045, all against a 2005 baseline. This constitutes multiple precise targets with a defined base year. Stops short of 10 because no annual or quinquennial sub-milestones with tracking metrics are described in the corpus.",
+      "evidence_quote": "Ameren is targeting net-zero carbon emissions by 2045, as well as a 60% reduction by 2030 and an 85% reduction by 2040 based on 2005 levels."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "Long-term target (2045 net-zero) plus two interim targets at distinct horizons (2030 and 2040), providing a multi-step structure. Does not reach 10 because no explicit annual or quinquennial milestone tracking schedule is described in the available corpus.",
+      "evidence_quote": "Interim targets include reducing carbon emissions 60% by 2030 and 85% carbon emissions reduction by 2040, in each case based on 2005 levels."
+    },
+    "mechanism_clarity": {
+      "score": 3,
+      "reasoning": "The NZT entry notes a published transition plan and annual reporting, but the corpus provides no description of specific mechanisms, named projects, capital expenditure figures, or offset treatment. The 10-K excerpts are entirely silent on decarbonization pathways. A score above 2 is warranted only because a transition plan is referenced as existing.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 5,
+      "reasoning": "The NZT entry confirms accountability/governance structures exist and annual reporting is in place (2 elements). A sustainability report is referenced as the source, suggesting third-party or structured reporting. However, the corpus does not confirm board committee specifics, third-party emissions assurance, SBTi validation, or exec compensation linkage. Two confirmed elements plus annual reporting yields a score between 4 and 6.",
+      "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent_name": "AMERICAN ELECTRIC POWER CO INC",
+  "overall_assessment": "AEP has set a net-zero target for Scope 1 and 2 emissions by 2045 with an 80% reduction by 2030. However, the plan lacks clarity on Scope 3 emissions and detailed governance structures.",
+  "supplemental_indicators": {
+    "sbti_status": "unknown"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "AEP has committed to net-zero Scope 1 and 2 emissions by 2045, with an 80% reduction by 2030.",
+      "evidence_quote": "While we aspire to be at net-zero Scope 1 and 2 emissions by 2045... Scope 1 GHG emissions will be reduced by 80% by 2030 (from a 2005 baseline)."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "AEP provides a base year and a single interim target with a specific percentage reduction.",
+      "evidence_quote": "Baseline year: 2024.0... Interim year: 2030.0... Interim % reduction: 80.0"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "AEP has a long-term target for 2045 and an interim target for 2030.",
+      "evidence_quote": "Target year: 2045.0... Interim year: 2030.0"
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "AEP mentions retiring or converting coal generation but lacks detailed mechanisms or quantified financial commitments.",
+      "evidence_quote": "We currently plan to retire or convert approximately 4,100 MW of additional coal generation by the end of 2028."
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is no specific mention of governance structures or third-party verification.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

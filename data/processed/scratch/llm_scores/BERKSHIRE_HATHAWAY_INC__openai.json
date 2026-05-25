@@ -1,0 +1,40 @@
+{
+  "parent_name": "BERKSHIRE HATHAWAY INC",
+  "overall_assessment": "Berkshire Hathaway Inc lacks a clear climate-emissions pledge, with no specific targets or mechanisms disclosed. The company does not appear to have a structured approach to climate governance or verification.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_nzt_entry",
+    "no_sbti_entry"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "There is no commitment to any climate-emissions target or net-zero goal.",
+      "evidence_quote": "End target: No target"
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No specific years or reduction percentages are defined.",
+      "evidence_quote": "Target year: nan, % reduction: nan"
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "There are no targets, interim or long-term, mentioned.",
+      "evidence_quote": "Interim target: No target"
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No mechanisms or transition plans are disclosed.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "There is no mention of governance structures or verification processes related to climate targets.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

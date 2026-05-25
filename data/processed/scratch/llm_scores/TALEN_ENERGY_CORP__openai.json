@@ -1,0 +1,38 @@
+{
+  "parent_name": "TALEN ENERGY CORP",
+  "overall_assessment": "Talen Energy Corp's disclosure lacks specific climate-emissions pledges or targets, focusing instead on regulatory compliance and operational details.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "There is no mention of any climate-emissions commitment or net-zero target.",
+      "evidence_quote": "No evidence of climate-emissions commitment found in the provided text."
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No specific targets or years related to emissions reductions are mentioned.",
+      "evidence_quote": "No evidence of specific emissions targets or timelines found in the provided text."
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "There are no emissions targets or time horizons discussed.",
+      "evidence_quote": "No evidence of emissions targets or time horizons found in the provided text."
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "There is no mention of mechanisms for achieving emissions reductions.",
+      "evidence_quote": "No evidence of mechanisms for emissions reductions found in the provided text."
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "There is no mention of governance structures or verification processes related to climate targets.",
+      "evidence_quote": "No evidence of governance or verification related to climate targets found in the provided text."
+    }
+  }
+}

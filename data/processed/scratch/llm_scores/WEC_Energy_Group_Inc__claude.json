@@ -1,0 +1,39 @@
+{
+  "parent_name": "WEC Energy Group Inc",
+  "overall_assessment": "WEC Energy Group has a stated carbon neutrality goal for electric generation by 2050 with an 80% reduction interim target by 2030 (vs. 2005 baseline), but the pledge covers only Scope 1 electric generation, lacks SBTi validation, and the 10-K corpus provided contains virtually no climate-commitment disclosure, limiting confidence in several dimensions.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "low",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "The company commits to 'carbon neutrality from electric generation by 2050' with a Paris alignment claim, but coverage is explicitly Scope 1 only (electric generation), Scope 2 is not specified, and Scope 3 is excluded. No SBTi validation. The Paris alignment claim is asserted but not independently validated, and the target is limited to one segment of operations.",
+      "evidence_quote": "Our long-term goal is to achieve carbon neutrality from electric generation by 2050, in alignment with the Paris climate agreement"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "Both a baseline year (2005) and target years (2025 and 2030) are provided with explicit percentage reductions (60% by 2025, 80% by 2030), and a 2050 carbon neutrality end goal. However, no absolute tonnage figures are given, no Scope 2 or 3 baselines are defined, and the 2050 target lacks a percentage reduction figure.",
+      "evidence_quote": "60% below 2005 levels by the end of 2025 80% below 2005 levels by the end of 2030"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term 2050 target plus two interim milestones (2025 and 2030), which satisfies the 'long-term + 1 interim 5-15yr' threshold and edges toward multiple interim targets. However, there are no explicit annual or quinquennial milestones beyond these two data points, and no tracking cadence is described in the corpus.",
+      "evidence_quote": "60% below 2005 levels by the end of 2025 80% below 2005 levels by the end of 2030 \u2026 carbon neutrality from electric generation by 2050"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker entry notes a published transition plan exists, but the disclosure corpus contains no description of specific mechanisms, capital expenditure commitments, named projects, or offset treatment. The 10-K excerpts provided are dominated by accounting and financial disclosures with no climate transition pathway detail.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "Annual reporting is noted as the reporting mechanism, but no board committee for climate, third-party emissions assurance, SBTi or other external target validation, or executive compensation linkage to climate targets is evidenced in the corpus. Accountability/governance is explicitly listed as 'Not Specified' in the NZT entry.",
+      "evidence_quote": "Reporting mechanism: Annual reporting \u2026 Accountability/governance: Not Specified"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "parent_name": "UNS ENERGY CORP",
+  "overall_assessment": "The disclosure corpus contains no climate emissions pledge, net-zero commitment, or any quantified emissions reduction target; all climate-related text is limited to risk-factor boilerplate describing physical and transition risks to the business, with zero forward-looking decarbonization commitments.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_nzt_entry",
+    "no_sbti_entry"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "No emissions reduction commitment, net-zero pledge, or climate target of any kind appears in the corpus. Climate is discussed exclusively as an external risk to the company, not as a domain in which the company has made any pledge.",
+      "evidence_quote": "The physical effects of climate change could disrupt our production and cause us to incur significant costs in preparing for or responding to those effects."
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No base year, target year, percentage reduction, or any measurable emissions milestone is disclosed anywhere in the corpus.",
+      "evidence_quote": "No relevant quote available \u2014 no targets disclosed."
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "No near-term, interim, or long-term emissions targets are present. The corpus contains only risk disclosures with no time-structured decarbonization roadmap.",
+      "evidence_quote": "No relevant quote available \u2014 no targets disclosed."
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No decarbonization mechanisms, capital expenditure plans, renewable energy investments, or offset strategies are described. The corpus does not address how the company would reduce emissions.",
+      "evidence_quote": "No relevant quote available \u2014 no mechanisms disclosed."
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "No board climate committee, third-party emissions assurance, SBTi or other external target validation, executive compensation linkage to climate, or scenario analysis is mentioned in the corpus.",
+      "evidence_quote": "Increasing attention to ESG matters, including those related to climate change and sustainability...may result in increased costs, reduced profits, increased investigations and litigation."
+    }
+  }
+}

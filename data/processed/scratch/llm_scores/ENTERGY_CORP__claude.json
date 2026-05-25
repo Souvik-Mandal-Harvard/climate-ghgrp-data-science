@@ -1,0 +1,39 @@
+{
+  "parent_name": "ENTERGY CORP",
+  "overall_assessment": "Entergy has a net-zero 2050 pledge with a 2030 interim carbon intensity target and some governance structures, but the commitment lacks SBTi validation, explicit Scope 2/3 quantification, detailed mechanism clarity, and robust verification elements, resulting in a mid-range overall profile.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_10k_text"
+  ],
+  "confidence": "low",
+  "criteria": {
+    "ambition": {
+      "score": 5,
+      "reasoning": "Entergy commits to net-zero by 2050 and covers Scopes 1, 2, and 3 per NZT, but the 2030 target is framed as a CO2 emission-rate reduction (intensity, not absolute) and is described as a 'goal' based on 'current planning,' which is hedged. No 1.5\u00b0C alignment is stated, no SBTi validation is present, and the Scope 2/3 coverage is asserted by NZT without substantive detail in the corpus. This places it above a vague aspiration but below a fully specified 1.5\u00b0C-aligned commitment.",
+      "evidence_quote": "Our carbon dioxide reduction goal is 50% reduction in utility emission rate by 2030 compared with 2000 levels and net-zero emissions by 2050"
+    },
+    "specificity": {
+      "score": 5,
+      "reasoning": "Two target years are provided (2030 and 2050) with a quantified interim metric (50% rate reduction vs. 2000 baseline) and a long-term net-zero end goal. However, the interim target is intensity-based rather than absolute, the baseline year for the net-zero target is not explicitly stated in the corpus, and there are no additional interim milestones or measurable sub-targets beyond these two data points. This warrants a score between 'both years + value, single target' (6) and 'both years but hedged' (4); the hedging language ('based on current planning,' 'expected to be') pulls it down.",
+      "evidence_quote": "Based on current planning, by 2030 our absolute emissions from oxides of nitrogen and sulfur dioxide are expected to be 90% below 2000 levels, and mercury emissions are expected to be near zero. Our carbon dioxide reduction goal is 50% reduction in utility emission rate by 2030 compared with 2000 levels and net-zero emissions by 2050"
+    },
+    "time_horizon": {
+      "score": 5,
+      "reasoning": "There is a long-term target (net-zero 2050) and one interim target (2030), which satisfies the 'long-term + 1 interim 5-15yr' threshold. However, there are no additional interim milestones between 2030 and 2050, no annual or quinquennial tracking milestones, and no near-term (<5 year) targets disclosed in the corpus. This places it at the lower end of the 6-band but the hedged language prevents a full 6.",
+      "evidence_quote": "net-zero emissions by 2050 ... carbon dioxide reduction goal is 50% reduction in utility emission rate by 2030 compared with 2000 levels"
+    },
+    "mechanism_clarity": {
+      "score": 3,
+      "reasoning": "The 10-K mentions carbon capture and storage, generation investments, and infrastructure projects in passing within risk-factor language, but no quantified capex, named projects, or explicit decarbonization mechanisms are disclosed in the corpus. The NZT entry notes a published transition plan exists, but no content from that plan is included. The corpus provides only vague references to how emissions reductions will be achieved.",
+      "evidence_quote": "efforts to execute on and/or obtain regulatory approvals for generation, transmission, carbon capture and storage, or other facilities"
+    },
+    "verification_governance": {
+      "score": 5,
+      "reasoning": "NZT records accountability/governance as 'Yes' and annual reporting as the reporting mechanism, suggesting at least board-level awareness and annual progress disclosure (2 elements). The 10-K references climate and environmental matters in risk factors, implying board/executive awareness. However, the corpus contains no evidence of third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate metrics. With two elements (governance structure + annual reporting) and no scenario analysis or offset policy disclosed, a score of 5 is appropriate.",
+      "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting"
+    }
+  }
+}

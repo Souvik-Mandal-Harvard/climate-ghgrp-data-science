@@ -1,0 +1,39 @@
+{
+  "parent_name": "ALLIANT ENERGY CORP",
+  "overall_assessment": "Alliant Energy has set a net-zero target for 2050 with interim goals, but lacks comprehensive details on mechanisms and verification structures.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "The company has a net-zero target for 2050 covering Scope 1 and 2 emissions, with a 50% reduction by 2030.",
+      "evidence_quote": "Aspire to achieve net-zero greenhouse gas emissions from our utility operations. Interim goals include the reduction of carbon dioxide (CO2) emissions by 50% from 2005 levels by 2030."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company provides a long-term target year and an interim target with a specific percentage reduction.",
+      "evidence_quote": "Target year: 2050. Interim year: 2030. Interim % reduction: 50% from 2005 levels."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no additional interim targets or milestones.",
+      "evidence_quote": "End target: Net zero by 2050. Interim target: 50% reduction by 2030."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or quantified financial commitments.",
+      "evidence_quote": "Published transition plan: Yes."
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "There is some accountability and governance mentioned, but no evidence of third-party verification or SBTi validation.",
+      "evidence_quote": "Accountability/governance: Yes."
+    }
+  }
+}

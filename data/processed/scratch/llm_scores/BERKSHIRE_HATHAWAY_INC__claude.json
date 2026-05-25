@@ -1,0 +1,39 @@
+{
+  "parent_name": "BERKSHIRE HATHAWAY INC",
+  "overall_assessment": "Berkshire Hathaway's public disclosure corpus contains no climate emissions pledge, no net-zero or reduction target, and no transition plan; the Net Zero Tracker explicitly records 'No target' across all dimensions, leaving virtually every scoring pillar at zero or null.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_sbti_entry",
+    "sparse_disclosure"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "No emissions reduction commitment of any kind is present in the 10-K excerpts or the Net Zero Tracker entry. The NZT explicitly records 'End target: No target' and 'Race to Zero member: No'.",
+      "evidence_quote": "End target: No target | Target year: nan | % reduction: nan | Baseline year: nan | Status: nan"
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No base year, target year, percentage reduction, or measurable milestone is disclosed anywhere in the corpus. All NZT fields are 'nan'.",
+      "evidence_quote": "Interim target: No target | Interim year: nan | Interim % reduction: nan | Interim description: nan"
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "No near-term, interim, or long-term climate targets are defined. The corpus contains only operational and financial disclosures with no time-structured emissions pathway.",
+      "evidence_quote": "End target: No target | Interim target: No target"
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No decarbonisation mechanisms, capital expenditure commitments for emissions reduction, or offset policies are described in the context of a climate pledge. References to wind generation and renewable energy are purely financial/operational in nature and not tied to any stated emissions target.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": null,
+      "reasoning": "The corpus provides no information on board climate committee structure, third-party emissions assurance, SBTi validation, or executive compensation linkage to climate metrics. The NZT records 'Accountability/governance: Not Specified', making a score of 0 vs. null indeterminate; null is assigned because governance structures may exist but are simply absent from this disclosure corpus.",
+      "evidence_quote": "Accountability/governance: Not Specified | Scopes covered: 1=Not Specified, 2=Not Specified, 3=Not Specified"
+    }
+  }
+}

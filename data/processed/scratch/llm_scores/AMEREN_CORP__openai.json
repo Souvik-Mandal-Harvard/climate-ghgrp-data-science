@@ -1,0 +1,39 @@
+{
+  "parent_name": "AMEREN CORP",
+  "overall_assessment": "Ameren Corp has a clear net-zero target for 2045 covering Scope 1 and 2 emissions, with interim targets for 2030 and 2040. However, the disclosure lacks detailed mechanisms and verification elements.",
+  "supplemental_indicators": {
+    "sbti_status": "unknown"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "Ameren has set a net-zero target for 2045 covering Scope 1 and 2 emissions, aligned with 1.5\u00b0C.",
+      "evidence_quote": "Ameren\u2019s companywide goal of net-zero carbon emissions by 2045 are science based and consistent with the objectives of the Paris Agreement and limiting global temperature rise to 1.5 degrees Celsius."
+    },
+    "specificity": {
+      "score": 10,
+      "reasoning": "The company has defined a base year (2005) and multiple interim targets with explicit years and percentages.",
+      "evidence_quote": "Ameren is targeting net-zero carbon emissions by 2045, as well as a 60% reduction by 2030 and an 85% reduction by 2040 based on 2005 levels."
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "Ameren has a long-term target for 2045 and multiple interim targets for 2030 and 2040.",
+      "evidence_quote": "Interim targets include reducing carbon emissions 60% by 2030 and 85% carbon emissions reduction by 2040, in each case based on 2005 levels."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or quantified offset limits.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "The company has accountability/governance and annual reporting but lacks third-party assurance and SBTi validation.",
+      "evidence_quote": "Accountability/governance: Yes; Reporting mechanism: Annual reporting"
+    }
+  }
+}

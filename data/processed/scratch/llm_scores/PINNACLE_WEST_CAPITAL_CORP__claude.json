@@ -1,0 +1,39 @@
+{
+  "parent_name": "PINNACLE WEST CAPITAL CORP",
+  "overall_assessment": "The disclosure corpus contains no climate emissions pledge, net-zero commitment, or interim reduction targets; the Net Zero Tracker entry explicitly records 'No target' across all scopes, and the 10-K excerpts address climate only as a regulatory/financial risk rather than as a commitment. This represents one of the weakest possible disclosure profiles.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_sbti_entry",
+    "sparse_disclosure"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "No emissions reduction commitment of any kind is present in the corpus. The Net Zero Tracker explicitly records 'End target: No target' and 'Scopes covered: 1=No, 2=No, 3=No'. The 10-K discusses climate regulation only as an external risk factor.",
+      "evidence_quote": "End target: No target | Target year: nan | % reduction: nan | Baseline year: nan | Status: nan"
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No base year, target year, percentage reduction, or measurable milestone is defined anywhere in the corpus. The Net Zero Tracker confirms the absence of any quantified target.",
+      "evidence_quote": "End target: No target | Interim target: No target | Interim year: nan | Interim % reduction: nan"
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "Neither a long-term nor a near-term emissions target exists. The Net Zero Tracker records no interim or end targets, and the 10-K contains no time-bound climate commitments.",
+      "evidence_quote": "End target: No target | Interim target: No target"
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "No transition plan, decarbonisation mechanism, capital expenditure commitment, or offset policy is disclosed. The Net Zero Tracker explicitly states 'Published transition plan: No'.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "No board climate committee, third-party emissions assurance, external target validation, or executive compensation linkage to climate is evidenced in the corpus. The Net Zero Tracker records 'Accountability/governance: No' and 'Reporting mechanism: No reporting mechanism'.",
+      "evidence_quote": "Reporting mechanism: No reporting mechanism | Accountability/governance: No | Race to Zero member: No"
+    }
+  }
+}

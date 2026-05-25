@@ -1,0 +1,39 @@
+{
+  "parent_name": "AES CORP",
+  "overall_assessment": "AES has articulated a multi-horizon climate commitment (2030 carbon-intensity alignment, 2040 net-zero Scope 1+2, 2050 net-zero including Scope 3) that demonstrates meaningful ambition, but the targets lack quantified percentage reductions, a defined baseline year, and SBTi validation, and the 10-K corpus provides virtually no climate-commitment detail, limiting confidence in mechanism clarity and governance depth.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_sbti_entry"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "AES commits to net-zero across Scope 1, 2, and partial Scope 3 by 2050, with a 2030 well-below-2\u00b0C carbon-intensity milestone and a 2040 Scope 1+2 net-zero interim target. However, no specific percentage reduction is stated, no baseline year is defined, and the targets are conditioned on 'new policies that facilitate transition to low emissions energy systems, such as a price on carbon,' which materially hedges the commitment. No SBTi validation is present. This places it above a simple net-zero-with-year pledge but below a fully unconditional, SBTi-validated 1.5\u00b0C-aligned target.",
+      "evidence_quote": "2050: Net zero carbon emissions for entire business portfolio... Includes scope 1 and 2 emissions for 2040 and Scope 3 for 2050. Actions assume new policies that facilitate transition to low emissions energy systems, such as a price on carbon."
+    },
+    "specificity": {
+      "score": 4,
+      "reasoning": "Three target years are identified (2030, 2040, 2050) with qualitative descriptions, but no percentage reduction figures are provided and no baseline year is disclosed. The interim description for 2030 is framed as a carbon-intensity alignment rather than a measurable absolute reduction, and the NZT entry explicitly records '% reduction: nan' and 'Baseline year: nan.' This hedged, non-quantified structure limits specificity to the lower-middle range.",
+      "evidence_quote": "2030: generation portfolio carbon intensity in line with a well below 2C scenario. 2040: net zero carbon emissions from electricity sales... 2050: Net zero carbon emissions for entire business portfolio."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "AES provides a long-term target (2050 net-zero), a medium-term interim target (2040 Scope 1+2 net-zero), and a nearer-term milestone (2030 carbon-intensity alignment with well-below-2\u00b0C). This constitutes a long-term target plus two interim points, satisfying the criteria for a score of 6-8. However, no annual or quinquennial milestones with explicit tracking are disclosed in the corpus, preventing a higher score.",
+      "evidence_quote": "2030: generation portfolio carbon intensity in line with a well below 2C scenario. 2040: net zero carbon emissions from electricity sales... 2050: Net zero carbon emissions for entire business portfolio."
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker notes a published transition plan exists and annual reporting is in place, but the disclosure corpus contains no detail on specific decarbonization mechanisms, named projects, capital expenditure commitments, or offset treatment linked to the climate targets. The 10-K excerpts reference renewable energy growth strategy and battery storage but do not connect these to quantified emissions-reduction pathways. The transition plan is acknowledged but its content is not reproduced in the corpus.",
+      "evidence_quote": "AES' renewable energy generation growth strategy has depended in part on federal, state, and local government policies and incentives that support the development, financing, ownership, and operation of renewable energy generation projects."
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The Net Zero Tracker records 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' indicating at least one governance element and annual progress disclosure. However, the corpus contains no evidence of board committee oversight of climate, third-party emissions assurance, SBTi or other external target validation, or executive compensation linkage to climate metrics. Race to Zero membership is explicitly 'No.' With only one confirmed element (governance/accountability structure) and annual reporting, a score of 4 is appropriate.",
+      "evidence_quote": "Accountability/governance: Yes. Reporting mechanism: Annual reporting. Race to Zero member: No."
+    }
+  }
+}

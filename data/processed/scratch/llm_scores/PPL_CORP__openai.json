@@ -1,0 +1,39 @@
+{
+  "parent_name": "PPL CORP",
+  "overall_assessment": "PPL CORP has a net-zero target by 2050 covering all scopes, but lacks detailed interim targets and mechanisms. Governance and verification structures are not well-defined.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "PPL has a net-zero target by 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+      "evidence_quote": "Achieve net-zero carbon emissions by 2050... Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company has a long-term target year and an interim target year, but lacks multiple interim targets and specific reduction percentages.",
+      "evidence_quote": "Target year: 2050.0... Interim year: 2035.0"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "PPL has a long-term target and one interim target, but lacks multiple interim targets or annual milestones.",
+      "evidence_quote": "Interim description: 41% reduction in fleet emissions by 2035 (from 2021 baseline)"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "There is a published transition plan, but no detailed mechanisms or financial commitments are provided.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is no specific mention of governance structures or third-party verification.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

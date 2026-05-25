@@ -1,0 +1,38 @@
+{
+  "parent_name": "NRG ENERGY INC",
+  "overall_assessment": "NRG Energy has set ambitious climate targets with SBTi validation, but lacks detailed governance and mechanism clarity.",
+  "supplemental_indicators": {
+    "sbti_status": "targets_set"
+  },
+  "data_quality_flags": [
+    "no_10k_text"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "NRG Energy has committed to net-zero emissions by 2050 across Scopes 1, 2, and 3, with SBTi validation for 1.5\u00b0C alignment.",
+      "evidence_quote": "Our goals \u2014to reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050 \u2013 were certified by the Science Based Targets initiative as consistent with limiting global warming to 1.5 degrees Celsius."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company has defined a base year and two specific target years, but lacks multiple interim targets.",
+      "evidence_quote": "reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "NRG Energy has a long-term target for 2050 and an interim target for 2025, but no additional interim targets.",
+      "evidence_quote": "reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or quantified financial commitments.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The disclosure lacks specific governance structures or verification mechanisms beyond SBTi validation.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}

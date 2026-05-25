@@ -1,0 +1,39 @@
+{
+  "parent_name": "PINNACLE WEST CAPITAL CORP",
+  "overall_assessment": "Pinnacle West Capital Corp lacks any specific climate-emissions targets or commitments, and there is no evidence of a structured plan or governance for climate-related goals.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_nzt_entry"
+  ],
+  "confidence": "high",
+  "criteria": {
+    "ambition": {
+      "score": 0,
+      "reasoning": "There is no commitment to any climate-emissions targets or net-zero goals.",
+      "evidence_quote": "Entity: Pinnacle West Capital; End target: No target; Scopes covered: 1=No, 2=No, 3=No"
+    },
+    "specificity": {
+      "score": 0,
+      "reasoning": "No specific years or targets are defined for emissions reductions.",
+      "evidence_quote": "Interim target: No target; Interim year: nan"
+    },
+    "time_horizon": {
+      "score": 0,
+      "reasoning": "There are no targets set, either long-term or interim.",
+      "evidence_quote": "End target: No target; Interim target: No target"
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "There is no mention of mechanisms or pathways to achieve emissions reductions.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "There is no evidence of verification or governance structures related to climate targets.",
+      "evidence_quote": "Accountability/governance: No"
+    }
+  }
+}

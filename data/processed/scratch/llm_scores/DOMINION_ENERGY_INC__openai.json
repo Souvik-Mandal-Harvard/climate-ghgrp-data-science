@@ -1,0 +1,39 @@
+{
+  "parent_name": "DOMINION ENERGY INC",
+  "overall_assessment": "Dominion Energy has a net-zero target for 2050 covering Scope 1, 2, and partial Scope 3 emissions, but lacks detailed interim targets and a published transition plan.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_10k_text"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "The company has a net-zero target for 2050 covering Scope 1, 2, and partial Scope 3 emissions.",
+      "evidence_quote": "Our Net Zero commitment includes carbon and methane emissions within our direct control (known as Scope 1 emissions), as well as Scope 2 and material categories of Scope 3 emissions."
+    },
+    "specificity": {
+      "score": 2,
+      "reasoning": "The target year is specified as 2050, but there is no baseline year or interim targets with specific values.",
+      "evidence_quote": "Target year: 2050.0; Baseline year: nan; Interim target: nan"
+    },
+    "time_horizon": {
+      "score": 2,
+      "reasoning": "Only a long-term target for 2050 is provided without any interim targets.",
+      "evidence_quote": "End target: Net zero; Target year: 2050.0; Interim target: nan"
+    },
+    "mechanism_clarity": {
+      "score": 0,
+      "reasoning": "There is no published transition plan or detailed mechanisms for achieving the targets.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 0,
+      "reasoning": "There is no mention of governance structures or third-party verification.",
+      "evidence_quote": "Accountability/governance: No"
+    }
+  }
+}

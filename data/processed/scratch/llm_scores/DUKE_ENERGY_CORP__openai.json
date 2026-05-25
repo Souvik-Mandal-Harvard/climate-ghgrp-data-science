@@ -1,0 +1,38 @@
+{
+  "parent_name": "DUKE ENERGY CORP",
+  "overall_assessment": "Duke Energy has set a net-zero target for 2050 covering all scopes, with a 50% reduction by 2030. However, the disclosure lacks detailed interim targets and mechanisms.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "Duke Energy has committed to a net-zero target by 2050 covering all scopes, which aligns with 1.5\u00b0C targets.",
+      "evidence_quote": "'net-zero 2050 carbon emissions goal for electricity generation'...Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company provides a long-term target year and an interim target year with a specific reduction percentage, but lacks multiple interim targets.",
+      "evidence_quote": "Interim target: Emissions reduction target...Interim year: 2030.0...Interim % reduction: 50.0"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "Duke Energy has a long-term target for 2050 and an interim target for 2030, but no additional interim targets or milestones.",
+      "evidence_quote": "Target year: 2050.0...Interim year: 2030.0"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or specific projects and investments.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The company has some governance structures in place but lacks third-party validation or detailed verification processes.",
+      "evidence_quote": "Accountability/governance: Yes"
+    }
+  }
+}

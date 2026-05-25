@@ -1,0 +1,39 @@
+{
+  "parent_name": "PPL CORP",
+  "overall_assessment": "PPL Corp has a net-zero 2050 commitment covering Scopes 1, 2, and 3 with one interim target (41% fleet emissions reduction by 2035), but the disclosure corpus is sparse on mechanism detail, verification structures, and SBTi validation, limiting scores across most pillars.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_10k_text"
+  ],
+  "confidence": "low",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "PPL has a net-zero 2050 target covering Scopes 1, 2, and 3 per the Net Zero Tracker entry, which is a meaningful commitment. However, no SBTi validation is evidenced, no explicit 1.5\u00b0C alignment language is present in the corpus, and the percentage reduction figure for the overall target is listed as 'nan' (not specified). The interim target references 'fleet emissions' rather than total Scope 1+2+3, limiting ambition clarity. This places it above a simple net-zero-with-year pledge but below a fully validated 1.5\u00b0C-aligned commitment.",
+      "evidence_quote": "Achieve net-zero carbon emissions by 2050 | Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+    },
+    "specificity": {
+      "score": 4,
+      "reasoning": "A base year (2010 for the overall target; 2021 for the interim) and a target year (2050) are provided, along with one interim year (2035) and one quantified interim value (41% fleet emissions reduction). However, the overall percentage reduction is not specified ('nan'), the interim target is limited to 'fleet emissions' rather than total emissions, and no additional measurable milestones are disclosed in the corpus. This meets the threshold for 'both years + value, single target' but is hedged by the missing overall reduction percentage.",
+      "evidence_quote": "41% reduction in fleet emissions by 2035 (from 2021 baseline) | Baseline year: 2010.0 | Target year: 2050.0 | % reduction: nan"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target (net zero by 2050) and one interim target in the 5\u201315 year range (41% fleet emissions reduction by 2035). No additional interim milestones, near-term (<5 year) targets, or annual/quinquennial tracking milestones are evidenced in the corpus. This fits the '6' band: long-term + 1 interim 5\u201315 year.",
+      "evidence_quote": "End target: Net zero | Target year: 2050.0 | Interim year: 2035.0 | Interim % reduction: nan | Interim description: 41% reduction in fleet emissions by 2035 (from 2021 baseline)"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The 10-K excerpts provided contain no discussion of decarbonization mechanisms, capex allocations for clean energy, offset strategy, or transition pathways. The Net Zero Tracker notes a 'Published transition plan: Yes' and references annual reporting, but no content from that plan is included in the corpus. The Kentucky rate case discussions mention new generation assets (solar, battery storage, NGCC) but these are framed as regulatory/financial matters, not as explicit climate mechanisms with quantified emissions impact. Only vague pathway inference is possible.",
+      "evidence_quote": "Published transition plan: Yes | Reporting mechanism: Annual reporting"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and 'Race to Zero member: No.' No SBTi validation, no board committee for climate, no third-party emissions assurance, and no executive compensation linkage to climate targets are evidenced in the provided corpus. Annual reporting is noted, which suggests some progress tracking, but no structural governance elements are confirmed.",
+      "evidence_quote": "Accountability/governance: Not Specified | Race to Zero member: No | Reporting mechanism: Annual reporting"
+    }
+  }
+}

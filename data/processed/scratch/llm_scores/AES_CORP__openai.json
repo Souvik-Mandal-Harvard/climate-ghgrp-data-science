@@ -1,0 +1,39 @@
+{
+  "parent_name": "AES CORP",
+  "overall_assessment": "AES CORP has a net-zero target for 2050 covering all scopes, but lacks specific interim targets and detailed mechanisms. Governance and verification structures are partially in place.",
+  "supplemental_indicators": {
+    "sbti_status": "unknown"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "AES has a net-zero target for 2050 covering Scope 1, 2, and 3 emissions, aligning with a well-below-2\u00b0C scenario.",
+      "evidence_quote": "\"2050: Net zero carbon emissions for entire business portfolio... Includes scope 1 and 2 emissions for 2040 and Scope 3 for 2050.\""
+    },
+    "specificity": {
+      "score": 4,
+      "reasoning": "The target year is specified as 2050, but there is no baseline year or specific percentage reduction mentioned.",
+      "evidence_quote": "\"Target year: 2050.0... Baseline year: nan\""
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+      "evidence_quote": "\"2030: generation portfolio carbon intensity in line with a well below 2C scenario.\""
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The disclosure mentions assumptions about new policies but lacks detailed mechanisms or specific projects.",
+      "evidence_quote": "\"Actions assume new policies that facilitate transition to low emissions energy systems, such as a price on carbon.\""
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "There is some governance and accountability mentioned, but not all elements are covered.",
+      "evidence_quote": "\"Accountability/governance: Yes\""
+    }
+  }
+}

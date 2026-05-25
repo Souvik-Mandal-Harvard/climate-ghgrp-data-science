@@ -1,0 +1,40 @@
+{
+  "parent_name": "NRG ENERGY INC",
+  "overall_assessment": "NRG Energy has SBTi-validated targets (50% by 2025, net zero by 2050, 1.5\u00b0C-aligned, Scopes 1+2+3 with partial Scope 3) and is a Race to Zero member, but the SBTi commitment status shows 'Removed' alongside 'Target set', raising currency concerns; the 10-K excerpts provided are empty, limiting verification of mechanism clarity and governance disclosures.",
+  "supplemental_indicators": {
+    "sbti_status": "targets_set"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure",
+    "conflicting_information"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "The corpus confirms 1.5\u00b0C-aligned targets covering Scopes 1, 2, and partial Scope 3, with SBTi classification noted. However, Scope 3 coverage is only partial (business travel), and one SBTi commitment row shows 'Removed' status, preventing a full 10-score. The net-zero 2050 goal with 1.5\u00b0C alignment and SBTi validation warrants a high score, but partial Scope 3 and the removal flag cap it at 8.",
+      "evidence_quote": "Our goals \u2014to reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050 \u2013 were certified by the Science Based Targets initiative as consistent with limiting global warming to 1.5 degrees Celsius."
+    },
+    "specificity": {
+      "score": 7,
+      "reasoning": "Two precise targets are defined: 50% reduction by 2025 and 100% (net zero) by 2050, both from a 2014 base year, covering Scopes 1+2+3 (partial). This provides base year, two target years, and explicit percentage values. However, only two data points exist with no additional interim milestones between 2025 and 2050, preventing a score of 10. Scores an 8 on the rubric's 'multiple precise targets' criterion but the absence of milestones between 2025 and 2050 keeps it at 7.",
+      "evidence_quote": "NRG Energy commits to reduce absolute scope 1, 2 and scope 3 business travel GHG emissions 50% by 2025 and 100% by 2050 from a 2014 base year."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target (net zero 2050) and one near-term/interim target (50% by 2025). This satisfies 'long-term + 1 near-term' but there are no additional interim milestones between 2025 and 2050, and no annual or quinquennial tracking milestones disclosed in the corpus.",
+      "evidence_quote": "Our goals \u2014to reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050."
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker notes a published transition plan exists, but no content from that plan appears in the corpus. The 10-K excerpts are entirely blank. No specific mechanisms, capex figures, named projects, or offset treatment are described in the available text. Only a vague reference to 'advance on climate' is present.",
+      "evidence_quote": "We continued to advance on climate."
+    },
+    "verification_governance": {
+      "score": 5,
+      "reasoning": "SBTi validation is confirmed (1.5\u00b0C classification), and Race to Zero membership is noted, providing external target validation. Annual reporting is listed as the reporting mechanism. However, board committee structure, third-party emissions assurance, and executive compensation linkage are not specified in the corpus ('Accountability/governance: Not Specified'). The SBTi 'Removed' commitment flag also introduces uncertainty. Two elements (external validation + annual reporting) are confirmed, warranting a score near 6, but the 'Not Specified' governance and missing assurance details reduce it to 5.",
+      "evidence_quote": "certified by the Science Based Targets initiative as consistent with limiting global warming to 1.5 degrees Celsius... Reporting mechanism: Annual reporting... Accountability/governance: Not Specified"
+    }
+  }
+}

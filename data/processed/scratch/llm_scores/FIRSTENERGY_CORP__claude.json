@@ -1,0 +1,38 @@
+{
+  "parent_name": "FIRSTENERGY CORP",
+  "overall_assessment": "FirstEnergy has a Scope 1-only carbon neutrality pledge by 2050 with no interim targets (having removed its 2030 interim target), no SBTi validation, and limited mechanism detail; the disclosure reflects a modest and weakening climate commitment.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "FirstEnergy commits to carbon neutrality by 2050 but explicitly limits the pledge to Scope 1 emissions only, with no Scope 2 or 3 coverage, no 1.5\u00b0C alignment claim, and no SBTi validation. The 10-K confirms the pledge is conditioned on factors outside the company's control, further weakening ambition.",
+      "evidence_quote": "FirstEnergy has pledged to achieve carbon neutrality by 2050 with respect to GHGs within FirstEnergy's direct operational control (known as Scope 1 emissions)."
+    },
+    "specificity": {
+      "score": 2,
+      "reasoning": "The corpus provides a single end-year (2050) with no percentage reduction figure and no base year tied to a measurable target. The Net Zero Tracker notes baseline year as 2022 but no % reduction is specified. The previously stated 2030 interim target (30% from 2019 baseline) was removed in late 2023, leaving only a single vague long-term year.",
+      "evidence_quote": "End target: Carbon neutral(ity) | Target year: 2050.0 | % reduction: nan | Baseline year: 2022.0"
+    },
+    "time_horizon": {
+      "score": 2,
+      "reasoning": "Only a single long-term target (2050) remains. The interim 2030 target was deliberately removed, leaving no near-term or interim milestones. The Net Zero Tracker confirms 'Interim target: No target.'",
+      "evidence_quote": "After careful consideration and evaluation, in late 2023 we made the decision to remove our interim target to achieve a 30% reduction in GHG emissions by 2030 from a 2019 baseline since achieving it is not entirely within our control."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The 10-K identifies the coal-fired plants (Fort Martin end-of-life 2035, Harrison 2040) as the primary Scope 1 source and notes an integrated resource plan filed with WVPSC, but provides no capex figures, no named decarbonization projects beyond plant retirements, and no offset treatment policy. Two mechanisms (plant retirement timelines, IRP filing) are mentioned but unquantified in climate terms.",
+      "evidence_quote": "With respect to FirstEnergy's coal-fired facilities in West Virginia, which serve as the primary source of its Scope 1 emissions, it has identified that the end of the useful life date is 2035 for Fort Martin and 2040 for Harrison."
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' and the 10-K references board-level risk review. However, there is no evidence of third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate targets in the provided corpus. Only one or two governance elements are evidenced.",
+      "evidence_quote": "Accountability/governance: Yes | Reporting mechanism: Annual reporting | Race to Zero member: No"
+    }
+  }
+}

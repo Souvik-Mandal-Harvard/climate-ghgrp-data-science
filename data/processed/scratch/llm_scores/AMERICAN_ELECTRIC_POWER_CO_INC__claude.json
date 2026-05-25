@@ -1,0 +1,39 @@
+{
+  "parent_name": "AMERICAN ELECTRIC POWER CO INC",
+  "overall_assessment": "AEP has a moderately ambitious climate pledge\u2014net-zero Scope 1+2 by 2045 with an 80% reduction interim target by 2030\u2014but the commitment is explicitly conditioned on state regulatory alignment and technology availability, limiting its credibility; verification and governance disclosures in the corpus are sparse.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure",
+    "no_10k_text"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 5,
+      "reasoning": "AEP commits to net-zero Scope 1 and 2 by 2045 with an 80% interim reduction by 2030 from a 2005 baseline, which is more than a vague aspiration but falls short of a 1.5\u00b0C-aligned, SBTi-validated commitment. Scope 3 is explicitly not specified, and the target is heavily conditioned ('our performance will ultimately be driven by the needs and desires of the states we serve'), undermining its firmness. No SBTi validation is present. Scores between 4 and 6; the specific % and dual-scope coverage push it to 5, but the conditionality and absence of Scope 3 prevent a higher score.",
+      "evidence_quote": "While we aspire to be at net-zero Scope 1 and 2 emissions by 2045, our performance will ultimately be driven by the needs and desires of the states we serve. Additionally, further advancement of affordable new generation technologies and a market for offsets, as well as continued alignment with our states, would be required to achieve net zero."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "AEP provides a base year (2005), an interim target year (2030) with a specific percentage (80% reduction), and a long-term target year (2045) for net-zero. However, only a single interim target is stated, and the long-term target lacks a quantified percentage reduction figure. The baseline year listed in NZT is 2024, creating some ambiguity. This is more than a single-year target but does not rise to multiple precise interim milestones.",
+      "evidence_quote": "Based on the assumptions used in our most recent IRP analysis, we expect that our Scope 1 GHG emissions will be reduced by 80% by 2030 (from a 2005 baseline)."
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "AEP has a long-term target (net-zero by 2045) and one interim target in the 5\u201315 year range (80% by 2030). There is also a near-term operational milestone (retire or convert ~4,100 MW of coal by end of 2028). This gives a long-term target plus one interim plus one near-term operational milestone, but explicit annual or quinquennial tracking milestones are not described in the corpus.",
+      "evidence_quote": "Furthermore, we currently plan to retire or convert approximately 4,100 MW of additional coal generation by the end of 2028. Based on the assumptions used in our most recent IRP analysis, we expect that our Scope 1 GHG emissions will be reduced by 80% by 2030 (from a 2005 baseline)."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The corpus identifies coal retirement/conversion (~4,100 MW by 2028) as a concrete mechanism, and references IRP analysis as the analytical basis. However, no capital expenditure figures tied to decarbonization, no renewable build-out quantities, no offset policy, and no detailed transition plan elements are present in the provided text. The 10-K risk factors discuss capital investment broadly but not in the context of decarbonization pathways.",
+      "evidence_quote": "Furthermore, we currently plan to retire or convert approximately 4,100 MW of additional coal generation by the end of 2028."
+    },
+    "verification_governance": {
+      "score": 3,
+      "reasoning": "The NZT entry notes 'Annual reporting' as a reporting mechanism and 'Published transition plan: Yes,' but 'Accountability/governance: Not Specified.' The corpus contains no mention of a board climate committee, third-party emissions assurance, SBTi validation, or executive compensation linked to climate targets. Race to Zero membership is listed as No. Only annual reporting and a published transition plan are evidenced, which is roughly one element.",
+      "evidence_quote": "Reporting mechanism: Annual reporting; Accountability/governance: Not Specified; Race to Zero member: No"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent_name": "NEXTERA ENERGY INC",
+  "overall_assessment": "NextEra Energy has a comprehensive climate-emissions pledge with specific targets and a clear timeline, but lacks full Scope 3 coverage and SBTi validation.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 8,
+      "reasoning": "The company commits to zero carbon emissions by 2045, covering Scope 1 and 2, with partial Scope 3 coverage.",
+      "evidence_quote": "In 2022, NextEra Energy announced its industry-leading goal to be carbon-emissions free by no later than 2045, with zero scope 1 direct emissions from owned assets and zero scope 2 indirect emissions from owned or leased operations."
+    },
+    "specificity": {
+      "score": 10,
+      "reasoning": "Multiple interim targets with explicit years and measurable milestones are provided.",
+      "evidence_quote": "We have set clear interim emissions-reduction targets, aiming for a 70% reduction in electric generation intensity by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+    },
+    "time_horizon": {
+      "score": 10,
+      "reasoning": "The company has a long-term target with multiple interim targets and explicit annual milestones.",
+      "evidence_quote": "Interim targets: 70% by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+    },
+    "mechanism_clarity": {
+      "score": 8,
+      "reasoning": "A published transition plan is mentioned, but specific projects, dates, and capex details are not provided.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 6,
+      "reasoning": "The company has accountability/governance and annual reporting but lacks SBTi validation and detailed governance structure.",
+      "evidence_quote": "Accountability/governance: Yes; Reporting mechanism: Annual reporting"
+    }
+  }
+}

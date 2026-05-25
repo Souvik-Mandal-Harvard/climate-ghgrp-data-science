@@ -1,0 +1,39 @@
+{
+  "parent_name": "DOMINION ENERGY INC",
+  "overall_assessment": "Dominion Energy has a net-zero-by-2050 commitment covering Scope 1, 2, and partial Scope 3, but the disclosure corpus lacks interim targets, a published transition plan, SBTi validation, and robust governance structures, resulting in a mid-range overall profile with significant gaps in specificity and mechanism clarity.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_sbti_entry",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "The company commits to net zero by 2050 covering Scope 1, 2, and material Scope 3 categories, which is meaningful breadth. However, there is no SBTi validation, no explicit 1.5\u00b0C alignment claim, and Scope 3 coverage is only partial. The 53% CO2 reduction from 2005 baseline is noted as an achieved milestone, not a forward target. This places it above a Scope-1-only commitment but below full 1.5\u00b0C-aligned, SBTi-validated status.",
+      "evidence_quote": "Our Net Zero commitment includes carbon and methane emissions within our direct control (known as Scope 1 emissions), as well as Scope 2 and material categories of Scope 3 emissions, including: electricity purchased to power the grid, fossil fuel purchased for our power stations and gas distribution systems, and consumption of gas sold to our end-use customers."
+    },
+    "specificity": {
+      "score": 4,
+      "reasoning": "The corpus provides a target year (2050) and a baseline year is implied (2005 referenced for the 53% reduction milestone), but no explicit percentage reduction target is stated for the net-zero commitment itself (NZT shows '% reduction: nan'). There is only one long-term target with no interim percentage targets defined. The 53% figure is a historical achievement, not a forward-looking quantified milestone.",
+      "evidence_quote": "The Company has reduced 53% of its CO2 emission in 2023 from the baseline year of 2005."
+    },
+    "time_horizon": {
+      "score": 2,
+      "reasoning": "Only a single long-term target year (2050) is disclosed. The Net Zero Tracker explicitly shows 'Interim target: nan' and 'Interim year: nan', confirming no interim targets are publicly committed. The 53% reduction is a historical data point, not a structured interim milestone.",
+      "evidence_quote": "End target: Net zero | Target year: 2050.0 ... Interim target: nan | Interim year: nan | Interim % reduction: nan"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "The 10-K excerpts reference offshore wind, solar, and renewable natural gas operations, and the NZT notes 'No' for a published transition plan. No capex figures, named projects tied to the net-zero pathway, offset treatment policies, or quantified mechanism contributions are provided in the disclosure corpus for the climate commitment itself.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "The Net Zero Tracker records 'Accountability/governance: No' and 'Race to Zero member: No'. The 10-K mentions SEC climate disclosure guidance but only in the context of accounting treatment, not governance structures. No board committee for climate, third-party emissions assurance, SBTi validation, or exec compensation linkage is evidenced in the corpus.",
+      "evidence_quote": "Accountability/governance: No | Race to Zero member: No | Reporting mechanism: Annual reporting"
+    }
+  }
+}

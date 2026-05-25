@@ -1,0 +1,38 @@
+{
+  "parent_name": "THE SOUTHERN CO",
+  "overall_assessment": "Southern Company has a net-zero-by-2050 goal with a 50% interim reduction target by 2030 (vs. 2007 baseline), but coverage is limited to Scope 1 only, no SBTi validation is present, and mechanism detail in the disclosed corpus is sparse.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 6,
+      "reasoning": "The company has a net-zero target with a specific year (2050) and a quantified interim reduction (50% by 2030 vs. 2007), which is more than a vague aspiration. However, coverage is explicitly Scope 1 only (Scope 2 and 3 are marked 'No' in NZT), there is no stated 1.5\u00b0C or well-below-2\u00b0C alignment, and no SBTi validation is present. This places it at the '6' band: specific % but limited to Scope 1.",
+      "evidence_quote": "GHG emissions reduction goal of net zero emissions by 2050 ... We also have an interim target to achieve 50% GHG emissions reduction by 2030 relative to 2007 levels."
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "There is a defined base year (2007), a long-term target year (2050), and a single interim target year (2030) with an explicit percentage (50%). This meets the '6' threshold of both years plus a value for a single target, but there are no multiple precise targets or additional milestones beyond these two data points.",
+      "evidence_quote": "Interim % reduction: 50.0 ... Interim year: 2030.0 ... Baseline year: 2007.0"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target (net zero by 2050) and one interim target in the 5\u201315 year range (50% by 2030). This fits the '6' band. There are no additional interim milestones, no annual or quinquennial tracking milestones disclosed in the corpus.",
+      "evidence_quote": "End target: Net zero, Target year: 2050.0 ... Interim year: 2030.0, Interim % reduction: 50.0"
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The NZT entry notes a published transition plan exists and annual reporting is in place, but the disclosed corpus text does not provide quantified mechanisms, named projects, capex figures, or offset treatment. The 10-K excerpts reference renewable energy investments and infrastructure capital expenditures in general terms but do not link them explicitly to emissions targets. This warrants a '4': 1\u20132 mechanisms referenced but unquantified.",
+      "evidence_quote": "Published transition plan: Yes ... Reporting mechanism: Annual reporting"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "The NZT entry confirms accountability/governance structures exist, and annual reporting is noted. However, the corpus does not evidence third-party emissions assurance, SBTi or other external target validation, or explicit executive compensation linkage to climate targets. Race to Zero membership is 'No'. Only one element (governance/accountability) is clearly evidenced, placing this at '4'.",
+      "evidence_quote": "Accountability/governance: Yes ... Race to Zero member: No"
+    }
+  }
+}

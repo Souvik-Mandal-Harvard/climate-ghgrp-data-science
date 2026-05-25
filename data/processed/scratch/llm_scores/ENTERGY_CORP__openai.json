@@ -1,0 +1,38 @@
+{
+  "parent_name": "ENTERGY CORP",
+  "overall_assessment": "Entergy Corp has a net-zero target by 2050 covering all scopes, with interim targets for 2030. However, the disclosure lacks detailed mechanisms and verification elements.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "Entergy has a net-zero target by 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+      "evidence_quote": "Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+    },
+    "specificity": {
+      "score": 6,
+      "reasoning": "The company has a long-term target year and an interim target year, but lacks multiple interim targets and detailed milestones.",
+      "evidence_quote": "Target year: 2050.0... Interim year: 2030.0"
+    },
+    "time_horizon": {
+      "score": 6,
+      "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+      "evidence_quote": "Interim description: GOAL: Based on current planning, by 2030 our absolute emissions from oxides of nitrogen and sulfur dioxide are expected to be 90% below 2000 levels..."
+    },
+    "mechanism_clarity": {
+      "score": 4,
+      "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms, capex, or specific projects.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "There is some governance and accountability mentioned, but no evidence of third-party verification or SBTi validation.",
+      "evidence_quote": "Accountability/governance: Yes"
+    }
+  }
+}

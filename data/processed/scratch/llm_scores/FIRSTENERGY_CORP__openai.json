@@ -1,0 +1,38 @@
+{
+  "parent_name": "FIRSTENERGY CORP",
+  "overall_assessment": "FirstEnergy Corp has a long-term carbon neutrality target for 2050 covering Scope 1 emissions, but lacks interim targets and detailed mechanisms for achieving this goal.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 4,
+      "reasoning": "The company has committed to carbon neutrality by 2050, but only for Scope 1 emissions.",
+      "evidence_quote": "FirstEnergy has pledged to achieve carbon neutrality by 2050 with respect to GHGs within FirstEnergy\u2019s direct operational control (known as Scope 1 emissions)."
+    },
+    "specificity": {
+      "score": 2,
+      "reasoning": "The company has defined a single target year (2050) without interim targets.",
+      "evidence_quote": "Target year: 2050.0... Interim target: No target"
+    },
+    "time_horizon": {
+      "score": 2,
+      "reasoning": "Only a single long-term target for 2050 is mentioned, with no interim targets.",
+      "evidence_quote": "Interim target: No target"
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "There is a mention of a transition plan but no detailed mechanisms or pathways are provided.",
+      "evidence_quote": "Published transition plan: Yes"
+    },
+    "verification_governance": {
+      "score": 4,
+      "reasoning": "There is some governance structure mentioned, but no third-party verification or external validation.",
+      "evidence_quote": "Accountability/governance: Yes"
+    }
+  }
+}

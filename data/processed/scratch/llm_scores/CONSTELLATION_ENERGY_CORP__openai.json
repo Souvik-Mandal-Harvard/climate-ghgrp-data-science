@@ -1,0 +1,39 @@
+{
+  "parent_name": "CONSTELLATION ENERGY CORP",
+  "overall_assessment": "Constellation Energy Corp has set a clear emissions reduction target with specific interim goals, but lacks detailed mechanisms and governance structures.",
+  "supplemental_indicators": {
+    "sbti_status": "not_present"
+  },
+  "data_quality_flags": [
+    "no_10k_text",
+    "sparse_disclosure"
+  ],
+  "confidence": "medium",
+  "criteria": {
+    "ambition": {
+      "score": 10,
+      "reasoning": "The company has committed to a 100% reduction in emissions by 2040, covering Scopes 1, 2, and 3, which aligns with a net-zero target.",
+      "evidence_quote": "\"reduce our operational emissions by 100 percent by 2040, compared to a 2020 baseline year...and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year.\""
+    },
+    "specificity": {
+      "score": 10,
+      "reasoning": "The company provides a baseline year (2020) and multiple interim targets with explicit years and percentages.",
+      "evidence_quote": "\"reduce our operational emissions by 100 percent by 2040, compared to a 2020 baseline year...and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year.\""
+    },
+    "time_horizon": {
+      "score": 8,
+      "reasoning": "The company has a long-term target for 2040 and an interim target for 2030, but lacks explicit annual or quinquennial milestones.",
+      "evidence_quote": "\"with an interim goal of 95 percent by 2030; reduce our operational emissions...with an interim goal of 65 percent reduction by 2030.\""
+    },
+    "mechanism_clarity": {
+      "score": 2,
+      "reasoning": "There is no published transition plan or detailed mechanisms on how the targets will be achieved.",
+      "evidence_quote": "Published transition plan: No"
+    },
+    "verification_governance": {
+      "score": 2,
+      "reasoning": "There is no mention of governance structures or third-party verification in the provided disclosures.",
+      "evidence_quote": "Accountability/governance: Not Specified"
+    }
+  }
+}
