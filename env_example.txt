@@ -1,0 +1,22 @@
+# =============================================================================
+# Environment template for the Corporate Climate Credibility Audit.
+# Enter the values to this file and save as `.env` . `.env` is gitignored.
+# =============================================================================
+
+# EPA Clean Air Markets Division (CAMD) API key.
+# Register (free, instant) at: https://www.epa.gov/airmarkets/cam-api-portal
+
+EPA_CAMD_API_KEY=
+
+# Polite User-Agent header for SEC EDGAR requests.
+# SEC requires identification; format: "Name email@domain.com".
+# Reference: https://www.sec.gov/os/accessing-edgar-data
+
+SEC_EDGAR_UA=Your Name your.email@example.com
+
+
+# LLM API keys
+
+ANTHROPIC_API_KEY = 
+
+OPENAI_API_KEY = 
