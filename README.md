@@ -9,7 +9,7 @@ This project builds a public-goods framework for the top 50 U.S. power-sector pa
 
 into a single, decomposable credibility score per parent company, surfaced through a self-contained interactive dashboard.
 
-All the data used in this project are publicly available, and can also be downloaded from the `data` folder of this repo.
+All the data used in this project are publicly available, and can also be downloaded from the `data` folder of this repo. However, all SEC_10 K raw data has not been uploaded to this repo due to size constraints.
 
 NOTE: This is a proof-of-concept project, not a production system. Though the project analyses only 50 U.S. power-sector parent companies, with further work, this framework can be extended to other companies as well.
 
@@ -38,6 +38,7 @@ pip install -r requirements.txt
 Copy `.env.example` to `.env` and fill in:
 - `EPA_CAMD_API_KEY` — free, instant: https://www.epa.gov/airmarkets/cam-api-portal
 - `SEC_EDGAR_UA` — required by SEC EDGAR, format `"Your Name your.email@example.com"`
+- For analyzing the corporate climate pledges (in Notebook 5), you need to get  OpenAI and Anthropic API keys.
 
 If you only want to **open the dashboard** (which ships all data inline), neither key is required.
 
