@@ -28,7 +28,7 @@ From starting to running the first notebook can be done within ≈ 5 minutes.
 
 ### 1 — Clone and install
 ```bash
-git clone <repo-url>
+git clone https://github.com/Souvik-Mandal-Harvard/climate-ghgrp-data-science
 cd climate-ghgrp-data-science
 python -m venv .venv && source .venv/bin/activate   # optional but recommended
 pip install -r requirements.txt
