@@ -9,7 +9,7 @@ This project builds a public-goods framework for the top 50 U.S. power-sector pa
 
 into a single, decomposable credibility score per parent company, surfaced through a self-contained interactive dashboard.
 
-All the data used in this project are publicly available, and can also be downloaded from the `data` folder of this repo. However, all SEC_10 K raw data has not been uploaded to this repo due to size constraints.
+All the data used in this project are publicly available, and can also be downloaded from the `data` folder of this repo. However, not all SEC_10 K raw data has been uploaded to this repo due to size constraints; please follow the `00_Data_Acquisition.ipynb` to obtain the full dataset.
 
 NOTE: This is a proof-of-concept project, not a production system. Though the project analyses only 50 U.S. power-sector parent companies, with further work, this framework can be extended to other companies as well.
 
