@@ -1,0 +1,152 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+Combined Notes to Consolidated Financial Statements
+
+Note 
+1
+. Nat
+ure of Operations
+Dominion Energy, headquartered in Richmond, Virginia, provides primarily regulated electricity service in Virginia, North Carolina and South Carolina through its subsidiaries, Virginia Power and DESC, and is one of the nation's leading developers and operators of regulated offshore wind and solar power and the largest producer of carbon-free electricity in New England. Dominion Energy also has nonregulated operations that include long-term contracted electric generation operations.
+
+In connection with the comprehensive business review concluded in March 2024, Dominion Energy sold all of its regulated gas distribution operations, except for DESC’s, to Enbridge through the East Ohio Transaction (completed in March 2024), the Questar Gas Transaction (completed in May 2024) and the PSNC Transaction (completed in September 2024). In addition in September 2023, Dominion Energy completed the sale of its remaining 
+50
+% noncontrolling partnership interest in Cove Point to BHE. As discussed in Notes 3 and 9, these operations as well as certain solar generation facility development operations are reflected as discontinued operations in Dominion Energy's Consolidated Financial Statements.
+
+associated hedging activity as well as sales to Virginia Power customers from non-jurisdictional solar generation facilities;
+
+•
+Regulated gas sales
+ consist primarily of state-regulated natural gas sales and related distribution services; 
+•
+Regulated gas transportation and storage sales 
+consists of sales of transportation services to off-system customers;
+•
+Other regulated revenue
+ consists primarily of miscellaneous service revenue from electric and gas distribution operations and sales of excess electric capacity and other commodities; and
+•
+Other nonregulated revenue
+ consists primarily of sales of other miscellaneous products
+, including renewable natural gas and related credits.
+ Other nonregulated revenue also includes revenue associated with services provided to entities presented in discontinued operations under transition services agreements.
+Other Revenue
+•
+Other revenue
+
+consists primarily of alternative revenue programs, gains and losses from derivative instruments not subject to hedge accounting and lease revenues.
+The primary types of sales and service activities reported as operating revenue for Virginia Power are as follows:
+
+Inventories
+Materials and supplies, fossil fuel and gas stored inventory is valued using the weighted-average cost method.
+In 2024, Dominion Energy wrote off certain inventory balances in connection with the electric base rate case in South Carolina as discussed in Note 13.
+
+Dominion Energy evaluates goodwill for impairment annually as of April 1 and whenever an event occurs or circumstances change in the interim that would more-likely-than-not reduce the fair value of a reporting unit below its carrying amount. In the fourth quarter of 2023 and first quarter of 2024, Dominion Energy's current period calculations of the expected gain or loss on the Questar Gas and East Ohio Transactions resulted in an impairment of the related goodwill. There were 
+no
+ other impairments recorded in 2024 and 
+no
+ne were recorded in 2025. See Note 3 for additional information.
+New Accounting Standards
+Income Tax Disclosures
+In December 2023, the FASB issued revised accounting guidance for income taxes. The revised guidance requires disclosure of disaggregated information about an entity’s effective tax rate reconciliation as well as additional information on income taxes paid. The new standard is effective for fiscal years beginning after December 15, 2024, with early adoption permitted and allows either prospective or retrospective application. The Companies adopted this revised guidance prospectively which only impacted the Companies’ disclosures with no impacts to their results of operations, cash flows or financial condition.
+Climate-Related Disclosures
+
+In March 2024, the SEC issued guidance for climate-related disclosures. The guidance requires disclosure of the financial statement impacts of severe weather events and other natural conditions, including amounts capitalized or expensed as well as any associated recoveries. In addition, the guidance requires disclosure of amounts related to renewable energy credits or carbon offsets if utilized as a material component of plans to achieve climate-related targets or goals. This guidance is currently subject to a stay issued by the SEC. Should this guidance become effective, the Companies expect it to only impact their disclosures with no impacts to their results of operations, cash flows or financial condition.
+Expense Disaggregation Disclosures
+
+In November 2024, the FASB issued revised accounting guidance for income statement expense disaggregation disclosures. The revised guidance requires disclosure of disaggregated information about specific expense categories in commonly presented income statement expense captions. The new standard is effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted and allows either prospective or retrospective application. The Companies expect this revised guidance to only impact their disclosures with no impacts to their results of operations, cash flows or financial condition.
+
+Total operating revenue from contracts
+   with customers
+
+(1)
+Represents customers in Virginia, including certain data centers, with actual or anticipated forecast demand of 25 MW or higher and annual load factor of 75% or higher.
+(2)
+See Note 
+25
+ for amounts attributable to affiliates.
+(3)
+Includes sales of renewable energy credits of $57 million, $
+31
+ million and $
+44
+ million for the years ended December 31, 
+2025, 2024 and 2023
+, respectively, at Dominion Energy and $
+16
+ million, $
+12
+ million and $
+29
+ million for the years ended December 31, 
+2025, 2024 and 2023
+, respectively, at Virginia Power.
+(4)
+Includes revenue from transition services agreements of $
+99
+ million, $
+61
+ million and $
+18
+ million for the years ended December 31, 
+2025, 2024 and 2023
+, respectively, at Dominion Energy.
+(5)
+Includes alternative revenue of $
+167
+ million, $
+129
+ million and $
+162
+ million at both Dominion Energy and Virginia Power for years ended December 31, 
+2025, 2024 and 2023
+, respectively.
+
+Neither Dominion Energy nor Virginia Power have any amounts for revenue to be recognized in the future on multi-year contracts in place at 
+December 31, 2025
+.
+Contract liabilities represent an entity’s obligation to transfer goods or services to a customer for which the entity has received consideration, or the amount that is due, from the customer. At 
+December 31, 2025
+ and 
+2024
+, Dominion Energy’s contract liability balances were $
+45
+ million and $
+52
+ million, respectively. At 
+December 31, 2025
+ and 
+2024
+, Virginia Power’s contract liability balances were $
+38
+ million and $
+46
+ million, respectively. The Companies’ contract liabilities are recorded in other current liabilities and other deferred credits and other liabilities in the Consolidated Balance Sheets.
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+
+
+[SOURCE: Net Zero Tracker]
+
+Entity: Dominion Energy
+Industry: Infrastructure
+End target: Net zero
+  Target year: 2050.0
+  % reduction: nan
+  Baseline year: nan
+  Status: In corporate strategy
+  Target description: Our Net Zero commitment includes carbon and methane emissions within our direct control (known as Scope 1 emissions), as well as Scope 2 and material categories of Scope 3 emissions,
+including: electricity purchased to power the grid, fossil fuel purchased for our power stations and gas distribution systems, and consumption of gas sold to our end-use customers.
+
+P.20 from 2023 Sustainability and Corporate Responsibility Report
+Interim target: nan
+  Interim year: nan
+  Interim % reduction: nan
+  Interim description: The Company has reduced 53% of its CO2 emission in 2023 from the baseline year of 2005. 
+
+P.20 from 2023 Sustainability and Corporate Responsibility Report
+Published transition plan: No
+Reporting mechanism: Annual reporting
+Accountability/governance: No
+Race to Zero member: No
+Scopes covered: 1=Yes, 2=Yes, 3=Partial
+Source URL: https://web.archive.org/web/20250920154253/https://sustainability.dominionenergy.com/SCR-Report-2023.pdf

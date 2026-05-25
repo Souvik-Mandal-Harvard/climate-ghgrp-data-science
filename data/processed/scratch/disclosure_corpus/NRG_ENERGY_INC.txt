@@ -1,0 +1,47 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+
+
+[SOURCE: Net Zero Tracker]
+
+Entity: NRG Energy
+Industry: Power generation
+End target: Net zero
+  Target year: 2050.0
+  % reduction: nan
+  Baseline year: nan
+  Status: In corporate strategy
+  Target description: "We continued to advance on climate. Our goals —to 
+reduce carbon dioxide equivalent emissions by 50% 
+by 2025 from our current 2014 baseline and to achieve 
+net zero by 2050 – were certified by the Science 
+Based Targets initiative as consistent with limiting 
+global warming to 1.5 degrees Celsius."
+Interim target: Emissions reduction target
+  Interim year: 2025.0
+  Interim % reduction: 50.0
+  Interim description: "We continued to advance on climate. Our goals —to 
+reduce carbon dioxide equivalent emissions by 50% 
+by 2025 from our current 2014 baseline and to achieve 
+net zero by 2050 – were certified by the Science 
+Based Targets initiative as consistent with limiting 
+global warming to 1.5 degrees Celsius."
+Published transition plan: Yes
+Reporting mechanism: Annual reporting
+Accountability/governance: Not Specified
+Race to Zero member: Yes
+Scopes covered: 1=Yes, 2=Yes, 3=Partial
+Source URL: https://web.archive.org/web/20250923060849/https://www.nrg.com/assets/documents/sustainability/2021-sustainability-report.pdf
+
+[SOURCE: Science Based Targets initiative (SBTi)]
+
+Target row: action=Commitment, status=Removed, scope=nan, target_year=nan, target_value=nan, classification=nan
+Target row: action=Target, status=nan, scope=1+2+3, target_year=2025.0, target_value=0.5, classification=1.5°C
+  Full target language: NRG Energy commits to reduce absolute scope 1, 2 and scope 3 business travel GHG emissions 50% by 2025 and 100% by 2050 from a 2014 base year.
+Target row: action=Target, status=nan, scope=1+2+3, target_year=2050.0, target_value=1, classification=nan
+  Full target language: NRG Energy commits to reduce absolute scope 1, 2 and scope 3 business travel GHG emissions 50% by 2025 and 100% by 2050 from a 2014 base year.
+Target row: action=Commitment, status=Target set, scope=nan, target_year=nan, target_value=nan, classification=nan

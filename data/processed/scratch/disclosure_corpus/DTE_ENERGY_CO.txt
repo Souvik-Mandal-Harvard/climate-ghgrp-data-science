@@ -1,0 +1,623 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+There are various risks associated with the operations of the Registrants' utility businesses and DTE Energy's non-utility businesses.  To provide a framework to understand the operating environment of the Registrants, below is a brief explanation of the more significant risks associated with their businesses.  Although the Registrants have tried to identify and discuss key risk factors, others could emerge in the future.  Each of the following risks could affect performance.
+18
+Table of 
+Contents
+Regulatory, Legislative, and Legal Risks
+The Registrants are subject to rate regulation.  
+Electric and gas rates for the utilities are set by the MPSC and the FERC and cannot be changed without regulatory authorization.  The Registrants may be negatively impacted by new regulations or interpretations by the MPSC, the FERC, or other regulatory bodies.  The Registrants' ability to recover costs may be impacted by the time lag between the incurring of costs and the recovery of the costs in customers' rates.  Regulators also may decide to disallow recovery of certain costs in customers' rates if they determine that those costs do not meet the standards for recovery under current governing laws and regulations.  Regulators may also disagree with the Registrants' rate calculations under the various mechanisms that are intended to mitigate the risk to their utilities related to certain aspects of the business.  If the Registrants cannot agree with regulators on an appropriate reconciliation of those mechanisms, it may impact the Registrants' ability to recover certain costs through customer rates.  Regulators may also decide to eliminate these mechanisms in future rate cases, which may make it more difficult for the Registrants to recover their costs in the rates charged to customers.  The Registrants cannot predict what rates the MPSC will authorize in future rate cases, and unfavorable rate relief could impact our plans for significant capital investment.  New legislation, regulations, or interpretations could change how the business operates, impact the Registrants' ability to recover costs through rates or the timing of such recovery, or require the Registrants to incur additional expenses.
+Changes to Michigan's electric retail access program could negatively impact the Registrants' financial performance.  
+The State of Michigan currently experiences a hybrid market, where the MPSC continues to regulate electric rates for DTE Electric customers, while alternative electric suppliers charge market-based rates.  MPSC rate orders, and energy legislation enacted by the State of Michigan, have placed a 10% cap on the total potential retail access migration.  However, even with the legislated 10% cap on participation, there continues to be legislative and financial risk associated with the electric retail access program.  Electric retail access migration is sensitive to market price and full service electric price changes.  The Registrants are required under current regulation to provide full service to retail access customers that choose to return, potentially resulting in the need for additional generating capacity.
+Environmental laws and liability may be costly.  
+The Registrants are subject to, and affected by, numerous environmental regulations.  These regulations govern air emissions, water quality, wastewater discharge, and disposal of solid and hazardous waste.  Compliance with these regulations can significantly increase capital spending, operating expenses, and plant down times, and can negatively affect the affordability of the rates charged to customers.
+Uncertainty around future environmental regulations creates difficulty planning long-term capital projects in the Registrants' generation fleet and for DTE Energy's gas distribution businesses.  These laws and regulations require the Registrants to seek a variety of environmental licenses, permits, inspections, and other regulatory approvals.  The Registrants could be required to install expensive pollution control measures or limit or cease activities, including the retirement of certain generating plants, based on these regulations.  Additionally, the Registrants may become a responsible party for environmental cleanup at sites identified by a regulatory body.  The Registrants cannot predict with certainty the amount and timing of future expenditures related to environmental matters because of the difficulty of estimating cleanup costs.  There is also uncertainty in quantifying liabilities under environmental laws that impose joint and several liability on potentially responsible parties.
+The Registrants may also incur liabilities as a result of potential future requirements to address climate change issues.  Proposals for voluntary initiatives and mandatory controls are being discussed in Michigan, the United States, and worldwide to reduce GHGs such as carbon dioxide, a by-product of burning fossil fuels.  If increased regulations of GHG emissions are implemented, or if existing deadlines for these regulations are accelerated, the operations of DTE Electric's fossil-fueled generation assets may be significantly impacted.  Increased environmental regulation may also result in greater energy efficiency requirements and decreased demand at both the electric and gas utilities.  Since there can be no assurances that environmental costs may be recovered through the regulatory process, the Registrants' financial performance may be negatively impacted as a result of environmental matters.
+Any perceived or alleged failure by the Registrants to comply with environmental regulations could lead to fines or penalties imposed by regulatory bodies or could result in adverse public statements and reputational damage affecting the Registrants.
+
+Adverse statements, whether or not driven by political or public sentiment, may also result in investigations by regulators, legislators and law enforcement officials or in legal claims.
+19
+Table of 
+Contents
+The Clean Energy Standard, Renewable Portfolio Standard and energy waste reduction may affect the Registrants' business and federal and state fuel standards may affect DTE Energy's non-utility investments.  
+The Registrants are subject to existing Michigan, and potential future, federal legislation and regulation requiring them to secure sources of clean and renewable energy.  The Registrants have complied with the existing federal and state legislation, but do not know what requirements may be added by federal or state legislation in the future.  In addition, the Registrants expect to comply with new Michigan legislation increasing the percentage of power required to be provided by clean energy resources and renewable energy sources.  The Registrants cannot predict the financial impact or costs associated with complying with potential future legislation and regulations.  Compliance with these requirements can significantly increase capital expenditures and operating expenses and can negatively affect the affordability of the rates charged to customers.
+In addition, the Registrants are also required by Michigan legislation to implement energy waste reduction measures and provide energy waste reduction customer awareness and education programs.  These requirements necessitate expenditures, and implementation of these programs creates the risk of reducing the Registrants' revenues as customers decrease their energy usage.  The Registrants cannot predict how these programs will impact their business and future operating results.
+DTE Energy's non-utility renewable natural gas investments are also dependent on the federal Renewable Fuel Standard and California's Low Carbon Fuel Standard.  Changes to these standards may affect DTE Energy's business and result in lower earnings.
+DTE Energy's ability to utilize tax credits may be limited.
+  To promote U.S. climate initiatives, the Internal Revenue Code provides tax credits as an incentive for taxpayers to produce energy from alternative sources.  The Registrants have generated tax credits from renewable energy generation and DTE Energy has generated tax credits from renewable gas recovery and reduced emission fuel.  If the Registrants' tax credits were disallowed in whole or in part as a result of an IRS audit or changes in tax law, there could be additional tax liabilities owed for previously recognized tax credits that could significantly impact the Registrants' earnings and cash flows.
+Operational Risks
+The Registrants' electric distribution system and DTE Energy's gas distribution system are subject to risks from their operation, which could reduce revenues, increase expenses, and have a material adverse effect on their business, financial position, and results of operations.  
+The Registrants' electric distribution and DTE Energy’s gas distribution systems are subject to many operational risks.  These operational systems and infrastructure have been in service for many years.  Equipment, even when maintained in accordance with good utility practices, is subject to operational failure, including events that are beyond the Registrants' control, and could require significant operation and maintenance expense or capital expenditures to operate efficiently.  Because the Registrants’ distribution systems are interconnected with those of third parties, the operation of the Registrants’ systems could be adversely affected by unexpected or uncontrollable events occurring on the systems of such third parties.
+Construction and capital improvements to the Registrants' power facilities and DTE Energy's distribution systems subject them to risk.
+  The Registrants are managing ongoing, and planning future, significant construction and capital improvement projects at the Registrants' multiple power generation and distribution facilities and at DTE Energy's gas distribution system.  Among others, these projects include construction and operation of energy facilities and storage capacity to serve one or more data centers in the Registrants' service territory.  Many factors that could cause delays or increased prices for these complex projects are beyond the Registrants' control, including the cost and availability of materials and skilled labor, subcontractor performance, timing and issuance of necessary permits or approvals (including required certificates from regulatory agencies), construction disputes, impediments to acquiring rights-of-way or land rights on a timely basis and on acceptable terms, cost overruns, and weather conditions.  Failure to complete these projects on schedule and on budget for any reason could adversely affect the Registrants' financial performance, operations, or expected investment returns at the affected facilities, businesses and development projects.
+20
+Table of 
+Contents
+Operation of a nuclear facility subjects the Registrants to risk.  
+Ownership of an operating nuclear generating plant subjects the Registrants to significant additional risks.  These risks include, among others, plant security, environmental regulation and remediation, changes in federal nuclear regulation, increased capital expenditures to meet industry requirements, and operational factors that can significantly impact the performance and cost of operating a nuclear facility compared to other generation options.  Insurance maintained by the Registrants for various nuclear-related risks may not be sufficient to cover the Registrants' costs in the event of an accident or business interruption at the nuclear generating plant, which may affect the Registrants' financial performance.  In addition, the Registrants' nuclear decommissioning trust fund, to finance the decommissioning of the nuclear generating plant, may not be sufficient to fund the cost of decommissioning.  A decline in market value of assets held in decommissioning trust funds due to poor investment performance or other factors may increase the funding requirements for these obligations.  Any increase in funding requirements may have a material impact on the Registrants’ liquidity, financial position, or results of operations.
+The supply and/or price of energy commodities and/or related services may impact the Registrants' financial results.  
+The Registrants are dependent on natural gas and coal for much of their electrical generating capacity as well as uranium for their nuclear operations.  DTE Energy's access to natural gas supplies is critical to ensure reliability of service for utility gas customers.  DTE Energy's non-utility businesses are also dependent upon supplies and prices of energy commodities and services.  Price fluctuations and changes in transportation costs, driven by inflation or other factors, as well as fuel supply disruptions, could have a negative impact on the amounts DTE Electric charges utility customers for electricity and DTE Gas charges utility customers for gas, and on the profitability of DTE Energy's non-utility businesses.  The Registrants' hedging strategies and regulatory recovery mechanisms may be insufficient to mitigate the negative fluctuations in commodity supply prices at their utility or DTE Energy's non-utility businesses, and the Registrants' financial performance may therefore be negatively impacted by price fluctuations.
+The price of energy also impacts the market for DTE Energy's non-utility businesses, particularly those that compete with utilities and alternative electric suppliers.  The price of environmental attributes generated by DTE Energy's renewable natural gas investments, including those related to the federal Renewable Fuel Standard and California's Low Carbon Fuel Standard, may also impact the market and financial results for DTE Energy's non-utility businesses.
+The supply and/or price of other industrial raw and finished inputs and/or related services may impact the Registrants' financial results
+.  The Registrants are dependent on supplies of certain commodities, such as copper and limestone, among others, and industrial materials, and services in order to maintain day-to-day operations and maintenance of their facilities.  Price fluctuations, driven by inflation or other factors, or supply interruptions for these commodities and other items, could have a negative impact on the amounts charged to customers for the Registrants' utility products and, for DTE Energy, on the profitability of the non-utility businesses.
+Weather significantly affects operations.  
+As weather patterns exhibit increased deviations from historical trends, our utilities may experience financial and operational challenges.  Mild temperatures can result in decreased utilization of the Registrants' assets, lowering income and cash flows.  At DTE Electric, high winds, floods, tornadoes, or ice storms can damage the electric distribution system infrastructure and power generation facilities and require it to perform emergency repairs and incur material unplanned expenses.  The expenses of storm restoration efforts may not be fully recoverable through the regulatory process.  Prolonged and/or more frequent outages caused by increasingly extreme weather may result in decreased revenues and could also negatively impact DTE Energy's reputation and customer satisfaction or result in increased regulatory oversight.  Related damages to customer assets could subject DTE Energy to litigation.  DTE Gas can also experience higher than anticipated expenses from emergency repairs on its gas distribution infrastructure required as a result of weather-related issues.
+Unplanned outages at our power plants and other generating assets may be costly.  
+Unforeseen maintenance may be required to safely produce electricity or comply with environmental regulations.  As a result of unforeseen maintenance, the Registrants may be required to make spot market purchases of electricity that exceed the costs of generation.  The Registrants' financial performance may be negatively affected if unable to recover such increased costs.
+A work interruption may adversely affect the Registrants. 
+ There are several bargaining units for DTE Energy's approximately 4,850 and DTE Electric's approximately 2,600 represented employees.  The majority of represented employees are under contracts that expire in 2027.  A union choosing to strike would have an impact on the Registrants' businesses.  The Registrants are unable to predict the effect a work stoppage would have on their costs of operations and financial performance.
+21
+Table of 
+Contents
+DTE Energy may not achieve the carbon emissions goals of its electric and gas utilities.  
+DTE Energy has announced the voluntary commitments of its electric and gas utilities to achieve net zero carbon emissions by 2050, along with intermediate emissions reduction goals at various points in the intervening years.  DTE Energy must also comply with the state of Michigan's requirement to meet a 100% clean energy standard by 2040.  Technology research and developments, innovations, and advancements are critical to DTE Energy's ability to achieve these commitments, but they may not evolve as anticipated in order to provide cost-effective alternatives to traditional energy sources.  State and municipal restrictions on the siting of renewable energy assets could also impair efforts to meet our stated targets.  Additionally, we cannot guarantee that we will continue to receive regulatory approval of our capital plans to transition to renewable energy and other new technologies.  Other factors that may impact DTE Energy's ability to achieve these emissions reduction goals include our service territory size and capacity needs remaining in line with current expectations, the impacts on our business of future regulations or legislation, the price and availability of carbon offsets, adoption of alternative energy products by the public such as greater use of electric vehicles, greater standardization of emissions reporting, and our ability over time to transition our electric generating portfolio.  DTE Energy's emissions reduction goals require making assumptions that involve risks and uncertainties.  Should one or more of these underlying assumptions prove incorrect, our actual results and ability to achieve our emissions reduction goals could differ materially from expectations.  In addition, DTE Energy cannot predict the ultimate impact of achieving these objectives, or the various implementation aspects on its reliability, availability or price of purchased power, or on its results of operations, financial condition, or liquidity.  DTE Energy could suffer financial loss, reputational damage, litigation, or other negative repercussions if we are unable to meet our voluntary emissions reductions goals.
+Financial, Economic, and Market Risks
+DTE Energy's non-utility businesses may not perform to its expectations. 
+ DTE Energy relies on non-utility businesses for a portion of earnings and will depend on the successful execution of new business development in its non-utilities to help achieve overall growth targets.  DTE Energy also expects to grow the non-utility businesses over the long-term by developing or acquiring projects related to renewable energy, carbon capture and sequestration, and customer energy solutions; however, such opportunities may not materialize as anticipated.  If DTE Energy's current and contemplated non-utility investments do not perform at expected levels, DTE Energy could experience diminished earnings and a corresponding decline in shareholder value.
+Adverse changes in the Registrants' credit ratings may negatively affect them.  
+Regional and national economic conditions, increased scrutiny of the energy industry and regulatory changes, as well as changes in the Registrants' economic performance, could result in credit agencies reexamining their credit ratings.  While credit ratings reflect the opinions of the credit agencies issuing such ratings and may not necessarily reflect actual performance, a downgrade in the Registrants' credit ratings below investment grade could restrict or discontinue their ability to access capital markets and could result in an increase in their borrowing costs, a reduced level of capital expenditures, and could impact future earnings and cash flows.  In addition, a reduction in the Registrants' credit ratings may require them to post collateral related to various physical or financially settled contracts for the purchase of energy-related commodities, products, and services, which could impact their liquidity.
+Poor investment performance of pension and other postretirement benefit plan assets and other factors impacting benefit plan costs could unfavorably impact the Registrants' liquidity and results of operations.  
+The Registrants' costs of providing non-contributory defined benefit pension plans and other postretirement benefit plans are dependent upon a number of factors, such as the rates of return on plan assets, the level of interest rates used to measure the required minimum funding levels of the plans, future government regulation, and the Registrants' required or voluntary contributions made to the plans.  The performance of the debt and equity markets affects the value of assets that are held in trust to satisfy future obligations under the Registrants' plans.  The Registrants have significant benefit obligations and hold significant assets in trust to satisfy these obligations.  These assets are subject to market fluctuations and will yield uncertain returns, which may fall below the Registrants' projected return rates.  A decline in the market value of the pension and other postretirement benefit plan assets will increase the funding needs under the pension and other postretirement benefit plans if the actual asset returns do not recover these declines in the foreseeable future.  Additionally, the pension and other postretirement benefit plan liabilities are sensitive to changes in interest rates.  If interest rates decrease, the liabilities increase, resulting in increasing benefit expense and funding needs.  Also, if future increases in pension and other postretirement benefit costs as a result of reduced plan assets are not recoverable from the Registrants' utility customers, the results of operations and financial position of the Registrants could be negatively affected.  Without sustained growth in the plan investments over time to increase the value of plan assets, the Registrants could be required to fund these plans with significant amounts of cash.  Such cash funding obligations could have a material impact on the Registrants' cash flows, financial position, or results of operations.
+22
+Table of 
+Contents
+The Registrants' ability to access capital markets is important.  
+The Registrants' ability to access capital markets is important to operate their businesses and to fund capital investments.  Turmoil in credit markets may constrain the ability of Registrants and their subsidiaries to issue new debt, including commercial paper, and to refinance existing debt.  Macroeconomic events may lead to higher interest rates on debt and could increase financing costs and adversely affect the Registrants' results of operations.  Rising interest rates could also reduce investor interest in DTE Energy's common stock, negatively impacting its share price and increasing its cost of equity.  In addition, the level of borrowing by other energy companies and the market as a whole could limit the Registrants' access to capital markets.  The Registrants' long-term revolving credit facilities do not expire until 2030, but the Registrants regularly access capital markets to refinance existing debt or fund new projects at the Registrants' utilities and DTE Energy's non-utility businesses, and the Registrants cannot predict the pricing or demand for those future transactions.
+Emerging technologies may have a material adverse effect on the Registrants
+.  Advances in technology that produce power or reduce power consumption include cost-effective renewable energy technologies, distributed generation, energy waste reduction technologies, and energy storage devices.  Such developments may impact the price of energy, may affect energy deliveries as customer-owned generation becomes more cost-effective, may require further improvements to our distribution systems to address changing load demands, and could make portions of our electric system power supply and/or distribution facilities obsolete prior to the end of their useful lives.  Such technologies could also result in further declines in commodity prices or demand for delivered energy.  Each of these factors could materially affect the Registrants’ results of operations, cash flows, or financial position.
+DTE Energy's participation in energy trading markets subjects it to risk.  
+Events in the energy trading industry have increased the level of scrutiny on the energy trading business and the energy industry as a whole.  In certain situations, DTE Energy may be required to post collateral to support trading operations, which could be substantial.  If access to liquidity to support trading activities is curtailed, DTE Energy could experience decreased earnings potential and cash flows.  Energy trading activities take place in volatile markets and expose DTE Energy to risks related to commodity price movements, deviations in weather, and other related risks.  DTE Energy's trading business routinely has speculative trading positions in the market, within strict policy guidelines DTE Energy sets, resulting from the management of DTE Energy's business portfolio.  To the extent speculative trading positions exist, fluctuating commodity prices can improve or diminish DTE Energy's financial results and financial position.  DTE Energy manages its exposure by establishing and enforcing strict risk limits and risk management procedures.  During periods of extreme volatility, these risk limits and risk management procedures may not work as planned and cannot eliminate all risks associated with these activities.
+Regional, national, and international economic conditions, and market developments can have an unfavorable impact on the Registrants.  
+The Registrants' utility and DTE Energy's non-utility businesses follow the economic cycles of the customers they serve and credit risk of counterparties they do business with.  Should the financial conditions of some of DTE Energy's significant customers deteriorate as a result of regional, national or international economic conditions or other market developments, reduced volumes of electricity and gas, and demand for energy services DTE Energy supplies, collections of accounts receivable, reductions in federal and state energy assistance funding, and potentially higher levels of lost gas or stolen gas and electricity could result in decreased earnings and cash flows.  In addition, import tariffs and other trade policies have the potential to disrupt global supply chains and could cause volatility in the availability and cost of materials and supplies for us and our customers. 
+If DTE Energy's goodwill becomes impaired, it may be required to record a charge to earnings.
+  DTE Energy annually reviews the carrying value of goodwill associated with acquisitions it has made for impairment.  Goodwill is also reviewed on a quarterly basis whenever events or circumstances indicate that the carrying value of these assets may not be recoverable.  Factors that may be considered for purposes of this analysis include a decline in stock price and market capitalization, slower industry growth rates, or material changes with customers or contracts that could negatively impact future cash flows.  DTE Energy cannot predict the timing, strength, or duration of such changes or any subsequent recovery.  If the carrying value of any goodwill is determined to be not recoverable, DTE Energy may take a non-cash impairment charge, which could materially impact DTE Energy's results of operations and financial position.
+The Registrants may not be fully covered by insurance.  
+The Registrants have a comprehensive insurance program in place to provide coverage for various types of risks, including catastrophic damage as a result of severe weather or other natural disasters, war, terrorism, cyber incidents, liability claims against the Registrants, or a combination of other significant unforeseen events that could impact the Registrants' operations.  Economic losses might not be covered in full by insurance, or the Registrants' insurers may be unable to meet contractual obligations.
+23
+Table of 
+Contents
+Safety and Security Risks
+The Registrants' businesses have safety risks.  
+The Registrants' electric distribution system, power plants, renewable energy equipment, and other facilities, and DTE Energy's gas distribution system, gas infrastructure, and other facilities, could be involved in incidents that result in injury, death, or property loss to employees, customers, third parties, or the public.  Although the Registrants have insurance coverage for many potential incidents, depending upon the nature and severity of any incident, they could experience financial loss, damage to their reputation, and negative consequences from regulatory agencies or other public authorities.
+Threats of cyber incidents, physical security, and terrorism could affect the Registrants' business.  
+Issues may threaten the Registrants such as cyber incidents, physical security, or terrorism that may disrupt the Registrants' operations, and could harm the Registrants' operating results.
+Information security risks have increased in recent years as a result of the proliferation of new technologies and the increased sophistication and frequency of cyberattacks, and data security breaches.  
+The Registrants' industry requires the continued operation of sophisticated information and control technology systems and network infrastructure.  All of the Registrants' technology systems are vulnerable to disability or failures due to cyber incidents, physical security threats, acts of war or terrorism, and other causes, as well as loss of operational control of the Registrants' electric generation and distribution assets, and DTE Energy's gas distribution assets.  The Registrants have experienced, and expect to continue to be subject to, cybersecurity threats and incidents.  Technological developments, including advances in artificial intelligence, could have the potential to increase the Registrants' vulnerability to these threats.  If the Registrants' information technology systems were to fail and they were unable to recover in a timely way, the Registrants may be unable to fulfill critical business functions, which could have a material adverse effect on the Registrants' business, operating results, and financial condition.
+Suppliers, vendors, contractors, and information technology providers have access to systems that support the Registrants’ operations and maintain customer and employee data.  A breach of these third-party systems could adversely affect the Registrants' business as if it were a breach of their own system.  Also
+, because the Registrants’ generation and distribution systems are part of an interconnected system, a disruption caused by a cyber incident at another utility, electric generator, system operator, or commodity supplier could also adversely affect the Registrants’ businesses, operating results, and financial condition.
+In addition, the Registrants' generation plants and electrical distribution facilities may be targets of physical security threats or terrorist activities that could disrupt the Registrants' ability to produce or distribute some portion of their products.  The Registrants have increased security as a result of past events and may be required by regulators or by the future threat environment to make investments in security that the Registrants cannot currently predict.
+Failure to maintain the security of personally identifiable information could adversely affect the Registrants.  
+In connection with the Registrants' businesses, they collect and retain personally identifiable information of their customers, shareholders, and employees.  Customers, shareholders, and employees expect that the Registrants will adequately protect their personal information.  The regulatory environment surrounding information security and privacy is increasingly demanding.  A significant theft, loss, or fraudulent use of customer, shareholder, employee, or Registrant data by cybercrime or otherwise, could adversely impact the Registrants' reputation, and could result in significant costs, fines, and litigation.
+General and Other Risks
+Failure to attract and retain key executive officers and other skilled professional and technical employees could have an adverse effect on the Registrants
+’
+ operations.  
+The Registrants' businesses are dependent on their ability to attract and retain skilled employees.  Competition for skilled employees in some areas is high, and the inability to attract and retain these employees could adversely affect the Registrants' business and future operating results.  In addition, the failure of a successful transfer of knowledge and expertise from any departing employees could negatively impact the Registrants' operations.
+DTE Energy relies on cash flows from subsidiaries.  
+DTE Energy is a holding company.  Cash flows from the utility and non-utility subsidiaries are required to pay interest expenses and dividends on DTE Energy debt and securities.  Should a major subsidiary not be able to pay dividends or transfer cash flows to DTE Energy, its ability to pay interest and dividends would be restricted.
+24
+Table of 
+Contents
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+$
+1,404 
+$
+1,397 
+Diluted Earnings per Common Share
+$
+7.03
+
+$
+6.77 
+$
+6.76 
+The increase in 2025 Net Income Attributable to DTE Energy Company was primarily due to higher earnings in the Electric, Gas, and DTE Vantage segments, partially offset by lower earnings at Corporate and Other.  The increase in 2024 Net Income Attributable to DTE Energy Company was primarily due to higher earnings in the Electric segment, partially offset by lower earnings in the Energy Trading, Gas, and DTE Vantage segments and Corporate and Other.
+STRATEGY
+DTE Energy's strategy is to achieve long-term earnings per share growth with a strong balance sheet and attractive dividend.
+DTE Energy's utilities are investing capital to support a modern, reliable grid and cleaner, affordable energy through investments in base infrastructure and new generation.  Increasing intensity of windstorms and other weather events, coupled with increasing electric vehicle adoption and future data center load, will drive a continued need for substantial grid investment over the long-term.
+DTE Energy plans to reduce the carbon emissions of its electric utility operations by 65% in 2028, 85% in 2032, and 90% by 2040 from 2005 carbon emissions levels.  DTE Energy plans to end its use of coal-fired power plants in 2032 and is committed to a net zero carbon emissions goal by 2050 for its electric and gas utility operations.
+Additionally, as a result of legislation passed by the state of Michigan in the fourth quarter 2023, DTE Energy will be required to meet a 100% clean energy portfolio standard by 2040.  Clean energy sources include renewables, nuclear, and natural gas-fired plants equipped with a carbon capture and storage system that is at least 90% effective in reducing carbon emissions to the atmosphere.  The legislation also requires 50% of an electric utility's energy to be generated from renewable sources by 2030 and 60% by 2035.  DTE Energy is currently assessing the impacts of this legislation and will include updates in its next Integrated Resource Plan, currently planned for 2026, to comply with the new requirements.
+To achieve carbon reduction goals at the electric utility, DTE Energy will continue its transition away from coal-powered energy sources and is replacing or offsetting the generation from these facilities with renewable energy, natural gas, battery storage, and energy waste reduction initiatives.  Refer to the "Capital Investments" section below for further discussion regarding DTE Energy's retirement of its aging coal-fired plants and transition to renewable energy and other sources.  Over the long-term, DTE Energy is also monitoring and pursuing the advancement of emerging technologies such as long-duration storage, modular nuclear reactors, hydrogen, and carbon capture and sequestration, and how these technologies may support clean, reliable generation and customer affordability.
+30
+Table of 
+Contents
+For the gas utility, DTE Energy aims to cut carbon emissions across the entire value chain.  DTE Energy plans to reduce the carbon emissions from its gas utility operations by 65% by 2030 and 80% by 2040, and is committed to a goal of net zero emissions by 2050 from internal gas operations and gas suppliers.  To achieve net zero, DTE Energy is working to source gas with lower methane intensity, reduce emissions through its gas main renewal and pipeline integrity programs, and if necessary, use carbon offsets to address any remaining emissions.  DTE Energy also aims to help DTE Gas customers reduce their emissions by approximately 35% by 2040 by increasing energy efficiency, pursuing advanced technologies such as hydrogen and carbon capture and sequestration, and through the CleanVision Natural Gas Balance program which provides customers the option to use carbon offsets and renewable natural gas.
+DTE Energy expects that these initiatives at the electric and gas utilities will continue to provide significant opportunities for capital investments and result in earnings growth.  DTE Energy is focused on executing its plans to achieve operational excellence and customer satisfaction with a focus on customer affordability.  To support its goals for customer affordability, DTE Energy is working to implement operational efficiencies and optimize opportunities to generate tax credits relating to renewable energy, nuclear generation, energy storage, and carbon capture and sequestration.  These tax credits may reduce the cost of owning related assets and reduce customer rate impacts from any future cost recoveries.  DTE Energy's utilities operate in a constructive regulatory environment and have solid relationships with their regulators.
+DTE Energy also has significant investments in non-utility businesses and expects growth opportunities in its DTE Vantage segment.  DTE Energy employs disciplined investment criteria when assessing growth opportunities that leverage its assets, skills, and expertise, and provides attractive returns and diversity in earnings and geography.  Specifically, DTE Energy invests in targeted markets with attractive competitive dynamics where meaningful scale is in alignment with its risk profile.
+A key priority for DTE Energy is to maintain a strong balance sheet which facilitates access to capital markets and reasonably priced financing.  Growth will be funded through internally generated cash flows and the issuance of debt and equity.  DTE Energy has an enterprise risk management program that, among other things, is designed to monitor and manage exposure to earnings and cash flow volatility related to commodity price changes, interest rates, and counterparty credit risk.
+CAPITAL INVESTMENTS
+DTE Energy's utility businesses will require significant capital investments to maintain and improve the electric generation and electric and natural gas distribution infrastructure and to comply with environmental regulations and achieve goals for carbon emission reductions.  Capital plans may be regularly updated as these requirements and goals evolve and may be subject to regulatory approval.
+DTE Electric's capital investments over the 2026-2030 period are estimated at $30 billion, comprised of $11 billion for distribution infrastructure, $4 billion for base infrastructure, and $15 billion for cleaner generation including renewables.
+DTE Electric has retired all eleven coal-fired generation units at the Trenton Channel, River Rouge, and St. Clair facilities, as well as one unit at the Belle River facility.  DTE Electric has also announced plans to retire its remaining five coal-fired generating units, including the remaining unit at the Belle River facility in 2026.  The four units at the Monroe facility are expected to be retired in two stages in 2028 and 2032.  DTE Electric plans to repurpose the Trenton Channel facility to a battery energy storage system in 2026, and convert the Belle River facility from a base load coal plant to a natural gas peaking resource in 2026.  Generation from the retired facilities will continue to be replaced or offset with a combination of renewables, energy waste reduction, demand response, battery storage, and natural gas fueled generation.
+DTE Gas' capital investments over the 2026-2030 period are estimated at $4.5 billion, comprised of $2.7 billion for base infrastructure and $1.8 billion for the gas renewal program, which includes main and service renewals, meter move-out, and pipeline integrity projects.
+DTE Electric and DTE Gas plan to seek regulatory approval for capital expenditures consistent with ratemaking treatment.
+DTE Energy's non-utility businesses' capital investments are primarily for expansion, growth, and ongoing maintenance in the DTE Vantage segment, including approximately $2.0 billion from 2026-2030 for custom energy solutions and renewable energy, while expanding into carbon capture and sequestration.
+31
+Table of 
+Contents
+ENVIRONMENTAL MATTERS
+The Registrants are subject to extensive environmental regulations, including those addressing climate change.  Additional costs may result as the effects of various substances on the environment are studied and governmental regulations are developed and implemented.  Actual costs to comply could vary substantially.  The Registrants expect to continue recovering environmental costs related to utility operations through rates charged to customers, as authorized by the MPSC.
+Increased costs for energy produced from traditional coal-based sources due to recent, pending, and future regulatory initiatives could also increase the economic viability of energy produced from renewable, natural gas fueled generation, and/or nuclear sources, energy waste reduction initiatives, and the potential development of market-based trading of carbon instruments.
+Refer to the "Environmental Matters" section within Items 1. and 2. Business and Properties and Note 18 to the Consolidated Financial Statements, "Commitments and Contingencies," for further discussion of Environmental Matters.
+OUTLOOK
+The next few years will be a period of rapid change for DTE Energy and for the energy industry.  DTE Energy's strong utility base, combined with its integrated non-utility operations, position it well for long-term growth.
+Looking forward, DTE Energy will focus on several areas that are expected to improve future performance:
+•
+electric and gas customer satisfaction;
+•
+electric distribution system reliability;
+•
+new electric generation and storage;
+•
+gas distribution system renewal;
+•
+reducing carbon emissions at the electric and gas utilities;
+•
+rate competitiveness and affordability;
+•
+regulatory stability and investment recovery for the electric and gas utilities;
+•
+strategic investments in growth projects at DTE Vantage;
+•
+employee engagement and health, safety, and wellbeing;
+•
+cost structure optimization across all business segments; and
+•
+cash, capital, and liquidity to maintain or improve financial strength.
+DTE Energy will continue to pursue opportunities to grow its businesses in a disciplined manner if it can secure opportunities that meet its strategic, financial, and risk criteria.
+32
+Table of 
+Contents
+RESULTS OF OPERATIONS
+The following sections provide a detailed discussion of the operating performance and future outlook of DTE Energy's segments.  Segment information, described below, includes intercompany revenues, expenses, and other income and deductions that are eliminated in the Consolidated Financial Statements.
+2025
+2024
+2023
+(In millions)
+Net Income (Loss) Attributable to DTE Energy
+Electric segment
+$
+1,158
+
+125 
+336 
+Corporate and Other
+(268)
+(185)
+(158)
+Net Income Attributable to DTE Energy Company
+$
+1,462
+
+$
+50 
+Revenue results are impacted by changes in sales volumes, which are summarized in the table below:
+2025
+2024
+2023
+(In Bcf)
+Gas Markets
+Gas sales
+145
+
+809 
+844 
+The change in sales in 2025 was primarily due to favorable weather.  The change in sales in 2024 was primarily due to unfavorable weather.  Intermediate transportation volumes fluctuate period to period based on available market opportunities.
+Cost of gas — utility
+ expense increased $112 million in 2025 and $15 million in 2024.  The increase in 2025 was primarily due to higher sales volumes of $102 million and higher cost of gas of $10 million.  The increase in 2024 was primarily due to a higher cost of gas of $40 million, partially offset by lower sales volumes of $25 million.
+Operation and maintenance
+ expense increased $71 million in 2025 and $47 million  in 2024.  The increase in 2025 was primarily due to higher gas operations expense of $54 million, higher corporate asset usage expense of $7 million, higher corporate support costs of $7 million, higher legal expense of $6 million, higher benefits and other compensation expense of $2 million, and higher uncollectible expense of $2 million, partially offset by one-time costs in 2024 of $8 million resulting from the voluntary separation incentive program.  The increase in 2024 was primarily due to higher gas operations expense of $24 million, one-time costs of $8 million resulting from the voluntary separation incentive program noted above, higher uncollectible expense of $6 million, higher benefits and other compensation expense of $3 million, higher EWR expense of $3 million, and higher corporate support costs of $3 million.
+Depreciation and amortization
+ expense increased $4 million in 2025 and $12 million in 2024.  The increase in both periods was primarily due to a higher depreciable base.
+Taxes other than income
+ increased $10 million in both 2025 and 2024.  The increase in both periods was primarily due to higher property taxes.
+Asset (gains) losses and impairments, net
+ decreased $6 million in 2025 and increased $6 million in 2024.  The change in both periods was primarily due to the write-off of capital expenditures in 2024, of which $3 million was disallowed by the MPSC in the November 2024 rate order.
+Other (Income) and Deductions 
+increased $14 million in 2025  and $13 million in 2024.  The increase in both periods was primarily due to higher net interest expense.
+37
+Table of 
+Contents
+Income Tax Expense
+ increased $11 million in 2025 and decreased $16 million in 2024.  The increase in 2025 was primarily due to higher earnings.  The decrease in 2024 was primarily due to lower earnings.
+Outlook —
+ DTE Gas will continue to move forward in its efforts to achieve operational excellence, sustain strong cash flows, and earn its authorized return on equity.  DTE Gas expects that planned significant infrastructure capital investments will result in earnings growth.  Looking forward, additional factors may impact earnings such as weather and the outcome of regulatory proceedings.  DTE Gas expects to continue its efforts to improve productivity and decrease costs while improving customer satisfaction with consideration of customer rate affordability.
+DTE Gas filed a rate case with the MPSC on November 13, 2025 requesting a net increase in base rates of $163 million  based on a projected twelve-month period ending September 30, 2027, and an increase in return on equity from 9.8% to 10.25%.  The net increase is based on a total revenue deficiency of $238 million, net of the IRM roll-in of $75 million.  The requested net increase in base rates was primarily due to continued infrastructure investment and increasing operations and maintenance costs needed to ensure the continued safe and reliable delivery of natural gas to customers.  A final MPSC order in this case is expected in September 2026.
+DTE VANTAGE SEGMENT
+The DTE Vantage segment is comprised primarily of renewable energy projects that sell electricity and pipeline-quality gas and projects that deliver custom energy solutions to industrial, commercial, and institutional customers.  DTE Vantage results and outlook are discussed below:
+2025
+2024
+2023
+(In millions)
+Operating Revenues — Non-utility operations
+$
+696
+
+$
+753 
+$
+809 
+Operating Expenses
+Fuel, purchased power, and gas — non-utility
+341
+
+$
+135 
+$
+153 
+Operating Revenues — Non-utility operations 
+decreased $57 million in 2025 and $56 million in 2024.  The changes were due to the following:
+2025
+(In millions)
+Lower demand and prices in the Steel business
+$
+(100)
+New project in the On-site business
+7
+
+$
+(57)
+38
+Table of 
+Contents
+2024
+(In millions)
+Lower demand and prices in the Steel business
+$
+(44)
+Lower sales in the Renewables business
+(21)
+Sale of project in the On-site business
+(3)
+New project in the On-site business
+13 
+Other
+(1)
+$
+(56)
+Fuel, purchased power, and gas — non-utility
+ expense decreased $37 million in 2025 and $43 million in 2024.  The change in both periods was due to the following:
+2025
+(In millions)
+Lower demand and prices in the Steel business
+$
+(76)
+New project in the On-site business
+1
+
+$
+(37)
+2024
+(In millions)
+Lower demand and prices in the Steel business
+$
+(34)
+Lower costs in the Renewables business
+(7)
+Sale of project in the On-site business
+(2)
+$
+(43)
+Operation and maintenance
+ expense increased $4 million in 2025 and $29 million in 2024.  The increase in 2025 was primarily due to estimated litigation penalties in the Steel business of $13 million, including $8 million related to EES Coke, partially offset by lower costs in the Renewables business of $10 million.  The increase in 2024 was primarily due to a new project in the On-site business of $7 million and higher costs in the On-site business of $11 million, Renewables business of $6 million, and Steel business of $6 million.
+Depreciation and amortization
+ expense had no change in 2025 and increased $6 million in 2024.  The increase in 2024 was primarily due to new projects in the Renewables business.
+Asset (gains) losses and impairments, net
+ decreased $8 million in 2025 and changed $20 million in 2024.  The decrease in 2025 was primarily due to a write-off of $10 million in 2024, partially offset by storm related property loss in the Renewables business of $3 million.  The change in 2024 was primarily due to the write-off noted above of carbon capture and sequestration assets of $10 million in 2024 and net gains of $10 million from 2023 that did not repeat in 2024.
+Other (Income) and Deductions 
+increased $14 million in 2025 and $37 million in 2024.  The increase in 2025 was primarily due to higher interest income of $10 million associated with new projects in the On-site business and higher equity earnings of $5 million.  The increase in 2024 was primarily due to higher interest income of $41 million associated with a new project in the On-site business and a gain in the Renewable business of $25 million attributed to the sale of a partnership interest, partially offset by a write-off of an equity investment in the Renewables business due to impairment of $23 million and higher net interest expense of $9 million.
+Income Taxes — Expense
+ decreased $11 million in 2025 and $4 million in 2024.  The decrease in 2025 was primarily due to a $7 million lower deferred tax expense related to the reduction in tax basis on property that generated ITCs.  The decrease in 2024 was primarily due to lower pre-tax income.
+39
+Table of 
+Contents
+Income Taxes — Tax Credits
+ increased $13 million in 2025 and $11 million in 2024.  The increase in 2025 was primarily due to production tax credits generated in the Renewables business of $82 million, partially offset by a new project in the On-site business in 2024 of $60 million that did not repeat in 2025.  The increase in 2024 was primarily due to a new project in the On-site business of $60 million noted above, partially offset by 2023 tax credits of $48 million from new projects in 2023 that did not repeat.
+Outlook —
+ DTE Vantage will continue to leverage its extensive energy-related operating experience and project management capability to develop additional renewable natural gas projects and other projects that provide customer specific energy solutions.  DTE Vantage is also developing decarbonization opportunities relating to carbon capture and sequestration projects.
+ENERGY TRADING SEGMENT
+Energy Trading focuses on physical and financial power, natural gas and environmental marketing and trading, structured transactions, enhancement of returns from its asset portfolio, and optimization of contracted natural gas pipeline transportation and storage positions.  Energy Trading also provides natural gas, power, environmental, and related services, which may include the management of associated storage and transportation contracts on the customers' behalf and the supply or purchase of environmental attributes to various customers.  Energy Trading results and outlook are discussed below:
+2025
+2024
+2023
+(In millions)
+Operating Revenues — Non-utility operations
+$
+6,477
+
+$
+3,843 
+$
+4,612 
+Operating Expenses
+Purchased power, gas, and other — non-utility
+6,174
+
+Unrealized MTM - losses of $160 compared to gains of ($233) in the prior period
+393
+
+2024
+(In millions)
+Realized gas structured and gas transportation strategies - primarily lower gas prices
+$
+(436)
+Unrealized MTM - gains of ($233) compared to gains of ($122) in the prior period
+(111)
+Other realized (gain) loss
+41 
+$
+(506)
+Operation and maintenance
+ expense increased $5 million in both 2025 and 2024.  The increase in 2025 was primarily due to higher compensation and software costs.  The increase in 2024 was primarily due to higher compensation costs.
+Natural gas structured transactions typically involve a physical purchase or sale of natural gas in the future and/or natural gas basis financial instruments which are derivatives and a related non-derivative pipeline transportation contract.  These gas structured transactions can result in significant earnings volatility as the derivative components are marked-to-market without revaluing the related non-derivative contracts.
+Operating Income
+ increased $17 million in 2025, which includes a $70 million unfavorable change in timing-related gains primarily related to gas strategies subject to reversal in future periods as the underlying contracts settle.  The increase also includes a $48 million favorable change in timing-related gains and losses primarily related to gas strategies that were recognized in previous periods and subsequently reversed as the underlying contracts settled.
+Operating Income
+ decreased $268 million in 2024, which includes a $167 million unfavorable change in timing-related gains primarily related to gas strategies subject to reversal in future periods as the underlying contracts settle.  The decrease also includes a $107 million unfavorable change in timing-related gains and losses primarily related to gas strategies that were recognized in previous periods and subsequently reversed as the underlying contracts settled.
+Other (Income) and Deductions 
+increased $20 million in 2025 and $13 million in 2024.  The increase in 2025 was primarily due to $17 million higher contributions to not-for-profit organizations and lower net interest income of $3 million.  The increase in 2024 was primarily due to $22 million of higher contributions to not-for-profit organizations, partially offset by higher net interest income of $9 million.
+Outlook —
+ In the near-term, Energy Trading expects market conditions to remain challenging.  The profitability of this segment may be impacted by the volatility in commodity prices and the uncertainty of impacts associated with regulatory changes, and changes in operating rules of RTOs.  Significant portions of the Energy Trading portfolio are economically hedged.  Most financial instruments, physical power and natural gas contracts, and certain environmental contracts are deemed derivatives; whereas, natural gas and environmental inventory, contracts for pipeline transportation, storage assets, and some environmental contracts are not derivatives.  As a result, Energy Trading will experience earnings volatility as derivatives are marked-to-market without revaluing the underlying non-derivative contracts and assets.  Energy Trading's strategy is to economically manage the price risk of these underlying non-derivative contracts and assets with futures, forwards, swaps, and options.  This results in gains and losses that are recognized in different interim and annual accounting periods.
+See also the "Fair Value" section herein and Notes 12 and 13 to the Consolidated Financial Statements, "Fair Value" and "Financial and Other Derivative Instruments," respectively.
+41
+Table of 
+Contents
+CORPORATE AND OTHER
+Corporate and Other includes various holding company activities, holds certain non-utility debt, and holds certain investments, including investments supporting regional development and economic growth.  The 2025 net loss of $268 million represents an increase of $83 million from the 2024 net loss of $185 million.  This increase was primarily due to higher net interest expense and higher federal and state income taxes, including the $16 million impact from the One Big Beautiful Bill impact to the charitable contribution valuation allowance, as well as the $14 million impact from the Illinois state tax law change, partially offset by a gain on the sale of an equity investment of $27 million.
+The 2024 net loss of $185 million represents an increase of $27 million from the 2023 net loss of $158 million.  This increase was primarily due to higher net interest expense and higher state income taxes, partially offset by lower equity investment losses.
+Outlook —
+ Corporate and Other will continue to support DTE Energy's goals to achieve long-term earnings growth by managing corporate costs such as interest and tax expense.  Corporate and Other will also continue to support DTE Energy in achieving a strong balance sheet, access to capital markets, and implementation of a financing plan that includes interest rate management in order to manage interest costs.
+CAPITAL RESOURCES AND LIQUIDITY
+Cash Requirements
+DTE Energy uses cash to maintain and invest in the electric and natural gas utilities, to grow the non-utility businesses, to retire and pay interest on long-term debt, and to pay dividends.  DTE Energy believes it will have sufficient internal and external capital resources to fund anticipated capital and operating requirements.  DTE Energy expects that cash from operations in 2026 will be approximately $3.9 billion.  DTE Energy anticipates base level utility capital investments, including environmental, renewable, and expenditures for non-utility businesses of approximately $6.8 billion in 2026.  DTE Energy plans to seek regulatory approval to include utility capital expenditures in regulatory rate base consistent with prior treatment.  Capital spending for growth of existing or new non-utility businesses will depend on the existence of opportunities that meet strict risk-return and value creation criteria.
+Refer below for analysis of cash flows relating to operating, investing, and financing activities, which reflect DTE Energy's change in financial condition.  Any significant non-cash items are included in the Supplemental disclosure of non-cash investing and financing activities within the Consolidated Statements of Cash Flows.
+2025
+2024
+2023
+(In millions)
+Cash, Cash Equivalents, and Restricted Cash at Beginning of Period
+$
+88
+
+$
+51 
+$
+43 
+Net cash from operating activities
+3,409
+
+37 
+8 
+Cash, Cash Equivalents, and Restricted Cash at End of Period
+$
+250
+
+$
+88 
+$
+51 
+Cash from Operating Activities
+A majority of DTE Energy's operating cash flows are provided by the electric and natural gas utilities, which are significantly influenced by factors such as weather, electric retail access, regulatory deferrals, regulatory outcomes, economic conditions, changes in working capital, and operating costs.
+Net cash from operations decreased $234 million in 2025.  The reduction was primarily due to lower cash from working capital items, partially offset by an increase in Depreciation and amortization and an increase in Deferred income taxes.
+The change in working capital items in 2025 was primarily due to decreases in cash related to Accounts receivable, net, Regulatory assets and liabilities, and Other current and noncurrent assets and liabilities, partially offset by increases in cash related to Accounts payable, Accrued pension liability, and Accrued postretirement liability.
+42
+Table of 
+Contents
+Net cash from operations increased $423 million in 2024.  The increase was primarily due to higher cash from working capital items and an increase in Depreciation and amortization, partially offset by a decrease in cash related to Allowance for equity funds used during construction.
+The change in working capital items in 2024 was primarily due to an increase in cash related to Accounts payable, Derivative assets and liabilities, and Other current and noncurrent assets and liabilities, partially offset by a decrease in cash related to Accounts receivable net, Inventories, Accrued pension liability, and Accrued postretirement liability.
+Cash used for Investing Activities
+Cash inflows associated with investing activities are primarily generated from the sale of assets, while cash outflows are the result of plant and equipment expenditures and acquisitions.  In any given year, DTE Energy looks to realize cash from under-performing or non-strategic assets or matured, fully valued assets.
+Capital spending within the utility businesses is primarily to maintain and improve electric generation and the electric and natural gas distribution infrastructure, and to comply with environmental regulations and renewable energy goals.
+Capital spending within the non-utility businesses is primarily for ongoing maintenance, expansion, and growth.  DTE Energy looks to make growth investments that meet strict criteria in terms of strategy, management skills, risks, and returns.  All new investments are analyzed for their rates of return and cash payback on a risk adjusted basis.  DTE Energy has been disciplined in how it deploys capital and will not make investments unless they meet the criteria.  For new business lines, DTE Energy initially invests based on research and analysis.  DTE Energy starts with a limited investment, evaluates the results, and either expands or exits the business based on those results.  In any given year, the amount of growth capital will be determined by the underlying cash flows of DTE Energy, with a clear understanding of any potential impact on its credit ratings.
+Net cash used for investing activities increased $353 million in 2025 primarily due to the Acquisition, net of cash acquired and an increase in cash used related to Investment in notes receivable.
+Net cash used for investing activities increased $856 million in 2024 primarily due to increases in utility plant and equipment expenditures and an increase in cash used related to Investment in notes receivable.
+Cash from Financing Activities
+DTE Energy relies on both short-term borrowing and long-term financing as a source of funding for capital requirements not satisfied by its operations.
+DTE Energy's strategy is to have a targeted debt portfolio blend of fixed and variable interest rates and maturity.  DTE Energy targets balance sheet financial metrics to ensure it is consistent with the objective of a strong investment grade debt rating.
+Net cash from financing activities increased $712 million in 2025.  The increase was primarily due to an increase in cash related to less Redemption of long-term debt, partially offset by a decrease in Issuance of long-term debt, net of issuance costs.
+Net cash from financing activities increased $462 million in 2024.  The increase was primarily due an increase in Issuance of long-term debt, net of issuance costs, partially offset by decreases in cash related to Redemption of long-term debt and Short-term borrowings, net.
+Outlook
+Sources of Cash
+DTE Energy expects cash flows from operations to increase over the long-term, primarily as a result of growth from the utility and non-utility businesses.  Growth in the utilities is expected to be driven primarily by capital spending which will increase the base from which rates are determined.  Further, the current tax laws allow for extended tax benefits for renewable technologies, including PTCs and ITCs.  DTE Electric expects to continue to monetize these tax credits to generate cash flows in the near-term.  DTE Energy expects long-term growth in sales related to vehicle electrification, but no significant impacts in the near-term.  Non-utility growth is expected from additional investments in the DTE Vantage segment, primarily related to renewable energy and custom energy solutions, while expanding into carbon capture and sequestration.  DTE Vantage also expects enhanced growth opportunities in decarbonization, including tax credits for renewable natural gas and carbon capture projects.
+43
+Table of 
+Contents
+DTE Energy's utilities may be impacted by the timing of collection or refund of various recovery and tracking mechanisms as a result of timing of MPSC orders.  Energy prices are likely to be a source of volatility with regard to working capital requirements for the foreseeable future.  DTE Energy continues its efforts to identify opportunities to improve cash flows through working capital initiatives and maintaining flexibility in the timing and extent of long-term capital projects.
+In December 2025, DTE Energy filed a prospectus supplement and executed an Equity Distribution Agreement, pursuant to which DTE Energy may sell, from time to time, up to an aggregate $1.5 billion of its common stock through an at-the-market program, including an equity forward sales component.  As of December 31, 2025, DTE Energy did not enter into any sales under the ATM Program.
+At the discretion of management and depending upon economic and financial market conditions, DTE Energy expects to issue $500 million to $600 million of equity in 2026.  DTE Energy anticipates these discretionary equity issuances would be made through the at-the-market equity issuance program and/or contributions to the dividend reinvestment plan and/or employee incentive and benefit plans.
+Over the long-term, additional equity issuances of $500 million to $600 million will be needed in 2027 and 2028 to support long-term growth.  DTE Energy will continue to evaluate equity needs on an annual basis.  DTE Energy currently expects its primary source of long-term financing to be the issuance of debt and is monitoring changes in interest rates and impacts on the cost of borrowing.
+Uses of Cash
+DTE Energy has $1.4 billion in long-term debt, including securitization bonds and finance leases, maturing in the next twelve months.  Repayment of the debt is expected to be made through internally generated funds and the issuance of short-term and/or long-term debt.
+DTE Energy has paid quarterly cash dividends for more than 100 consecutive years and expects to continue paying regular cash dividends in the future, including approximately $1.0 billion in 2026.  Any payment of future dividends is subject to approval by the Board of Directors and may depend on DTE Energy's future earnings, capital requirements, and financial condition.  Over the long-term, DTE Energy expects continued dividend growth and is targeting a payout ratio consistent with pure-play utility companies.  Dividends are subject to certain restrictions as discussed in Note 16 to the Consolidated Financial Statements, "Short-Term Credit Arrangements and Borrowings."  However, these restrictions are not expected to impact DTE Energy's planned dividend payments.
+Various subsidiaries and equity investees of DTE Energy have entered into derivative and non-derivative contracts which contain ratings triggers and are guaranteed by DTE Energy.  These contracts contain provisions which allow the counterparties to require that DTE Energy post cash or letters of credit as collateral in the event that DTE Energy's credit rating is downgraded below investment grade.  Certain of these provisions (known as "hard triggers") state specific circumstances under which DTE Energy can be required to post collateral upon the occurrence of a credit downgrade, while other provisions (known as "soft triggers") are not as specific.  For contracts with soft triggers, it is difficult to estimate the amount of collateral which may be requested by counterparties and/or which DTE Energy may ultimately be required to post.  The amount of such collateral which could be requested fluctuates based on commodity prices (primarily natural gas, power, and environmental) and the provisions and maturities of the underlying transactions.  As of December 31, 2025, DTE Energy's contractual obligation to post collateral in the form of cash or letters of credit in the event of a downgrade to below investment grade, under both hard trigger and soft trigger provisions, was $483 million.
+For cash obligations related to leases and future purchase commitments, refer to Note 17 and Note 18 to the Consolidated Financial Statements, "Leases." and "Commitments and Contingencies," respectively.  Purchase commitments include capital expenditures that are contractually obligated.  Also refer to the "Capital Investments" section above for additional information on DTE Energy's capital strategy and estimated spend over the next five years.
+44
+Table of 
+Contents
+Other obligations are further described in the following Combined Notes to the Consolidated Financial Statements:
+Note
+Title
+1
+Organization and Basis of Presentation
+8
+Asset Retirement Obligations
+9
+Regulatory Matters
+10
+Income Taxes
+13
+Financial and Other Derivative Instruments
+14
+Long-Term Financings
+16
+Short-Term Credit Arrangements and Borrowings
+18
+Commitments and Contingencies
+20
+Retirement Benefits and Trusteed Assets
+21
+Stock-Based Compensation
+Liquidity
+DTE Energy has approximately $2.4 billion of available liquidity at December 31, 2025, consisting primarily of cash and cash equivalents and amounts available under unsecured revolving credit agreements.
+DTE Energy believes it will have sufficient operating flexibility, cash resources and funding sources to maintain adequate liquidity and to meet future operating cash and capital expenditure needs.  However, virtually all DTE Energy's businesses are capital intensive, or require access to capital, and the inability to access adequate capital could adversely impact earnings and cash flows.
+Credit Ratings
+Credit ratings are intended to provide banks and capital market participants with a framework for comparing the credit quality of securities and are not a recommendation to buy, sell, or hold securities.  DTE Energy, DTE Electric, and DTE Gas' credit ratings affect their costs of capital and other terms of financing, as well as their ability to access the credit and commercial paper markets.  DTE Energy, DTE Electric, and DTE Gas' management believes that the current credit ratings provide sufficient access to capital markets.  However, disruptions in the banking and capital markets not specifically related to DTE Energy, DTE Electric, and DTE Gas may affect their ability to access these funding sources or cause an increase in the return required by investors.
+As part of the normal course of business, DTE Electric, DTE Gas, and various non-utility subsidiaries of DTE Energy routinely enter into physical or financially settled contracts for the purchase and sale of electricity, natural gas, coal, capacity, storage, and other energy-related products and services.  Certain of these contracts contain provisions which allow the counterparties to request that DTE Energy posts cash or letters of credit in the event that the senior unsecured debt rating of DTE Energy is downgraded below investment grade.  The amount of such collateral which could be requested fluctuates based upon commodity prices and the provisions and maturities of the underlying transactions and could be substantial.  Also, upon a downgrade below investment grade, DTE Energy, DTE Electric, and DTE Gas could have restricted access to the commercial paper market, and if DTE Energy is downgraded below investment grade, the non-utility businesses could be required to restrict operations due to a lack of available liquidity.  A downgrade below investment grade could potentially increase the borrowing costs of DTE Energy, DTE Electric, and DTE Gas and their subsidiaries and may limit access to the capital markets.  The impact of a downgrade will not affect DTE Energy, DTE Electric, and DTE Gas' ability to comply with existing debt covenants.  While DTE Energy, DTE Electric, and DTE Gas currently do not anticipate such a downgrade, they cannot predict the outcome of current or future credit rating agency reviews.
+45
+Table of 
+Contents
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of the Registrants' Consolidated Financial Statements in conformity with generally accepted accounting principles requires that management apply accounting policies and make estimates and assumptions that affect the results of operations and the amounts of assets and liabilities reported in the Consolidated Financial Statements.  The Registrants' management believes that the areas described below require significant judgment in the application of accounting policy or in making estimates and assumptions in matters that are inherently uncertain and that may change in subsequent periods.  Additional discussion of these accounting policies can be found in the Combined Notes to Consolidated Financial Statements in Item 8 of this Report.
+Regulation
+A significant portion of the Registrants' businesses are subject to regulation.  This results in differences in the application of generally accepted accounting principles between regulated and non-regulated businesses.  DTE Electric and DTE Gas are required to record regulatory assets and liabilities for certain transactions that would have been treated as revenue or expense in non-regulated businesses.  Future regulatory changes or changes in the competitive environment could result in the discontinuance of this accounting treatment for regulatory assets and liabilities for some or all of the Registrants' businesses.  The Registrants' management believes that currently available facts support the continued use of regulatory assets and liabilities and that all regulatory assets and liabilities are recoverable or refundable in the current rate environment.
+See Note 9 to the Consolidated Financial Statements, "Regulatory Matters."
+Derivatives
+Derivatives are generally recorded at fair value and shown as Derivative assets or liabilities.  Changes in the fair value of the derivative instruments are recognized in earnings in the period of change.  The normal purchases and normal sales exception requires, among other things, physical delivery in quantities expected to be used or sold over a reasonable period in the normal course of business.  Contracts that are designated as normal purchases and normal sales are not recorded at fair value.  Substantially all of the commodity contracts entered into by DTE Electric and DTE Gas meet the criteria specified for this exception.
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date in a principal or most advantageous market.  Fair value is a market-based measurement that is determined based on inputs, which refer broadly to assumptions that market participants use in pricing assets or liabilities.  These inputs can be readily observable, market corroborated, or generally unobservable inputs.  The Registrants make certain assumptions they believe that market participants would use in pricing assets or liabilities, including assumptions about risk, and the risks inherent in the inputs to valuation techniques.  Credit risk of the Registrants and their counterparties is incorporated in the valuation of assets and liabilities through the use of credit reserves, the impact of which was immaterial at December 31, 2025 and 2024.  The Registrants believe they use valuation techniques that maximize the use of observable market-based inputs and minimize the use of unobservable inputs.
+The fair values the Registrants calculate for their derivatives may change significantly as inputs and assumptions are updated for new information.  Actual cash returns realized on derivatives may be different from the results the Registrants estimate using models.  As fair value calculations are estimates based largely on commodity prices, the Registrants perform sensitivity analyses on the fair values of forward contracts.  See the sensitivity analysis in Item 7A. of this report, "Quantitative and Qualitative Disclosures About Market Risk."  See also the "Fair Value" section herein.
+See Notes 12 and 13 to the Consolidated Financial Statements, "Fair Value" and "Financial and Other Derivative Instruments," respectively.
+Goodwill
+DTE Energy's reporting units have goodwill or allocated goodwill resulting from business combinations.  DTE Energy performs an impairment test for each of the reporting units annually or whenever events or circumstances indicate that the value of goodwill may be impaired.
+In performing the impairment test, DTE Energy compares the fair value of the reporting unit to its carrying value including goodwill.  If the carrying value including goodwill were to exceed the fair value of a reporting unit, an impairment loss would be recognized.  A goodwill impairment loss is measured as the amount by which a reporting unit's carrying value exceeds fair value, not to exceed the carrying amount of goodwill.
+46
+Table of 
+Contents
+DTE Energy estimates the reporting unit's fair value using standard valuation techniques, including techniques which use estimates of projected future results and cash flows to be generated by the reporting unit.  For all reporting units except Energy Trading, the fair values were calculated using a weighted combination of the income approach, which estimates fair value based on discounted cash flows, and the market approach, which estimates fair value based on market comparables within the utility and energy industries.  For the Energy Trading reporting unit, only the income approach was used due to the lack of comparable market information.
+Discounted cash flows used in the income approach are based on DTE Energy's internal business plan for the next five years plus a terminal value.  DTE Energy capitalizes the terminal value for each reporting unit using a weighted average cost of capital (WACC) less an assumed long-term growth rate.  The income approach cash flow valuations involve a number of estimates that require broad assumptions and significant judgment by management regarding future performance. 
+One of the most significant assumptions utilized in determining the fair value of reporting units under the market approach is implied market multiples for certain peer companies.  Management selects comparable peers based on each peer’s primary business mix, operations, and market capitalization compared to the applicable reporting unit and calculates implied market multiples based on available projected earnings guidance and peer company market values as of the test date. 
+DTE Energy performs an annual impairment test each October.  In between annual tests, DTE Energy monitors its estimates and assumptions regarding estimated future cash flows, including the impact of movements in market indicators in future quarters, and will update the impairment analyses if a triggering event occurs.  While DTE Energy believes the assumptions are reasonable, actual results may differ from projections.  To the extent projected results or cash flows are revised downward, the reporting unit may be required to write down all or a portion of its goodwill, which would adversely impact DTE Energy's earnings.
+DTE Energy performed its annual impairment test as of October 1, 2025.  In estimating fair value for the income approach, DTE Energy used discounted rates ranging from 6.1% to 8.9%.  Based on the weighting of the estimated fair value using an income and market approach, DTE Energy determined that the estimated fair value of each reporting unit substantially exceeded its carrying value, and no impairment existed.
+Long-Lived Assets
+The Registrants evaluate the carrying value of long-lived assets, excluding goodwill, when circumstances indicate that the carrying value of those assets may not be recoverable.  Conditions that could have an adverse impact on the cash flows and fair value of the long-lived assets are deteriorating business climate, condition of the asset, or plans to dispose of the asset before the end of its useful life.  The review of long-lived assets for impairment requires significant assumptions about operating strategies and estimates of future cash flows, which require assessments of current and projected market conditions.  An impairment evaluation is based on an undiscounted cash flow analysis at the lowest level for which independent cash flows of long-lived assets can be identified from other groups of assets and liabilities.  Impairment may occur when the carrying value of the asset exceeds the future undiscounted cash flows.  When the undiscounted cash flow analysis indicates a long-lived asset is not recoverable, the amount of the impairment loss is determined by measuring the excess of the long-lived asset over its fair value.  An impairment would require the Registrants to reduce both the long-lived asset and current period earnings by the amount of the impairment, which would adversely impact their earnings.
+Pension and Other Postretirement Costs
+DTE Energy sponsors both funded and unfunded defined benefit pension plans and other postretirement benefit plans for eligible employees of the Registrants.  The measurement of the plan obligations and cost of providing benefits under these plans involve various factors, including numerous assumptions and accounting elections.  When determining the various assumptions that are required, DTE Energy considers historical information as well as future expectations.  The benefit costs are affected by, among other things, the actual rate of return on plan assets, the long-term expected return on plan assets, the discount rate applied to benefit obligations, the incidence of mortality, the expected remaining service period of plan participants, level of compensation and rate of compensation increases, employee age, length of service, the anticipated rate of increase of health care costs, benefit plan design changes, and the level of benefits provided to employees and retirees.  Pension and other postretirement benefit costs attributed to the segments are included with labor costs and ultimately allocated to projects within the segments, some of which are capitalized.
+47
+Table of 
+Contents
+DTE Energy had pension expense of $60 million in 2025.  DTE Energy had pension credits of  $18 million, and $69 million in 2024, and 2023 respectively.  Other postretirement benefit credits were $39 million in 2025, $44 million in 2024, and $38 million in 2023.  Pension expense and other postretirement benefit credits for 2025 were calculated based upon several actuarial assumptions, including an expected long-term rate of return on plan assets of 7.80% for the pension plans and 7.50% for the other postretirement benefit plans.  In developing the expected long-term rate of return assumptions, DTE Energy evaluated asset class risk and return expectations, as well as inflation assumptions.  Projected returns are based on broad equity, bond, and other markets.  DTE Energy's 2026 expected long-term rate of return on pension plan assets is based on an asset allocation assumption utilizing active and passive investment management of 15% in equity markets, 57% in fixed income markets - including long duration bonds, and 28% invested in other assets.  DTE Energy's 2026 expected long-term rate of return on other postretirement plan assets is based on an asset allocation assumption utilizing active and passive investment management of 7% in equity markets, 62% in fixed income markets - including long duration bonds, and 31% invested in other assets.  Because of market volatility, DTE Energy periodically reviews the asset allocation and rebalances the portfolio when considered appropriate.  DTE Energy is maintaining its long-term rate of return assumption for the pension plans of 7.80% and decreasing the other postretirement plans to 7.40% for 2026.  DTE Energy believes these rates are reasonable assumptions for the long-term rates of return on the plans' assets for 2026 given their respective asset allocations and DTE Energy's capital market expectations.  DTE Energy will continue to evaluate the actuarial assumptions, including its expected rate of return, at least annually.
+DTE Energy calculates the expected return on pension and other postretirement benefit plan assets by multiplying the expected return on plan assets by the market-related value (MRV) of plan assets at the beginning of the year, taking into consideration anticipated contributions and benefit payments that are to be made during the year.  Current accounting rules provide that the MRV of plan assets can be either fair value or a calculated value that recognizes changes in fair value in a systematic and rational manner over not more than five years.  For the pension plans, DTE Energy uses a calculated value when determining the MRV of the pension plan assets and recognizes changes in fair value over a three-year period.  Accordingly, the future value of assets will be impacted as previously deferred gains or losses are recognized.  As of December 31, 2025, DTE Energy had $32 million of cumulative losses related to investment performance in prior years that were not yet recognized in the calculation of the MRV of pension assets.  For other postretirement benefit plans, DTE Energy uses fair value when determining the MRV of plan assets; therefore, all investment gains and losses have been recognized in the calculation of MRV for these plans.
+The discount rate that DTE Energy utilizes for determining future pension and other postretirement benefit obligations is based on a yield curve approach and a review of bonds that receive one of the two highest ratings given by a recognized rating agency.  The yield curve approach matches projected pension plan and other postretirement benefit payment streams with bond portfolios reflecting actual liability duration unique to the plans.  The discount rate determined on this basis was 5.43% for both the pension plans and other postretirement plans at December 31, 2025 compared to 5.65% for the pension plans and 5.66% for other postretirement plans at December 31, 2024.
+DTE Energy last changed the mortality assumptions as of December 31,2024 to reflect recent plan experience.  The mortality assumptions used at December 31, 2025 are the PRI-2012 mortality table projected using Scale MP-2021,  with generational projection.  The base mortality tables vary by type of plan, employee's union status and employment status, with additional adjustments to reflect the actual experience and credibility of each population.
+DTE Energy estimates a total pension cost of approximately $70 million for 2026, compared to the cost of $60 million in 2025.  The expected change is primarily related to lower discount rates, partially offset by higher than expected asset returns.    The 2026 other postretirement benefit credit is estimated at approximately $40 million, comparable to the credit of $39 million in 2025.
+The health care trend rates for DTE Energy assume 8.25% for pre-65 participants and 8.75% for post-65 participants for 2026, trending down to 4.50% for both pre-65 and post-65 participants in 2036.
+Future actual pension and other postretirement benefit costs or credits will depend on future investment performance, changes in future discount rates, and various other factors related to plan design.
+48
+Table of 
+Contents
+Lowering the expected long-term rate of return on the plan assets by one percentage point would have increased the 2025 pension expense by approximately $37 million.  Lowering the discount rate and the salary increase assumptions by one percentage point would have increased the 2025 pension expense by approximately $19 million.  Lowering the expected long-term rate of return on plan assets by one percentage point would have decreased the 2025 other postretirement credit by approximately $16 million.  Lowering the discount rate and the salary increase assumptions by one percentage point would have decreased the 2025 other postretirement credit by approximately $6 million.
+The value of the qualified pension and other postretirement benefit plan assets was $5.4 billion at December 31, 2025 and $5.3 billion at December 31, 2024.  At December 31, 2025, DTE Energy's qualified pension plans were underfunded by $127 million and its other postretirement benefit plans were over-funded by $513 million.  In 2025, the funded status of the pension plans decreased slightly due to a combination of negative plan experience and lower discount rates offset partially by higher than expected asset returns, and the funded status of the other postretirement benefit plans improved due to a combination of lower assumed future health care costs and higher than expected asset returns.
+Pension and other postretirement costs and pension cash funding requirements may increase in future years without typical returns in the financial markets.  Any required pension funding will be made by contributing amounts consistent with the provisions of the Pension Protection Act of 2006.  DTE Energy made nominal contributions to its qualified pension plans in 2025 and 2024 and does not anticipate making any material contributions in 2026.  DTE Gas transferred $25 million of qualified pension plan funds to DTE Electric in 2025 in exchange for cash consideration.  At the discretion of management and depending on financial market conditions, DTE Gas anticipates transferring up to $25 million of qualified pension plan funds to DTE Electric annually for the next five years in exchange for cash consideration.  DTE Energy did not make other postretirement benefit plan contributions in 2025 or 2024 and does not anticipate making any contributions to the other postretirement plans over the next five years.  All planned contributions will be at the discretion of management and subject to any changes in financial market conditions.  
+See Note 20 to the Consolidated Financial Statements, "Retirement Benefits and Trusteed Assets."
+Legal Reserves
+The Registrants are involved in various legal proceedings, claims, and litigation arising in the ordinary course of business.  The Registrants regularly assess their liabilities and contingencies in connection with asserted or potential matters and establish reserves when appropriate.  Legal reserves are based upon the Registrants' management’s assessment of pending and threatened legal proceedings and claims against the Registrants.
+Accounting for Tax Obligations
+The Registrants are required to make judgments regarding the potential tax effects of various financial transactions and results of operations in order to estimate their obligations to taxing authorities.  The Registrants account for uncertain income tax positions using a benefit recognition model with a two-step approach, a more-likely-than-not recognition criterion, and a measurement attribute that measures the position as the largest amount of tax benefit that is greater than 50% likely of being realized upon ultimate settlement.  If the benefit does not meet the more likely than not criteria for being sustained on its technical merits, no benefit will be recorded.  Uncertain tax positions that relate only to timing of when an item is included on a tax return are considered to have met the recognition threshold.  The Registrants also have non-income tax obligations related to property, sales and use, and employment-related taxes, and ongoing appeals related to these tax matters.
+Accounting for tax obligations requires judgments, including assessing whether tax benefits are more likely than not to be sustained, and estimating reserves for potential adverse outcomes regarding tax positions that have been taken.  The Registrants also assess their ability to utilize tax attributes, including those in the form of carry-forwards, for which the benefits have already been reflected in the Consolidated Financial Statements.  The Registrants believe the resulting tax reserve balances as of December 31, 2025 and 2024 are appropriate.  The ultimate outcome of such matters could result in favorable or unfavorable adjustments to the Registrants' Consolidated Financial Statements, and such adjustments could be material.
+See Note 10 to the Consolidated Financial Statements, "Income Taxes."
+49
+Table of 
+Contents
+NEW ACCOUNTING PRONOUNCEMENTS
+See Note 3 to the Consolidated Financial Statements, "New Accounting Pronouncements."
+FAIR VALUE
+Derivatives are generally recorded at fair value and shown as Derivative assets or liabilities.  Contracts DTE Energy typically classifies as derivative instruments include power, natural gas, some environmental contracts, and certain forwards, futures, options and swaps, and foreign currency exchange contracts.  Items DTE Energy does not generally account for as derivatives include natural gas and environmental inventory, pipeline transportation contracts, storage assets, and some environmental contracts.  See Notes 12 and 13 to the Consolidated Financial Statements, "Fair Value" and "Financial and Other Derivative Instruments," respectively.
+The tables below do not include the expected earnings impact of non-derivative natural gas storage, transportation, certain power contracts, and some environmental contracts which are subject to accrual accounting.  Consequently, gains and losses from these positions may not match with the related physical and financial hedging instruments in some reporting periods, resulting in volatility in the Registrants' reported period-by-period earnings; however, the financial impact of the timing differences will reverse at the time of physical delivery and/or settlement.
+The Registrants manage their MTM risk on a portfolio basis based upon the delivery period of their contracts and the individual components of the risks within each contract.  Accordingly, the Registrants record and manage the energy purchase and sale obligations under their contracts in separate components based on the commodity (e.g. electricity or natural gas), the product (e.g. electricity for delivery during peak or off-peak hours), the delivery location (e.g. by region), the risk profile (e.g. forward or option), and the delivery period (e.g. by month and year).
+The Registrants have established a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value in three broad levels.  The fair value hierarchy gives the highest priority to quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3).  For further discussion of the fair value hierarchy, see Note 12 to the Consolidated Financial Statements, "Fair Value."
+The following table provides details on changes in DTE Energy's MTM net asset (or liability) position:
+Total
+(In millions)
+MTM at December 31, 2024
+$
+72 
+Reclassified to realized upon settlement
+(369)
+Changes in fair value recorded to income
+373 
+Amounts recorded to unrealized income
+4 
+Changes in fair value recorded in Regulatory liabilities
+19 
+Amounts recorded in other comprehensive income, pretax
+(17)
+Change in collateral
+(13)
+Purchases
+15 
+MTM at December 31, 2025
+$
+80
+
+50
+Table of 
+Contents
+The table below shows the maturity of DTE Energy's MTM positions.  The positions from 2029 and beyond principally represent longer tenor gas structured transactions:
+Source of Fair Value
+2026
+2027
+2028
+2029 and Beyond
+Total Fair Value
+(In millions)
+Level 1
+$
+10 
+$
+10 
+$
+(6)
+$
+(1)
+$
+13 
+Level 2
+25 
+38 
+10 
+5 
+78 
+Level 3
+34 
+(29)
+(3)
+17 
+19 
+MTM before collateral adjustments
+$
+69 
+$
+19 
+$
+1 
+$
+21 
+110 
+Collateral adjustments
+(30)
+MTM at December 31, 2025
+$
+80
+
+[SOURCE: Net Zero Tracker]
+
+Entity: DTE Energy
+Industry: nan
+End target: Net zero
+  Target year: 2050.0
+  % reduction: nan
+  Baseline year: 2005.0
+  Status: In corporate strategy
+  Target description: “Net zero carbon emissions of electricity delivered to DTE Electric customers and net zero carbon emissions for DTE Gas operations & supplied gas by 2050 (from 2005 baseline); interim milestones …”
+https://web.archive.org/web/20251215013610/https://s24.q4cdn.com/970999156/files/doc_downloads/2025/10/2024ESGReport.pdf
+Interim target: Emissions reduction target
+  Interim year: 2028.0
+  Interim % reduction: 65.0
+  Interim description: DTE’s sustainability table: “Reduction in carbon emissions generated from stationary equipment used in the production of electricity delivered to DTE Electric customers — Scope 1 — 65% (2028), 85% (2032), 90% (2040) from 2005 baseline.” Gas interim targets described in the Gas decarbonization section.
+Published transition plan: Yes
+Reporting mechanism: Annual reporting
+Accountability/governance: Yes
+Race to Zero member: No
+Scopes covered: 1=Yes, 2=Yes, 3=Yes
+Source URL: https://web.archive.org/web/20251215013610/https://s24.q4cdn.com/970999156/files/doc_downloads/2025/10/2024ESGReport.pdf

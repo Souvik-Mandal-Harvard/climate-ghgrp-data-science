@@ -1,0 +1,68 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+Operating revenues from consumer products increased 7.1% in 2024 to $8.4 billion compared to 2023, reflecting a volume increase of 16.2% and lower average revenue per car/unit. The volume increase was primarily due to higher intermodal shipments from West Coast imports and volumes from a new intermodal customer.
+
+Operating revenues from industrial products declined 1.2% in 2024 to $5.1 billion from 2023, reflecting a decline of 1.6% in volume, partially offset by higher average revenue per car/unit. The volume decline was primarily due to lower aggregates, taconite, minerals and waste shipments, substantially offset by higher plastics and petroleum products volumes.
+Operating revenues from agricultural and energy products increased 4.0% to $6.4 billion in 2024 compared to 2023, attributable to a volume increase of 7.7%, partially offset by lower average revenue per car/unit. The volume increase was primarily due to higher grain, renewable fuels and fertilizer shipments.
+Operating revenues from coal decreased 22.5% to $2.9 billion in 2024 compared to 2023. The decrease was attributable to a volume decrease of 17.9% and lower average revenue per car/unit. The volume decline was primarily due to lower natural gas prices.
+
+Railroad operating expenses were $15.9 billion in 2024, a decrease of $173 million (1.1%) compared to 2023. The operating ratio declined 0.4 percentage points to 68.0% in 2024 versus 2023. Railroad compensation and benefits expenses increased $356 million (6.5%) in 2024 compared to 2023, primarily due to the $290 million charge related to the SMART-TD labor union agreement that was finalized in December 2024. The agreement allows BNSF the ability to redeploy brakepersons to conductors and engineers, which will permit BNSF to meet short-term hiring demands. Fuel expenses declined $417 million (11.3%) compared to 2023, primarily due to lower average fuel prices, partially offset by higher volumes. Railroad purchased services, equipment rents, materials and other expenses declined $126 million (3.0%), primarily due to cost reductions across numerous spend categories and lower property taxes, partially offset by a litigation charge in 2024 related to an ongoing legal case with the Swinomish Tribe.
+BHE
+
+Berkshire Hathaway Energy Company (“BHE”) is a holding company with subsidiaries that primarily operate within the energy industry. BHE’s domestic regulated utility interests include PacifiCorp, MidAmerican Energy Company (“MEC”) and NV Energy. BHE’s natural gas pipelines consist of five domestic regulated interstate natural gas pipeline systems and a 75% interest in a liquefied natural gas export, import and storage facility. Other energy subsidiaries operate two regulated electricity distribution businesses in Great Britain (“Northern Powergrid”), a regulated electricity transmission-only business in Alberta, Canada, and a diversified portfolio of mostly renewable power projects and investments. Another BHE subsidiary, HomeServices of America, Inc. (“HomeServices”), operates a residential real estate brokerage business and a residential real estate brokerage franchise business in the United States.
+
+BHE
+The rates BHE’s regulated utility and energy businesses charge customers for energy and services are largely based on the costs of business operations, including income taxes and a return on capital, and are subject to regulatory approval. To the extent such costs are not allowed in the approved rates, operating results will be adversely affected. A summary of BHE’s net earnings follows (dollars in millions).
+
+BHE’s income tax benefit includes significant production tax credits primarily from wind-powered electricity generation. On July 4, 2025, the One Big Beautiful Bill Act (the “OBBBA”) was enacted, introducing substantial revisions to energy-related U.S. federal tax policy. Among its provisions, the OBBBA accelerates the phase-out of clean electricity production and investment tax credits and establishes new sourcing requirements applicable to facilities commencing construction after December 31, 2025.
+
+Although the OBBBA did not have a material impact on BHE’s 2025 financial results, BHE’s future financial results and capital expenditures related to renewable energy, storage and technology neutral projects, including the potential impact on the economics and viability of such projects, may be affected by the combined effects of the OBBBA and broader macroeconomic and geopolitical conditions, including changes in international trade policies and tariff regimes. However, BHE currently does not believe these items will significantly impact its business in the near term.
+Net earnings attributable to noncontrolling interests and preferred stock dividends include earnings attributable to non-Berkshire owners of BHE common stock and dividends on preferred stock held by other Berkshire subsidiaries. All remaining noncontrolling interests in BHE common stock were acquired in 2024 and the preferred stock was redeemed in 2025.
+
+The discussion of BHE’s operating results that follows is based on after-tax earnings, reflecting how the energy businesses are managed and evaluated. A summary of net earnings attributable to BHE follows (dollars in millions).
+
+The U.S. utilities’ electric utility margin was $8.4 billion in 2025, an increase of $651 million (8.4%) compared to 2024. The increase reflected higher retail customer rates in certain territories, higher retail customer volumes and higher wholesale prices and volumes, partially offset by higher purchased electricity and thermal generation cost of sales. Retail customer volumes increased 2.2% overall (up 9.6% at MEC and 1.3% at PacifiCorp and down 2.2% at NV Energy) in 2025 compared to 2024, primarily due to higher customer usage and an increase in the average number of customers, partially offset by an overall unfavorable impact of weather. The increase in energy operating expenses was primarily due to higher depreciation and amortization expense, insurance expenses and general and plant maintenance costs.
+
+Net earnings of natural gas pipelines declined $81 million in 2025 compared to 2024. The decrease reflected higher interest expense, an increase in operating expenses, decreased margin on gas sales and lower other income, partially offset by higher transportation and storage revenues.
+Net earnings of other energy businesses decreased $159 million in 2025 compared to 2024. The decrease was primarily due to lower earnings at Northern Powergrid, partially offset by higher earnings from the renewable energy business. The decrease at Northern Powergrid was from lower distribution revenues due to lower tariffs from inflation adjustments beginning in the second quarter of 2025 and higher interest expense. Earnings from the renewable energy business increased mainly due to higher pricing and generation at certain projects, partially offset by a lower income tax benefit from owned wind projects mainly due to a decline in production tax credits.
+Net earnings of real estate brokerage businesses increased by $131 million in 2025 compared to 2024, primarily attributable to charges in 2024 with respect to the real estate brokerage industry litigation matters. In April 2024, HomeServices agreed to terms with the plaintiffs to settle all claims asserted against HomeServices and certain of its subsidiaries and effectuated a nationwide class settlement. See Note 27 to the accompanying Consolidated Financial Statements. The real estate brokerage business continues to be negatively impacted by the limited availability of homes for sale and high home prices.
+
+Corporate interest and other net earnings include BHE corporate interest expense and unallocated general and administrative expenses and income taxes.
+
+2024 versus 2023
+Net earnings of the U.S. utilities increased $1.1 billion (116.4%) in 2024 compared to 2023. Pre-tax loss accruals, net of expected insurance recoveries, for the Wildfires were $346 million in 2024 and $1.7 billion in 2023. Otherwise, net earnings in 2024 reflected comparative increases in electric utility margin, income tax benefits from wind production tax credits ($157 million) and other income, partially offset by increases in other energy operating expenses and interest expense.
+
+The U.S. utilities’ electric utility margin was $7.8 billion in 2024, an increase of $274 million (3.6%) compared to 2023. The increase reflected higher retail customer rates in certain territories and higher retail customer volumes, partially offset by higher purchased electricity cost of sales and lower wholesale volumes and prices. Retail customer volumes increased 3.6% overall (up 6.5% at NV Energy, 3.1% at PacifiCorp and 1.2% at MEC) in 2024 compared to 2023, primarily due to increases in customer usage and the average number of customers, partially offset by an overall unfavorable impact of weather. The increase in other energy operating expenses was primarily due to higher vegetation management and other wildfire mitigation costs, insurance expenses and general and plant maintenance costs. Interest expense increased $314 million in 2024 over 2023, largely due to increased borrowings, including $4.4 billion of subsidiary debt issued in January 2024.
+
+BHE
+Net earnings of natural gas pipelines increased $153 million in 2024 compared to 2023. The increase in earnings reflected reductions in earnings attributable to noncontrolling interests, partially offset by the impact of a higher effective income tax rate, due to the acquisition of an additional 50% limited partner interest in Cove Point on September 1, 2023.
+
+Net earnings of other energy businesses increased $310 million in 2024 compared to 2023. The increase was primarily due to higher earnings at Northern Powergrid, partially offset by lower earnings from the renewable energy business. The increase at Northern Powergrid was attributable to higher distribution revenue due to higher tariffs from inflation adjustments and lower income tax expense attributable to charges recognized in 2023 for the U.K. Energy Profits Levy and a group relief tax benefit recognized in 2024, partially offset by unfavorable results from the upstream gas exploration and production business and higher operating expenses. Earnings from the renewable energy business decreased mainly due to lower earnings from wind tax equity investments in 2024 and debt extinguishment gains recognized in 2023.
+Net earnings of real estate brokerage businesses decreased $120 million in 2024 compared to 2023, primarily attributable to charges in connection with the real estate brokerage industry litigation matters. The real estate brokerage business was negatively impacted in 2024 by the limited availability of homes for sale and high home prices.
+
+A summary of revenues and earnings of our manufacturing, service and retailing businesses follows (dollars in millions).
+
+[SOURCE: Net Zero Tracker]
+
+Entity: Berkshire Hathaway
+Industry: Services
+End target: No target
+  Target year: nan
+  % reduction: nan
+  Baseline year: nan
+  Status: nan
+  Target description: nan
+Interim target: No target
+  Interim year: nan
+  Interim % reduction: nan
+  Interim description: nan
+Published transition plan: No
+Reporting mechanism: Annual reporting
+Accountability/governance: Not Specified
+Race to Zero member: No
+Scopes covered: 1=Not Specified, 2=Not Specified, 3=Not Specified
+Source URL: https://web.archive.org/web/20250814124127/https://www.berkshirehathaway.com/2024ar/2024ar.pdf

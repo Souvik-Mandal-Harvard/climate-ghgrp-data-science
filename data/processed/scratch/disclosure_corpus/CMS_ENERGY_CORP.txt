@@ -1,0 +1,1886 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+; and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+Consumers Electric Utility Outlook and Uncertainties
+Energy Supply:
+ Consumers’ Electric Supply Plan, its long-term strategy for delivering safe, reliable, affordable, clean, and equitable energy to its customers, is outlined in its integrated resource plan and incorporates Consumers’ Renewable Energy Plan. The Electric Supply Plan is Consumers’ blueprint for compliance with Michigan’s 2023 Energy Law and for advancing sustainability objectives.
+Among other things, the 2023 Energy Law:
+•
+increased the renewable energy standard from 15 percent to 50 percent by 2030 and 60 percent by 2035
+•
+established a clean energy standard of 80 percent by 2035 and 100 percent by 2040; low- or zero‑carbon emitting resources, such as nuclear generation and natural gas generation coupled with carbon capture, qualify as clean energy sources under this standard
+•
+created a new energy storage standard, requiring electric utilities to file plans by 2029 to help achieve a statewide target of 2,500 MW; the MPSC Staff has indicated that Consumers’ share of this target is 817 MW
+Consumers’ integrated resource planning process provides a clear path toward these goals. Updates to its integrated resource plan will be filed in 2026 to reinforce and expand that pathway, while recent updates to the Renewable Energy Plan—approved by the MPSC in September 2025—position Consumers to achieve 60‑percent renewable energy by 2035 and 100‑percent clean energy by 2040. 
+To meet these objectives, Consumers is executing a multi-faceted strategy:
+•
+Ending the use of coal
+—
+In 2023, Consumers retired the D.E. Karn coal-fueled generating units, totaling 515 MW of nameplate capacity, and as authorized by the MPSC, issued securitization bonds to finance the recovery of and return on those units. Additionally, Consumers obtained MPSC approval to retire J.H. Campbell in May 2025, totaling 1,407 MW of nameplate capacity, and to recover its remaining book value plus a 9.0‑percent return on equity through regulatory asset treatment upon its retirement. As discussed further below, the retirement of J.H. Campbell is subject to temporary extensions under emergency orders issued by the U.S. Secretary of Energy.
+75
+Table of Contents
+•
+Resource adequacy and reliability
+—
+To maintain reliability during the transition, Consumers purchased the Covert Generating Station, representing 1,200 MW of nameplate capacity, in 2023. Additionally, in September 2025, Consumers entered into a new 10‑year PPA with the MCV Partnership for the purchase of up to 1,240 MW of capacity and associated energy from the MCV Facility, effective June 1, 2030.
+•
+Energy storage investments
+—
+Consumers has contracted to purchase 850 MW of capacity from battery storage facilities to be located in Michigan’s Lower Peninsula and with expected commercial operation dates through 2028.
+•
+Renewable expansion
+—
+Recent Renewable Energy Plan updates include up to 4,000 MW of wind energy resources and up to 9,000 MW of both purchased and owned solar energy resources, of which 1,060 MW will support Consumers’ voluntary green pricing program. 
+Presented in the following illustration is the aggregate renewable capacity that Consumers expects to add to its portfolio through PPAs and owned generation under its integrated resource plan, voluntary green pricing program, and Renewable Energy Plan updates:
+The company earns a return equal to its pre-tax weighted-average cost of capital on permanent capital structure for payments under new clean, renewable, or energy storage PPAs with non-affiliated entities. 
+Consumers will continue to competitively bid new capacity and energy resources, ensuring a balanced portfolio of intermittent renewables and dispatchable clean resources. Any resulting contracts are subject to MPSC approval. Through these integrated plans, Consumers is advancing Michigan’s clean energy transition while maintaining system reliability, affordability, and regulatory compliance.
+J.H. Campbell Emergency Orders:
+ In May 2025, before the planned closure of J.H. Campbell, the U.S. Secretary of Energy issued an emergency order under section 202(c) of the Federal Power Act requiring J.H. Campbell to continue operating for 90 days, through August 20, 2025. Subsequently, the 
+76
+Table of Contents
+U.S. Secretary of Energy issued two additional emergency orders for 90 days each, ultimately requiring continued operation of J.H. Campbell through February 17, 2026. These orders stated that continued operation of J.H. Campbell was required to meet an energy emergency across MISO’s North and Central regions. Consistent with the Federal Power Act and DOE regulations, the orders authorize Consumers to obtain cost recovery at FERC. 
+As directed, Consumers has continued to make J.H. Campbell available in the MISO market and, in June 2025, filed a complaint at FERC seeking a modification of the MISO Tariff to establish a mechanism for recovery and allocation of the cost to comply with this order. In August 2025, FERC granted Consumers’ complaint and ordered MISO to revise its tariff accordingly. MISO submitted a compliance filing with FERC in September 2025, and FERC approval of the compliance filing remains pending. For additional discussion of this FERC proceeding and Consumers’ request for recovery, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters. 
+Following the May 2025 emergency order, several third-party stakeholders, including the Michigan Attorney General, the Organization of MISO States, and a group of environmental and public interest groups, asked the U.S. Secretary of Energy to reconsider the May 2025 emergency order. In July 2025, after the U.S. Secretary of Energy took no action on those requests, several parties filed petitions for review of the May 2025 emergency order in federal court. The requests for rehearing were subsequently denied, and similar challenges to the August and November 2025 orders are underway. The U.S. Secretary of Energy may issue more orders to require the continued operation of J.H. Campbell. While the timing and content of future orders and the outcome of third-party legal challenges are not yet known, Consumers is committed to pursuing cost recovery as provided for under applicable laws, orders, and proceedings. 
+Electric Customer Deliveries and Revenue:
+ Consumers’ electric customer deliveries are seasonal and largely dependent on Michigan’s economy. The consumption of electric energy typically increases in the summer months, due primarily to the use of air conditioners and other cooling equipment. In addition, Consumers’ electric rates, which follow a seasonal rate design, are higher in the summer months than in the remaining months of the year. Each year in June, electric residential customers transition to a summer peak time-of-use rate that allows them to take advantage of lower-cost energy during off-peak times during the summer months. Thus, customers can reduce their electric bills by shifting their consumption from on‑peak to off‑peak times.
+Over the next five years, Consumers expects weather-normalized electric deliveries to increase compared to 2025. This outlook reflects strong growth in electric demand, offset partially by the effects of energy waste reduction programs. Actual delivery levels will depend on:
+•
+energy conservation measures and results of energy waste reduction programs
+•
+weather fluctuations
+•
+Michigan’s economic conditions, including data center expansion; utilization, expansion, or contraction of large commercial and industrial facilities; economic development; population trends; electric vehicle adoption; and housing activity
+Electric ROA:
+ Michigan law allows electric customers in Consumers’ service territory to buy electric generation service from alternative electric suppliers in an aggregate amount capped at 10 percent of Consumers’ sales, with certain exceptions. At December 31, 2025, electric deliveries under the ROA program were at the 10‑percent limit. Fewer than 300 of Consumers’ electric customers purchased electric generation service under the ROA program. 
+77
+Table of Contents
+In 2016, Michigan law established a path to ensure that forward capacity is secured for all electric customers in Michigan, including customers served by alternative electric suppliers under ROA. The law also authorized the MPSC to ensure that alternative electric suppliers have procured enough capacity to cover their anticipated capacity requirements for the four
+‑
+year forward period. In 2017, the MPSC issued an order establishing a state reliability mechanism for Consumers. Under this mechanism, if an alternative electric supplier does not demonstrate that it has procured its capacity requirements for the four
+‑
+year forward period, its customers will pay a set charge to the utility for capacity that is not provided by the alternative electric supplier.
+During 2017, the MPSC issued orders finding that it has statutory authority to determine and implement a local clearing requirement, which requires all electric suppliers to demonstrate that a portion of the capacity used to serve customers is located in the MISO footprint in Michigan’s Lower Peninsula. In 2020, the Michigan Supreme Court affirmed the MPSC’s statutory authority to implement a local clearing requirement on individual electric providers.
+In 2020, ABATE and another intervenor filed a complaint against the MPSC in the U.S. District Court for the Eastern District of Michigan challenging the constitutionality of a local clearing requirement. The complaint requested the federal court to issue a permanent injunction prohibiting the MPSC from implementing a local clearing requirement on individual electric providers. In 2023, the U.S. District Court for the Eastern District of Michigan dismissed the complaint. ABATE and the other intervenor filed a claim of appeal of the Eastern District Court’s decision with the U.S. Court of Appeals for the Sixth Circuit. 
+In January 2025, the Sixth Circuit Court of Appeals issued an opinion finding that the MPSC’s imposition of a local clearing requirement on individual electric suppliers would discriminate against interstate commerce. The Court of Appeals remanded to the District Court for a determination of whether the local clearing requirement discriminated against interstate commerce and whether the MPSC’s regulation survives a strict scrutiny standard, which depends on a determination of whether the local clearing requirement is the only means of achieving the state’s goal of securing reliable energy supply. In January 2025, Consumers filed a petition for rehearing and en banc review with the Sixth Circuit Court of Appeals, requesting the Court to reconsider and reverse the panel’s opinion. In February 2025, the Sixth Circuit Court of Appeals issued an order denying Consumers’ petition for rehearing and en banc review. The case has therefore been remanded to the District Court for the Eastern District of Michigan for consideration of whether the MPSC’s local clearing requirement meets the strict scrutiny standard pursuant to the Court of Appeals’ decision. The remanded proceeding has begun at the Eastern District Court; there is no deadline for decision.
+Sale of Hydroelectric Facilities: 
+In September 2025, Consumers signed an agreement to sell its 13 river hydroelectric dams, which are located throughout Michigan, to a non-affiliated company. Additionally, Consumers signed an agreement to purchase power generated by the facilities for 30 years, at a price that reflects the counterparty’s acceptance of the risks and rewards of ownership of the facilities, including FERC licensing obligations. The agreements are contingent upon MPSC and FERC approval, for which Consumers filed in October 2025. Timing of the regulatory review process is uncertain and could extend 12 to 18 months or longer. In Consumers’ most recent electric rate case, the MPSC approved deferred accounting treatment for costs of owning and operating the hydroelectric dams pending and until completion of the transaction. At December 31, 2025, the net book value of the hydroelectric facilities was immaterial.
+To ensure necessary staffing at the hydroelectric facilities through the anticipated sale, Consumers has provided current employees at the facilities with a retention incentive program. Subsequently, to ensure continued safe operation of the facilities after the sale, the buyer will offer employment to the current 
+78
+Table of Contents
+hydroelectric employees for a period of at least a year. The retention incentive benefits are contingent upon MPSC and FERC approval of the sale transaction.
+Electric Rate Matters:
+ Rate matters are critical to Consumers’ electric utility business. For additional details on rate matters, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+MPSC Distribution System Audit:
+ In 2022, the MPSC ordered the state’s two largest electric utilities, including Consumers, to report on their compliance with regulations and past MPSC orders governing the utilities’ response to outages and downed lines. Consumers responded to the MPSC’s order as directed. 
+Additionally, as directed by the MPSC, the MPSC Staff engaged a third‑party auditor to review all equipment and operations of the two utilities’ distribution systems. In September 2024, the MPSC Staff released the third-party auditor’s final report on its audit of Consumers’ distribution system. The report included several recommendations to improve Consumers’ distribution system and associated processes and procedures. Consumers filed a response to the audit report in November 2024. In June 2025, the MPSC issued an order adopting the audit’s findings and recommendations. Consumers is committed to working with the MPSC to continue improving electric reliability and safety in Michigan.
+Performance-based Financial Incentives/Disincentives Mechanism: 
+In February 2025, the MPSC issued an order establishing a mechanism through which the state’s largest electric utilities, including Consumers, could realize up to $10 million each in incentives or penalties annually for meeting or failing to meet reliability benchmarks, beginning in 2026. As directed, Consumers filed proposed company-specific baseline metrics for the performance mechanism in April 2025; the MPSC approved Consumers’ proposed metrics in December 2025. 
+2025 Electric Rate Case: 
+In June 2025, Consumers filed an application with the MPSC seeking a rate increase of $460 million, made up of two components. First, Consumers requested a $436 million annual rate increase, based on a 10.25‑percent authorized return on equity for the projected 12
+‑
+month period ending April 30, 2027. The filing requested authority to recover costs related to new infrastructure investment primarily in distribution system reliability. Second, Consumers requested approval of a $24 million surcharge for the recovery of distribution investments made during the 12 months ended February 28, 2025 that exceeded the rate amounts authorized in accordance with previous electric rate orders. 
+In October 2025, Consumers revised its requested increase to $447 million. Presented in the following table are the components of the revised requested increase in revenue:
+In Millions
+Projected 12-Month Period Ending April 30
+2027
+Investment in rate base
+$
+192 
+Operating and maintenance costs
+157 
+Cost of capital
+67 
+Sales and other revenue
+7 
+Subtotal
+$
+423 
+Surcharge
+24 
+Total
+$
+447 
+The MPSC must issue a final order in this case before or in April 2026.
+79
+Table of Contents
+Large-load Tariff:
+ In November 2025, the MPSC approved changes to Consumers’ standard large‑customer tariff to govern service for new large electricity users such as data centers. Consumers sought these changes to protect existing customers. The changes apply to customers with a minimum service threshold of 100 MW and require a minimum 15‑year contract (beyond the construction period), an 80‑percent minimum demand billing obligation, upfront fees, and strong collateral and exit‑fee protections to ensure these large customers fully cover their own costs of service and do not shift risk or costs to existing customers. Each large-load contract must receive MPSC approval before taking effect. The MPSC also directed Consumers to present multiple cost‑allocation and rate-design options before its next rate case to ensure that large-load customers pay their fair share of system costs going forward.
+Depreciation Rate Case: 
+In December 2025, Consumers filed a depreciation case related to its electric and common utility property. In this case, Consumers requested to increase depreciation expense, and its recovery of that expense of $34 million annually based on December 31, 2024 balances. 
+Retention Incentive Program: 
+The retirement of J.H. Campbell is subject to temporary extensions under emergency orders issued by the U.S. Secretary of Energy. As a result, Consumers has implemented retention measures to ensure appropriate staffing levels and expects to incur up to $4 million during each 90‑day emergency order period. Consumers will seek recovery of these retention costs from FERC, consistent with rate recovery sought for other costs of complying with the emergency orders. For additional details on this program, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 20, Exit Activities and Asset Sales. For additional details on the emergency orders, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters. 
+Electric Environmental Outlook: 
+Consumers’ electric operations are subject to various federal, state, and local environmental laws and regulations. Consumers estimates that it will incur capital expenditures of $245 million from 2026 through 2030 to continue to comply with RCRA, the Clean Air Act, and numerous other environmental regulations. Consumers expects to recover these costs in customer rates, but cannot guarantee this result. Multiple environmental laws and regulations are subject to litigation. Consumers’ primary environmental compliance focus includes, but is not limited to, the following matters.
+Air Quality:
+ Multiple air quality regulations apply, or may apply, to Consumers’ electric utility.
+MATS, emission standards for electric generating units published by the EPA based on Section 112 of the Clean Air Act, continue to apply to Consumers. In June 2025, the EPA issued a proposed rule to repeal changes made to the MATS rule in 2024. The company has complied, and continues to comply, with the MATS regulation and both the 2024 and proposed 2025 versions of MATS have minimal impacts on Consumers’ electric generating units. Consumers does not expect MATS to materially impact its environmental strategy.
+CSAPR requires Michigan and many other states to improve air quality by reducing power plant emissions that, according to EPA modeling, contribute to ground-level ozone in other downwind states. Consumers complies with this regulation and expects it to have minimal financial and operational impact in the near and/or long term.
+In 2015, the EPA lowered the NAAQS for ozone and made it more difficult to construct or modify power plants and other emission sources in areas of the country that do not meet the ozone standard. As of 2023, three counties in western Michigan have been designated as not meeting the ozone standard. Based on recent data, the EPA reclassified these counties from “moderate” to “serious” nonattainment. Additionally, a December 2025 court decision vacated the EPA’s 2023 redesignation of a seven‑county area in southeast Michigan from moderate ozone nonattainment to attainment. None of Consumers’ 
+80
+Table of Contents
+fossil-fuel-fired generating units are located in these areas. Consumers will continue to monitor the impact of the recent court decision on the seven-county area in southeast Michigan, including resulting agency actions, but does not anticipate it will have any impact on Consumers’ generating assets.
+In March 2024, the EPA published a lower fine particulate matter NAAQS, which could result in newly designated nonattainment areas in Michigan starting in 2026. In 2025, EGLE proposed nonattainment areas for Kalamazoo and Wayne counties, with a decision by the EPA expected in 2026. Consumers does not have any fossil-fuel-fired generating assets in these counties and therefore does not expect this rule to have significant impacts on its existing generating assets or its clean energy strategy. Consumers will continue to monitor NAAQS rulemakings and litigation to evaluate potential impacts to its generating assets.
+In January 2026, the EPA published a final rule amending new source performance standards for new, modified, and reconstructed stationary combustion turbines to lower emission limits for NOx. This final rule requires new large simple-cycle turbine units with higher capacity factors to install control equipment for NOx emissions. Consumers is evaluating this rule to determine its impact.
+Consumers continues to evaluate these rules in conjunction with other EPA and EGLE rulemakings, litigation, executive orders, treaties, and congressional actions. This evaluation could result in:
+•
+a change in Consumers’ fuel mix
+•
+changes in the types of generating units Consumers may purchase or build in the future
+•
+changes in how certain units are operated, including the installation of additional emission control equipment
+•
+the retirement, mothballing, extended operation, or repowering with an alternative fuel of some of Consumers’ generating units
+•
+changes in Consumers’ environmental compliance costs
+•
+the purchase or sale of emission allowances
+Greenhouse Gases:
+ There have been numerous legislative, executive, and regulatory initiatives at the state, regional, national, and international levels that involve the potential regulation and reporting of greenhouse gases. Consumers continues to monitor and comment on these initiatives, as appropriate.
+In September 2025, the EPA proposed a rule to reconsider the Greenhouse Gas Reporting Program by eliminating the reporting obligations from numerous emission sources, including Consumers’ electric generation sites and distribution equipment. Reporting of carbon dioxide to the EPA, however, will continue for sources subject to the Clean Air Act Acid Rain Program, which includes Consumers’ fossil-fuel-fired electric generation. This change could result in inconsistent approaches in voluntary greenhouse gas accounting for industrial sources.
+In April 2024, the EPA finalized its rule under Section 111 of the Clean Air Act to address greenhouse gas emissions from new combustion turbine electric generating units and existing coal-, gas-, and oil‑fueled steam electric generating units. These rules do not address existing combustion turbine electric generating units. In June 2025, the EPA issued a proposed rule containing two different pathways to rescind these requirements. Consumers does not expect these proposed changes will have a significant impact on its existing gas- and oil-fueled steam electric generating assets. Consumers will continue to follow the EPA rules that address greenhouse gas emissions and will continue to evaluate potential impacts to its operations. 
+Increased frequency or intensity of severe or extreme weather events, including those due to climate change, could materially impact Consumers’ facilities, energy sales, and results of operations. Consumers is unable to predict these events; however, Consumers evaluates the potential physical impacts of climate 
+81
+Table of Contents
+change on its operations, including increased frequency or intensity of storm activity; increased precipitation; increased temperature; and changes in lake and river levels. Consumers released a report addressing the physical risks of climate change on its infrastructure in 2022. Consumers is taking steps to mitigate these risks as appropriate.
+While Consumers cannot predict the outcome of changes in U.S. policy or of other legislative, executive, or regulatory initiatives involving the potential regulation or reporting of greenhouse gases, it intends to move forward with its compliance with Michigan’s clean energy requirements, its own sustainability goals, and its emphasis on reliable and resilient electric supply. Litigation, international treaties, executive orders, federal laws and regulations (including regulations by the EPA), and state laws and regulations, if enacted or ratified, could ultimately impact Consumers. Consumers may be required to:
+•
+replace equipment
+•
+install additional emission control equipment
+•
+purchase emission allowances or credits (including potential greenhouse gas offset credits)
+•
+curtail operations or modify existing facility retirement schedules
+•
+arrange for alternative sources of supply
+•
+purchase or build facilities that generate fewer emissions
+•
+mothball, sell, or retire facilities that generate certain emissions
+•
+pursue energy efficiency or demand response measures more swiftly
+•
+take other steps to manage, sequester, or lower the emission of greenhouse gases
+Although associated capital or operating costs relating to greenhouse gas regulation or legislation could be material and cost recovery cannot be assured, Consumers expects to recover these costs in rates consistent with the recovery of other reasonable costs of complying with environmental laws and regulations.
+CCRs:
+ In 2015, the EPA published a rule regulating CCRs under RCRA. This rule adopts minimum standards for the disposal of non‑hazardous CCRs in CCR landfills and surface impoundments and criteria for the beneficial use of CCRs. The rule also sets out conditions under which some CCR units would be forced to cease receiving CCRs and related process water and to initiate closure. Due to continued litigation, many aspects of the rule have been remanded to the EPA, resulting in more proposed and final rules.
+In May 2024, the EPA finalized a rule regulating legacy CCR surface impoundments and CCR management units in response to litigation that exempted inactive impoundments at inactive facilities from the 2015 CCR rule. The new rule adopts minimum standards for impoundments at electric generating facilities that became inactive before the 2015 CCR rule’s effective date. During 2024, owners and operators were required to assess whether an inactive facility contains a legacy surface impoundment and then, for identified locations, proceed with the compliance schedule. 
+Additionally, the EPA established groundwater monitoring, corrective action, closure, and post-closure care requirements for CCR surface impoundments and landfills closed prior to the effective date of the 2015 CCR rule, but that do not meet the closure technical and performance standards of the May 2024 rule. These include inactive CCR landfills that were previously exempted from regulation but that are now considered CCR management units. Owners are required to conduct an evaluation at active facilities or any inactive facilities with at least one legacy impoundment to identify CCR management units and determine an appropriate course of action (closure, groundwater treatment, etc.) for each identified unit according to established compliance milestone schedules. In February 2026, the EPA issued a final rule extending the compliance milestone schedule for CCR management units. This extension does not have a material impact on Consumers’ compliance strategy.
+82
+Table of Contents
+Separately, Congress passed legislation in 2016 allowing participating states to develop permitting programs for CCRs under RCRA Subtitle D. The EPA was granted authority to review these permitting programs to determine if permits issued under the proposed program would be as protective as the federal rule. Once approved, permits issued from an authorized state would serve as the basis for compliance, replacing the requirement to self-certify each aspect of the 2015 CCR rule.
+Consumers, with agreement from EGLE, completed the work necessary to initiate closure by excavating CCRs or placing a final cover over each of its relevant CCR units prior to the closure initiation deadline set forth in the 2015 CCR rule. Consumers has historically been authorized to recover in electric rates costs related to coal ash disposal sites that supported power generation. Consumers completed an assessment of inactive facilities as required by the 2024 CCR rule, and did not identify any legacy impoundments. Consumers is continuing evaluations related to CCR management units and 2024 CCR rule impacts on the state permit program.
+Water:
+ Multiple water-related regulations apply, or may apply, to Consumers.
+The EPA regulates cooling water intake systems of existing electric generating plants under Section 316(b) of the Clean Water Act. The rules seek to reduce alleged harmful impacts on aquatic organisms, such as fish. In 2018, Consumers submitted to EGLE studies and recommended plans to comply with Section 316(b) for its coal-fueled units but has not yet received final approval.
+The EPA also regulates the discharge of wastewater through its effluent limitation guidelines for steam electric generating plants. Consumers has submitted the appropriate notices of planned participation in compliance with this rule. Consumers has also submitted timely NPDES permit applications and will be working with EGLE to incorporate applicable provisions during the permit renewal process.
+Many of Consumers’ facilities maintain NPDES permits, which are vital to the facilities’ operations. Consumers applies for renewal of these permits every five years. Failure of EGLE to renew any NPDES permit, a successful appeal against a permit, a change in the interpretation or scope of NPDES permitting, or onerous terms contained in a permit could have a significant detrimental effect on the operations of a facility.
+Protected Wildlife: 
+Multiple regulations apply, or may apply, to Consumers relating to protected species and habitats.
+Statutes like the federal Endangered Species Act, the Migratory Bird Treaty Act, and the Bald and Golden Eagle Protection Act of 1940 and changes to permitting may impact operations at Consumers’ facilities. In February 2024, the U.S. Fish and Wildlife Service published a final rule providing for bald eagle general permits for qualifying wind farms and electric distribution systems. Consumers has received, or is pursuing, bald eagle general permits for all its wind farms. While any resulting permitting and monitoring fees and/or restrictions on operations could impact Consumers’ existing and future operations, Consumers does not expect any material changes to its environmental strategy or Electric Supply Plan as a result of this rule.
+Additionally, Consumers regularly monitors proposed changes to the listing status of several species within its operational area. A change in species listed under the Endangered Species Act, or under Michigan’s equivalent law, may impact Consumers’ costs to mitigate its impact on protected species and habitats at certain existing facilities as well as siting choices for new facilities.
+Other Matters:
+ Other electric environmental matters could have a material impact on Consumers’ outlook. For additional details on other electric environmental matters, see Item 8. Financial Statements 
+83
+Table of Contents
+and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Consumers Electric Utility Contingencies—Electric Environmental Matters.
+Consumers Gas Utility Outlook and Uncertainties
+Gas Deliveries:
+ Consumers’ gas customer deliveries are seasonal. The peak demand for natural gas occurs in the winter due to colder temperatures and the resulting use of natural gas as heating fuel. 
+Over the next five years, Consumers expects weather-normalized gas deliveries to remain stable relative to 2025. This outlook reflects modest growth in gas demand, offset by the effects of energy waste reduction programs. Actual delivery levels will depend on:
+•
+weather fluctuations
+•
+use by power producers
+•
+availability and development of renewable energy sources
+•
+gas price changes
+•
+Michigan’s economic conditions, including population trends and housing activity
+•
+the price or demand of competing energy sources or fuels
+•
+energy efficiency and conservation impacts
+Gas Rate Matters:
+ Rate matters are critical to Consumers’ gas utility business. For additional details on rate matters, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+2025 Gas Rate Case:
+
+In December 2025, Consumers filed an application with the MPSC seeking an annual rate increase of $240 million based on a 10.25‑percent authorized return on equity for the projected 12‑month period ending October 31, 2027.  
+Presented in the following table are the components of the requested increase in revenue:
+In Millions
+Projected 12-Month Period Ending October 31
+2027
+Investment in rate base
+$
+108 
+Operating and maintenance costs
+65 
+Cost of capital
+66 
+Sales/gross margin
+1 
+Total
+$
+240 
+The MPSC must issue a final order in this case before or in October 2026. 
+Gas Pipeline and Storage Integrity and Safety: 
+Consumers’ gas operations are governed by federal and state pipeline safety rules, and there are robust processes and procedures in place to maintain compliance with these regulations. The U.S. Department of Transportation’s Pipeline and Hazardous Materials Safety Administration has published various rules that revise federal safety standards for gas transmission pipelines and underground storage facilities. Consumers has implemented measures to achieve compliance with the revised rules. There are also proposed rules expanding requirements for gas safety, although these rules are subject to reconsideration by the current administration. Under the proposed rules, Consumers will incur increased capital and increased operating and maintenance costs to install and remediate pipelines and to expand inspections, maintenance, and monitoring of existing pipelines and storage facilities. 
+84
+Table of Contents
+Although associated capital or operating and maintenance costs relating to these regulations could be material and cost recovery cannot be assured, Consumers expects to recover such costs in rates consistent with the recovery of other reasonable costs of complying with laws and regulations.
+Gas Environmental Outlook: 
+Consumers expects to incur response activity costs at a number of sites, including 23 former MGP sites. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Consumers Gas Utility Contingencies.
+
+Consumers’ gas operations are subject to various federal, state, and local environmental laws and regulations. Multiple environmental laws and regulations are subject to litigation. Consumers’ primary environmental compliance focus includes, but is not limited to, the following matters.
+Air Quality:
+ Multiple air quality regulations apply, or may apply, to Consumers’ gas utility.
+In 2015, the EPA lowered the NAAQS for ozone and made it more difficult to construct or modify natural gas compressor stations and other emission sources in areas of the country that do not meet the ozone standard. As of 2023, three counties in western Michigan have been designated as not meeting the ozone standard. Based on recent data, the EPA reclassified these counties from “moderate” to “serious” nonattainment, which has more stringent requirements. One of Consumers’ compressor stations is in a serious ozone nonattainment area. Consequently, Consumers has initiated plans to retrofit equipment at this compressor station to lower NOx emissions. 
+Additionally, a December 2025 court decision vacated the EPA’s 2023 redesignation of the seven‑county area in southeast Michigan from moderate ozone nonattainment to attainment. Four of Consumers’ compressor stations are located in these counties, with one station having assets that may be impacted by the redesignation change. Consumers will continue to monitor the recent court decision’s impact on the seven-county area in southeast Michigan, including resulting agency actions, and the potential impacts to compressor station assets. 
+Consumers will continue to monitor NAAQS rulemakings and litigation, and evaluate potential impacts to its compressor stations and other applicable natural gas storage and delivery assets.
+In March 2024, the EPA published a lower fine particulate matter NAAQS, which could result in newly designated nonattainment areas in Michigan starting in 2026. In 2025, EGLE proposed nonattainment areas for Kalamazoo and Wayne counties, with a decision by the EPA expected in 2026. Consumers has one compressor station located in Wayne County and will continue to monitor NAAQS rulemakings and litigation to evaluate potential impacts to the natural gas compressor station assets.
+Greenhouse Gases:
+ Some interest exists at the various levels of government in regulating greenhouse gases or their sources. Future regulations, if adopted, may involve requirements to reduce methane emissions from Consumers’ gas utility operations and carbon dioxide emissions from customer use of natural gas. Consumers will continue to monitor such potential rules for impacts.
+In September 2025, the EPA proposed a rule to reconsider the Greenhouse Gas Reporting Program by removing the natural gas distribution segment from the reporting obligations under the petroleum and natural gas source category, and proposed to delay the reporting obligations until 2034 for the remaining sources in this category. If this proposal is finalized as proposed, it could result in inconsistent approaches in voluntary greenhouse gas accounting for industrial sources.
+Consumers is making voluntary efforts to reduce its gas utility’s methane emissions. Under its Methane Reduction Plan, Consumers has set a goal of net-zero methane emissions from its natural gas delivery 
+85
+Table of Contents
+system by 2030. Consumers plans to reduce methane emissions from its system by about 80 percent from 2012 baseline levels by accelerating the replacement of aging pipe, rehabilitating or retiring outdated infrastructure, and adopting new technologies and practices. The remaining emissions will likely be offset through clean fuel alternatives or nature-based carbon removal pathways. To date, Consumers has reduced methane emissions by more than 40 percent. 
+Consumers has also set a goal to reduce customer greenhouse gas emissions by 25 percent by 2035. Consumers’ Natural Gas Delivery Plan, a rolling ten
+‑
+year investment plan to deliver safe, reliable, clean, and affordable natural gas to customers, outlines ways in which Consumers can make early progress toward these goals in a cost-effective manner, including energy waste reduction, carbon offsets, and renewable natural gas supply.
+Consumers has already initiated work in these key areas by continuing to expand its energy waste reduction targets and by offering gas customers the ability to offset their carbon footprint associated with natural gas use by purchasing renewable natural gas and/or carbon credits associated with Michigan forest preservation. Consumers has renewable natural gas facilities under construction scheduled for commercial operation in 2026 and is monitoring regulatory developments and market conditions closely as part of its ongoing evaluation of the projects. As part of this evaluation, two early‑phase renewable natural gas development projects have been paused indefinitely, and Consumers recognized an impairment charge of $15 million related to these projects in 2025. Consumers is evaluating and monitoring newer technologies to determine their role in achieving Consumers’ interim and long-term net-zero goals, including biofuels, geothermal, synthetic methane, carbon capture sequestration systems, and other innovative technologies.
+NorthStar Clean Energy Outlook and Uncertainties
+CMS Energy’s primary focus with respect to its NorthStar Clean Energy businesses is to maximize the value of generating assets representing 1,665 MW of capacity, and to pursue opportunities for the development of renewable generation projects, including leveraging strategic partnerships and available tax incentives.
+In December 2025, NorthStar Clean Energy sold a Class A membership interest in BG Solar Holdings to a tax equity investor. BG Solar Holdings is the holding company of a 200-MW solar generation project being constructed in Branch County, Michigan. All of the project’s nameplate capacity has been committed under a 15‑year renewable energy purchase agreement. The tax equity investor contributed $15 million and recognized a deemed contribution of $35 million associated with BG Solar Holdings’ sale of investment tax credits related to a portion of the project placed into service for tax purposes in 2025. The tax equity investor will contribute additional amounts upon commercial operation of the project in 2026. 
+NorthStar Clean Energy retained a Class B membership interest in BG Solar Holdings. Earnings, tax attributes, and cash flows generated by BG Solar Holdings will be allocated among and distributed to the membership classes in accordance with the ratios specified in the associated limited liability company operating agreement; these ratios change over time and are not representative of the ownership interest percentages of each membership class. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 19, Variable Interest Entities. 
+86
+Table of Contents
+Trends, uncertainties, and other matters related to NorthStar Clean Energy that could have a material impact on CMS Energy’s consolidated income, cash flows, or financial position include:
+•
+investment in and financial benefits received from renewable energy and energy storage projects, including changes to tax and trade policy
+•
+delays or difficulties in financing, constructing, and developing projects, including those arising from the performance of contractors, suppliers, or other counterparties
+•
+changes in energy, capacity, and other commodity prices
+•
+severe weather events and climate change associated with increasing levels of greenhouse gases
+•
+changes in various environmental laws, regulations, principles, or practices, or in their interpretation
+•
+indemnity obligations assumed in connection with ownership interests in facilities that involve tax equity financing
+•
+representations, warranties, and indemnities provided in connection with sales of assets
+•
+delays or difficulties in obtaining environmental permits
+For additional details regarding NorthStar Clean Energy’s uncertainties, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Guarantees.
+NorthStar Clean Energy Environmental Outlook: 
+NorthStar Clean Energy’s operations are subject to various federal, state, and local environmental laws and regulations. Multiple environmental laws and regulations are subject to litigation. NorthStar Clean Energy’s primary environmental compliance focus includes, but is not limited to, the following matters.
+CSAPR requires Michigan and many other states to improve air quality by reducing power plant emissions that, according to EPA modeling, contribute to ground-level ozone in other downwind states. NorthStar Clean Energy complies with this regulation and expects it to have minimal financial and operational impact in the near and/or long term.
+In March 2024, the EPA published a lower fine particulate matter NAAQS, which could result in newly designated nonattainment areas in Michigan starting in 2026. In 2025, EGLE proposed nonattainment areas for Kalamazoo and Wayne counties, with a decision by the EPA expected in 2026. NorthStar Clean Energy has two fossil-fuel-fired generating units in these counties and therefore will continue to monitor NAAQS rulemaking and litigation to evaluate potential impacts to its generating assets.
+In January 2026, the EPA published a final rule amending new source performance standards for new, modified, and reconstructed stationary combustion turbines to lower emission limits for NOx. This final rule requires new large simple-cycle turbine units with higher capacity factors to install control equipment for NOx emissions. NorthStar Clean Energy will monitor this rulemaking.
+A December 2025 court decision vacated the EPA’s 2023 redesignation of the seven‑county area in southeast Michigan from moderate ozone nonattainment to attainment. NorthStar Clean Energy has one electric generating station located within this area. NorthStar Clean Energy will continue to monitor the recent court decision’s impact on the seven-county area in southeast Michigan, including resulting agency actions, and the potential impacts to compressor station assets.
+For additional details regarding the ozone NAAQS, see Consumers Electric Utility Outlook and Uncertainties—Electric Environmental Outlook.
+In September 2025, the EPA proposed a rule to reconsider the Greenhouse Gas Reporting Program by eliminating the reporting obligations from numerous emission sources. Reporting of carbon dioxide to the 
+87
+Table of Contents
+EPA, however, will continue for sources subject to the Clean Air Act Acid Rain Program. This change could result in inconsistent approaches in voluntary greenhouse gas accounting for industrial sources.
+In April 2024, the EPA finalized its rule under Section 111 of the Clean Air Act to address greenhouse gas emissions from new combustion turbine electric generating units and existing coal-, gas-, and oil‑fueled steam electric generating units. These rules do not address existing combustion turbine electric generating units. In June 2025, the EPA issued a proposed rule containing two different pathways to rescind these requirements. Neither pathway impacts NorthStar Clean Energy’s existing facilities. NorthStar Clean Energy will continue to follow the EPA rules that address greenhouse gas emissions and will continue to evaluate potential impacts to its operations.
+Many of NorthStar Clean Energy’s facilities maintain NPDES permits, which are vital to the facilities’ operations. NorthStar Clean Energy applies for renewal of these permits every five years. Failure of EGLE to renew any NPDES permit, a successful appeal against a permit, a change in the interpretation or scope of NPDES permitting, or onerous terms contained in a permit could have a significant detrimental effect on the operations of a facility.
+Other Outlook and Uncertainties
+Tax Legislation:
+ CMS Energy and Consumers are subject to changing tax laws. In July 2025, President Trump signed into law the OBBBA. The legislation allows for the immediate expensing of domestic research and development costs and includes changes to clean energy tax credits enacted by the Inflation Reduction Act of 2022. While the OBBBA restores, and makes permanent, the 100‑percent bonus depreciation deduction, it also retains a provision that allows utilities to take a full deduction of interest expense in lieu of 100‑percent bonus depreciation. CMS Energy and Consumers evaluated the provisions of the OBBBA and concluded that the legislation is not expected to have a material impact on their respective financial statements. This conclusion is subject to change as additional guidance or interpretations become available.
+Litigation:
+ CMS Energy, Consumers, and certain of their subsidiaries are named as parties in various litigation matters, as well as in administrative proceedings before various courts and governmental agencies, arising in the ordinary course of business. For additional details regarding certain legal matters, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+Critical Accounting Estimates
+The following information is important to understand CMS Energy’s and Consumers’ results of operations and financial condition. For additional accounting policies, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 1, Significant Accounting Policies.
+In the preparation of CMS Energy’s and Consumers’ consolidated financial statements, estimates and assumptions are used that may affect reported amounts and disclosures. CMS Energy and Consumers use accounting estimates for asset valuations, unbilled revenue, depreciation, amortization, financial and derivative instruments, employee benefits, stock-based compensation, the effects of regulation, indemnities, contingencies, and AROs. Actual results may differ from estimated results due to changes in the regulatory environment, regulatory decisions, lawsuits, competition, and other factors. CMS Energy and Consumers consider all relevant factors in making these assessments.
+88
+Table of Contents
+Accounting for the Effects of Industry Regulation:
+ Because Consumers has regulated operations, it uses regulatory accounting to recognize the effects of the regulators’ decisions on its financial statements. Consumers continually assesses whether future recovery of its regulatory assets is probable by considering communications and experience with its regulators and changes in the regulatory environment. If Consumers determined that recovery of a regulatory asset were not probable, Consumers would be required to write off the asset and immediately recognize the expense in earnings. For additional information, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters.
+Contingencies:
+ CMS Energy and Consumers make judgments regarding the future outcome of various matters that give rise to contingent liabilities. For such matters, they record liabilities when they are considered probable and reasonably estimable, based on all available information. In particular, CMS Energy and Consumers are participating in various environmental remediation projects for which they have recorded liabilities. The recorded amounts represent estimates that may take into account such considerations as the number of sites, the anticipated scope, cost, and timing of remediation work, the available technology, applicable regulations, and the requirements of governmental authorities. For remediation projects in which the timing of estimated expenditures is considered reliably determinable, CMS Energy and Consumers record the liability at its net present value, using a discount rate equal to the interest rate on monetary assets that are essentially risk-free and have maturities comparable to that of the environmental liability. The amount recorded for any contingency may differ from actual costs incurred when the contingency is resolved. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments.
+Income Taxes:
+ The amount of income taxes paid by CMS Energy is subject to ongoing audits by federal, state, and foreign tax authorities, which can result in proposed assessments. An estimate of the potential outcome of any uncertain tax issue is highly judgmental. CMS Energy believes adequate reserves have been provided for these exposures; however, future results may include favorable or unfavorable adjustments to the estimated tax liabilities in the period the assessments are made or resolved or when statutes of limitation on potential assessments expire. Additionally, CMS Energy’s judgment as to the ability to recover its deferred tax assets may change. CMS Energy believes the valuation allowances related to its deferred tax assets are adequate, but future results may include favorable or unfavorable adjustments. As a result, CMS Energy’s effective tax rate may fluctuate significantly over time. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 13, Income Taxes.
+Pension and OPEB:
+ CMS Energy and Consumers provide retirement pension benefits to certain employees under non‑contributory DB Pension Plans, and they provide postretirement health and life benefits to qualifying retired employees under an OPEB Plan.
+CMS Energy and Consumers record liabilities for pension and OPEB on their consolidated balance sheets at the present value of the future obligations, net of any plan assets. The calculation of the liabilities and associated expenses requires the expertise of actuaries, and requires many assumptions, including:
+•
+life expectancies
+•
+discount rates
+•
+expected long-term rate of return on plan assets
+•
+rate of compensation increases
+•
+expected health care costs
+A change in these assumptions could change significantly CMS Energy’s and Consumers’ recorded liabilities and associated expenses.
+89
+Table of Contents
+Presented in the following table are estimates of credits and cash contributions through 2028 for the DB Pension Plans and OPEB Pl
+an.
+ Actual future costs, credits, and contributions will depend on future investment performance, discount rates, and various factors related to the participants of the DB Pension Plans and OPEB Plan. CMS Energy and Consumers will, at a minimum, contribute to the plans as needed to comply with federal funding requirements. 
+In Millions
+DB Pension Plans
+OPEB Plan
+Credit
+Contribution
+Credit
+Contribution
+CMS Energy, including Consumers
+2026
+$
+(86)
+$
+— 
+$
+(109)
+$
+— 
+2027
+(87)
+— 
+(99)
+— 
+2028
+(100)
+— 
+(92)
+— 
+Consumers
+1
+2026
+$
+(81)
+$
+— 
+$
+(101)
+$
+— 
+2027
+(81)
+— 
+(91)
+— 
+2028
+(94)
+— 
+(84)
+— 
+1
+Consumers’ pension and OPEB costs are recoverable through its general ratemaking process.
+Lowering the expected long-term rate of return on the assets of the DB Pension Plans by 25 basis points would increase estimated pension cost for 2026 by $8 million for both CMS Energy and Consumers. Lowering the PBO discount rates by 25 basis points would decrease estimated pension cost for 2026 by $1 million for both CMS Energy and Consumers. Pension and OPEB costs above or below the amounts used to set existing rates will be deferred as a regulatory asset or liability in accordance with Consumers’ postretirement benefits expense deferral mechanism; for more information, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters.
+Pension and OPEB plan assets are accounted for and disclosed at fair value. Fair value measurements incorporate assumptions that market participants would use in pricing an asset or liability, including assumptions about risk. Development of these assumptions may require judgment.
+For additional details on postretirement benefits, including the fair value measurements for the assets of the DB Pension Plans and OPEB Plan, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 11, Retirement Benefits.
+Unbilled Revenues:
+ Consumers’ customers are billed monthly in cycles having billing dates that do not generally coincide with the end of a calendar month. This results in customers having received electricity or natural gas that they have not been billed for as of the month-end. Consumers estimates its unbilled revenues by applying an average billed rate to total unbilled deliveries for each customer class. Consumers records unbilled revenues as accounts receivable and accrued revenue on its consolidated balance sheet. For additional information on unbilled revenues, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 15, Revenue.
+New Accounting Standards
+For details regarding new accounting standards issued but not yet effective, See Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 2, New Accounting Standards.
+90
+Table of Contents
+Item 7A.    Quantitative and Qualitative Disclosures About Market Risk
+CMS Energy and Consumers are exposed to market risks including, but not limited to, changes in interest rates, commodity prices, and investment security prices. They may enter into various risk management contracts to mitigate exposure to these risks, including swaps, options, futures, and forward contracts. CMS Energy and Consumers enter into these contracts using established policies and procedures, under the direction of an executive oversight committee consisting of certain officers and a risk committee consisting of those and other officers and business managers.
+The following risk sensitivity illustrates the potential loss in fair value, cash flows, or future earnings from financial instruments, assuming a hypothetical adverse change in market rates or prices of 10 percent. Potential losses could exceed the amounts shown in the sensitivity analyses if changes in market rates or prices were to exceed 10 percent.
+Long-term Debt:
+ CMS Energy and Consumers are exposed to interest-rate risk resulting from issuing fixed-rate and variable-rate debt instruments. CMS Energy and Consumers use a combination of these instruments, and may also enter into interest-rate swap agreements, in order to manage this risk and to achieve a reasonable cost of capital.
+Presented in the following table is a sensitivity analysis of interest-rate risk on CMS Energy’s and Consumers’ debt instruments (assuming an adverse change in market interest rates of 10 percent):
+In Millions
+December 31
+2025
+2024
+Fixed-rate financing—potential loss in fair value
+CMS Energy, including Consumers
+$
+792 
+$
+717 
+Consumers
+535 
+543 
+The fair value losses in the above table could be realized only if CMS Energy and Consumers transferred all of their fixed-rate financing to other creditors. The annual earnings exposure related to variable-rate financing was immaterial for both CMS Energy and Consumers at December 31, 2025 and 2024, assuming an adverse change in market interest rates of 10 percent. For additional details on financial instruments see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 7, Financial Instruments.
+91
+Table of Contents
+(This page intentionally left blank)
+92
+Table of Contents
+Item 8.    Financial Statements and Supplementary Data
+Index to Financial Statements
+CMS Energy Consolidated Financial Statements
+94
+Consolidated Statements of Income
+94
+Consolidated Statements of Comprehensive Income
+95
+Consolidated Statements of Cash Flows
+96
+Consolidated Balance Sheets
+98
+Consolidated Statements of Changes in Equity
+100
+Consumers Consolidated Financial Statements
+101
+Consolidated Statements of Income
+101
+Consolidated Statements of Comprehensive Income
+102
+Consolidated Statements of Cash Flows
+104
+Consolidated Balance Sheets
+106
+Consolidated Statements of Changes in Equity
+108
+Notes to the Consolidated Financial Statements
+109
+1:
+Significant Accounting Policies
+109
+2:
+New Accounting Standards
+111
+3:
+Regulatory Matters
+112
+4:
+Contingencies and Commitments
+119
+5:
+Financings and Capitalization
+125
+6:
+Fair Value Measurements
+134
+7:
+Financial Instruments
+136
+8:
+Plant, Property, and Equipment
+138
+9:
+Leases
+142
+10:
+Asset Retirement Obligations
+146
+11:
+Retirement Benefits
+148
+12:
+Stock-based Compensation
+159
+13:
+Income Taxes
+162
+14:
+Earnings Per Share—CMS Energy
+168
+15:
+Revenue
+170
+16:
+Other Income and Other Expense
+174
+17:
+Reportable Segments
+175
+18:
+Related-party Transactions—Consumers
+182
+19:
+Variable Interest Entities
+183
+20:
+Exit Activities and Asset Sales
+186
+Reports of Independent Registered Public Accounting Firm (PCAOB ID 
+238
+)
+188
+CMS Energy
+188
+Consumers
+192
+93
+Table of Contents
+CMS Energy Corporation
+Consolidated Statements of Income
+In Millions, Except Per Share Amounts
+Years Ended December 31
+2025
+2024
+2023
+Operating Revenue
+$
+8,539
+
+Operating Expenses
+Fuel for electric generation
+657
+
+96
+Table of Contents
+In Millions
+Years Ended December 31
+2025
+2024
+2023
+Other Cash Flow Activities and Non‑cash Investing and Financing Activities
+Cash transactions
+Interest paid (net of amounts capitalized)
+$
+741
+
+Income taxes paid (proceeds from sale of renewable energy tax credits), net
+(
+20
+)
+(
+69
+)
+15
+
+Non‑cash transactions
+Capital expenditures not paid
+$
+662
+
+104
+Table of Contents
+In Millions
+Years Ended December 31
+2025
+2024
+2023
+Other Cash Flow Activities and Non‑cash Investing and Financing Activities
+Cash transactions
+Interest paid (net of amounts capitalized)
+$
+526
+
+Income taxes paid (proceeds from sale of renewable energy tax credits), net
+161
+
+Non‑cash transactions
+Capital expenditures not paid
+$
+533
+
+The accompanying notes are an integral part of these statements.
+108
+Table of Contents
+CMS Energy Corporation
+Consumers Energy Company
+Notes to the Consolidated Financial Statements
+1:    
+Significant Accounting Policies
+Principles of Consolidation:
+ CMS Energy and Consumers prepare their consolidated financial statements in conformity with GAAP. CMS Energy’s consolidated financial statements comprise CMS Energy, Consumers, NorthStar Clean Energy, and all other entities in which CMS Energy has a controlling financial interest or is the primary beneficiary. Consumers’ consolidated financial statements comprise Consumers and all other entities in which it has a controlling financial interest. CMS Energy uses the equity method of accounting for investments in companies and partnerships that are not consolidated, where they have significant influence over operations and financial policies but are not the primary beneficiary. CMS Energy and Consumers eliminate intercompany transactions and balances.
+Use of Estimates:
+ CMS Energy and Consumers are required to make estimates using assumptions that may affect reported amounts and disclosures. Actual results could differ from those estimates.
+Cash and Cash Equivalents and Restricted Cash and Cash Equivalents:
+ Cash and cash equivalents include short-term, highly liquid investments with original maturities of three months or less. Restricted cash and cash equivalents are held primarily for the repayment of securitization bonds and funds held in escrow. These amounts are classified as current assets since they relate to payments that could or will occur within one year.
+Contingencies:
+ CMS Energy and Consumers record estimated loss contingencies on their consolidated financial statements when it is probable that a loss has been incurred and when the amount of loss can be reasonably estimated. For environmental remediation projects in which the timing of estimated expenditures is considered reliably determinable, CMS Energy and Consumers record the liability at its net present value, using a discount rate equal to the interest rate on monetary assets that are essentially risk-free and have maturities comparable to that of the environmental liability. Unless regulatory accounting applies, CMS Energy and Consumers expense legal fees as incurred; fees incurred but not yet billed are accrued based on estimates of work performed.
+Debt Issuance Costs, Discounts, Premiums, and Refinancing Costs:
+ Upon the issuance of long-term debt, CMS Energy and Consumers defer issuance costs, discounts, and premiums and amortize those amounts over the terms of the associated debt. Debt issuance costs are presented as a direct deduction from the carrying amount of long-term debt on the balance sheet. Upon the refinancing of long-term debt, Consumers, as a regulated entity, defers any remaining unamortized issuance costs, discounts, and premiums associated with the refinanced debt and amortizes those amounts over the term of the newly issued debt. For the non‑regulated portions of CMS Energy’s business, any remaining unamortized issuance costs, discounts, and premiums associated with extinguished debt are charged to earnings.
+Derivative Instruments:
+ In order to support ongoing operations, CMS Energy and Consumers may enter into contracts for the future purchase and sale of various commodities, such as electricity, natural gas, and coal. These forward contracts are generally long-term in nature and result in physical delivery of the 
+109
+Table of Contents
+commodity at a contracted price. Most of these contracts are not subject to derivative accounting for one or more of the following reasons:
+•
+they do not have a notional amount (that is, a number of units specified in a derivative instrument, such as MWh of electricity or Bcf of natural gas)
+•
+they qualify for the normal purchases and sales exception
+•
+they cannot be net settled due in part to the absence of an active market for the commodity
+Consumers also uses FTRs to manage price risk related to electricity transmission congestion. An FTR is a financial instrument that entitles its holder to receive compensation or requires its holder to remit payment for congestion-related transmission charges. Consumers accounts for FTRs as derivatives and changes in the fair value of FTRs are deferred as regulatory assets or liabilities. For details regarding CMS Energy’s and Consumers’ derivative instruments recorded at fair value, see Note 6, Fair Value Measurements.
+Electricity Market Transactions:
+ Wholesale electricity market operators require the submission of hourly day-ahead and real-time bids and offers for energy at locations across each region. CMS Energy and Consumers account for such transactions on a net hourly basis in each of the real-time and day-ahead markets, netted across all locations in the energy market. CMS Energy and Consumers record net hourly purchases in purchased and interchange power and net hourly sales in operating revenue on their consolidated statements of income. They record net billing adjustments upon receipt of settlement statements, record accruals for future net purchases and sales adjustments based on historical experience, and reconcile accruals to actual expenses and sales upon receipt of settlement statements.
+EPS:
+ CMS Energy calculates basic and diluted EPS using the weighted-average number of shares of common stock and dilutive potential common stock outstanding during the period. Potential common stock, for purposes of determining diluted EPS, includes the effects of nonvested stock awards, forward equity sales, and convertible securities. CMS Energy computes the effect on potential common stock using the treasury stock method. Potentially dilutive common shares issuable upon conversion of the convertible senior notes are determined using the if-converted method for calculating diluted EPS. Diluted EPS excludes the impact of antidilutive securities, which are those securities resulting in an increase in EPS or a decrease in loss per share.
+ For EPS computations, see Note 14, Earnings Per Share—CMS Energy.
+Impairment of Long-lived Assets and Equity Method Investments:
+ CMS Energy and Consumers perform tests of impairment if certain triggering events occur that indicate the carrying amount of an asset may not be recoverable or that there has been a decline in value that may be other than temporary.
+CMS Energy and Consumers evaluate long-lived assets held in use for impairment by calculating the undiscounted future cash flows expected to result from the use of the asset and its eventual disposition. If the undiscounted future cash flows are less than the carrying amount, CMS Energy and Consumers recognize an impairment loss equal to the amount by which the carrying amount exceeds the fair value. CMS Energy and Consumers estimate the fair value of the asset using quoted market prices, market prices of similar assets, or discounted future cash flow analyses.
+CMS Energy also assesses equity method investments for impairment whenever there has been a decline in value that is other than temporary. This assessment requires CMS Energy to determine the fair value of the equity method investment. CMS Energy determines fair value using valuation methodologies, including discounted cash flows, and assesses the ability of the investee to sustain an earnings capacity that justifies the carrying amount of the investment. CMS Energy records an impairment if the fair value is less than the carrying amount and the decline in value is considered to be other than temporary.
+110
+Table of Contents
+Investment Tax Credits:
+ CMS Energy and its subsidiaries use the flow-through method of accounting for investment tax credits. Under the flow-through method, the credit is recognized as a reduction to income tax expense when the related plant, property, and equipment is placed into service. For its regulated utility assets, Consumers amortizes its investment tax credits over the life of the related property in accordance with regulatory treatment.
+
+Inventory:
+ CMS Energy and Consumers use the weighted-average cost method for valuing working gas, recoverable base gas in underground storage facilities, and materials and supplies inventory. CMS Energy and Consumers also use this method for valuing coal inventory, and they classify these amounts as generating plant fuel stock on their consolidated balance sheets.
+CMS Energy and Consumers account for RECs and other environmental credits as inventory and use the weighted-average cost method to remove amounts from inventory. RECs and other environmental credits are used to satisfy compliance obligations related to the generation of power and in support of sustainability commitments. CMS Energy and Consumers classify these amounts within other assets on their consolidated balance sheets.
+CMS Energy and Consumers evaluate inventory for impairment as required to ensure that its carrying value does not exceed the lower of cost or net realizable value.
+Property Taxes:
+ Property taxes are based on the taxable value of CMS Energy’s and Consumers’ real and personal property assessed by local taxing authorities. CMS Energy and Consumers record property tax expense over the fiscal year of the taxing authority for which the taxes are levied. The deferred property tax balance represents the amount of CMS Energy’s and Consumers’ accrued property tax that will be recognized over future governmental fiscal periods.
+
+Other:
+ For additional accounting policies, see:
+•
+Note 3, Regulatory Matters
+•
+Note 8, Plant, Property, and Equipment
+•
+Note 9, Leases
+•
+Note 10, Asset Retirement Obligations
+•
+Note 11, Retirement Benefits
+•
+Note 12, Stock-based Compensation
+•
+Note 13, Income Taxes
+•
+Note 14, Earnings Per Share—CMS Energy
+•
+Note 15, Revenue
+•
+Note 19, Variable Interest Entities
+2:    
+New Accounting Standards
+Implementation of New Accounting Standards
+ASU 2023‑09, Incomes Taxes (Topic 740): Improvements to Income Tax Disclosures:
+ This standard, which was effective on January 1, 2025 for CMS Energy and Consumers, requires expanded annual disclosures of the income taxes, including a more detailed reconciliation of the effective tax rate and disaggregated information on federal and state income taxes. The standard also requires disclosure of significant reconciling items and qualitative information about state and local jurisdictions contributing to income tax expense. The adoption of the new standard did not impact CMS Energy’s or Consumers’ liquidity, financial condition, or results of operations. The expanded disclosures required by this standard are included in Note 13, Income Taxes.
+111
+Table of Contents
+New Accounting Standards Not Yet Effective
+ASU
+
+Postretirement benefits expense deferral mechanism
+40
+
+113
+Table of Contents
+1
+These regulatory assets have arisen from an alternative-revenue program and are not associated with incurred costs or capital investments. Therefore, the MPSC has provided for recovery without a return.
+2
+This regulatory asset is included in rate base, thereby providing a return.
+3
+The MPSC has provided a specific return on these regulatory assets.
+4
+These regulatory assets represent incurred costs for which the MPSC has provided recovery without a return on investment.
+Regulatory Assets
+Energy Waste Reduction Plan Incentive:
+ The energy waste reduction incentive mechanism provides a financial incentive if the energy savings of Consumers’ customers exceed annual targets established by the MPSC. Consumers accounts for this program as an alternative-revenue program that meets the criteria for recognizing revenue related to the incentive as soon as energy savings exceed the annual targets established by the MPSC.
+In January 2026, the MPSC approved a settlement agreement authorizing Consumers to collect $
+64
+ million during 2026 as an incentive for exceeding its statutory savings targets in 2024. Consumers recognized incentive revenue under this program of $
+64
+ million in 2024. 
+Consumers also exceeded its statutory savings targets in 2025, achieved certain other goals, and will request the MPSC’s approval to collect $
+64
+ million in the energy waste reduction reconciliation to be filed in May 2026. Consumers recognized incentive revenue under this program of $
+64
+ million in 2025. 
+Retention Incentive Program:
+ To ensure necessary staffing at the D.E. Karn and J.H. Campbell coal‑fueled generating units through their retirement, Consumers established retention incentive programs. The MPSC has approved deferred accounting treatment for the retention and severance costs incurred under these programs and has allowed for recovery over three years. These MPSC-approved retention plans concluded in November 2025. For additional details regarding retention incentive programs, see Note 20, Exit Activities and Asset Sales.
+2022 PSCR Underrecovery: 
+As a result of rising fuel prices during 2022, Consumers’ power supply costs for 2022 were significantly higher than those projected in its 2022 PSCR plan. At the end of 2022, Consumers had recorded $
+401
+ million of under-recovered power supply costs. In 2023, the MPSC authorized Consumers to recover the 2022 underrecovery amount over three years, providing immediate relief to electric customers.
+Costs of Coal-fueled Electric Generating Units to be Retired: 
+In 2022, the MPSC approved Consumers’ plans to retire the J.H. Campbell coal-fueled generating units in 2025. The MPSC authorized regulatory asset treatment for Consumers to recover the remaining book value of the units upon their retirement, as well as a 
+9.0
+‑percent return on equity, through 2040, the units’ original retirement date. Accordingly, in 2022, Consumers removed from total plant, property, and equipment an amount of $
+1.3
+ billion, representing the projected remaining book value of the electric generating units upon their retirement, and recorded it as a non
+‑
+current regulatory asset on its consolidated balance sheets. 
+As discussed further below, the retirement of J.H. Campbell is subject to temporary extensions under emergency orders issued by the U.S. Secretary of Energy. Such orders authorize Consumers to obtain cost recovery at FERC; thus, Consumers has deferred the costs of complying with these orders as a regulatory asset. 
+114
+Table of Contents
+Postretirement Benefits:
+ As part of the ratemaking process, the MPSC allows Consumers to recover the costs of postretirement benefits. Accordingly, Consumers defers the net impact of actuarial losses and gains, prior service costs and credits, and settlements associated with postretirement benefits as a regulatory asset or liability. The asset or liability will decrease as the deferred items are amortized and recognized as components of net periodic benefit cost. For details about the amortization periods, see Note 11, Retirement Benefits.
+Securitized Costs:
+ The MPSC has issued securitization financing orders authorizing Consumers to issue securitization bonds in order to finance the recovery of the remaining book value of 
+three
+ smaller natural gas-fueled electric generating units that Consumers retired in 2015, 
+seven
+ smaller coal-fueled electric generating units that Consumers retired in 2016, and the D.E. Karn coal-fueled electric generating units that Consumers retired in 2023. Consumers has removed from plant, property, and equipment and recorded as a regulatory asset the book value of these units. Consumers is amortizing the regulatory asset over the life of the related securitization bonds, which it issued through subsidiaries in 2014 and 2023. For additional details regarding the securitization bonds, see Note 5, Financings and Capitalization—Securitization Bonds.
+ARO:
+ The recovery of the underlying asset investments and related removal and monitoring costs of recorded AROs is approved by the MPSC in depreciation rate cases. Consumers records a regulatory asset and a regulatory liability for timing differences between the recognition of AROs for financial reporting purposes and the recovery of these costs from customers. The recovery period approximates the useful life of the assets to be removed.
+Decommissioning Costs:
+ In Consumers’ electric depreciation and general rate cases, the MPSC has authorized Consumers to remove from depreciation rates the costs of decommissioning the D.E. Karn coal-fueled electric generating units, and instead defer those costs as a regulatory asset to be recovered through 2031. Additionally, ash disposal costs related to Consumers’ retired coal-fueled generating units may be deferred as a regulatory asset and collected over a ten
+‑
+year period. In its 2022 order approving Consumers’ integrated resource plan, the MPSC authorized similar treatment for the decommissioning and ash disposal costs associated with the J.H. Campbell coal-fueled generating units that were planned for retirement in 2025.
+Unamortized Loss on Reacquired Debt:
+ Under regulatory accounting, any unamortized discount, premium, or expense related to debt redeemed with the proceeds of new debt is deferred and amortized over the life of the new debt.
+MGP Sites:
+ Consumers is incurring environmental remediation and other response activity costs at 
+23
+ former MGP facilities. The MPSC allows Consumers to recover from its natural gas customers over a 
+ten
+‑
+year
+ period the costs incurred to remediate the MGP sites. For additional information, see Note 4, Contingencies and Commitments—Consumers Gas Utility Contingencies. 
+Ludington Overhaul Contract Dispute:
+ The MPSC has authorized Consumers to defer as a regulatory asset costs associated with correcting incomplete, nonconforming, and defective work performed by TAES during a major overhaul and upgrade of Ludington. Consumers will defer such costs while post‑verdict proceedings and any appeals in the litigation with TAES and Toshiba continue; such costs will be offset, in part or in whole, by future litigation proceeds received from TAES or Toshiba. Consumers has also deferred replacement power costs due to outages resulting from correcting this work. Consumers will have the opportunity to seek appropriate recovery and ratemaking treatment for amounts recorded as a regulatory asset following resolution of the litigation. During 2025, cash expenditures associated with the Ludington overhaul contract dispute were $
+30
+ million. For additional details on the contract dispute, see Note 4, Contingencies and Commitments—Consumers Electric Utility Contingencies.
+115
+Table of Contents
+Service Restoration Cost Deferral:
+ As a result of catastrophic storms in Consumers’ electric service territory, Consumers incurred significant service restoration costs during March and April 2025. In April 2025, Consumers filed with the MPSC an ex parte application requesting approval to defer, as a regulatory asset, operating and maintenance expenses associated with the storms. In June 2025, the MPSC approved the application, authorizing the deferral of these expenses for accounting purposes. Recovery of this regulatory asset will be requested in a future case.
+Energy Waste Reduction Plan:
+ Michigan law requires electric and gas utilities to implement programs that reduce energy consumption through energy efficiency and demand-side energy conservation. Utilities may recover the cost of achieving specified reductions in customers’ electricity and gas use through surcharges. The amount of spending incurred in excess of surcharges collected is recorded as a regulatory asset and amortized as surcharges are collected from customers over the plan period. The amount of surcharges collected in excess of spending incurred is recorded as a regulatory liability and amortized as costs are incurred.
+Postretirement Benefits Expense Deferral Mechanism: 
+In Consumers’ general rate cases, the MPSC approved a mechanism allowing Consumers to defer for future recovery or refund pension and OPEB expenses above or below the amounts used to set existing rates. Amounts deferred will be collected from or refunded to customers over ten years. 
+Renewable Energy Plan:
+ Under Michigan law, renewable energy standards specify how much electricity must come from renewable sources and which technologies, such as wind, solar, and certain biomass, qualify. Utilities may recover compliance costs, including renewable power purchases (and related financial mechanisms), depreciation, property taxes, interest, and other operating and maintenance expenses for company-owned renewable assets, along with a return on those assets. The MPSC allows Consumers to transfer and collect a portion of these costs through its PSCR process. Incremental costs may be collected through surcharges. If spending exceeds amounts collected, the difference is recorded as a regulatory asset and amortized as recovered from customers; this excludes amounts related to return on equity. If collections exceed spending, the excess is recorded as a regulatory liability and amortized as future costs are incurred for operating renewable facilities and purchasing RECs under renewable energy agreements. 
+Regulatory Liabilities
+Income Taxes, Net:
+ Consumers records regulatory assets and liabilities to reflect the difference between deferred income taxes recognized for financial reporting purposes and amounts previously reflected in Consumers’ rates. This net balance will decrease over the remaining life of the related temporary differences and flow through income tax expense. The majority of the net regulatory liability recorded related to income taxes is associated with plant assets that are subject to normalization, which is governed by the Internal Revenue Code, and will be returned to customers over the remaining book life of the related plant assets. For additional details on deferred income taxes, see Note 13, Income Taxes. 
+ASP Gain: 
+In April 2024, Consumers sold its unregulated ASP business to a non-affiliated company, resulting in a $
+110
+ million gain. In July 2024, the MPSC approved the utilization of $
+27.5
+ million, or one‑fourth, of the gain on the sale as an offset to the revenue deficiency in lieu of additional rate relief during the 12‑month period beginning October 1, 2024, with the remaining three-fourths of the gain, or $
+82.5
+ million, to be credited to customers as a bill credit over a three-year period beginning October 1, 2024. 
+Cost of Removal:
+ The MPSC allows Consumers to collect amounts from customers to fund future asset removal activities. This regulatory liability is reduced as costs are incurred to remove the assets at the end of their useful lives.
+116
+Table of Contents
+Green Giving Program:
+ In conjunction with Consumers’ voluntary green pricing program, the MPSC has directed Consumers to use surplus program funds to support renewable-energy participation by low‑income customers.
+Renewable Energy Grant:
+ In 2013, Consumers received a $
+69
+ million renewable energy grant for Lake Winds
+®
+ Energy Park, which began operations in 2012. This grant reduces Consumers’ cost of complying with Michigan’s renewable portfolio standard and, accordingly, reduces the overall renewable energy surcharge to be collected from customers. The regulatory liability recorded for the grant will be amortized over the life of Lake Winds
+® 
+Energy Park. Consumers presents the amortization as a reduction to maintenance and other operating expenses on its consolidated statements of income.
+
+Consumers Electric Utility
+2024 Electric Rate Case:
+
+In May 2024, Consumers filed an application with the MPSC seeking a rate increase of $
+325
+ million, made up of two components. First, Consumers requested a $
+303
+ million annual rate increase, based on a 
+10.25
+‑percent authorized return on equity for the projected 12
+‑
+month period ending February 28, 2026. The filing requested authority to recover costs related to new infrastructure investment primarily in distribution system reliability and cleaner energy resources. Second, Consumers requested approval of a $
+22
+ million surcharge for the recovery of distribution investments made in 2023 that exceeded the rates authorized in accordance with previous electric rate orders. 
+In October 2024, Consumers revised its requested increase to $
+277
+ million, primarily to reflect the removal of projected capital investments associated with certain solar facilities that Consumers incorporated into its amended Renewable Energy Plan. 
+In March 2025, the MPSC issued an order authorizing an annual rate increase of $
+176
+ million, which is inclusive of a $
+22
+ million surcharge for the recovery of distribution investments made in 2023 that exceeded the rate amounts authorized in accordance with previous electric rate orders. The approved rate increase is based on a 
+9.90
+‑percent authorized return on equity. The new rates became effective in April 2025
+J.H. Campbell Emergency Order:
+ In May 2025, before the planned closure of J.H. Campbell, the U.S. Secretary of Energy issued an emergency order under section 202(c) of the Federal Power Act requiring J.H. Campbell to continue operating for 90 days, through August 20, 2025. Subsequently, the U.S. Secretary of Energy issued two additional emergency orders for 90 days each, ultimately requiring continued operation of J.H. Campbell through February 17, 2026. These orders stated that continued operation of J.H. Campbell was required to meet an energy emergency across MISO’s North and Central regions. Consistent with the Federal Power Act and DOE regulations, the orders authorize Consumers to obtain cost recovery at FERC. 
+As directed, Consumers has continued to make J.H. Campbell available in the MISO market and, in June 2025, filed a complaint at FERC seeking a modification of the MISO Tariff that would enable Consumers to recover the costs of complying with the emergency orders. Consumers’ complaint sought a mechanism in the MISO Tariff that would allow allocation of those compliance costs across the MISO North and Central regions, consistent with the nature of the energy emergency declared in the U.S. Secretary of Energy orders. In August 2025, FERC granted Consumers’ complaint and ordered MISO to revise its tariff accordingly. MISO submitted a compliance filing with FERC in September 2025, and FERC approval of the compliance filing remains pending.
+In January 2026, Consumers filed a request at FERC seeking recovery of the net financial impact of complying with the May 2025 emergency order, which was $
+42
+ million after applying MISO revenues of $
+78
+ million. This filing encompasses recovery sought by the joint owners of J.H. Campbell.
+117
+Table of Contents
+For the second emergency order period through December 31, 2025, the net financial impact of compliance was $
+93
+ million after applying MISO revenues of $
+77
+ million. Consumers will seek recovery of these compliance costs at a later date, consistent with rate recovery sought for the May 2025 emergency order. The ultimate financial impact remains subject to the outcome of the FERC proceeding and any future guidance or interpretation.
+Consumers Gas Utility
+2024 Gas Rate Case: 
+In December 2024, Consumers filed an application with the MPSC seeking an annual rate increase of $
+248
+ million based on a 
+10.25
+‑percent authorized return on equity for the projected 12‑month period ending October 31, 2026. In July 2025, Consumers revised its requested increase to $
+217
+ million. In September 2025, the MPSC issued an order authorizing an annual rate increase of $
+157.5
+ million, based on a 
+9.80
+‑percent authorized return on equity. The new rates became effective in November 2025. 
+PSCR and GCR
+The PSCR and GCR ratemaking processes are designed to allow Consumers to recover all of its power supply and purchased natural gas costs if incurred under reasonable and prudent policies and practices. The MPSC reviews these costs, policies, and practices in annual plan and reconciliation proceedings. Consumers adjusts its PSCR and GCR billing charges monthly, subject to ceiling factor limitations, in order to minimize the underrecovery or overrecovery amount in the annual reconciliations. Underrecoveries represent power supply and purchased natural gas costs that will be recovered from customers; overrecoveries represent previously collected revenues that will be refunded to customers.
+Presented in the following table are the liabilities for PSCR and GCR underrecoveries and overrecoveries reflected on Consumers’ consolidated balance sheets:
+In Millions
+December 31
+2025
+2024
+Assets
+PSCR underrecoveries
+$
+38
+
+118
+Table of Contents
+4:    
+Contingencies and Commitments
+CMS Energy and Consumers are involved in various matters that give rise to contingent liabilities. Depending on the specific issues, the resolution of these contingencies could negatively affect CMS Energy’s and Consumers’ liquidity, financial condition, and results of operations. In their disclosures of these matters, CMS Energy and Consumers provide an estimate of the possible loss or range of loss when such an estimate can be made. Disclosures stating that CMS Energy or Consumers cannot predict the outcome of a matter indicate that they are unable to estimate a possible loss or range of loss for the matter.
+CMS Energy Contingencies
+CMS Land retained environmental remediation obligations for the collection and treatment of leachate at Bay Harbor after selling its interests in the development in 2002. Leachate is produced when water enters into cement kiln dust piles left over from former cement plant operations at the site. In 2012, CMS Land and EGLE finalized an agreement establishing the final remedies and the future water quality criteria at the site. CMS Land completed all construction necessary to implement the remedies required by the agreement and will continue to maintain and operate a system to discharge treated leachate into Little Traverse Bay under an NPDES permit, which was valid through 2025. CMS Land submitted a renewal request in March 2025, and will continue to operate under the existing permit until a renewal is issued.
+At December 31, 2025, CMS Energy had a recorded liability of $
+48
+ million for its remaining obligations for environmental remediation. CMS Energy calculated this liability based on discounted projected costs, using a discount rate of 
+4.34
+ percent and an inflation rate of 
+1
+ percent on annual operating and maintenance costs. The undiscounted amount of the remaining obligation is $
+62
+ million. 
+CMS Energy expects to pay the following amounts for long-term leachate disposal and operating and maintenance costs in each of the next five years:
+In Millions
+2026
+2027
+2028
+2029
+2030
+Long-term leachate disposal and operating and maintenance costs
+$
+4
+
+1
+These obligations arose from the sale of membership interests in Aviator Wind, BG Solar Holdings, Newport Solar Holdings, and NWO Holdco to tax equity investors. NorthStar Clean Energy provided certain indemnity obligations that protect the tax equity investors against losses incurred as a result of breaches of representations and warranties under the associated limited liability company agreements. These obligations are generally capped at an amount equal to the tax equity investor’s capital contributions plus a specified return, less any distributions and tax benefits it receives, in connection with its membership interest. For any indemnity obligations related to Aviator Wind, NorthStar Clean Energy would recover 
+49
+ percent of any amounts paid to the tax equity investor from the other owner of Aviator Wind Equity Holdings. Additionally, Aviator Wind holds insurance coverage that would partially protect against losses incurred as a result of certain failures to qualify for production tax credits. For further details on NorthStar Clean Energy’s ownership interest in these entities, see Note 19, Variable Interest Entities.
+2
+These obligations arose from stock and asset sale agreements under which CMS Energy or a subsidiary of CMS Energy indemnified the purchaser for losses resulting from various matters, including claims related to taxes. The maximum obligation amount is mostly related to an Equatorial Guinea tax claim. 
+3
+This obligation comprises a guarantee provided by Consumers to the DOE in connection with a settlement agreement regarding damages resulting from the department’s failure to accept spent nuclear fuel from nuclear power plants formerly owned by Consumers.
+Additionally, in the normal course of business, CMS Energy, Consumers, and certain other subsidiaries of CMS Energy have entered into various agreements containing tax and other indemnity provisions for which they are unable to estimate the maximum potential obligation. CMS Energy and Consumers consider the likelihood that they would be required to perform or incur substantial losses related to these indemnities and those disclosed in the table to be remote.
+Other Contingencies
+In addition to the matters disclosed in this Note and Note 3, Regulatory Matters, there are certain other lawsuits and administrative proceedings before various courts and governmental agencies, as well as unasserted claims that may result in such proceedings, arising in the ordinary course of business to which CMS Energy, Consumers, and certain other subsidiaries of CMS Energy are parties. These other lawsuits, proceedings, and unasserted claims may involve personal injury, property damage, contracts, environmental matters, federal and state taxes, rates, licensing, employment, and other matters. Certain of these matters, while potentially substantial, are covered by insurance and the insurer or insurers are involved in the relevant proceedings. Further, CMS Energy and Consumers occasionally self-report 
+122
+Table of Contents
+certain regulatory non‑compliance matters that may or may not eventually result in administrative proceedings. CMS Energy and Consumers believe that the outcome of any one of these proceedings and potential claims will not have a material negative effect on their consolidated results of operations, financial condition, or liquidity.
+Contractual Commitments
+Purchase Obligations: 
+Purchase obligations arise from long-term contracts for the purchase of commodities and related services, primarily long-term PPAs, and construction and service agreements. Related-party PPAs are between Consumers and certain affiliates of NorthStar Clean Energy. 
+Presented in the following table are CMS Energy’s and Consumers’ contractual purchase obligations at December 31, 2025 for each of the periods shown:
+In Millions
+Payments Due
+Total
+2026
+2027
+2028
+2029
+2030
+Beyond 2030
+CMS Energy, including Consumers
+Total PPAs
+$
+16,983
+
+MCV PPA:
+ Consumers has a PPA with the MCV Partnership giving Consumers the right to purchase up to 
+1,240
+ MW of capacity and energy produced by the MCV Facility through May 2030. The MCV PPA provides for:
+•
+a capacity charge of $
+10.14
+ per MWh of available capacity through March 2025 and $
+5.00
+ per MWh of available capacity from March 2025 through the termination date of the PPA
+•
+a fixed energy charge of $
+6.30
+ per MWh for on-peak hours and $
+6.00
+ for off-peak hours
+•
+a variable energy charge based on the MCV Partnership’s cost of production for energy delivered to Consumers
+•
+a $
+5
+ million annual contribution by the MCV Partnership to a renewable resources program through March 2025
+Capacity and energy charges under the MCV PPA were $
+360
+ million in 2025, $
+358
+ million in 2024, and $
+340
+ million in 2023.
+In September 2025, Consumers entered into a new 
+ten
+‑year PPA with the MCV Partnership for the purchase of up to 
+1,240
+ MW of capacity and associated energy from the MCV Facility, effective June 1, 2030. Under the terms of the new agreement, Consumers will pay a monthly capacity charge of $
+5.00
+ per MWh of available capacity. Energy payments include a fixed component designed to recover non-fuel operating costs and a variable component based on the MCV Partnership’s cost of production for 
+123
+Table of Contents
+energy delivered to Consumers. The agreement, which is subject to MPSC approval, supports Consumers’ ongoing resource adequacy and energy supply planning efforts.
+Other PPAs:
+ Consumers has PPAs expiring through 2060 with various counterparties. The majority of the PPAs have capacity and energy charges for delivered energy. Capacity and energy charges under these PPAs were $
+603
+ million in 2025, $
+565
+ million in 2024, and $
+498
+ million in 2023. In addition, CMS Energy and Consumers account for several of their PPAs as leases. See Note 9, Leases for more information about CMS Energy’s and Consumers’ lease obligations.
+124
+Table of Contents
+5:    
+Financings and Capitalization
+Presented in the following table is CMS Energy’s long-term debt at December 31:
+In Millions, Except Interest Rate and Maturity
+Interest Rate
+(%)
+Maturity
+2025
+2024
+CMS Energy, including Consumers
+CMS Energy, parent only
+Senior notes
+3.600
+
+NorthStar Clean Energy
+Revolving credit facility
+variable
+8
+2028
+235
+
+Accumulated depreciation and amortization
+(
+9,842
+)
+(
+9,310
+)
+Total plant, property, and equipment
+3
+$
+28,632
+
+1
+A portion of independent power production assets are leased to others under operating leases. For information regarding CMS Energy’s operating leases of owned assets, see Note 9, Leases.
+2
+For information regarding the amortization terms of CMS Energy’s and Consumers’ assets under finance leases, see Note 9, Leases.
+3
+Consumers’ plant additions were $
+3.1
+ billion for the year ended December 31, 2025 and $
+2.1
+ billion for the year ended December 31, 2024. Consumers’ plant retirements were $
+387
+ million for the year ended December 31, 2025 and $
+390
+ million for the year ended December 31, 2024. 
+138
+Table of Contents
+4
+Includes 
+13
+ hydroelectric dams that Consumers has agreed to sell, contingent upon MPSC and FERC approval. For more information, see Note 20, Exit Activities and Asset Sales. 
+5
+Underground storage includes base natural gas of $
+24
+ million at December 31, 2025 and $
+26
+ million for the year ended December 31, 2024. Base natural gas is not subject to depreciation.
+6
+For the year ended December 31, 2025, Consumers fully impaired certain development assets totaling $
+20
+ million. Of this amount, $
+15
+ million relates to two early-phase renewable natural gas development projects that have been paused indefinitely. The remaining impairment charge was deferred as a regulatory asset and will be recovered through the Renewable Energy Plan.
+Intangible Assets:
+ Included in net plant, property, and equipment are intangible assets. 
+Presented in the following table are details about Consumers’ intangible assets:
+In Millions, Except as Noted
+Description
+Amortization Life in Years
+December 31, 2025
+December 31, 2024
+Gross Cost
+1
+Accumulated Amortization
+Gross Cost
+1
+Accumulated Amortization
+Consumers
+Software development
+3
+ – 
+15
+$
+649
+
+1
+Consumers’ intangible asset additions were $
+62
+ million for the year ended December 31, 2025 and $
+90
+ million for the year ended December 31, 2024. Consumers’ intangible asset retirements were $
+64
+ million for the year ended December 31, 2025 and $
+153
+ million for the year ended December 31, 2024.
+2
+Leasehold improvements are amortized over the life of the lease, which may change whenever the lease is renewed or extended.
+Capitalization:
+ CMS Energy and Consumers record plant, property, and equipment at original cost when placed into service. The cost includes labor, material, applicable taxes, overhead such as pension and other benefits, and AFUDC, if applicable. Consumers’ plant, property, and equipment is generally recoverable through its general ratemaking process.
+With the exception of utility property for which the remaining book value has been securitized, mothballed utility property stays in rate base and continues to be depreciated at the same rate as before the mothball period. When utility property is retired or otherwise disposed of in the ordinary course of business, Consumers records the original cost to accumulated depreciation, along with associated cost of removal, net of salvage. CMS Energy and Consumers recognize gains or losses on the retirement or disposal of non‑regulated assets in income. Consumers records cost of removal collected from customers, but not spent, as a regulatory liability.
+Software:
+ CMS Energy and Consumers capitalize the costs to purchase and develop internal-use computer software. These costs are expensed evenly over the estimated useful life of the internal-use computer software. If computer software is integral to computer hardware, then its cost is capitalized and depreciated with the hardware.
+139
+Table of Contents
+AFUDC: 
+Consumers capitalizes AFUDC on regulated major construction projects. AFUDC represents the estimated cost of debt and authorized return-on-equity funds used to finance construction additions. Consumers records the offsetting credit as a reduction of interest for the amount representing the borrowed funds component and as other income for the equity funds component on the consolidated statements of income. When construction is completed and the property is placed in service, Consumers depreciates and recovers the capitalized AFUDC from customers over the life of the related asset.
+
+144
+Table of Contents
+Presented in the following table are the minimum rental commitments under CMS Energy’s and Consumers’ non
+‑
+cancelable leases:
+In Millions
+Finance Leases
+December 31, 2025
+Operating Leases
+Pipelines and PPAs
+Land and Other
+Total
+CMS Energy, including Consumers
+2026
+$
+4
+
+Lessor
+CMS Energy and Consumers are the lessor under power sales and natural gas delivery agreements that are accounted for as leases.
+CMS Energy has power sales agreements that are accounted for as operating leases. In addition to fixed payments, these agreements have variable payments based on energy delivered. For the year ended December 31, 2025, lease revenue from these power sales agreements was $
+149
+ million, which included variable lease payments of $
+105
+ million. For the year ended December 31, 2024, lease revenue from these power sales agreements was $
+105
+ million, which included variable lease payments of $
+61
+ million. These non-cancelable operating leases expire in 2026; remaining minimum rental payments amount to $
+18
+ million.
+Consumers has a natural gas transportation agreement with a subsidiary of CMS Energy that extends through 2038, related to a pipeline owned by Consumers. This agreement is accounted for as a direct finance lease and will automatically extend annually unless terminated by either party. The effects of the lease are eliminated on CMS Energy’s consolidated financial statements.
+Minimum rental payments to be received under Consumers’ direct financing lease are $
+1
+ million for each of the next five years and $
+6
+ million for the years thereafter. The lease receivable was $
+5
+ million as of December 31, 2025, which does not include unearned income of $
+5
+ million.
+145
+Table of Contents
+10:    
+Asset Retirement Obligations
+CMS Energy and Consumers record the fair value of the cost to remove assets at the end of their useful lives, if there is a legal obligation to remove them. If a reasonable estimate of fair value cannot be made in the period in which the ARO is incurred, such as for assets with indeterminate lives, the liability is recognized when a reasonable estimate of fair value can be made. CMS Energy and Consumers have not recorded liabilities associated with the closure of their hydroelectric facilities and certain gas wells that have an indeterminate life or for assets that have immaterial cumulative disposal costs, such as substation batteries.
+CMS Energy and Consumers calculate the fair value of ARO liabilities using an expected present-value technique that reflects assumptions about costs and inflation, and uses a credit-adjusted risk-free rate to discount the expected cash flows. CMS Energy’s ARO liabilities are primarily at Consumers.
+Presented below are the categories of assets that CMS Energy and Consumers have legal obligations to remove at the end of their useful lives and for which they have an ARO liability recorded:
+ARO Description
+Long-lived Assets
+Closure of coal ash disposal areas
+Generating plants coal ash areas
+Gas distribution cut, purge, and cap
+Gas distribution mains and services
+Asbestos abatement
+Electric and gas utility plant
+Closure of renewable generation assets
+Wind and solar generation facilities
+Capping and partial filling of water intake line
+Generating plant water intake line
+Gas wells plug and abandon
+Gas transmission and storage
+In May 2024, the EPA finalized a rule regulating CCR impoundments at electric generating facilities that became inactive prior to the effective date of a rule published in 2015 regulating CCRs under RCRA. Additionally, the EPA established groundwater monitoring, corrective action, closure, and post-closure care requirements for CCR surface impoundments and landfills closed prior to the effective date of the 2015 CCR rule, but that do not meet the closure technical and performance standards of the May 2024 rule. These include inactive CCR landfills that were previously exempted from regulation but that are now considered CCR management units. 
+In response to the new rule, Consumers has been performing its review of legacy impoundments and of other aspects of the 2024 rule in accordance with the timelines prescribed by the rule, including the requirement to determine and report the presence of any CCR management units to the EPA by February 2027. Consumers has been recording incremental AROs for legacy impoundments and CCR management units when a reasonable estimate of the fair value of the associated costs can be made, and the ultimate amount of any resulting ARO could be material. In February 2026, the EPA issued a final rule extending the compliance milestone schedule for CCR management units. This extension does not have a material impact on Consumers’ compliance strategy. Consumers has historically been authorized to recover in electric rates costs related to coal ash disposal sites. 
+146
+Table of Contents
+Presented in the following tables are the changes in CMS Energy’s and Consumers’ ARO liabilities:
+In Millions
+Company and ARO Description
+ARO Liability 12/31/2024
+Incurred
+Settled
+Accretion
+Cash Flow Revisions
+ARO Liability 12/31/2025
+CMS Energy, including Consumers
+Consumers
+$
+694
+
+1    
+The increase in the AROs associated with coal ash disposal areas was primarily the result of incremental remedies required by EGLE for certain ash disposal ponds and incremental AROs recorded in response to reviews of legacy CCR impoundments.
+2
+    The increase in AROs associated with water intake lines, which were previously immaterial, was primarily the result of changes in the expected scope of required capping following the finalization of decommissioning plans with the local jurisdiction.
+In Millions
+Company and ARO Description
+ARO Liability 12/31/2023
+Incurred
+Settled
+Accretion
+Cash Flow Revisions
+ARO Liability 12/31/2024
+CMS Energy, including Consumers
+Consumers
+$
+739
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+and Analysis of Financial Condition and Results of Operations—Cash Position, Investing, and Financing, in the 
+Form 10‑K for the fiscal year ended December 31, 2024, filed February 11, 2025
+.
+Operating Activities
+Presented in the following table are specific components of net cash provided by operating activities for 2025 versus 2024:
+In Millions
+CMS Energy, including Consumers
+Year Ended December 31, 2024
+$
+2,370 
+Reasons for the change
+Higher net income
+$
+55 
+Non‑cash transactions
+1
+133 
+Unfavorable impact of changes in core working capital,
+2
+ due primarily to fluctuations in gas prices and higher undercollections of PSCR
+(107)
+Unfavorable impact of changes in other assets and liabilities, due primarily to lower tax-credit sale proceeds and higher service restoration
+3
+ and renewable energy expenditures
+(216)
+Year Ended December 31, 2025
+$
+2,235 
+Consumers
+Year Ended December 31, 2024
+$
+2,446 
+Reasons for the change
+Higher net income
+$
+120 
+Non‑cash transactions
+1
+(26)
+Unfavorable impact of changes in core working capital,
+2
+ due primarily to fluctuations in gas prices and higher undercollections of PSCR
+(102)
+Unfavorable impact of changes in other assets and liabilities, due primarily to higher income tax payments to CMS Energy and service restoration
+3 
+and renewable energy expenditures
+(200)
+Year Ended December 31, 2025
+$
+2,238 
+1
+Non
+‑
+cash transactions comprise depreciation and amortization, changes in deferred income taxes and investment tax credits, bad debt expense, and other non‑cash operating activities and reconciling adjustments.
+2
+Core working capital comprises accounts receivable, accrued revenue, inventories, accounts payable, and accrued rate refunds.
+3
+See Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters.
+69
+Table of Contents
+Investing Activities
+Presented in the following table are specific components of net cash used in investing activities for 2025 versus 2024:
+In Millions
+CMS Energy, including Consumers
+Year Ended December 31, 2024
+$
+(3,054)
+Reasons for the change
+Higher capital expenditures
+$
+(806)
+Absence of proceeds from sale of ASP business in 2024
+(124)
+Other investing activities, primarily higher cost to retire property
+(54)
+Year Ended December 31, 2025
+$
+(4,038)
+Consumers
+Year Ended December 31, 2024
+$
+(2,872)
+Reasons for the change
+Higher capital expenditures
+$
+(472)
+Absence of proceeds from sale of ASP business in 2024
+(124)
+Other investing activities, primarily higher cost to retire property
+(67)
+Year Ended December 31, 2025
+$
+(3,535)
+70
+Table of Contents
+Financing Activities
+Presented in the following table are specific components of net cash provided by financing activities for 2025 versus 2024:
+In Millions
+CMS Energy, including Consumers
+Year Ended December 31, 2024
+$
+614 
+Reasons for the change
+Higher debt issuances
+$
+1,647 
+Higher debt retirements
+(198)
+Higher repayments of notes payable
+(37)
+Higher issuances of common stock
+239 
+Higher payments of dividends on common stock
+(37)
+Proceeds from sale of membership interests in VIEs
+59 
+Lower contributions from noncontrolling interest
+(1)
+Higher distributions to noncontrolling interest
+(2)
+Other financing activities, primarily higher debt issuance costs
+(44)
+Year Ended December 31, 2025
+$
+2,240 
+Consumers
+Year Ended December 31, 2024
+$
+489 
+Reasons for the change
+Lower debt issuances
+$
+(174)
+Lower debt retirements
+274 
+Higher repayments of notes payable
+(37)
+Borrowings from CMS Energy
+340 
+Higher stockholder contribution from CMS Energy
+185 
+Absence of return of stockholder contribution to CMS Energy in 2024
+320 
+Higher payments of dividends on common stock
+(103)
+Other financing activities
+(5)
+Year Ended December 31, 2025
+$
+1,289 
+71
+Table of Contents
+Capital Resources and Liquidity
+CMS Energy and Consumers expect to have sufficient liquidity to fund their present and future commitments. CMS Energy uses dividends and tax-sharing payments from its subsidiaries and external financing and capital transactions to invest in its utility and non
+‑
+utility businesses, retire debt, pay dividends, and fund its other obligations. The ability of CMS Energy’s subsidiaries, including Consumers, to pay dividends to CMS Energy depends upon each subsidiary’s revenues, earnings, cash needs, and other factors. In addition, Consumers’ ability to pay dividends is restricted by certain terms included in its articles of incorporation and potentially by FERC requirements and provisions under the Federal Power Act and the Natural Gas Act. For additional details on Consumers’ dividend restrictions, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 5, Financings and Capitalization—Dividend Restrictions. During the year ended December 31, 2025, Consumers paid $898 million in dividends on its common stock to CMS Energy.
+Consumers uses cash flows generated from operations, external financing transactions, and the monetization of tax credits, along with stockholder contributions from CMS Energy, to fund capital expenditures, retire debt, pay dividends, and fund its other obligations. Consumers also uses these sources of funding to contribute to its employee benefit plans.
+Financing and Capital Resources:
+ CMS Energy and Consumers rely on the capital markets to fund their robust capital plan. Barring any sustained market dislocations or disruptions, CMS Energy and Consumers expect to continue to have ready access to the financial and capital markets and will continue to explore possibilities to take advantage of market opportunities as they arise with respect to future funding needs. If access to these markets were to diminish or otherwise become restricted, CMS Energy and Consumers would implement contingency plans to address debt maturities, which could include reduced capital spending.
+In 2023, CMS Energy entered into an equity offering program under which it may sell shares of its common stock having an aggregate sales price of up to $1 billion in privately negotiated transactions, in “at the market” offerings, or through forward sales transactions. During the year ended December 31, 2025, CMS Energy settled forward sale contracts issued under this program, resulting in net proceeds o
+f 
+$497 million
+. Following these settlements,
+ CMS Energy has $8 million in outstanding forward contracts under the program, maturing November 30, 2026.
+CMS Energy, NorthStar Clean Energy, and Consumers use revolving credit facilities for general working capital purposes and to issue letters of credit. At December 31, 2025, CMS Energy had $715 million of its revolving credit facility available, NorthStar Clean Energy had $5 million available under its revolving credit facility, and Consumers had $1.4 billion available under its revolving credit facilities. 
+An additional source of liquidity is Consumers’ commercial paper program, which allows Consumers to issue, in one or more placements, up to $500 million in aggregate principal amount of commercial paper notes with maturities of up to 365 days at market interest rates. These issuances are supported by Consumers’ revolving credit facilities. While the amount of outstanding commercial paper does not reduce the available capacity of the revolving credit facilities, Consumers does not intend to issue commercial paper in an amount exceeding the available capacity of the facilities. At December 31, 2025, there were no commercial paper notes outstanding under this program. 
+For additional details about these programs and facilities, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 5, Financings and Capitalization.
+72
+Table of Contents
+Certain of CMS Energy’s, NorthStar Clean Energy’s, and Consumers’ credit agreements contain covenants that require each entity to maintain certain financial ratios, as defined therein. At December 31, 2025, no default had occurred with respect to any of the financial covenants contained in these credit agreements. Each of the entities was in compliance with the covenants contained in their respective credit agreements as of December 31, 2025, as presented in the following table:
+Limit 
+Actual 
+CMS Energy, parent only
+Debt to capital
+1
+<
+ 0.70 to 1.0
+0.56 to 1.0
+NorthStar Clean Energy
+Debt to capital
+2
+<
+ 0.50 to 1.0
+0.14 to 1.0
+Debt service coverage
+2
+>
+ 2.00 to 1.0
+5.03 to 1.0
+Pledged equity interests to aggregate commitment
+2,3
+>
+ 2.00 to 1.0
+2.06 to 1.0
+Consumers
+Debt to capital
+4
+<
+ 0.65 to 1.0
+0.51 to 1.0
+1
+Applies to CMS Energy’s revolving credit agreement and letter of credit reimbursement agreement.
+2
+Applies to NorthStar Clean Energy’s revolving credit agreement.
+3
+The aggregate book value of the pledged equity interests under the revolving credit agreement was at least two‑times the aggregate commitment under the revolving credit agreement at December 31, 2025.
+4
+Applies to Consumers’ revolving credit agreements and certain letter of credit reimbursement agreements.
+Material Cash Requirements:
+
+Based on the present investment plan, during 2026, CMS Energy, including Consumers, projects capital expenditures of $4.4 billion and Consumers projects capital expenditures of $4.1 billion. CMS Energy’s 2026 contractual commitments comprise $2.4 billion of purchase obligations and $1.8 billion of principal and interest payments on long-term debt. Consumers’ 2026 contractual commitments comprise $2.1 billion of purchase obligations and $1.1 billion of principal and interest payments on long-term debt.
+Components of CMS Energy’s and Consumers’ cash management plan include controlling operating expenses and capital expenditures and evaluating market conditions for financing and refinancing opportunities. CMS Energy’s and Consumers’ present level of cash and expected cash flows from operating activities, together with access to sources of liquidity, are anticipated to be sufficient to fund contractual obligations and other material cash requirements for 2026 and beyond.
+Capital Expenditures:
+ Over the next five years, CMS Energy and Consumers expect to make substantial capital investments. The companies may revise their forecast of capital expenditures periodically due to a number of factors, including environmental regulations, MPSC approval or disapproval, business opportunities, market volatility, economic trends, and the ability to access capital. Presented in the 
+73
+Table of Contents
+following table are CMS Energy’s and Consumers’ estimated capital expenditures, including lease commitments, for 2026 through 2030:
+In Billions
+2026
+2027
+2028
+2029
+2030
+Total
+CMS Energy, including Consumers
+Consumers
+$
+4.1 
+$
+5.4 
+$
+5.7 
+$
+5.0 
+$
+3.9 
+$
+24.1 
+NorthStar Clean Energy
+0.3 
+0.4 
+0.5 
+0.4 
+0.1 
+1.7 
+Total CMS Energy
+$
+4.4 
+$
+5.8 
+$
+6.2 
+$
+5.4 
+$
+4.0 
+$
+25.8 
+Consumers
+Electric utility operations
+$
+3.0 
+$
+4.1 
+$
+4.4 
+$
+3.5 
+$
+2.4 
+$
+17.4 
+Gas utility operations
+1.1 
+1.3 
+1.3 
+1.5 
+1.5 
+6.7 
+Total Consumers
+$
+4.1 
+$
+5.4 
+$
+5.7 
+$
+5.0 
+$
+3.9 
+$
+24.1 
+Other Material Cash Requirements:
+ Presented in the following table are CMS Energy’s and Consumers’ material cash obligations from known contractual and other legal obligations:
+In Billions
+Payments Due
+December 31, 2025
+Less Than One Year
+Total
+CMS Energy, including Consumers
+Long-term debt
+$
+1.0 
+$
+18.9 
+Interest payments on long-term debt
+0.8 
+15.1 
+Purchase obligations
+2.4 
+20.6 
+AROs
+0.1 
+2.7 
+Total obligations
+$
+4.3 
+$
+57.3 
+Consumers
+Long-term debt
+$
+0.6 
+$
+13.2 
+Interest payments on long-term debt
+0.5 
+8.0 
+Purchase obligations
+2.1 
+19.7 
+AROs
+0.1 
+2.6 
+Total obligations
+$
+3.3 
+$
+43.5 
+Purchase obligations arise from long-term contracts for the purchase of commodities and related services, primarily long-term PPAs, and construction and service agreements. For more information on CMS Energy’s and Consumers’ purchase obligations, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Contractual Commitments.
+CMS Energy, Consumers, and certain of their subsidiaries enter into various arrangements in the normal course of business to facilitate commercial transactions with third parties. These arrangements include indemnities, surety bonds, letters of credit, and financial and performance guarantees. For additional details on indemnity and guarantee arrangements, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Guarantees. For additional details on letters of credit and CMS Energy’s forward sales contracts, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 5, Financings and Capitalization.
+74
+Table of Contents
+Outlook
+Several business trends and uncertainties may affect CMS Energy’s and Consumers’ financial condition and results of operations. These trends and uncertainties could have a material impact on CMS Energy’s and Consumers’ consolidated income, cash flows, or financial position. 
+During 2025, the federal government took numerous executive actions related to tariffs and trade, alleviating regulatory burdens, and environmental regulations and enforcement, among other areas of potential impact. Many of these actions require further implementation by federal agencies and departments, and some of these actions will likely be subject to further judicial review. CMS Energy and Consumers continue to monitor these executive actions and will continue taking steps to deliver consistently on the triple bottom line.
+For additional details regarding these and other uncertainties, see Forward-looking Statements and Information; Item 1A. Risk Factors; and Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+Consumers Electric Utility Outlook and Uncertainties
+Energy Supply:
+ Consumers’ Electric Supply Plan, its long-term strategy for delivering safe, reliable, affordable, clean, and equitable energy to its customers, is outlined in its integrated resource plan and incorporates Consumers’ Renewable Energy Plan. The Electric Supply Plan is Consumers’ blueprint for compliance with Michigan’s 2023 Energy Law and for advancing sustainability objectives.
+Among other things, the 2023 Energy Law:
+•
+increased the renewable energy standard from 15 percent to 50 percent by 2030 and 60 percent by 2035
+•
+established a clean energy standard of 80 percent by 2035 and 100 percent by 2040; low- or zero‑carbon emitting resources, such as nuclear generation and natural gas generation coupled with carbon capture, qualify as clean energy sources under this standard
+•
+created a new energy storage standard, requiring electric utilities to file plans by 2029 to help achieve a statewide target of 2,500 MW; the MPSC Staff has indicated that Consumers’ share of this target is 817 MW
+Consumers’ integrated resource planning process provides a clear path toward these goals. Updates to its integrated resource plan will be filed in 2026 to reinforce and expand that pathway, while recent updates to the Renewable Energy Plan—approved by the MPSC in September 2025—position Consumers to achieve 60‑percent renewable energy by 2035 and 100‑percent clean energy by 2040. 
+To meet these objectives, Consumers is executing a multi-faceted strategy:
+•
+Ending the use of coal
+—
+In 2023, Consumers retired the D.E. Karn coal-fueled generating units, totaling 515 MW of nameplate capacity, and as authorized by the MPSC, issued securitization bonds to finance the recovery of and return on those units. Additionally, Consumers obtained MPSC approval to retire J.H. Campbell in May 2025, totaling 1,407 MW of nameplate capacity, and to recover its remaining book value plus a 9.0‑percent return on equity through regulatory asset treatment upon its retirement. As discussed further below, the retirement of J.H. Campbell is subject to temporary extensions under emergency orders issued by the U.S. Secretary of Energy.
+75
+Table of Contents
+•
+Resource adequacy and reliability
+—
+To maintain reliability during the transition, Consumers purchased the Covert Generating Station, representing 1,200 MW of nameplate capacity, in 2023. Additionally, in September 2025, Consumers entered into a new 10‑year PPA with the MCV Partnership for the purchase of up to 1,240 MW of capacity and associated energy from the MCV Facility, effective June 1, 2030.
+•
+Energy storage investments
+—
+Consumers has contracted to purchase 850 MW of capacity from battery storage facilities to be located in Michigan’s Lower Peninsula and with expected commercial operation dates through 2028.
+•
+Renewable expansion
+—
+Recent Renewable Energy Plan updates include up to 4,000 MW of wind energy resources and up to 9,000 MW of both purchased and owned solar energy resources, of which 1,060 MW will support Consumers’ voluntary green pricing program. 
+Presented in the following illustration is the aggregate renewable capacity that Consumers expects to add to its portfolio through PPAs and owned generation under its integrated resource plan, voluntary green pricing program, and Renewable Energy Plan updates:
+The company earns a return equal to its pre-tax weighted-average cost of capital on permanent capital structure for payments under new clean, renewable, or energy storage PPAs with non-affiliated entities. 
+Consumers will continue to competitively bid new capacity and energy resources, ensuring a balanced portfolio of intermittent renewables and dispatchable clean resources. Any resulting contracts are subject to MPSC approval. Through these integrated plans, Consumers is advancing Michigan’s clean energy transition while maintaining system reliability, affordability, and regulatory compliance.
+J.H. Campbell Emergency Orders:
+ In May 2025, before the planned closure of J.H. Campbell, the U.S. Secretary of Energy issued an emergency order under section 202(c) of the Federal Power Act requiring J.H. Campbell to continue operating for 90 days, through August 20, 2025. Subsequently, the 
+76
+Table of Contents
+U.S. Secretary of Energy issued two additional emergency orders for 90 days each, ultimately requiring continued operation of J.H. Campbell through February 17, 2026. These orders stated that continued operation of J.H. Campbell was required to meet an energy emergency across MISO’s North and Central regions. Consistent with the Federal Power Act and DOE regulations, the orders authorize Consumers to obtain cost recovery at FERC. 
+As directed, Consumers has continued to make J.H. Campbell available in the MISO market and, in June 2025, filed a complaint at FERC seeking a modification of the MISO Tariff to establish a mechanism for recovery and allocation of the cost to comply with this order. In August 2025, FERC granted Consumers’ complaint and ordered MISO to revise its tariff accordingly. MISO submitted a compliance filing with FERC in September 2025, and FERC approval of the compliance filing remains pending. For additional discussion of this FERC proceeding and Consumers’ request for recovery, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters. 
+Following the May 2025 emergency order, several third-party stakeholders, including the Michigan Attorney General, the Organization of MISO States, and a group of environmental and public interest groups, asked the U.S. Secretary of Energy to reconsider the May 2025 emergency order. In July 2025, after the U.S. Secretary of Energy took no action on those requests, several parties filed petitions for review of the May 2025 emergency order in federal court. The requests for rehearing were subsequently denied, and similar challenges to the August and November 2025 orders are underway. The U.S. Secretary of Energy may issue more orders to require the continued operation of J.H. Campbell. While the timing and content of future orders and the outcome of third-party legal challenges are not yet known, Consumers is committed to pursuing cost recovery as provided for under applicable laws, orders, and proceedings. 
+Electric Customer Deliveries and Revenue:
+ Consumers’ electric customer deliveries are seasonal and largely dependent on Michigan’s economy. The consumption of electric energy typically increases in the summer months, due primarily to the use of air conditioners and other cooling equipment. In addition, Consumers’ electric rates, which follow a seasonal rate design, are higher in the summer months than in the remaining months of the year. Each year in June, electric residential customers transition to a summer peak time-of-use rate that allows them to take advantage of lower-cost energy during off-peak times during the summer months. Thus, customers can reduce their electric bills by shifting their consumption from on‑peak to off‑peak times.
+Over the next five years, Consumers expects weather-normalized electric deliveries to increase compared to 2025. This outlook reflects strong growth in electric demand, offset partially by the effects of energy waste reduction programs. Actual delivery levels will depend on:
+•
+energy conservation measures and results of energy waste reduction programs
+•
+weather fluctuations
+•
+Michigan’s economic conditions, including data center expansion; utilization, expansion, or contraction of large commercial and industrial facilities; economic development; population trends; electric vehicle adoption; and housing activity
+Electric ROA:
+ Michigan law allows electric customers in Consumers’ service territory to buy electric generation service from alternative electric suppliers in an aggregate amount capped at 10 percent of Consumers’ sales, with certain exceptions. At December 31, 2025, electric deliveries under the ROA program were at the 10‑percent limit. Fewer than 300 of Consumers’ electric customers purchased electric generation service under the ROA program. 
+77
+Table of Contents
+In 2016, Michigan law established a path to ensure that forward capacity is secured for all electric customers in Michigan, including customers served by alternative electric suppliers under ROA. The law also authorized the MPSC to ensure that alternative electric suppliers have procured enough capacity to cover their anticipated capacity requirements for the four
+‑
+year forward period. In 2017, the MPSC issued an order establishing a state reliability mechanism for Consumers. Under this mechanism, if an alternative electric supplier does not demonstrate that it has procured its capacity requirements for the four
+‑
+year forward period, its customers will pay a set charge to the utility for capacity that is not provided by the alternative electric supplier.
+During 2017, the MPSC issued orders finding that it has statutory authority to determine and implement a local clearing requirement, which requires all electric suppliers to demonstrate that a portion of the capacity used to serve customers is located in the MISO footprint in Michigan’s Lower Peninsula. In 2020, the Michigan Supreme Court affirmed the MPSC’s statutory authority to implement a local clearing requirement on individual electric providers.
+In 2020, ABATE and another intervenor filed a complaint against the MPSC in the U.S. District Court for the Eastern District of Michigan challenging the constitutionality of a local clearing requirement. The complaint requested the federal court to issue a permanent injunction prohibiting the MPSC from implementing a local clearing requirement on individual electric providers. In 2023, the U.S. District Court for the Eastern District of Michigan dismissed the complaint. ABATE and the other intervenor filed a claim of appeal of the Eastern District Court’s decision with the U.S. Court of Appeals for the Sixth Circuit. 
+In January 2025, the Sixth Circuit Court of Appeals issued an opinion finding that the MPSC’s imposition of a local clearing requirement on individual electric suppliers would discriminate against interstate commerce. The Court of Appeals remanded to the District Court for a determination of whether the local clearing requirement discriminated against interstate commerce and whether the MPSC’s regulation survives a strict scrutiny standard, which depends on a determination of whether the local clearing requirement is the only means of achieving the state’s goal of securing reliable energy supply. In January 2025, Consumers filed a petition for rehearing and en banc review with the Sixth Circuit Court of Appeals, requesting the Court to reconsider and reverse the panel’s opinion. In February 2025, the Sixth Circuit Court of Appeals issued an order denying Consumers’ petition for rehearing and en banc review. The case has therefore been remanded to the District Court for the Eastern District of Michigan for consideration of whether the MPSC’s local clearing requirement meets the strict scrutiny standard pursuant to the Court of Appeals’ decision. The remanded proceeding has begun at the Eastern District Court; there is no deadline for decision.
+Sale of Hydroelectric Facilities: 
+In September 2025, Consumers signed an agreement to sell its 13 river hydroelectric dams, which are located throughout Michigan, to a non-affiliated company. Additionally, Consumers signed an agreement to purchase power generated by the facilities for 30 years, at a price that reflects the counterparty’s acceptance of the risks and rewards of ownership of the facilities, including FERC licensing obligations. The agreements are contingent upon MPSC and FERC approval, for which Consumers filed in October 2025. Timing of the regulatory review process is uncertain and could extend 12 to 18 months or longer. In Consumers’ most recent electric rate case, the MPSC approved deferred accounting treatment for costs of owning and operating the hydroelectric dams pending and until completion of the transaction. At December 31, 2025, the net book value of the hydroelectric facilities was immaterial.
+To ensure necessary staffing at the hydroelectric facilities through the anticipated sale, Consumers has provided current employees at the facilities with a retention incentive program. Subsequently, to ensure continued safe operation of the facilities after the sale, the buyer will offer employment to the current 
+78
+Table of Contents
+hydroelectric employees for a period of at least a year. The retention incentive benefits are contingent upon MPSC and FERC approval of the sale transaction.
+Electric Rate Matters:
+ Rate matters are critical to Consumers’ electric utility business. For additional details on rate matters, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+MPSC Distribution System Audit:
+ In 2022, the MPSC ordered the state’s two largest electric utilities, including Consumers, to report on their compliance with regulations and past MPSC orders governing the utilities’ response to outages and downed lines. Consumers responded to the MPSC’s order as directed. 
+Additionally, as directed by the MPSC, the MPSC Staff engaged a third‑party auditor to review all equipment and operations of the two utilities’ distribution systems. In September 2024, the MPSC Staff released the third-party auditor’s final report on its audit of Consumers’ distribution system. The report included several recommendations to improve Consumers’ distribution system and associated processes and procedures. Consumers filed a response to the audit report in November 2024. In June 2025, the MPSC issued an order adopting the audit’s findings and recommendations. Consumers is committed to working with the MPSC to continue improving electric reliability and safety in Michigan.
+Performance-based Financial Incentives/Disincentives Mechanism: 
+In February 2025, the MPSC issued an order establishing a mechanism through which the state’s largest electric utilities, including Consumers, could realize up to $10 million each in incentives or penalties annually for meeting or failing to meet reliability benchmarks, beginning in 2026. As directed, Consumers filed proposed company-specific baseline metrics for the performance mechanism in April 2025; the MPSC approved Consumers’ proposed metrics in December 2025. 
+2025 Electric Rate Case: 
+In June 2025, Consumers filed an application with the MPSC seeking a rate increase of $460 million, made up of two components. First, Consumers requested a $436 million annual rate increase, based on a 10.25‑percent authorized return on equity for the projected 12
+‑
+month period ending April 30, 2027. The filing requested authority to recover costs related to new infrastructure investment primarily in distribution system reliability. Second, Consumers requested approval of a $24 million surcharge for the recovery of distribution investments made during the 12 months ended February 28, 2025 that exceeded the rate amounts authorized in accordance with previous electric rate orders. 
+In October 2025, Consumers revised its requested increase to $447 million. Presented in the following table are the components of the revised requested increase in revenue:
+In Millions
+Projected 12-Month Period Ending April 30
+2027
+Investment in rate base
+$
+192 
+Operating and maintenance costs
+157 
+Cost of capital
+67 
+Sales and other revenue
+7 
+Subtotal
+$
+423 
+Surcharge
+24 
+Total
+$
+447 
+The MPSC must issue a final order in this case before or in April 2026.
+79
+Table of Contents
+Large-load Tariff:
+ In November 2025, the MPSC approved changes to Consumers’ standard large‑customer tariff to govern service for new large electricity users such as data centers. Consumers sought these changes to protect existing customers. The changes apply to customers with a minimum service threshold of 100 MW and require a minimum 15‑year contract (beyond the construction period), an 80‑percent minimum demand billing obligation, upfront fees, and strong collateral and exit‑fee protections to ensure these large customers fully cover their own costs of service and do not shift risk or costs to existing customers. Each large-load contract must receive MPSC approval before taking effect. The MPSC also directed Consumers to present multiple cost‑allocation and rate-design options before its next rate case to ensure that large-load customers pay their fair share of system costs going forward.
+Depreciation Rate Case: 
+In December 2025, Consumers filed a depreciation case related to its electric and common utility property. In this case, Consumers requested to increase depreciation expense, and its recovery of that expense of $34 million annually based on December 31, 2024 balances. 
+Retention Incentive Program: 
+The retirement of J.H. Campbell is subject to temporary extensions under emergency orders issued by the U.S. Secretary of Energy. As a result, Consumers has implemented retention measures to ensure appropriate staffing levels and expects to incur up to $4 million during each 90‑day emergency order period. Consumers will seek recovery of these retention costs from FERC, consistent with rate recovery sought for other costs of complying with the emergency orders. For additional details on this program, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 20, Exit Activities and Asset Sales. For additional details on the emergency orders, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters. 
+Electric Environmental Outlook: 
+Consumers’ electric operations are subject to various federal, state, and local environmental laws and regulations. Consumers estimates that it will incur capital expenditures of $245 million from 2026 through 2030 to continue to comply with RCRA, the Clean Air Act, and numerous other environmental regulations. Consumers expects to recover these costs in customer rates, but cannot guarantee this result. Multiple environmental laws and regulations are subject to litigation. Consumers’ primary environmental compliance focus includes, but is not limited to, the following matters.
+Air Quality:
+ Multiple air quality regulations apply, or may apply, to Consumers’ electric utility.
+MATS, emission standards for electric generating units published by the EPA based on Section 112 of the Clean Air Act, continue to apply to Consumers. In June 2025, the EPA issued a proposed rule to repeal changes made to the MATS rule in 2024. The company has complied, and continues to comply, with the MATS regulation and both the 2024 and proposed 2025 versions of MATS have minimal impacts on Consumers’ electric generating units. Consumers does not expect MATS to materially impact its environmental strategy.
+CSAPR requires Michigan and many other states to improve air quality by reducing power plant emissions that, according to EPA modeling, contribute to ground-level ozone in other downwind states. Consumers complies with this regulation and expects it to have minimal financial and operational impact in the near and/or long term.
+In 2015, the EPA lowered the NAAQS for ozone and made it more difficult to construct or modify power plants and other emission sources in areas of the country that do not meet the ozone standard. As of 2023, three counties in western Michigan have been designated as not meeting the ozone standard. Based on recent data, the EPA reclassified these counties from “moderate” to “serious” nonattainment. Additionally, a December 2025 court decision vacated the EPA’s 2023 redesignation of a seven‑county area in southeast Michigan from moderate ozone nonattainment to attainment. None of Consumers’ 
+80
+Table of Contents
+fossil-fuel-fired generating units are located in these areas. Consumers will continue to monitor the impact of the recent court decision on the seven-county area in southeast Michigan, including resulting agency actions, but does not anticipate it will have any impact on Consumers’ generating assets.
+In March 2024, the EPA published a lower fine particulate matter NAAQS, which could result in newly designated nonattainment areas in Michigan starting in 2026. In 2025, EGLE proposed nonattainment areas for Kalamazoo and Wayne counties, with a decision by the EPA expected in 2026. Consumers does not have any fossil-fuel-fired generating assets in these counties and therefore does not expect this rule to have significant impacts on its existing generating assets or its clean energy strategy. Consumers will continue to monitor NAAQS rulemakings and litigation to evaluate potential impacts to its generating assets.
+In January 2026, the EPA published a final rule amending new source performance standards for new, modified, and reconstructed stationary combustion turbines to lower emission limits for NOx. This final rule requires new large simple-cycle turbine units with higher capacity factors to install control equipment for NOx emissions. Consumers is evaluating this rule to determine its impact.
+Consumers continues to evaluate these rules in conjunction with other EPA and EGLE rulemakings, litigation, executive orders, treaties, and congressional actions. This evaluation could result in:
+•
+a change in Consumers’ fuel mix
+•
+changes in the types of generating units Consumers may purchase or build in the future
+•
+changes in how certain units are operated, including the installation of additional emission control equipment
+•
+the retirement, mothballing, extended operation, or repowering with an alternative fuel of some of Consumers’ generating units
+•
+changes in Consumers’ environmental compliance costs
+•
+the purchase or sale of emission allowances
+Greenhouse Gases:
+ There have been numerous legislative, executive, and regulatory initiatives at the state, regional, national, and international levels that involve the potential regulation and reporting of greenhouse gases. Consumers continues to monitor and comment on these initiatives, as appropriate.
+In September 2025, the EPA proposed a rule to reconsider the Greenhouse Gas Reporting Program by eliminating the reporting obligations from numerous emission sources, including Consumers’ electric generation sites and distribution equipment. Reporting of carbon dioxide to the EPA, however, will continue for sources subject to the Clean Air Act Acid Rain Program, which includes Consumers’ fossil-fuel-fired electric generation. This change could result in inconsistent approaches in voluntary greenhouse gas accounting for industrial sources.
+In April 2024, the EPA finalized its rule under Section 111 of the Clean Air Act to address greenhouse gas emissions from new combustion turbine electric generating units and existing coal-, gas-, and oil‑fueled steam electric generating units. These rules do not address existing combustion turbine electric generating units. In June 2025, the EPA issued a proposed rule containing two different pathways to rescind these requirements. Consumers does not expect these proposed changes will have a significant impact on its existing gas- and oil-fueled steam electric generating assets. Consumers will continue to follow the EPA rules that address greenhouse gas emissions and will continue to evaluate potential impacts to its operations. 
+Increased frequency or intensity of severe or extreme weather events, including those due to climate change, could materially impact Consumers’ facilities, energy sales, and results of operations. Consumers is unable to predict these events; however, Consumers evaluates the potential physical impacts of climate 
+81
+Table of Contents
+change on its operations, including increased frequency or intensity of storm activity; increased precipitation; increased temperature; and changes in lake and river levels. Consumers released a report addressing the physical risks of climate change on its infrastructure in 2022. Consumers is taking steps to mitigate these risks as appropriate.
+While Consumers cannot predict the outcome of changes in U.S. policy or of other legislative, executive, or regulatory initiatives involving the potential regulation or reporting of greenhouse gases, it intends to move forward with its compliance with Michigan’s clean energy requirements, its own sustainability goals, and its emphasis on reliable and resilient electric supply. Litigation, international treaties, executive orders, federal laws and regulations (including regulations by the EPA), and state laws and regulations, if enacted or ratified, could ultimately impact Consumers. Consumers may be required to:
+•
+replace equipment
+•
+install additional emission control equipment
+•
+purchase emission allowances or credits (including potential greenhouse gas offset credits)
+•
+curtail operations or modify existing facility retirement schedules
+•
+arrange for alternative sources of supply
+•
+purchase or build facilities that generate fewer emissions
+•
+mothball, sell, or retire facilities that generate certain emissions
+•
+pursue energy efficiency or demand response measures more swiftly
+•
+take other steps to manage, sequester, or lower the emission of greenhouse gases
+Although associated capital or operating costs relating to greenhouse gas regulation or legislation could be material and cost recovery cannot be assured, Consumers expects to recover these costs in rates consistent with the recovery of other reasonable costs of complying with environmental laws and regulations.
+CCRs:
+ In 2015, the EPA published a rule regulating CCRs under RCRA. This rule adopts minimum standards for the disposal of non‑hazardous CCRs in CCR landfills and surface impoundments and criteria for the beneficial use of CCRs. The rule also sets out conditions under which some CCR units would be forced to cease receiving CCRs and related process water and to initiate closure. Due to continued litigation, many aspects of the rule have been remanded to the EPA, resulting in more proposed and final rules.
+In May 2024, the EPA finalized a rule regulating legacy CCR surface impoundments and CCR management units in response to litigation that exempted inactive impoundments at inactive facilities from the 2015 CCR rule. The new rule adopts minimum standards for impoundments at electric generating facilities that became inactive before the 2015 CCR rule’s effective date. During 2024, owners and operators were required to assess whether an inactive facility contains a legacy surface impoundment and then, for identified locations, proceed with the compliance schedule. 
+Additionally, the EPA established groundwater monitoring, corrective action, closure, and post-closure care requirements for CCR surface impoundments and landfills closed prior to the effective date of the 2015 CCR rule, but that do not meet the closure technical and performance standards of the May 2024 rule. These include inactive CCR landfills that were previously exempted from regulation but that are now considered CCR management units. Owners are required to conduct an evaluation at active facilities or any inactive facilities with at least one legacy impoundment to identify CCR management units and determine an appropriate course of action (closure, groundwater treatment, etc.) for each identified unit according to established compliance milestone schedules. In February 2026, the EPA issued a final rule extending the compliance milestone schedule for CCR management units. This extension does not have a material impact on Consumers’ compliance strategy.
+82
+Table of Contents
+Separately, Congress passed legislation in 2016 allowing participating states to develop permitting programs for CCRs under RCRA Subtitle D. The EPA was granted authority to review these permitting programs to determine if permits issued under the proposed program would be as protective as the federal rule. Once approved, permits issued from an authorized state would serve as the basis for compliance, replacing the requirement to self-certify each aspect of the 2015 CCR rule.
+Consumers, with agreement from EGLE, completed the work necessary to initiate closure by excavating CCRs or placing a final cover over each of its relevant CCR units prior to the closure initiation deadline set forth in the 2015 CCR rule. Consumers has historically been authorized to recover in electric rates costs related to coal ash disposal sites that supported power generation. Consumers completed an assessment of inactive facilities as required by the 2024 CCR rule, and did not identify any legacy impoundments. Consumers is continuing evaluations related to CCR management units and 2024 CCR rule impacts on the state permit program.
+Water:
+ Multiple water-related regulations apply, or may apply, to Consumers.
+The EPA regulates cooling water intake systems of existing electric generating plants under Section 316(b) of the Clean Water Act. The rules seek to reduce alleged harmful impacts on aquatic organisms, such as fish. In 2018, Consumers submitted to EGLE studies and recommended plans to comply with Section 316(b) for its coal-fueled units but has not yet received final approval.
+The EPA also regulates the discharge of wastewater through its effluent limitation guidelines for steam electric generating plants. Consumers has submitted the appropriate notices of planned participation in compliance with this rule. Consumers has also submitted timely NPDES permit applications and will be working with EGLE to incorporate applicable provisions during the permit renewal process.
+Many of Consumers’ facilities maintain NPDES permits, which are vital to the facilities’ operations. Consumers applies for renewal of these permits every five years. Failure of EGLE to renew any NPDES permit, a successful appeal against a permit, a change in the interpretation or scope of NPDES permitting, or onerous terms contained in a permit could have a significant detrimental effect on the operations of a facility.
+Protected Wildlife: 
+Multiple regulations apply, or may apply, to Consumers relating to protected species and habitats.
+Statutes like the federal Endangered Species Act, the Migratory Bird Treaty Act, and the Bald and Golden Eagle Protection Act of 1940 and changes to permitting may impact operations at Consumers’ facilities. In February 2024, the U.S. Fish and Wildlife Service published a final rule providing for bald eagle general permits for qualifying wind farms and electric distribution systems. Consumers has received, or is pursuing, bald eagle general permits for all its wind farms. While any resulting permitting and monitoring fees and/or restrictions on operations could impact Consumers’ existing and future operations, Consumers does not expect any material changes to its environmental strategy or Electric Supply Plan as a result of this rule.
+Additionally, Consumers regularly monitors proposed changes to the listing status of several species within its operational area. A change in species listed under the Endangered Species Act, or under Michigan’s equivalent law, may impact Consumers’ costs to mitigate its impact on protected species and habitats at certain existing facilities as well as siting choices for new facilities.
+Other Matters:
+ Other electric environmental matters could have a material impact on Consumers’ outlook. For additional details on other electric environmental matters, see Item 8. Financial Statements 
+83
+Table of Contents
+and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Consumers Electric Utility Contingencies—Electric Environmental Matters.
+Consumers Gas Utility Outlook and Uncertainties
+Gas Deliveries:
+ Consumers’ gas customer deliveries are seasonal. The peak demand for natural gas occurs in the winter due to colder temperatures and the resulting use of natural gas as heating fuel. 
+Over the next five years, Consumers expects weather-normalized gas deliveries to remain stable relative to 2025. This outlook reflects modest growth in gas demand, offset by the effects of energy waste reduction programs. Actual delivery levels will depend on:
+•
+weather fluctuations
+•
+use by power producers
+•
+availability and development of renewable energy sources
+•
+gas price changes
+•
+Michigan’s economic conditions, including population trends and housing activity
+•
+the price or demand of competing energy sources or fuels
+•
+energy efficiency and conservation impacts
+Gas Rate Matters:
+ Rate matters are critical to Consumers’ gas utility business. For additional details on rate matters, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+2025 Gas Rate Case:
+
+In December 2025, Consumers filed an application with the MPSC seeking an annual rate increase of $240 million based on a 10.25‑percent authorized return on equity for the projected 12‑month period ending October 31, 2027.  
+Presented in the following table are the components of the requested increase in revenue:
+In Millions
+Projected 12-Month Period Ending October 31
+2027
+Investment in rate base
+$
+108 
+Operating and maintenance costs
+65 
+Cost of capital
+66 
+Sales/gross margin
+1 
+Total
+$
+240 
+The MPSC must issue a final order in this case before or in October 2026. 
+Gas Pipeline and Storage Integrity and Safety: 
+Consumers’ gas operations are governed by federal and state pipeline safety rules, and there are robust processes and procedures in place to maintain compliance with these regulations. The U.S. Department of Transportation’s Pipeline and Hazardous Materials Safety Administration has published various rules that revise federal safety standards for gas transmission pipelines and underground storage facilities. Consumers has implemented measures to achieve compliance with the revised rules. There are also proposed rules expanding requirements for gas safety, although these rules are subject to reconsideration by the current administration. Under the proposed rules, Consumers will incur increased capital and increased operating and maintenance costs to install and remediate pipelines and to expand inspections, maintenance, and monitoring of existing pipelines and storage facilities. 
+84
+Table of Contents
+Although associated capital or operating and maintenance costs relating to these regulations could be material and cost recovery cannot be assured, Consumers expects to recover such costs in rates consistent with the recovery of other reasonable costs of complying with laws and regulations.
+Gas Environmental Outlook: 
+Consumers expects to incur response activity costs at a number of sites, including 23 former MGP sites. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Consumers Gas Utility Contingencies.
+
+Consumers’ gas operations are subject to various federal, state, and local environmental laws and regulations. Multiple environmental laws and regulations are subject to litigation. Consumers’ primary environmental compliance focus includes, but is not limited to, the following matters.
+Air Quality:
+ Multiple air quality regulations apply, or may apply, to Consumers’ gas utility.
+In 2015, the EPA lowered the NAAQS for ozone and made it more difficult to construct or modify natural gas compressor stations and other emission sources in areas of the country that do not meet the ozone standard. As of 2023, three counties in western Michigan have been designated as not meeting the ozone standard. Based on recent data, the EPA reclassified these counties from “moderate” to “serious” nonattainment, which has more stringent requirements. One of Consumers’ compressor stations is in a serious ozone nonattainment area. Consequently, Consumers has initiated plans to retrofit equipment at this compressor station to lower NOx emissions. 
+Additionally, a December 2025 court decision vacated the EPA’s 2023 redesignation of the seven‑county area in southeast Michigan from moderate ozone nonattainment to attainment. Four of Consumers’ compressor stations are located in these counties, with one station having assets that may be impacted by the redesignation change. Consumers will continue to monitor the recent court decision’s impact on the seven-county area in southeast Michigan, including resulting agency actions, and the potential impacts to compressor station assets. 
+Consumers will continue to monitor NAAQS rulemakings and litigation, and evaluate potential impacts to its compressor stations and other applicable natural gas storage and delivery assets.
+In March 2024, the EPA published a lower fine particulate matter NAAQS, which could result in newly designated nonattainment areas in Michigan starting in 2026. In 2025, EGLE proposed nonattainment areas for Kalamazoo and Wayne counties, with a decision by the EPA expected in 2026. Consumers has one compressor station located in Wayne County and will continue to monitor NAAQS rulemakings and litigation to evaluate potential impacts to the natural gas compressor station assets.
+Greenhouse Gases:
+ Some interest exists at the various levels of government in regulating greenhouse gases or their sources. Future regulations, if adopted, may involve requirements to reduce methane emissions from Consumers’ gas utility operations and carbon dioxide emissions from customer use of natural gas. Consumers will continue to monitor such potential rules for impacts.
+In September 2025, the EPA proposed a rule to reconsider the Greenhouse Gas Reporting Program by removing the natural gas distribution segment from the reporting obligations under the petroleum and natural gas source category, and proposed to delay the reporting obligations until 2034 for the remaining sources in this category. If this proposal is finalized as proposed, it could result in inconsistent approaches in voluntary greenhouse gas accounting for industrial sources.
+Consumers is making voluntary efforts to reduce its gas utility’s methane emissions. Under its Methane Reduction Plan, Consumers has set a goal of net-zero methane emissions from its natural gas delivery 
+85
+Table of Contents
+system by 2030. Consumers plans to reduce methane emissions from its system by about 80 percent from 2012 baseline levels by accelerating the replacement of aging pipe, rehabilitating or retiring outdated infrastructure, and adopting new technologies and practices. The remaining emissions will likely be offset through clean fuel alternatives or nature-based carbon removal pathways. To date, Consumers has reduced methane emissions by more than 40 percent. 
+Consumers has also set a goal to reduce customer greenhouse gas emissions by 25 percent by 2035. Consumers’ Natural Gas Delivery Plan, a rolling ten
+‑
+year investment plan to deliver safe, reliable, clean, and affordable natural gas to customers, outlines ways in which Consumers can make early progress toward these goals in a cost-effective manner, including energy waste reduction, carbon offsets, and renewable natural gas supply.
+Consumers has already initiated work in these key areas by continuing to expand its energy waste reduction targets and by offering gas customers the ability to offset their carbon footprint associated with natural gas use by purchasing renewable natural gas and/or carbon credits associated with Michigan forest preservation. Consumers has renewable natural gas facilities under construction scheduled for commercial operation in 2026 and is monitoring regulatory developments and market conditions closely as part of its ongoing evaluation of the projects. As part of this evaluation, two early‑phase renewable natural gas development projects have been paused indefinitely, and Consumers recognized an impairment charge of $15 million related to these projects in 2025. Consumers is evaluating and monitoring newer technologies to determine their role in achieving Consumers’ interim and long-term net-zero goals, including biofuels, geothermal, synthetic methane, carbon capture sequestration systems, and other innovative technologies.
+NorthStar Clean Energy Outlook and Uncertainties
+CMS Energy’s primary focus with respect to its NorthStar Clean Energy businesses is to maximize the value of generating assets representing 1,665 MW of capacity, and to pursue opportunities for the development of renewable generation projects, including leveraging strategic partnerships and available tax incentives.
+In December 2025, NorthStar Clean Energy sold a Class A membership interest in BG Solar Holdings to a tax equity investor. BG Solar Holdings is the holding company of a 200-MW solar generation project being constructed in Branch County, Michigan. All of the project’s nameplate capacity has been committed under a 15‑year renewable energy purchase agreement. The tax equity investor contributed $15 million and recognized a deemed contribution of $35 million associated with BG Solar Holdings’ sale of investment tax credits related to a portion of the project placed into service for tax purposes in 2025. The tax equity investor will contribute additional amounts upon commercial operation of the project in 2026. 
+NorthStar Clean Energy retained a Class B membership interest in BG Solar Holdings. Earnings, tax attributes, and cash flows generated by BG Solar Holdings will be allocated among and distributed to the membership classes in accordance with the ratios specified in the associated limited liability company operating agreement; these ratios change over time and are not representative of the ownership interest percentages of each membership class. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 19, Variable Interest Entities. 
+86
+Table of Contents
+Trends, uncertainties, and other matters related to NorthStar Clean Energy that could have a material impact on CMS Energy’s consolidated income, cash flows, or financial position include:
+•
+investment in and financial benefits received from renewable energy and energy storage projects, including changes to tax and trade policy
+•
+delays or difficulties in financing, constructing, and developing projects, including those arising from the performance of contractors, suppliers, or other counterparties
+•
+changes in energy, capacity, and other commodity prices
+•
+severe weather events and climate change associated with increasing levels of greenhouse gases
+•
+changes in various environmental laws, regulations, principles, or practices, or in their interpretation
+•
+indemnity obligations assumed in connection with ownership interests in facilities that involve tax equity financing
+•
+representations, warranties, and indemnities provided in connection with sales of assets
+•
+delays or difficulties in obtaining environmental permits
+For additional details regarding NorthStar Clean Energy’s uncertainties, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments—Guarantees.
+NorthStar Clean Energy Environmental Outlook: 
+NorthStar Clean Energy’s operations are subject to various federal, state, and local environmental laws and regulations. Multiple environmental laws and regulations are subject to litigation. NorthStar Clean Energy’s primary environmental compliance focus includes, but is not limited to, the following matters.
+CSAPR requires Michigan and many other states to improve air quality by reducing power plant emissions that, according to EPA modeling, contribute to ground-level ozone in other downwind states. NorthStar Clean Energy complies with this regulation and expects it to have minimal financial and operational impact in the near and/or long term.
+In March 2024, the EPA published a lower fine particulate matter NAAQS, which could result in newly designated nonattainment areas in Michigan starting in 2026. In 2025, EGLE proposed nonattainment areas for Kalamazoo and Wayne counties, with a decision by the EPA expected in 2026. NorthStar Clean Energy has two fossil-fuel-fired generating units in these counties and therefore will continue to monitor NAAQS rulemaking and litigation to evaluate potential impacts to its generating assets.
+In January 2026, the EPA published a final rule amending new source performance standards for new, modified, and reconstructed stationary combustion turbines to lower emission limits for NOx. This final rule requires new large simple-cycle turbine units with higher capacity factors to install control equipment for NOx emissions. NorthStar Clean Energy will monitor this rulemaking.
+A December 2025 court decision vacated the EPA’s 2023 redesignation of the seven‑county area in southeast Michigan from moderate ozone nonattainment to attainment. NorthStar Clean Energy has one electric generating station located within this area. NorthStar Clean Energy will continue to monitor the recent court decision’s impact on the seven-county area in southeast Michigan, including resulting agency actions, and the potential impacts to compressor station assets.
+For additional details regarding the ozone NAAQS, see Consumers Electric Utility Outlook and Uncertainties—Electric Environmental Outlook.
+In September 2025, the EPA proposed a rule to reconsider the Greenhouse Gas Reporting Program by eliminating the reporting obligations from numerous emission sources. Reporting of carbon dioxide to the 
+87
+Table of Contents
+EPA, however, will continue for sources subject to the Clean Air Act Acid Rain Program. This change could result in inconsistent approaches in voluntary greenhouse gas accounting for industrial sources.
+In April 2024, the EPA finalized its rule under Section 111 of the Clean Air Act to address greenhouse gas emissions from new combustion turbine electric generating units and existing coal-, gas-, and oil‑fueled steam electric generating units. These rules do not address existing combustion turbine electric generating units. In June 2025, the EPA issued a proposed rule containing two different pathways to rescind these requirements. Neither pathway impacts NorthStar Clean Energy’s existing facilities. NorthStar Clean Energy will continue to follow the EPA rules that address greenhouse gas emissions and will continue to evaluate potential impacts to its operations.
+Many of NorthStar Clean Energy’s facilities maintain NPDES permits, which are vital to the facilities’ operations. NorthStar Clean Energy applies for renewal of these permits every five years. Failure of EGLE to renew any NPDES permit, a successful appeal against a permit, a change in the interpretation or scope of NPDES permitting, or onerous terms contained in a permit could have a significant detrimental effect on the operations of a facility.
+Other Outlook and Uncertainties
+Tax Legislation:
+ CMS Energy and Consumers are subject to changing tax laws. In July 2025, President Trump signed into law the OBBBA. The legislation allows for the immediate expensing of domestic research and development costs and includes changes to clean energy tax credits enacted by the Inflation Reduction Act of 2022. While the OBBBA restores, and makes permanent, the 100‑percent bonus depreciation deduction, it also retains a provision that allows utilities to take a full deduction of interest expense in lieu of 100‑percent bonus depreciation. CMS Energy and Consumers evaluated the provisions of the OBBBA and concluded that the legislation is not expected to have a material impact on their respective financial statements. This conclusion is subject to change as additional guidance or interpretations become available.
+Litigation:
+ CMS Energy, Consumers, and certain of their subsidiaries are named as parties in various litigation matters, as well as in administrative proceedings before various courts and governmental agencies, arising in the ordinary course of business. For additional details regarding certain legal matters, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters and Note 4, Contingencies and Commitments.
+Critical Accounting Estimates
+The following information is important to understand CMS Energy’s and Consumers’ results of operations and financial condition. For additional accounting policies, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 1, Significant Accounting Policies.
+In the preparation of CMS Energy’s and Consumers’ consolidated financial statements, estimates and assumptions are used that may affect reported amounts and disclosures. CMS Energy and Consumers use accounting estimates for asset valuations, unbilled revenue, depreciation, amortization, financial and derivative instruments, employee benefits, stock-based compensation, the effects of regulation, indemnities, contingencies, and AROs. Actual results may differ from estimated results due to changes in the regulatory environment, regulatory decisions, lawsuits, competition, and other factors. CMS Energy and Consumers consider all relevant factors in making these assessments.
+88
+Table of Contents
+Accounting for the Effects of Industry Regulation:
+ Because Consumers has regulated operations, it uses regulatory accounting to recognize the effects of the regulators’ decisions on its financial statements. Consumers continually assesses whether future recovery of its regulatory assets is probable by considering communications and experience with its regulators and changes in the regulatory environment. If Consumers determined that recovery of a regulatory asset were not probable, Consumers would be required to write off the asset and immediately recognize the expense in earnings. For additional information, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters.
+Contingencies:
+ CMS Energy and Consumers make judgments regarding the future outcome of various matters that give rise to contingent liabilities. For such matters, they record liabilities when they are considered probable and reasonably estimable, based on all available information. In particular, CMS Energy and Consumers are participating in various environmental remediation projects for which they have recorded liabilities. The recorded amounts represent estimates that may take into account such considerations as the number of sites, the anticipated scope, cost, and timing of remediation work, the available technology, applicable regulations, and the requirements of governmental authorities. For remediation projects in which the timing of estimated expenditures is considered reliably determinable, CMS Energy and Consumers record the liability at its net present value, using a discount rate equal to the interest rate on monetary assets that are essentially risk-free and have maturities comparable to that of the environmental liability. The amount recorded for any contingency may differ from actual costs incurred when the contingency is resolved. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 4, Contingencies and Commitments.
+Income Taxes:
+ The amount of income taxes paid by CMS Energy is subject to ongoing audits by federal, state, and foreign tax authorities, which can result in proposed assessments. An estimate of the potential outcome of any uncertain tax issue is highly judgmental. CMS Energy believes adequate reserves have been provided for these exposures; however, future results may include favorable or unfavorable adjustments to the estimated tax liabilities in the period the assessments are made or resolved or when statutes of limitation on potential assessments expire. Additionally, CMS Energy’s judgment as to the ability to recover its deferred tax assets may change. CMS Energy believes the valuation allowances related to its deferred tax assets are adequate, but future results may include favorable or unfavorable adjustments. As a result, CMS Energy’s effective tax rate may fluctuate significantly over time. For additional details, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 13, Income Taxes.
+Pension and OPEB:
+ CMS Energy and Consumers provide retirement pension benefits to certain employees under non‑contributory DB Pension Plans, and they provide postretirement health and life benefits to qualifying retired employees under an OPEB Plan.
+CMS Energy and Consumers record liabilities for pension and OPEB on their consolidated balance sheets at the present value of the future obligations, net of any plan assets. The calculation of the liabilities and associated expenses requires the expertise of actuaries, and requires many assumptions, including:
+•
+life expectancies
+•
+discount rates
+•
+expected long-term rate of return on plan assets
+•
+rate of compensation increases
+•
+expected health care costs
+A change in these assumptions could change significantly CMS Energy’s and Consumers’ recorded liabilities and associated expenses.
+89
+Table of Contents
+Presented in the following table are estimates of credits and cash contributions through 2028 for the DB Pension Plans and OPEB Pl
+an.
+ Actual future costs, credits, and contributions will depend on future investment performance, discount rates, and various factors related to the participants of the DB Pension Plans and OPEB Plan. CMS Energy and Consumers will, at a minimum, contribute to the plans as needed to comply with federal funding requirements. 
+In Millions
+DB Pension Plans
+OPEB Plan
+Credit
+Contribution
+Credit
+Contribution
+CMS Energy, including Consumers
+2026
+$
+(86)
+$
+— 
+$
+(109)
+$
+— 
+2027
+(87)
+— 
+(99)
+— 
+2028
+(100)
+— 
+(92)
+— 
+Consumers
+1
+2026
+$
+(81)
+$
+— 
+$
+(101)
+$
+— 
+2027
+(81)
+— 
+(91)
+— 
+2028
+(94)
+— 
+(84)
+— 
+1
+Consumers’ pension and OPEB costs are recoverable through its general ratemaking process.
+Lowering the expected long-term rate of return on the assets of the DB Pension Plans by 25 basis points would increase estimated pension cost for 2026 by $8 million for both CMS Energy and Consumers. Lowering the PBO discount rates by 25 basis points would decrease estimated pension cost for 2026 by $1 million for both CMS Energy and Consumers. Pension and OPEB costs above or below the amounts used to set existing rates will be deferred as a regulatory asset or liability in accordance with Consumers’ postretirement benefits expense deferral mechanism; for more information, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 3, Regulatory Matters.
+Pension and OPEB plan assets are accounted for and disclosed at fair value. Fair value measurements incorporate assumptions that market participants would use in pricing an asset or liability, including assumptions about risk. Development of these assumptions may require judgment.
+For additional details on postretirement benefits, including the fair value measurements for the assets of the DB Pension Plans and OPEB Plan, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 11, Retirement Benefits.
+Unbilled Revenues:
+ Consumers’ customers are billed monthly in cycles having billing dates that do not generally coincide with the end of a calendar month. This results in customers having received electricity or natural gas that they have not been billed for as of the month-end. Consumers estimates its unbilled revenues by applying an average billed rate to total unbilled deliveries for each customer class. Consumers records unbilled revenues as accounts receivable and accrued revenue on its consolidated balance sheet. For additional information on unbilled revenues, see Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 15, Revenue.
+New Accounting Standards
+For details regarding new accounting standards issued but not yet effective, See Item 8. Financial Statements and Supplementary Data—Notes to the Consolidated Financial Statements—Note 2, New Accounting Standards.
+90
+Table of Contents
+
+[SOURCE: Net Zero Tracker]
+
+Entity: CMS Energy
+Industry: Power generation
+End target: Net zero
+  Target year: 2050.0
+  % reduction: nan
+  Baseline year: nan
+  Status: In corporate strategy
+  Target description: Net zero greenhouse gas emissions target for our entire business by 2050
+Interim target: Emissions reduction target
+  Interim year: 2030.0
+  Interim % reduction: 20.0
+  Interim description: To support Michigan’s decarbonisation goal to reach carbon neutrality by 2050, we set an interim goal to help our customers reduce Scope 3 emissions by 20 percent from 2020 levels by 2030. Our Scope 3 emissions reduction plan includes energy waste reduction, renewable natural gas, carbon offsets and emerging decarbonization technologies. Each must contribute to our 20 percent-by-2030 goal while on
+Published transition plan: Yes
+Reporting mechanism: Annual reporting
+Accountability/governance: Not Specified
+Race to Zero member: No
+Scopes covered: 1=Yes, 2=Yes, 3=Yes
+Source URL: https://s26.q4cdn.com/888045447/files/doc_downloads/2024/10/CMS-Energy-Sustainability-Report_2024.pdf

@@ -1,0 +1,501 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+In addition to the factors affecting specific business operations identified in the description of these operations contained elsewhere in this report, set forth below are risks and uncertainties that could affect our financial results.  Unless otherwise indicated or the context otherwise requires, the following risks and uncertainties apply to Pinnacle West and its subsidiaries, including APS. 
+REGULATORY RISKS
+Our financial condition depends upon APS’s ability to recover costs in a timely manner from customers through regulated rates and otherwise execute its business strategy.
+APS is subject to comprehensive regulation by several federal, state and local regulatory agencies that significantly influence its business, liquidity and results of operations and its ability to fully recover costs from utility customers in a timely manner.  The ACC regulates APS’s retail electric rates and FERC regulates rates for wholesale power sales and transmission services.  The profitability of APS is affected by the rates it may charge and the timeliness of recovering costs incurred through its rates and adjustor recovery mechanisms.  Consequently, our financial condition and results of operations are dependent upon the satisfactory resolution of any APS rate proceedings, adjustor recovery and ancillary matters which may come before the ACC and FERC, including in some cases how court challenges to these regulatory decisions are resolved.  Arizona, like certain other states, has a statute that allows the ACC to reopen prior decisions and modify otherwise final orders under certain circumstances.  Additionally, given that APS is subject to oversight by several regulatory agencies, a resolution by one may not foreclose potential actions by others for similar or related matters.  See Note 14.
+The ACC must also approve APS’s issuance of equity and debt securities and any significant transfer or encumbrance of APS property used to provide retail electric service and must approve or receive prior notification of certain transactions between us, APS, and our respective affiliates, including the infusion of equity into APS.  Decisions made by the ACC or FERC could have a material adverse impact on our financial condition, results of operations, or cash flows.
+32
+Table of Contents
+APS’s ability to conduct its business operations and avoid negative operational and financial impacts depends in part upon compliance with federal, state and local laws, judicial decisions, statutes, regulations and ACC requirements, which may be revised from time to time by legislative or other action, and obtaining and maintaining certain regulatory permits, approvals, and certificates.
+APS must comply in good faith with all applicable statutes, regulations, rules, tariffs, executive orders and orders of agencies that regulate APS’s business, including FERC, NRC, EPA, the ACC, and state and local governmental agencies.  These laws, regulations, and agencies regulate many aspects of APS’s utility operations, including safety and performance, emissions, siting and construction of facilities, labor and employment, customer service and the rates that APS can charge retail and wholesale customers.  Failure to comply can subject APS to, among other things, fines and penalties.  For example, under the Energy Policy Act of 2005, FERC can impose penalties (approximately $1.2 million per day per violation) for failure to comply with mandatory electric reliability standards.  APS is also required to have numerous permits, approvals and certificates from these agencies.  APS believes the necessary permits, approvals and certificates have been obtained for its existing operations and that APS’s business is conducted in accordance with applicable laws in all material respects.  
+Changes in laws or regulations that govern APS, new interpretations of laws and regulations, or the imposition of new or revised laws or regulations could have an adverse impact on the manner in which we operate our business and our results of operations.  In particular, new or revised laws or interpretations of existing laws or regulations may impact or call into question the ACC’s permissive regulatory authority, which may result in uncertainty as to jurisdictional authority within our state, and uncertainty as to whether ACC decisions will be binding or challenged by other agencies or bodies asserting jurisdiction.  We are unable to predict the impact on our business and operating results from any pending or future regulatory or legislative rulemaking.
+The operation of APS’s nuclear power plant exposes it to substantial regulatory oversight and potentially significant liabilities and capital expenditures.
+The NRC has broad authority under federal law to impose safety-related, security-related and other licensing requirements for the operation of nuclear generating facilities.  Events at nuclear facilities of other operators or impacting the industry generally may lead the NRC to impose additional requirements and regulations on all nuclear generating facilities, including Palo Verde.  In the event of noncompliance with its requirements, the NRC has the authority to impose a progressively increased inspection regime that could ultimately result in the shut-down of a unit or civil penalties, or both, depending upon the NRC’s assessment of the severity of the situation, until compliance is achieved.  The increased costs resulting from penalties, a heightened level of scrutiny and implementation of plans to achieve compliance with NRC requirements may adversely affect APS’s financial condition, results of operations and cash flows.
+APS is subject to numerous environmental laws and regulations, and changes in, or liabilities under, existing or new laws or regulations may increase APS’s cost of operations or impact its business plans.
+APS is, or may become, subject to numerous environmental laws and regulations affecting many aspects of its present and future operations, including air emissions of conventional pollutants and GHGs, water quality, discharges of wastewater and waste streams originating from fly ash and bottom ash handling facilities, solid waste, hazardous waste, and coal combustion products, which consist of bottom ash, fly ash, and air pollution control wastes.  These laws and regulations can result in increased capital, operating, and other costs, particularly with regard to enforcement efforts focused on power plant emissions obligations.  They could also impact the overall business environment in Arizona and affect APS’s customer and sales growth rates.  Additionally, these laws and regulations generally require APS to obtain and comply with a wide variety of environmental licenses, permits, and other approvals.  If there is a delay or failure to obtain any required environmental regulatory approval, or if APS fails to obtain, 
+33
+Table of Contents
+maintain, or comply with any such approval, operations at affected facilities could be suspended or subject to additional expenses.  In addition, failure to comply with applicable environmental laws and regulations could result in civil liability as a result of government enforcement actions or private claims or criminal penalties.  Both public officials and private individuals may seek to enforce applicable environmental laws and regulations.  APS cannot predict the outcome (financial or operational) of any related litigation that may arise.  
+APS cannot assure that existing environmental regulations will not be revised or that new regulations seeking to protect the environment will not be adopted or become applicable to it.  Revised or additional regulations that result in increased compliance costs or additional operating restrictions, particularly if those costs incurred by APS are not fully recoverable from APS’s customers, could have a material adverse effect on its financial condition, results of operations, or cash flows.  Due to current or potential future regulations or legislation coupled with trends in natural gas and coal prices, or other clean energy rules or initiatives, the economics or feasibility of continuing to own certain resources, particularly coal facilities, may deteriorate, warranting early retirement of those plants, which may result in asset impairments.  APS would seek recovery in rates for the book value of any remaining investments in the plants as well as other costs related to early retirement but cannot predict whether it would obtain such recovery.  Such regulations may also act as a deterrent to future customer growth or create additional costs for existing customers, potentially slowing APS’s customer growth. 
+See “Business of Arizona Public Service Company — Environmental Matters” in Part I, Item 1 as well as Note 14 for examples of environmental laws and regulations and matters that could affect APS’s financial condition, results of operations and cash flows.
+APS faces potential financial risks resulting from climate change litigation and legislative and regulatory efforts to limit GHG emissions, as well as physical and operational risks related to climate effects.
+Concern over climate change has led to significant legislative and regulatory efforts to limit carbon dioxide, which is a major byproduct of the combustion of fossil fuel, and other GHG emissions.  
+Potential Financial Risks — GHG Regulation, the Clean Power Plan and Potential Litigation.
+
+On April 25, 2024, EPA issued new GHG emission standards for power plants.  These new standards are focused on limiting power plant GHG emissions through control mechanisms that can be implemented at individual power plant facilities.  The new regulations are currently being challenged in federal court and, in 2025, EPA proposed a rule to repeal these GHG emission standards.  Additionally, the Trump administration has stated that it intends to reverse or substantially revise these standards.  See “Business of Arizona Public Service Company — Environmental Matters — Climate Change” in Part I, Item 1 for more information. 
+Depending on the outcome of carbon emission rulemaking under the Clean Air Act targeting new and existing power plants, the utility industry may become subject to more stringent and expansive regulations.  Depending on the means of compliance with federal emission performance standards, the electric utility industry may be forced to incur substantial costs necessary to achieve compliance.  In addition, we anticipate that such regulations will be challenged in federal court prior to their implementation.  Depending on the outcome of such judicial review, the utility industry may face alternative efforts from private parties seeking to establish alternative GHG emission limitations from power plants.  Alternative GHG emission limitations may arise from litigation under either federal or state common laws or citizen suit provisions of federal environmental statutes that attempt to force federal agency rulemaking or impose direct facility emission limitations.  Such lawsuits may also seek damages from harm alleged to have resulted from power plant GHG emissions.
+34
+Table of Contents
+Physical and Operational Risks.
+
+Weather extremes such as drought and high temperature variations are common occurrences in the southwestern United States’ desert area, and these are risks that APS considers in the normal course of business in the engineering and construction of its electric system.  Large increases in ambient temperatures could require evaluation of certain materials used within its system and may represent a greater challenge.  Limitations on water supplies necessary to operate electric generation infrastructure could arise from prolonged drought and shortage declarations associated with key surface water resources.  As part of conducting its business, APS recognizes that the southwestern United States is particularly susceptible to the risks posed by climate change, which over time is projected to exacerbate high temperature extremes and prolong drought in the area where APS conducts its business.
+Co-owners of our jointly owned generation and transmission facilities may have unaligned goals and positions due to the effects of legislation, regulations, economic conditions, or changes in our industry, which could have a significant impact on our ability to continue operations of such facilities.
+APS owns certain of its power plants and transmission facilities jointly with other owners, with varying ownership interests in such facilities.  Changes in the nature of our industry and the economic viability of certain plants and facilities, including impacts resulting from types and availability of other resources, fuel costs, legislation, and regulation, together with timing considerations related to the expiration of leases or other agreements for such facilities, could result in unaligned positions among co-owners.  Differences in the co-owners’ willingness or ability to continue their participation could lead to the eventual shut down of units or facilities and uncertainty related to the resulting cost recovery of such assets.  See Note 8 for a discussion of the Navajo Plant and Cholla retirements and the related risks associated with APS’s continued recovery of its remaining investment in the plant.
+Deregulation or restructuring of the electric industry and other factors may result in increased competition, which could have a significant adverse impact on APS’s business and its results of operations.
+Modification of the ACC’s retail electric competition rules or other efforts of deregulation and other factors, such as customers installing behind the meter technologies or large customers developing large, utility scale generation projects to serve their energy needs, may result increased competition, which could have a significant adverse impact on APS’s business and results of operations.
+OPERATIONAL RISKS
+APS’s results of operations can be adversely affected by various factors impacting demand for electricity.
+Weather Conditions.
+  Weather conditions directly influence the demand for electricity and affect the price of energy commodities.  Electric power demand is generally a seasonal business.  In Arizona, demand for power peaks during the hot summer months, with market prices also peaking at that time.  As a result, APS’s overall operating results fluctuate substantially on a seasonal basis.  In addition, APS has historically sold less power, and consequently earned less income, when weather conditions are milder.  As a result, unusually mild weather could diminish APS’s financial condition, results of operations, or cash flows.
+Apart from the impact on electricity demand, weather conditions related to prolonged high temperatures or extreme heat events present operational challenges.  In the southwestern United States, where APS conducts its business, the effects of climate change are projected to increase the overall average temperature, lead to more extreme temperature events, and exacerbate prolonged drought conditions leading to the declining availability of water resources.  Extreme heat events and rising temperatures are projected to reduce the generation capacity of thermal-power plants and decrease the efficiency of the transmission grid.  These operational risks related to rising temperatures and extreme heat events could affect APS’s financial condition, results of operations, or cash flows.  
+35
+Table of Contents
+Higher temperatures may decrease the snowpack, which might result in lowered soil moisture and an increased threat of wildfires.  Wildfires could threaten APS’s communities and electric transmission lines and facilities.  Any damage caused as a result of wildfires could negatively impact APS’s financial condition, results of operations, or cash flows.  In addition, the decrease in snowpack can also lead to reduced water supplies in the areas where APS relies upon non-renewable water resources to supply cooling and process water for electricity generation.  Prolonged and extreme drought conditions can also affect APS’s long-term ability to access the water resources necessary for thermal electricity generation operations.  Reductions in the availability of water for power plant cooling could negatively impact APS’s financial condition, results of operations, or cash flows.
+Effects of Energy Conservation Measures and Distributed Energy Resources.
+  APS customers participate in energy efficiency and conservation programs and other DSM efforts, which in turn impact the demand for electricity.  APS must also meet certain distributed renewable energy requirements.  A portion of APS’s total renewable energy requirement must be met with an increasing percentage of distributed renewable energy resources (generally, small-scale renewable technologies located on customers’ properties).  The distributed renewable energy requirement is 30% of the applicable RES requirement for 2012 and subsequent years (APS was granted a waiver of this requirement in its 2026 RES Implementation Plan).  Customer participation in distributed renewable energy programs would result in lower demand since customers would be meeting some of their own energy needs.
+In addition to these rules and requirements, energy efficiency technologies and distributed energy resources continue to evolve, which may have similar impacts on the demand for electricity.  Reduced demand due to these energy efficiency requirements, distributed energy requirements and other emerging technologies, unless substantially offset through ratemaking mechanisms, could have a material adverse impact on APS’s financial condition, results of operations and cash flows.
+Actual and Projected Customer and Sales Growth. 
+ Actual sales growth, excluding weather-related variations, may differ from our projections as a result of numerous factors, such as macroeconomic conditions, current and future economic, regulatory, business, and other conditions, such as the Arizona housing market, customer growth, usage patterns and energy conservation, slower ramp-up of and/or fewer large data centers and manufacturing facilities, slower than expected commercial and industrial expansions, impacts of energy efficiency programs and growth in DG, responses to retail price changes, changes in regulatory standards, and impacts of new and existing laws and regulations, including environmental laws and regulations.  Based on past experience, a 1% variation in our annual residential and small commercial and industrial kWh sales projections under normal business conditions can result in increases or decreases in annual net income of approximately $25 million, and a 1% variation in our annual large commercial and industrial kWh sales projections under normal business conditions can result in increases or decreases in annual net income of approximately $7 million.
+Recent industry trends and projections of load growth reflect significant demand from data centers to support AI as well as onshoring of manufacturing, such as advanced semiconductor manufacturing. These data centers and large manufacturers may locate their operations within service territories other than our own.  If they do choose to locate within our service territory, we may not be able to provide sufficient electric service within the time period they require due to capital or other constraints.  APS may need to accelerate development plans of the related generation and transmission facilities to serve these potential customers, which may necessitate alternative financing structures, such as the novel subscription model we are pursuing in an effort to ensure growth pays for growth and reduce cross-subsidization of customer classes, as well as ACC approval.  APS may not be able to secure facilities or regulatory approval to support these customers in a timely manner.  Additionally, the future demand from these customers may not be realized to the extent currently projected and significant uncertainties exist regarding the future energy demand associated with data centers and AI.  The difficulty in forecasting these demands and the 
+36
+Table of Contents
+additional risk of these arrangements could lead to stranded costs and other effects that could have material adverse impacts on APS’s financial condition, results of operations, and cash flows.  
+The impact of wildfires could negatively affect APS’s results of operations.
+Wildfires have the potential to affect communities within APS’s service territory and the surrounding areas, as well as APS’s vast network of electric transmission and distribution lines and facilities.  The potential likelihood and severity of wildfires has increased due to many of the same weather and climate change impacts existing in Arizona as those that led to catastrophic wildfires in other states.  The continued expansion of the wildland urban interface has also increased wildfire risk to surrounding communities.  Extreme weather events such as severe storms and strong wind gusts may also increase the likelihood of a wildfire in our service territory.  APS has a Comprehensive Wildfire Mitigation Plan (“CWMP”) that employs various strategies designed to prevent, mitigate, and respond to wildfire risks.  APS’s CWMP includes vegetation management and clearing protocols, operational measures and a public safety power shut off program (“PSPS”) on certain feeders, among other practices.  However, APS’s fire mitigation efforts may be insufficient to prevent wildfires in APS’s expansive service territory and surrounding areas and could result in claims alleging damages due to the use, non-use, timing, or effectiveness of such measures.  In addition, APS could be sued regardless of fault for damages incurred as a result of wildfires and may not be able to recover all or a substantial portion of any such damages or costs from insurance or through rates.  In addition, we could also experience credit rating downgrades, reputational harm, volatility in the market for our common stock, and significant financial distress upon the occurrence of a wildfire event.  Furthermore, any damage caused to our assets, loss of service to our customers, or liability imposed as a result of wildfires could negatively impact APS’s financial condition, results of operations, or cash flows.
+The operation of power generation facilities and transmission systems involves risks that could result in reduced output or unscheduled outages or could otherwise significantly impact APS’s results of operations
+.
+The operation of power generation, transmission and distribution facilities involves certain risks, including the risk of breakdown or failure of equipment, fuel interruption, and performance below expected levels of output or efficiency.  Unscheduled outages, including extensions of scheduled outages due to mechanical failures or other complications, occur from time to time and are an inherent risk of APS’s business.  Because our transmission facilities are interconnected with those of third parties, the operation of our facilities could be adversely affected by unexpected or uncontrollable events occurring on the larger transmission power grid, and the operation or failure of our facilities could adversely affect the operations of others.  Concerns over the physical security of these assets could include damage to certain of our facilities due to vandalism or other deliberate acts that could lead to outages or other adverse effects.  If APS’s facilities operate below expectations, especially during its peak season, it may lose revenue or incur additional expenses, including increased purchased power expenses.   
+Additionally, as APS’s transmission infrastructure ages and its transmission system needs to grow to support growth in our territory and in the Southwest, it will need to replace and expand certain portions of its transmission infrastructure, which requires significant investment of capital.  Risks related to the timely completion of, and costs associated with, these projects may be exacerbated by a constrained supply chain limiting the availability of necessary parts and materials as well as APS’s use, in some cases, of older, obsolete, or unsupported equipment.  Certain replacements and expansions of the transmission infrastructure will also require the acquisition or renewal of land leases, easements, or other rights-of-way that may require approvals from landowners, including individuals, government agencies, and, at times, tribal nations.  APS is unable to predict the outcomes of any pending or future required approvals, including any related costs, which could be significant.  If APS is unable to successfully manage the 
+37
+Table of Contents
+replacement and expansion of its transmission infrastructure, it could face increased equipment failures, power quality challenges, reputational impact, and financial loss.
+The inability to successfully develop, acquire or operate generation and transmission facilities to meet future resource needs and load forecasts in accordance with reliability requirements and other new or evolving standards and regulations could adversely impact our business.
+Potential changes in regulatory standards, impacts of new and existing laws and regulations, including environmental laws and regulations, and the need to obtain various regulatory approvals create uncertainty surrounding our current and future generation portfolio.  Current laws and regulations as well as changes to those laws and regulations, including via judicial decisions and executive orders, create strategic challenges in acquiring an appropriate generation portfolio and fuel diversification mix.  APS is required by the ACC to meet certain energy resource portfolio requirements, including those related to renewables development and energy efficiency measures, in addition to specific competitive resource procurement requirements.  Operating, maintaining, and developing our generation and other assets requires significant capital expenditures and operations and maintenance costs that may be difficult to maintain at adequate levels while maintaining reliability.  The development and operation of these facilities is subject to other risks, including those related to financing, siting, permitting, new and evolving technology, extreme weather events, workforce issues, cybersecurity attacks, supply chain constraints for key equipment and critical spare parts, overreliance on or the existence of a small number of suppliers, access to fuel, and the construction of sufficient transmission capacity to support these facilities among others.  Macroeconomic and geopolitical factors may also impact our ability to procure the generation and other equipment we need to meet customer demand.  APS needs to develop or acquire new generation and other facilities, potentially modernize existing facilities, and/or contract for additional capacity in order to meet future resource needs and load forecasts.  APS’s inability to do so could have a material adverse impact on our business and results of operations. 
+In expressing concerns about the environmental and climate-related impacts from continued extraction, transportation, delivery and combustion of fossil fuels, environmental advocacy groups and other third parties have in recent years undertaken greater efforts to oppose the permitting, construction, and operation of fossil fuel infrastructure projects.  These efforts may increase in scope and frequency depending on a number of variables, including the future course of Federal environmental regulation and the increasing financial resources devoted to these opposition activities.  APS cannot predict the effect that any such opposition may have on our ability to develop, construct, and operate fossil fuel infrastructure projects in the future.
+In August 2025, APS announced an update to its clean energy goal from zero-carbon to carbon-neutral by 2050.  APS’s ability to successfully execute its clean energy goal is dependent upon a number of external factors, some of which include supportive national and state energy policies, a supportive regulatory environment, sales and customer growth, the development, deployment and advancement of clean energy technologies, adequate supply chain for generation resources, and continued access to capital markets.
+The lack of access to sufficient supplies of water could have a material adverse impact on APS’s business and results of operations.
+Assured supplies of water are important for APS’s generating plants.  Water in the southwestern United States is limited, and various parties have made conflicting claims regarding the right to access and use such limited supplies of water.  Both groundwater and surface water in areas important to the operation of APS’s generating plants have been and are the subject of inquiries, claims and legal proceedings.  In addition, the region in which APS’s power plants are located suffers from prolonged drought conditions, which could potentially affect the plants’ water supplies.  Climate change is projected to exacerbate such 
+38
+Table of Contents
+drought conditions.  Colorado River water supplies for Arizona are subject to shortage declarations that substantially limit the quantity of water available to the state.  Due to stressed surface water and groundwater supplies, there is focus on the increased use of treated effluent to supplement statewide water supplies, which could increase competition for the treated effluent that some APS generating plants rely on.  APS’s inability to access sufficient supplies of water, along with that of its customers, could have a material adverse impact on our business and results of operations.
+We are subject to risk related to cybersecurity, IT systems, and unauthorized access to our systems that could adversely affect our business and financial condition.
+We operate in a highly regulated industry that requires the continued operation of sophisticated information technology systems and network infrastructure.  In the regular course of our business, we handle a range of sensitive security, customer, and business systems information.  There appears to be an increasing level of activity, sophistication, and maturity of threat actors, including from both nation-state and non-nation state actors, that seek to exploit potential vulnerabilities in the electric utility industry and wish to disrupt the U.S. bulk power system, our information technology systems, generation (including our Palo Verde nuclear facility), transmission and distribution facilities, and other infrastructure facilities and systems and physical assets.  We have been and could be the target of attacks, and the aforementioned systems are critical areas of cyber protection for us. 
+We rely extensively on IT systems, networks, and services, including internet sites, data hosting and processing facilities, and other hardware, software and technical applications and platforms.  Some of these systems are managed, hosted, provided, or used by third parties to assist in conducting our business.  Malicious actors may attack vendors to disrupt the services these vendors provide to us or to use those vendors as a cyber conduit to attack us.  As more third parties are involved in the operation of our business, there is a risk the confidentiality, integrity, privacy, or security of data held by, or accessible to, third parties may be compromised.  In addition to the involvement of third parties and the associated security risks, we also face risks when integrating new IT systems, such as those associated with costs, operational efficiency, and security compliance.  Our IT systems introduce layers of execution complexity and resource risks across the entire organization.
+If a significant cybersecurity event or breach were to occur, we may not be able to fulfill critical business functions and we could (i) experience property damage, disruptions to our business, theft of or unauthorized access to customer, employee, financial or system operation information or other information; (ii) experience loss of revenue or incur significant costs for repair, remediation and breach notification, and increased capital and operating costs to implement increased security measures; and (iii) be subject to increased regulation, litigation and reputational damage.  If such disruptions or breaches are not detected quickly, their effects could be compounded or could delay our response or the effectiveness of our response and ability to limit our exposure to potential liability.  These types of events as well as the impacts of integrating new IT systems could also require significant management attention and resources and could have a material adverse impact on our financial condition, results of operations, or cash flows.
+We develop and maintain systems and processes aimed at detecting and preventing information and cybersecurity incidents which require significant investment, maintenance, and ongoing monitoring and updating as technologies and regulatory requirements change.  These systems and processes may be insufficient to mitigate the possibility of cybersecurity incidents, malicious social engineering, fraudulent or other malicious activities, and human error or malfeasance in the safeguarding of our data.
+We are subject to laws and rules issued by multiple government agencies concerning safeguarding and maintaining the confidentiality of our security, customer information and business information.  One of these agencies, NERC, has issued comprehensive regulations and standards surrounding the security of bulk power systems and is continually in the process of developing updated and additional requirements 
+39
+Table of Contents
+with which the utility industry must comply.  The NRC also has issued regulations and standards related to the protection of critical digital assets at commercial nuclear power plants.  The increasing promulgation of NERC and NRC rules and standards will increase our compliance costs and our exposure to the potential risk of violations of the standards.  Experiencing a cybersecurity incident could cause us to be non-compliant with applicable laws and regulations, such as those promulgated by NERC and the NRC, privacy laws, or contracts that require us to securely maintain confidential data, causing us to incur costs related to legal claims or proceedings and regulatory fines or penalties.
+The risk of these system-related events and security breaches occurring continues to intensify.  We have experienced, and expect to continue to experience, threats and attempted intrusions to our information technology systems and we could experience such threats and attempted intrusions to our operational control systems.  To date, we do not believe we have experienced a material breach or disruption to our network or information systems or our service operations.  We may not be able to anticipate and prevent all cyberattacks or information security breaches, and our ongoing investments in security resources, talent, and business practices may not be effective against all threat actors.
+We maintain cyber insurance to provide coverage for a portion of the losses and damages that may result from a security breach of our information technology systems, but such insurance is subject to a number of exclusions and may not cover the total loss or damage caused by a breach.  Coverage for cybersecurity events continues to evolve as the industry matures.  In the future, adequate insurance may not be available at rates that we believe are reasonable, and the costs of responding to and recovering from a cyber incident may not be covered by insurance or recoverable in rates.
+There are inherent risks in the ownership and operation of nuclear facilities, such as environmental, health, fuel supply, spent fuel disposal, regulatory and financial risks and the risk of terrorist attack that could adversely affect our business and financial condition.
+APS has an ownership interest in and operates on behalf of a group of participants, Palo Verde, which is the largest nuclear electric generating facility in the western United States.  Palo Verde constitutes approximately 18% of APS’s owned and leased generation capacity.  Palo Verde is subject to environmental, health and financial risks, such as the ability to obtain adequate supplies of nuclear fuel; the ability to dispose of spent nuclear fuel; the ability to maintain adequate reserves for decommissioning; potential liabilities arising out of the operation of these facilities; the costs of securing the facilities against possible terrorist attacks; and unscheduled outages due to equipment and other problems.  APS maintains nuclear decommissioning trust funds and external insurance coverage to minimize its financial exposure to some of these risks; however, it is possible that damages could exceed the amount of insurance coverage.  APS may be required under federal law to pay up to $144.9 million (but not more than $21.6 million per year) of liabilities arising out of a nuclear incident not only at Palo Verde, but at any other nuclear power plant in the United States.  In addition, APS is subject to retrospective premium adjustments under its nuclear property insurance policies with NEIL for approximately 
+$24.2 million
+ if NEIL’s losses in any policy year exceed accumulated funds and if the retrospective premium assessment is declared by NEIL’s Board of Directors.  Although APS has no reason to anticipate a serious nuclear incident at Palo Verde, if an incident did occur, it could materially and adversely affect our results of operations and financial condition.  A major incident at a nuclear facility anywhere in the world could cause the NRC to limit or prohibit the operation or licensing of any domestic nuclear unit and to promulgate new regulations that could require significant capital expenditures and/or increase operating costs.
+40
+Table of Contents
+Changes in technology could create challenges for APS’s existing business.
+Alternative energy technologies that produce power or reduce power consumption or emissions are being developed and commercialized, including renewable technologies such as photovoltaic (solar) cells, customer-sited generation, energy storage (batteries) and efficiency technologies.  Advances in technology and equipment/appliance efficiency could reduce the demand for supply from conventional generation, including carbon-free nuclear generation, and increase the complexity of managing APS’s information technology and power system operations, which could adversely affect APS’s business.
+Customer-sited alternative energy technologies present challenges to APS’s operations due to misalignment with APS’s existing operational needs.  When these resources lack “dispatchability” and other elements of utility-side control, they are considered “unmanaged” resources.  The cumulative effect of such unmanaged resources results in added complexity for APS’s system management.
+APS continues to pursue and implement advanced grid technologies, including transmission and distribution system technologies and digital meters enabling two-way communications between the utility and its customers.  Many of the products and processes resulting from these and other alternative technologies, including energy storage technologies, have not yet been widely used or tested on a long-term basis, and their use on large-scale systems is not as established or mature as APS’s existing technologies and equipment.  The implementation of new and additional technologies adds complexity to our information technology and operational technology systems, which could require additional infrastructure and resources.  APS’s strategy, including the timing of such strategy, in adopting new technologies, such as artificial intelligence, could also adversely impact APS’s business.  For example, if APS fails to strategically implement artificial intelligence, it could miss the opportunity for cost savings, face increasing costs on legacy systems, insufficiently integrate internal and external data sets, or invest in low data quality, risk misusing artificial intelligence, impact employee satisfaction with its implementation of or failure to implement artificial intelligence and other technologies.  Widespread installation and acceptance of new technologies could also enable the entry of new market participants, such as technology companies, into the interface between APS and its customers and could have other unpredictable effects on APS’s traditional business model.
+Deployment of renewable energy technologies is expected to continue across the western states and result in a larger portion of the overall energy production coming from these sources.  These trends, which have benefited from historical and continuing government support for certain technologies, have the potential to put downward pressure on wholesale power prices throughout the western states which could make APS’s existing generating facilities less economical and impact their operational patterns and long-term viability.  
+We are subject to employee workforce factors that could adversely affect our business and financial condition.
+Like many companies in the electric utility industry, our workforce is maturing, with approximately 26.1% of employees eligible to retire by the end of 2030.  Although we have undertaken efforts to recruit, train and develop new employees, we face increased competition for talent.  We are subject to other employee workforce factors, such as the availability and retention of qualified personnel and the need to negotiate collective bargaining agreements with union employees.  These or other employee workforce factors could negatively impact our business, financial condition, or results of operations.
+41
+Table of Contents
+FINANCIAL RISKS
+A downgrade of our credit ratings could materially and adversely affect our business, financial condition, and results of operations.
+Our current ratings are set forth in “Liquidity and Capital Resources — Credit Ratings” in Part II, Item 7.  We cannot be sure that any of our current ratings will remain in effect for any given period of time or that a rating will not be lowered or withdrawn entirely by a rating agency if, in its judgment, circumstances in the future so warrant.  Any downgrade or withdrawal could adversely affect the market price of Pinnacle West’s and APS’s securities, limit our access to capital and increase our borrowing costs, which would adversely impact our financial results.  We could be required to pay a higher interest rate for future financings, and our potential pool of investors and funding sources could decrease.  In addition, borrowing costs under our existing credit facilities depend on our credit ratings.  A downgrade could also require us to provide additional support in the form of letters of credit or cash or other collateral to various counterparties.  If our short-term ratings were to be lowered, it could severely limit access to the commercial paper market.  We note that the ratings from rating agencies are not recommendations to buy, sell or hold our securities and that each rating should be evaluated independently of any other rating.
+Investment performance, changing interest rates, new rules or regulations and other economic, social, and political factors could decrease the value of our benefit plan assets, nuclear decommissioning trust funds and other special use funds or increase the valuation of our related obligations, resulting in significant additional funding requirements.
+We have significant pension plan and other postretirement benefits plan obligations to our employees and retirees, and legal obligations to fund our pension trust and nuclear decommissioning trusts for Palo Verde.  We hold and invest substantial assets in these trusts that are designed to provide funds to pay for certain of these obligations as they arise.  Declines in market values of the fixed income and equity securities held in these trusts may increase our funding requirements for the related trusts.  Additionally, the valuation of liabilities related to our pension plan and other postretirement benefit plans are impacted by a discount rate, which is the interest rate used to discount future pension and other postretirement benefit obligations.  Changes in interest rates impact the discount rate and valuation of the plan liabilities, and may result in increases in pension and other postretirement benefit costs, cash contributions, regulatory assets, and charges to OCI.  Changes in demographics, including increased number of retirements or changes in life expectancy and changes in other actuarial assumptions, may also result in similar impacts.  The minimum contributions required under these plans are impacted by federal legislation and related regulations.  Increasing liabilities or otherwise increasing funding requirements under these plans, resulting from adverse changes in legislation or otherwise, could result in significant cash funding obligations that could have a material impact on our financial condition, results of operations, or cash flows.
+We recover most of the pension and other postretirement benefit expense and all of the currently estimated nuclear decommissioning costs in our regulated rates.  Any inability to fully recover these costs in a timely manner could have a material negative impact on our financial condition, results of operations, or cash flows.
+Our cash flow depends on the performance of APS and its ability to make distributions.
+We derive essentially all of our revenues and earnings from our wholly-owned subsidiary, APS.  Accordingly, our cash flow and our ability to pay dividends on our common stock is dependent upon the earnings and cash flows of APS and its distributions to us.  APS is a separate and distinct legal entity and has no obligation to make distributions to us.
+APS’s financing agreements may restrict its ability to pay dividends, make distributions or otherwise transfer funds to us.  In addition, an ACC financing order requires APS to maintain a common equity ratio of at least 40% and does not allow APS to pay common dividends if the payment would reduce 
+42
+Table of Contents
+its common equity below that threshold.  The common equity ratio, as defined in the ACC order, is total shareholder equity divided by the sum of total shareholder equity and long-term debt, including current maturities of long-term debt.
+We may not have adequate insurance coverage for liabilities.
+
+The operation of power generation, transmission and distribution facilities involves hazardous activities.
+
+We may become exposed to significant liabilities for which we may not have adequate insurance coverage or risk mitigation.
+
+Additionally, through our captive insurance cell, we take certain insurance risk on our business, such as certain wildfire coverage, excess property insurance, and excess employment practice liability.
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+Business Overview 
+Pinnacle West is an investor-owned electric utility holding company based in Phoenix, Arizona with consolidated assets of approximately $30 billion.  We derive essentially all of our revenues and earnings from our principal subsidiary, APS.  Since 1886, APS and its affiliates have provided energy and energy-related products to people and businesses throughout Arizona.  APS is Arizona’s largest and longest-serving electric company and generates safe, affordable and reliable electricity for approximately 1.4 million retail customers in 11 of Arizona’s 15 counties.  APS is also the operator and co-owner of Palo Verde — a primary source of electricity for the southwestern United States.  Our other active subsidiaries are El Dorado and PNW Power.
+
+Strategic Overview 
+Our vision is to create a sustainable energy future for Arizona.  Our mission is to serve customers with safe, reliable, and affordable energy.  We are committed to delivering operational excellence at the lowest cost possible while aspiring to lower carbon emissions over time.
+Reliable
+As energy demand in Arizona continues to grow, we remain committed to delivering reliable service to our customers.  We have a goal of achieving top quartile reliability as compared to peers.  Key elements to delivering reliable service include resource and transmission planning to secure resource adequacy, planning and procuring resources to ensure sufficient reserve margins, distribution automation and resiliency investments, predictive and preventative maintenance programs, seasonal readiness programs, emergency preparedness, and securing a reliable supply chain.  Securing a reliable grid requires ongoing infrastructure investments in addition to investments to support new customer growth.  
+Balanced Energy Mix
+.  APS strives to procure a balanced energy mix, and we believe this provides the greatest reliability at the lowest cost possible while increasing resiliency.  We achieve reliability, in part, through a blend of dispatchable resources, such as natural gas and battery storage, that can provide energy when intermittent resources, such as wind and solar, are unavailable.  APS regularly 
+56
+Table of Contents
+evaluates the best mix of resources based on a changing operating environment, including changes in generation technology, economics, and policy impacts.
+Additional natural gas capacity is necessary to support reliable service and meet increasing energy needs.  However, existing natural gas pipelines into Arizona are currently 100% committed.  As a result, in July 2025, APS executed a gas transportation precedent agreement to secure a long-term supply of natural gas.  The new pipeline is expected to be operational by late 2029 and will be owned and operated by a third-party.  See Note 14 for more information.  APS also plans to add up to 2,000 MW of flexible natural gas generation to its portfolio, designed to help meet the growing  around-the-clock energy needs in Arizona.  This generation is expected to serve existing customers and business-as-usual growth through our competitive ASRFP process as well as a new subscription model for large load customers, like data centers and large manufacturers.  This subscription model is a commercial construct designed to ensure growth pays for growth while protecting affordability for other customers.
+Palo Verde, one of the nation’s largest carbon-free energy resources, serves as a foundational part of APS’s resource portfolio.  The plant is a critical asset to the Southwest, generating more than 32 million MWh – enough power for roughly 3.4 million households, or approximately 8.5 million people.  Its continued operation is important to a carbon-neutral future for Arizona and the region, as a reliable, continuous, affordable resource and as a large contributor to the local economy.  APS owns or leases 29.1% of Units 1, 2, and 3 Palo Verde.  In June 2025, APS entered into agreements to purchase two of the three leased interests in Unit 2.  The two subject leased interests represented approximately 7% or 94 MW of Unit 2.  The transaction closed in September 2025, leaving one remaining lease for approximately 5.2% of Unit 2 that expires in 2033.  See Note 12 for more information.  APS’s rate case application filed in 2025 (the “2025 Rate Case”) includes pro forma adjustments to account for these acquisitions.  APS continues to evaluate and pursue options for reliably serving growing customer energy needs and demand.
+Wildfire Efforts
+.  Wildfire safety remains a critical focus for APS and other utilities.  APS has increased investment in fire mitigation efforts to clear defensible space around its infrastructure, continue ongoing system upgrades, build partnerships with government entities and first responders, and educate customers and communities.  APS also increased spend on mitigating the risk associated with trees that could cause hazards, resulting in more of these trees being removed before they could cause outages or wildfires.  These programs contribute to customer reliability, responsible forest management and safe communities.  With wildfire events in Hawaii, California, and across North America over the last few years, APS has been devoting and intends to continue to devote substantial efforts to analyzing and developing enhancements to its systems and processes to mitigate fire risk within its service territory and communities, including by hardening our infrastructure, deploying new technologies where appropriate, increasing our awareness, implementing operational changes, and enhancing our wildfire response capabilities.  
+APS uses fire modeling software to identify and calculate risk and target future system improvement investments such as fire-resistant pole wrapping, wood to steel pole conversions, and additional remote-controllable field devices like reclosers and switches.  In 2024, APS began installing a system of artificial intelligence-based fire sensing cameras with the ability to detect and alert on fire ignitions.  These alerts are sent both to APS and fire response dispatch centers to speed fire response in APS’s service territory regardless of the cause of the fire.  APS also implemented a public safety power shutoff (“PSPS”) program on certain feeders that began in the 2024 fire season, leveraging the additional real-time analysis provided by the modeling software.  APS has educated and will continue education outreach to customers and communities that may potentially be impacted by the PSPS program.   
+57
+Table of Contents
+APS was selected by DOE’s Grid Deployment Office (“GDO”) to receive up to $70 million in federal money for fire mitigation and grid infrastructure projects.  This funding is part of the GDO’s Grid Resilience and Innovation Partnership Program and is contingent on APS negotiating and executing final grant agreements with GDO.  Additionally, on May 12, 2025, Arizona Governor Hobbs signed into law a bill that requires Arizona electric utilities to develop and seek approval for wildfire mitigation plans and defines the standard of care with respect to wildfire-related claims by reference to such plans.  APS continues to evaluate policy and regulatory options, as well as insurance programs, to mitigate the impact of wildfire events.
+Affordable
+
+We are committed to keeping bills as low as possible for our customers while maintaining high levels of reliability.  Inflation has dramatically impacted the cost of goods and services in recent years as shown by the Consumer Price Index for All Urban Consumers (“CPI-U”), which from 2018 through 2024 rose nationally 24.9% and 32.1% in Phoenix.  Despite this, APS’s average residential rates remained well-below those inflation figures, rising 16.2% for the same period according to the U.S. Energy Information Administration.  Inflation has moderated from earlier highs, with CPI-U rising 2.7% nationally and 2.2% in Phoenix over the 12 months ended December 2025.  As a result of increased tariffs and supply chain constraints, APS amended several of its agreements from its ASRFP issued in 2023 to mitigate these cost impacts.  However, APS remains cautious of potential price increases as a result of current and proposed tariffs, which could lead to higher costs and supply chain constraints, while also monitoring the outcome of the recent U.S. Supreme Court’s decision regarding the validity of certain tariffs.
+APS’s customer affordability initiative includes internal opportunities, such as training and mentoring employees on identifying efficiency opportunities; maintaining inventory to take advantage of lower pricing and avoid expediting fees; entering into long-term contracts to hedge against price volatility, which has allowed APS to mitigate against procurement spend on critical items such as transformers; and implementing automation technologies to enhance efficiencies and increase data-oriented decision making.  The customer affordability initiative also includes external opportunities, including a portfolio of customer programs designed to help customers reduce and manage their bills.  In the 2025 Rate Case, APS is also seeking to reduce cross-subsidization of customer classes and ensure that growth pays for growth by requesting modifications to its cost allocation methodologies.  APS continues to seek opportunities to streamline its business processes, mitigate cost increases, increase employee retention, and improve customer satisfaction.
+APS’s IRP and competitive ASRFP processes serve important roles in providing reliable and affordable energy to APS’s customers.  The IRP process helps identify the amount and type of resources required to reliably meet customer needs, while the ASRFP process seeks to meet those needs in a competitive manner based on cost, ability to meet system requirements, and commercial viability.
+APS has seen increasing demand from large load customers in recent years.  In the 2025 Rate Case, APS requested adjustments to rate designs and modification of cost allocation methodologies to ensure growth pays for growth.  In line with the 2025 Rate Case, APS has developed a subscription model it believes will allow for these large load customers to fund the incremental infrastructure needed to serve them through long-term contracts where they cover capital costs and assume development risks, accelerating their path to service and ensuring those infrastructure costs are borne by those customers rather than residential or small business customers.  
+58
+Table of Contents
+There are also external opportunities that allow APS to deliver more affordable energy to customers, such as APS’s participation in western energy markets and programs.  APS participated in market design and tariff development of Markets+, a day-ahead and real-time market offering from SPP.  The Markets+ tariff was filed with FERC on March 29, 2024 and was approved on January 16, 2025.  APS is a funding party to the implementation phase of Markets+ and expects to go live in the market in October 2027.  In addition, APS is participating in the Western Resource Adequacy Program administered by Western Power Pool and plans to transition to full-binding participation in 2027 or 2028.  These regional efforts are driven by the objectives of reducing customer cost and improving reliability.  Until the transition to Markets+, APS will continue to participate in the WEIM as a tool for creating savings for APS’s customers from the real-time only, voluntary market.  APS expects that its participation in the WEIM and future participation in Markets+ will lower its fuel and purchased-power costs, improve situational awareness for systems operations in the Western Interconnection, and improve integration of APS’s resources.
+Resource Planning
+—
+Prioritizing Reliability and Affordability
+APS remains focused on providing reliable energy at the lowest cost possible while striving to lower emissions over time and continues to look for opportunities to support reliability through dispatchable resources, such as gas and the potential extension of coal beyond 2031.  APS’s diverse portfolio of existing and planned resources includes biomass, biogas, coal, energy storage, geothermal, natural gas, nuclear, solar, and wind.  Every three years, APS performs an IRP, a comprehensive study to identify what resources will be necessary to safely, reliably, and affordably meet the demand and energy needs of its customers over the next 15 years.  In November 2023, APS released its latest IRP, which identified forecasted customer demand and energy needs growing at an unprecedented rate.  In developing the IRP, APS considered how factors such as forecasted economic growth, impacts from weather, and new resource technology availability impact the amount and type of resources required to reliably and affordably meet customer needs.  These factors, among others, were used to develop a plan that identified a balanced mix of diverse energy-generating resources to reliably serve customers’ future energy needs.  To help ensure competitive costs for resources procured by APS, APS regularly issues competitive bid solicitations through the ASRFP process, with the most recent ASRFP being issued in 2025.  These ASRFPs are open to bids for all resource types, including customer-scale (behind the meter) and utility-scale (in front of the meter) resources.
+APS selects projects out of ASRFPs based on cost, ability to meet system requirements, and commercial viability, taking into consideration timing and likelihood of successful contracting and development.  Guided by IRP-established timelines and quantities, APS maintains a flexible approach that allows it to optimize system reliability and customer affordability through the ASRFP process.  Agreements for the development and completion of future resources are subject to various conditions, including successful siting, permitting and interconnection to the electric grid.  Consistent with recent ASRFPs, APS remains focused on contracting for resources that can withstand supply chain pressures and volatility and seeks a balanced portfolio that is resilient to other external pressures, including those arising from the macroeconomic and geopolitical environment.
+In terms of recent solicitations, APS issued an ASRFP on June 30, 2023, pursuant to which APS procured 3,606 MW of battery storage, 517 MW of natural gas, 2,649 MW of solar, and 500 MW of wind resources expected to be in service from 2026 to 2028.  APS issued another ASRFP on November 20, 2024, pursuant to which it signed an amendment and extension to an existing gas tolling agreement, increasing it to 600 MW beginning in 2027 and extending the term to 2038 and is currently negotiating 
+59
+Table of Contents
+additional agreements.  The scope of projects being negotiated out of the 2024 ASRFP reflects both the expanse of the 2023 ASRFP and the reality of adjusting to tariffs and changing federal policy.
+In its most recent ASRFP, issued on November 19, 2025, APS is seeking at least 1,000 MW of resources that can reach commercial operation between 2029 and 2031, but APS will also consider projects that can achieve commercial operation earlier or later.
+APS has an aspirational goal to be carbon-neutral by 2050.  This means that for any GHG emissions still produced by our generation resources as of 2050, we will aim to offset these emissions elsewhere.  This goal reflects APS’s interest in new innovation and market transformations that address carbon emissions, while relying on the IRP and ASRFP processes to help determine the path forward.  
+Customer-Focused
+Serving customers with excellence is foundational to APS’s business and remains our core focus as we adapt to evolving customer needs and emerging technology.  Recognizing that every employee impacts our customer experience, we continue to provide information, tools, and resources enabling our teams to design, develop, and implement enhancements to improve our customer experience.
+APS’s 24/7 call center answers more than 75% of customer calls within 30 seconds, and our mobile platforms enable our more than one million customers to quickly and easily find the information they need when they need it.  We seek to provide relevant and valuable options for customers to manage their bill, including through rate plan options, programs that help them save energy and money, and alerts and notifications that help keep them aware of outages, payments, and usage.  APS recently introduced a high-bill analyzer tool enabling phone advisors to provide customers with specific, customized guidance based on their actual usage and habits.
+Additionally, APS offers a customer assistance program, including up to a 60% bill discount for vulnerable customers, flexible payment arrangements, and emergency utility bill assistance.  To ensure customers in need are connected to these programs, we partner with nearly one hundred community action agencies across our service territory to train representatives who serve our shared customers.
+Developing Technologies
+New Nuclear Generation
+.
+
+Along with other Arizona electric utilities, APS is exploring additional nuclear generation to provide around-the-clock carbon-free energy to meet rising energy demands in Arizona.  APS has been monitoring emerging nuclear technologies, ranging from newer proposed and installed versions of large-scale reactors to small modular nuclear reactors.  Small modular nuclear reactors are typically designed to generate 300 MW or less of energy per unit compared to, for example, the 1,400 MW per unit generated at Palo Verde.  The utilities have applied for a grant from DOE to begin preliminary exploration of a potential site for additional nuclear energy for Arizona.  The grant could support a three-year site selection process and possible preparation of an early site permit application to NRC. 
+Long Duration Energy Storage
+.  Continued technological innovation in long duration energy storage, which represents storage products which provide more than four hours of service, has led to decreasing cost of these solutions and an increase in their procurement, development, and deployment. These solutions include lithium and non-lithium battery chemistries, alternative natural gas-fired fuel cells 
+60
+Table of Contents
+and turbine units, and pumped hydropower.  We will continue to evaluate these technologies and their ability to provide reliability, affordability, and balance to our portfolio.
+Carbon Capture
+.
+
+CCS technologies can isolate carbon dioxide and either sequester it permanently in geologic formations or convert it for use in products.
+
+Currently, almost all existing fossil fuel generators do not control carbon emissions the way they control emissions of other air pollutants such as sulfur dioxide or oxides of nitrogen.
+
+CCS technologies are still in the demonstration phase and while they show promise, they are still being tested in real-world conditions.
+
+These technologies could potentially reduce carbon emissions from fossil fuel-fired generation.
+Artificial Intelligence
+.
+
+To address the rapid advancement of AI technology risks and opportunities, APS has developed an AI strategy to responsibly utilize AI to advance our business strategy, enhance customer and employee experiences, and optimize operational reliability.  At the core of our AI strategy is a robust governance model that develops guidance, policies, and relevant sub-strategies for the execution of AI projects at the Company.  To ensure compliance with data security, reliability requirements, and our Code of Ethical Conduct, governance and oversight are provided by leadership and experts from our information technology, cybersecurity, human resources, ethics, supply chain, legal, and nuclear generation teams.
+Regulatory Overview
+2025 Rate Case
+On June 13, 2025, APS filed an application with the ACC seeking a net base rate increase of $579.5 million, which represents a 13.99% net increase.
+
+For 2025, retail electric revenues were 95% of our total operating revenue.  For 2023 through 2025, retail electric revenues averaged approximately 94% of our total operating revenues.  Our electric operating revenues are affected by customer growth or decline, variations in weather from period to period, customer mix, average usage per customer and the impacts of energy efficiency programs, distributed energy additions, electricity rates and tariffs, the recovery of PSA deferrals and the operation of other recovery mechanisms.  Our revenues are affected by the availability of excess generation or other energy resources and wholesale market conditions, including competition, demand, and prices.
+
+Actual and Projected Customer and Sales Growth.  
+Retail customers in APS’s service territory increased 2.4% for the period ended December 31, 2025 compared with the prior-year period.  For the three years through 2025, APS’s customer growth averaged 2.2% per year.  We currently project annual customer growth to be 1.5% to 2.5% for 2026 and the average annual growth to be in the range of 1.5% to 2.5% through 2030 based on anticipated steady population growth in Arizona during that period.
+Retail electricity sales in kWh, adjusted to exclude the effects of weather variations, increased 5.0% for the period ended December 31, 2025 compared with the prior-year period.  While steady customer growth was somewhat offset by lower usage among residential customers, energy savings driven by customer conservation, energy efficiency, and distributed renewable generation initiatives, the main drivers of increased revenues for this period were continued strong sales to commercial and industrial customers and the continued ramp-up of new data center and large manufacturing customers.  As large load customers, such as data centers and large manufacturers, have continued to grow as a proportion of our 
+65
+Table of Contents
+business, we have updated our procedures with respect to estimates of unbilled revenues for our customer classes.  As a result, we made an adjustment in the first quarter of 2025 to recalibrate accrued unbilled revenues, offsetting year-to-date sales growth by 0.4%. 
+For the three years through 2025, annual retail electricity sales growth averaged 3.9%, adjusted to exclude the effects of weather variations.  Due to the expected growth of several data centers and large manufacturing facilities, we currently project that annual retail electricity sales in kWh will increase in the range of 4.0% to 6.0% for 2026 and that average annual growth will be in the range of 5.0% to 7.0% through 2030, including the effects of customer conservation, energy efficiency, and distributed renewable generation initiatives, but excluding the effects of weather variations.  These projected sales growth ranges include the impacts of several data centers and large manufacturing facilities, which are expected to contribute to 2026 growth in the range of 3.0% to 5.0% and to average annual growth in the range of 4.0% to 6.0% through 2030. 
+Longer term, APS has been preparing for and can serve significant load growth from residential and business customers.  On top of these existing growth trends, APS is also receiving incremental requests for service from large load customers with very high energy demands that persist virtually around-the-clock, such as data centers for AI and large manufacturers.  These incremental requests for service by large load customers far exceed available generation and transmission resource capacity in the Southwest region for the foreseeable future.  Because of the high growth in demand for such projects, APS has developed a queue that identifies and prioritizes projects while maintaining system reliability and affordability for existing APS customers.  APS is also exploring available options for securing additional electric generation and transmission to meet these projections of future customer needs, including a new subscription model for large load customers.  The subscription model is part of the company’s “growth pays for growth” strategy where large load customers would enter into a long-term special contract to pay for the costs associated with the incremental infrastructure needed to provide service without compromising reliability and affordability for existing customers.
+Actual sales growth, excluding weather-related variations, may differ from our projections as a result of numerous factors, such as macroeconomic conditions, current and future economic, regulatory, business, and other conditions, such as the Arizona housing market, customer growth, usage patterns and energy conservation, slower ramp-up of and/or fewer large data centers and manufacturing facilities, slower than expected commercial and industrial expansions, impacts of energy efficiency programs and growth in DG, responses to retail price changes, changes in regulatory standards, and impacts of new and existing laws and regulations, including environmental laws and regulations.  Based on past experience, a 1% variation in our annual residential and small commercial and industrial kWh sales projections under normal business conditions can result in increases or decreases in annual net income of approximately $25 million, and a 1% variation in our annual large commercial and industrial kWh sales projections under normal business conditions can result in increases or decreases in annual net income of approximately $7 million.
+Weather.
+
+In forecasting the retail sales growth numbers provided above, we assume normal weather patterns based on historical data.
+
+Fuel and purchased power expenses included on our Consolidated Statements of Income are impacted by our electricity sales volumes, existing contracts for purchased power and generation fuel, our power plant performance, transmission availability or constraints, prevailing market prices, new generating plants being placed in service in our market areas, changes in our generation resource allocation, our hedging program for managing such costs and PSA deferrals and the related amortization.
+Operations and Maintenance Expenses
+.
+
+Operations and maintenance expenses are impacted by customer and sales growth, power plant operations, maintenance of utility plant (including generation, transmission, and distribution facilities), inflation, unplanned outages, planned outages (typically scheduled in the spring and fall), renewable energy and DSM related expenses (which are mostly offset by the same amount of operating revenues) and other factors. 
+Depreciation and Amortization Expenses.
+
+Depreciation and amortization expenses are impacted by net additions to utility plant and other property (such as new generation, transmission, and distribution facilities), and increases in intangible assets and changes in depreciation and amortization rates.
+
+Operating revenues, less fuel and purchased power is used by Pinnacle West to assess whether customer revenues adequately cover fuel and purchased power costs.  This metric is not defined by 
+68
+Table of Contents
+GAAP and may differ from similar measures used by other companies.  This measure is not a substitute for operating income under GAAP.
+Operating revenues less fuel and purchased power.  
+Operating revenues less fuel and purchased power expenses were $105 million higher for the year ended December 31, 2025 compared with the prior-year period.  The following table summarizes the major components of this change (dollars in millions):
+
+Operating
+revenues
+Fuel and
+purchased
+power
+Net change
+Higher retail revenues due to changes in usage patterns, customer growth and related pricing, partially offset by the impacts of energy efficiency 
+$
+155 
+$
+60 
+$
+95 
+Higher transmission revenues (Note 8)
+51 
+— 
+51 
+Impact of new rates from the 2022 Rate Case, effective March 8, 2024 (Note 8)
+46 
+— 
+46 
+LFCR revenue (Note 8)
+10 
+— 
+10 
+Changes in net fuel and purchased power costs, including off-system sales margins and related deferrals
+97 
+89 
+8 
+Higher renewable energy regulatory surcharges, partially offset by operations and maintenance costs
+9 
+5 
+4 
+Effects of weather
+(157)
+(43)
+(114)
+Miscellaneous items, net
+4 
+(1)
+5 
+Total
+$
+215 
+$
+110 
+$
+105 
+Operations and maintenance
+.  Operations and maintenance expenses increased $20 million for the year ended December 31, 2025 compared with the prior-year period, primarily due to: 
+•
+an increase of $19 million related to information technology costs;
+•
+an increase of $16 million related to corporate resource costs;
+•
+an increase of $2 million related to nuclear generation costs;
+•
+an increase of $2 million related to costs for renewable energy programs and similar regulatory programs, which are partially offset in operating revenues and purchased power; 
+•
+an increase of $1 million related to non-nuclear generation costs, primarily due to increased operating costs;
+•
+a decrease of $11 million related to transmission, distribution, and customer service costs;
+•
+a decrease of $13 million related to employee benefit costs; and
+•
+an increase of $4 million for other miscellaneous factors.
+Depreciation and amortization.
+  Depreciation and amortization expenses were $20 million higher for the year ended December 31, 2025 compared to the prior-year period, primarily due to increased plant in service and intangible assets, partially offset by lower depreciation expense due to operations ceasing at the Cholla plant.
+69
+Table of Contents
+Pension and other postretirement non-service credits, net.
+  Pension and other postretirement non-service credits, net were $37 million lower for the year ended December 31, 2025 compared to the prior-year period primarily due to prior-service credits becoming fully amortized as of January 31, 2025.
+Other income and expense, net.
+  Other income and expense, net was $5 million higher for the year ended December 31, 2025 compared to the prior-year period, primarily due to investment gains in El Dorado, partially offset by the gain on the sale of BCE recognized during the first quarter of 2024, lower PSA interest income and higher corporate giving expense.  The difference between APS’s and Pinnacle West’s other income and expense, net is primarily related to Pinnacle West’s gain in investment in El Dorado and the gain on the sale of BCE.
+Interest charges, net of allowance for borrowed funds and equity funds used during construction.  
+Interest charges, net of allowance for funds used during construction, were $23 million higher for the year ended December 31, 2025 compared to the prior-year period, primarily due to higher debt balances and lower allowance for borrowed funds, partially offset by higher allowance for equity funds.
+Income taxes.
+  Income taxes were $4 million lower for the year ended December 31, 2025 compared with the prior-year period, primarily due to higher tax benefits related to employee benefits and AFUDC Equity, offset by lower tax credits and higher pre-tax income.
+LIQUIDITY AND CAPITAL RESOURCES
+
+Pinnacle West’s primary cash needs are for dividends to our shareholders and principal and interest payments on our indebtedness.  The level of our common stock dividends and future dividend growth will be dependent on declaration by our Board of Directors and based on a number of factors, including our financial condition, payout ratio, free cash flow and other factors.
+
+Capital Expenditures
+Estimated for the Year Ending        December 31,
+
+2026
+2027
+2028
+APS
+Generation:
+Gas and Other Generation
+$
+635 
+$
+550 
+$
+490 
+Nuclear Generation
+170 
+185 
+215 
+Renewables and Energy Storage
+20 
+5 
+5 
+Distribution
+765 
+795 
+750 
+Transmission
+550 
+695 
+860 
+Other
+460 
+420 
+380 
+Total APS
+$
+2,600 
+$
+2,650 
+$
+2,700
+
+The table above does not include capital expenditures related to PNW Power projects.
+Generation capital expenditures are comprised of various additions and improvements to APS’s resources, including nuclear plants, renewables and energy storage, additions and improvements to existing fossil fuel plants, as well as planned investments in new natural gas facilities.  We are monitoring the status of environmental matters, which, depending on their final outcome, could require modification to our planned environmental expenditures.
+Distribution and transmission capital expenditures are comprised of infrastructure additions and upgrades, capital replacements, and new customer construction.  Examples of the types of projects included in the forecast include power lines, substations, and line extensions to new residential and commercial developments.
+Capital expenditures are expected to be funded with internally generated cash and external financings, which may include issuances of long-term debt and Pinnacle West common stock.
+
+2025 Compared with 2024. 
+ Pinnacle West’s consolidated net cash provided by financing activities was $576 million in 2025 compared to $323 million in 2024, an increase of $253 million in net cash provided primarily due to an increase of $430 million higher issuances of long-term debt, a $230 million increase in short-term borrowings and $75 million lower repayment of long-term debt; partially offset by $257 million less for equity issuances, the $199 million payment for the Palo Verde sale leaseback noncontrolling interest acquisition and higher dividends paid of $28 million.
+ APS’s consolidated net cash provided by financing activities was $543 million in 2025 compared to $375 million in 2024, an increase of $168 million in net cash provided primarily due to an increase of $502 million higher issuances of long-term debt, a $360 million increase in short-term borrowings; partially offset by $420 million in lower equity infusions from Pinnacle West, the $199 million payment 
+73
+Table of Contents
+for the Palo Verde sale leaseback noncontrolling interest acquisition, $50 million higher long-term debt repayments and $28 million in higher dividends paid to Pinnacle West.
+Significant Financing Activities.
+  On December 10, 2025, the Pinnacle West Board of Directors declared a dividend of $0.91 per share of common stock, payable on March 2, 2026, to shareholders of record on February 2, 2026.  During 2025, Pinnacle West increased its indicated annual dividend from $3.58 per share to $3.64 per share.  For the year ended December 31, 2025, Pinnacle West’s total dividends paid per share of common stock were $3.60 per share, which resulted in dividend payments of $423 million.
+Available Credit Facilities
+.  
+Pinnacle West and APS maintain committed revolving credit facilities in order to enhance liquidity and provide credit support for their commercial paper.  See Note 6 for more information on available credit facilities.
+Equity Offerings
+.
+   Pinnacle West entered into certain equity forward sale agreements in February 2024 and has an ATM Program under which Pinnacle West may offer and sell Pinnacle West common stock and enter into equity forward sale agreements from time to time, subject to market conditions and other factors.  See Note 16.  The following table summarizes the activity relating to these forward sale agreements and the ATM Program as of December 31, 2025 (dollars in thousands, except price per share):
+Forward Sale Agreements
+Number of Shares
+Forward Sales Price Per Share
+Aggregate Value
+February 2024 Forward Sale Agreements
+Initial Price
+11,240,601 
+$
+64.51 
+(a)
+$
+725,131 
+Settlements
+December 23, 2024
+5,377,115 
+(b)
+$
+64.17 
+$
+345,049 
+(c)
+September 4, 2025
+243,186 
+(b)
+$
+63.12 
+$
+15,350 
+(c)
+December 18, 2025
+1,193,950 
+(b)
+$
+62.82 
+$
+75,004 
+(c)
+ATM Program
+Initial Price
+2,199,415 
+$
+90.1038 
+(a) (d)
+$
+198,176 
+(a)    Subject to certain adjustments.
+(b)    Physical delivery.
+(c)    Proceeds recorded in common equity on the Consolidated Balance Sheets.
+(d)   Weighted-average price for the total ATM Program.
+Other Financing Matters.
+  See Note 13 for information related to the change in our margin and collateral accounts.
+
+Corporate credit rating
+Baa1
+BBB+
+BBB+
+Senior unsecured
+Baa1
+BBB+
+A-
+Commercial paper
+P-2
+A-2
+F2
+Outlook
+Stable
+Stable
+Stable
+
+75
+Table of Contents
+Contractual Obligations
+Pinnacle West has contractual obligations and other commitments that will need to be funded in the future, in addition to its capital expenditure programs.  Material contractual obligations and other commitments are as follows:
+•
+Pinnacle West and APS have material long-term debt obligations that mature at various dates through 2055 and bear interest principally at fixed rates.  Interest on variable-rate long-term debt is determined by using average rates at December 31, 2025.  See Note 7.
+•
+Pinnacle West and APS maintain committed revolving credit facilities.  See Note 6 for short-term debt details.
+•
+Fuel and purchased power commitments include purchases of coal, electricity, natural gas, renewable energy, nuclear fuel, and natural gas transportation.  See Notes 8 and 14.  Purchase obligations may include commitments for capital expenditures and other obligations.  See Note 14.  Commitments related to purchased power lease contracts are also considered fuel and purchased power commitments.  See Note 20.
+•
+APS holds certain contracts to purchase renewable energy credits in compliance with the RES.  See Notes 8 and 14.
+•
+APS is required to make payments to the noncontrolling interests related to the Palo Verde sale leaseback through 2033.  See Note 12.
+•
+APS must reimburse certain coal providers for final and contemporaneous coal mine reclamation.  See Note 14.
+•
+Pinnacle West’s equity forward sale agreements, which may be settled by Pinnacle West with common stock or cash.  Pinnacle West has classified these agreements as equity transactions in accordance with GAAP.  See Note 16.
+76
+Table of Contents
+
+In preparing the financial statements in accordance with GAAP, management must often make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosures at the date of the financial statements and during the reporting period.  Some of those judgments can be subjective and complex, and actual results could differ from those estimates.  We consider the following accounting policies to be our most critical because of the uncertainties, judgments and complexities of the underlying accounting standards and operations involved.
+Regulatory Accounting
+Regulatory accounting allows for the actions of regulators, such as the ACC and FERC, to be reflected in our financial statements.  Their actions may cause us to capitalize costs that would otherwise be included as an expense in the current period by unregulated companies.  Regulatory assets represent incurred costs that have been deferred because they are probable of future recovery in customer rates.  Regulatory liabilities generally represent amounts collected in rates to recover costs expected to be incurred in the future or amounts collected in excess of costs incurred and are refundable to customers.  Management judgments include continually assessing the likelihood of future recovery of regulatory assets and/or a disallowance of part of the cost of recently completed plant, by considering factors such as applicable regulatory environment changes and recent rate orders to other regulated entities in the same jurisdiction.  This determination reflects the current political and regulatory climate in Arizona and is subject to change in the future.  If future recovery of costs ceases to be probable, the assets would be written off as a charge in current period earnings, except for pension benefits, which would be charged to other comprehensive income and result in lower future earnings.  Management judgments also include assessing the impact of potential ACC- or FERC-ordered refunds to customers on regulatory liabilities.  We had $1,749 million of regulatory assets and $1,947 million of regulatory liabilities on the Consolidated Balance Sheets at December 31, 2025.  See Notes 1 and 8 for more information.
+Pensions and Other Postretirement Benefit Accounting
+Changes in our actuarial assumptions used in calculating our pension and other postretirement benefit assets, liabilities and expense can have a significant impact on our earnings and financial position.  We review these assumptions on an annual basis and adjust them as necessary.  The most relevant actuarial assumptions are the discount rate, the expected long-term rate of return on plan assets (“EROA”), and the assumed healthcare cost trend rates.  Differences between these actuarial assumptions and actual plan results may create volatility in pension and other postretirement benefit expense.  To reduce this volatility, these differences are accumulated and amortized (subject to a corridor of 10% of the greater of plan assets or obligations) as part of the expense over a period of approximately 11 years.  Following are the most relevant actuarial assumptions: 
+Discount Rate.
+  The discount rate is used to measure the plan liability and net periodic cost.  For this assumption, we utilize a yield curve produced by our actuary as of December 31st and employ their projections of the future benefit payments to estimate the projected benefit obligation for each plan.  This process also yields a single equivalent discount rate that produces the same present value for the projection of estimated benefit payments that is generated by discounting each year’s benefit payments by a spot rate to that year.  The spot rates are derived from a yield curve composed of domestic AA rated corporate bonds. 
+77
+Table of Contents
+EROA
+.  The EROA is used to estimate earnings on invested funds over the long-term.  For this assumption, we consider historical experience and future expectations of asset classes utilized in the portfolio. 
+Healthcare Cost Trend Rates.
+  We consider past performance and forecasts of health care costs, and our actuary provides the Company with a medical trend recommendation based on national medical trend, historical claims performance, benchmarking, and plan design changes.
+The following chart reflects the sensitivities that a change in certain actuarial assumptions would have had on the December 31, 2025, reported pension assets and liabilities on the Consolidated Balance Sheets and our 2025 reported pension expense, after consideration of amounts capitalized or billed to electric plant participants, on the Consolidated Statements of Income (dollars in millions):
+
+Increase (Decrease)
+Actuarial Assumption (a)
+Impact on
+Pension Plans
+(Assets) Liabilities
+Impact on
+Pension
+Expense (Benefit)
+Discount rate (b):
+
+[SOURCE: Net Zero Tracker]
+
+Entity: Pinnacle West Capital
+Industry: Power generation
+End target: No target
+  Target year: nan
+  % reduction: nan
+  Baseline year: nan
+  Status: nan
+  Target description: nan
+Interim target: No target
+  Interim year: nan
+  Interim % reduction: nan
+  Interim description: nan
+Published transition plan: No
+Reporting mechanism: No reporting mechanism
+Accountability/governance: No
+Race to Zero member: No
+Scopes covered: 1=No, 2=No, 3=No
+Source URL: http://www.pinnaclewest.com/corporate-responsibility/default.aspx

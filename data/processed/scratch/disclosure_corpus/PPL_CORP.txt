@@ -1,0 +1,538 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+LG&E
+Discount rates
+(7)
+1 
+n/a
+8 
+1 
+Expected return on plan assets
+n/a
+n/a
+n/a
+n/a
+1 
+Rate of compensation increase
+(1)
+— 
+n/a
+1 
+— 
+KU
+Discount rates
+(6)
+1 
+n/a
+7 
+1 
+Expected return on plan assets
+n/a
+n/a
+n/a
+n/a
+1 
+Rate of compensation increase
+(1)
+— 
+n/a
+1 
+— 
+Income Taxes
+
+(All Registrants)
+Significant management judgment is required in developing the Registrants' provision for income taxes, primarily due to valuation allowances on deferred tax assets.
+The need for valuation allowances to reduce deferred tax assets requires significant management judgment. Valuation allowances are initially recorded and reevaluated each reporting period by assessing the likelihood of the ultimate realization of a deferred tax asset. Management considers numerous factors in assessing the expected realization of a deferred tax asset, including the reversal of temporary differences, future taxable income and ongoing prudent and feasible tax planning strategies. Any tax planning strategy considered in this assessment must meet the recognition and measurement criteria for the valuation of a deferred tax asset. When evaluating the need for valuation allowances, the uncertainty posed by potential or expected legislative change on such factors is also considered by management. The amount of deferred tax assets ultimately realized may differ materially from the estimates utilized in the computation of valuation allowances and may materially impact the financial statements in the future.
+See Note 6 to the Financial Statements for income tax disclosures.
+Regulatory Assets and Liabilities 
+(All Registrants)
+PPL Electric, LG&E, KU and RIE are subject to cost-based rate regulation. As a result, the effects of regulatory actions are required to be reflected in the financial statements. Assets and liabilities that result from the regulated ratemaking process may not be recorded under GAAP for non-regulated entities. Regulatory assets generally represent incurred costs that have been deferred because such costs are probable of future recovery in regulated customer rates. Regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. In certain cases, regulatory liabilities are recorded based on an understanding or agreement with the regulator that rates have been set to recover costs that are expected to be incurred in the future, and the regulated entity is accountable for any amounts charged pursuant to such rates and not yet expended for the intended purpose.
+63
+Table of Contents
+Management continually assesses whether the regulatory assets are probable of future recovery by considering factors such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders to the Registrants and other regulated entities, and the status of any pending or potential deregulation legislation. Based on this continual assessment, management believes the existing regulatory assets are probable of recovery. This assessment reflects the current political and regulatory climate at the state and federal levels and is subject to change in the future. If future recovery of costs ceases to be probable, the regulatory asset would be written-off. There were no material write-offs of regulatory assets for the year ended December 31, 2025. Additionally, the regulatory agencies can provide flexibility in the manner and timing of recovery of regulatory assets.
+See Note 7 to the Financial Statements for regulatory assets and regulatory liabilities recorded at December 31, 2025 and 2024, as well as additional information on those regulatory assets and liabilities. All regulatory assets are either currently being recovered under specific rate orders, represent amounts that are expected to be recovered in future rates or benefit future periods based upon established regulatory practices.
+Price Risk Management 
+(PPL)
+See "Financial Condition - Risk Management" above.
+Goodwill Impairment 
+(PPL, LG&E and KU) 
+Goodwill is tested for impairment at the reporting unit level. The reporting units of PPL include the Kentucky Regulated reporting unit, the Pennsylvania Regulated reporting unit, and the Rhode Island Regulated reporting unit. LG&E and KU are each single reporting units. A goodwill impairment test is performed annually or more frequently if events or changes in circumstances indicate that the carrying amount of the reporting unit may be greater than the reporting unit's fair value. 
+The fair value of a reporting unit is compared with the carrying value and an impairment charge is recognized if the carrying amount exceeds the fair value of the reporting unit.
+PPL, for its reporting units, and individually, LG&E and KU, may elect either to initially make a qualitative evaluation about the likelihood of an impairment of goodwill or to bypass the qualitative evaluation and test goodwill for impairment using a quantitative test. 
+As of October 1, 2025, PPL, for its reporting units, and individually, LG&E and KU, elected to perform the qualitative step zero evaluation of goodwill. These evaluations considered the excess of fair value over the carrying value of each reporting unit that was calculated during step one of the quantitative impairment tests performed in the fourth quarter of 2022, and the relevant events and circumstances that occurred since those tests were performed including:
+•
+current year financial performance versus the prior year,
+•
+changes in planned capital expenditures,
+•
+the consistency of forecasted free cash flows,
+•
+earnings quality and sustainability,
+•
+changes in market participant discount rates,
+•
+changes in long-term growth rates,
+•
+changes in PPL's market capitalization, and
+•
+the overall economic and regulatory environments in which these regulated entities operate.
+Based on these evaluations, management concluded it was not more likely than not that the fair value of these reporting units was less than their carrying value. As such, the step one quantitative impairment test was not performed and no impairment was recognized. 
+See "Long-Lived and Intangible Assets - Asset Impairment (Excluding Investments)" in Note 1 to the Financial Statements for further discussion of goodwill impairment tests. See Note 17 to the Financial Statements for information on goodwill balances by reportable segment at December 31, 2025.
+64
+Table of Contents
+Asset Retirement Obligations
+
+(LG&E and KU)
+ARO liabilities are required to be recognized for legal obligations associated with the retirement of long-lived assets. Initial obligations are measured at estimated fair value. An ARO must be recognized when incurred if the fair value of the ARO can be reasonably estimated. An equivalent amount is recorded as an increase in the value of the capitalized asset and amortized to expense, regulatory assets or regulatory liabilities over the asset's useful life.
+In determining AROs, management must make significant judgments and estimates to calculate fair value. Fair value is developed using an expected present value technique based on assumptions of market participants that consider estimated retirement costs in current period dollars, inflated to the anticipated retirement date and discounted back to the date the ARO was incurred. Changes in assumptions and estimates included within the calculations of the fair value of AROs could result in significantly different results than those identified and recorded in the financial statements. Estimated ARO costs and settlement dates, which affect the carrying value of the ARO and the related capitalized asset, are reviewed periodically to ensure that any material changes are incorporated into the ARO estimate. Any change to the capitalized asset is generally amortized over the remaining life of the associated long-lived asset.
+See "Long-Lived and Intangible Assets - Asset Retirement Obligations" in Note 1, Note 7 and Note 18 to the Financial Statements for additional information on AROs.
+At December 31, 2025, the total recorded balances and information on the most significant recorded AROs were as follows.
+
+Depreciation is recorded over the estimated useful lives of property using various methods including the straight-line, composite and group methods. When a component of PP&E that was depreciated under the composite or group method is retired, the original cost is charged to accumulated depreciation. When all or a significant portion of an operating unit that was depreciated under the composite or group method is retired or sold, the property and the related accumulated depreciation account is reduced and any gain or loss is included in income, unless otherwise required by regulators. RIE, LG&E and KU accrue costs of removal net of estimated salvage value through depreciation, which is included in the calculation of customer rates over the assets' depreciable lives in accordance with regulatory practices. Cost of removal amounts accrued through depreciation rates are accumulated as a regulatory liability until the removal costs are incurred. For LG&E and KU, all ARO depreciation expenses are reclassified to a regulatory asset or regulatory liability. See "Asset Retirement Obligations" below and Note 7 for additional information. PPL Electric records net costs of removal when incurred as a regulatory asset. The regulatory asset is subsequently amortized through depreciation over a five-year period, which is recoverable in customer rates in accordance with regulatory practices.
+104
+Table of Contents
+Following are the weighted-average annual rates of depreciation, for regulated utility plant, for the years ended December 31:
+2025
+2024
+2023
+PPL
+3.06
+
+%
+Goodwill and Other Intangible Assets
+Goodwill represents the excess of the purchase price paid over the fair value of the identifiable net assets acquired in a business combination.
+Other acquired intangible assets are initially measured based on their fair value. Intangibles that have finite useful lives are amortized over their useful lives based upon the pattern in which the economic benefits of the intangible assets are consumed or otherwise used. Costs incurred to obtain, renew or extend terms of an intangible asset are capitalized.
+When determining the useful life of an intangible asset, including intangible assets that are renewed or extended, PPL and its subsidiaries consider:
+•
+the expected use of the asset;
+•
+the expected useful life of other assets to which the useful life of the intangible asset may relate;
+•
+legal, regulatory, or contractual provisions that may limit the useful life;
+•
+the company's historical experience as evidence of its ability to support renewal or extension;
+•
+the effects of obsolescence, demand, competition, and other economic factors; and,
+•
+the level of maintenance expenditures required to obtain the expected future cash flows from the asset.
+Asset Impairment (Excluding Investments)
+The Registrants review long-lived assets that are subject to depreciation or amortization, including finite-lived intangibles, for impairment when events or circumstances indicate carrying amounts may not be recoverable.
+A long-lived asset classified as held and used is impaired when the carrying amount of the asset exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. If impaired, the asset's carrying value is written down to its fair value.
+A long-lived asset classified as held for sale is impaired when the carrying amount of the asset (disposal group) exceeds its fair value less cost to sell. If impaired, the asset's (disposal group's) carrying value is written down to its fair value less cost to sell.
+PPL, LG&E and KU review goodwill for impairment at the reporting unit level annually or more frequently when events or circumstances indicate that the carrying amount of a reporting unit may be greater than the reporting unit's fair value. Additionally, goodwill must be tested for impairment in circumstances when a portion of goodwill has been allocated to a business to be disposed. PPL's, LG&E's and KU's reporting units are primarily at the operating segment level.
+PPL, for its reporting units, and individually, LG&E and KU, may elect either to initially make a qualitative evaluation about the likelihood of an impairment of goodwill or to bypass the qualitative evaluation and test goodwill for impairment using a quantitative test. If the qualitative evaluation (referred to as step zero) is elected and the assessment results in a determination that it is not more likely than not that the fair value of a reporting unit is less than the carrying amount, the quantitative impairment test is not necessary. However, the quantitative impairment test is required if management concludes it is more likely than not that the fair value of a reporting unit is less than the carrying amount based on the step zero assessment. If the carrying amount of the reporting unit, including goodwill, exceeds its fair value, an impairment loss is recognized in an amount equal to that excess, limited to the total amount of goodwill allocated to that reporting unit.
+As of October 1, 2025, PPL, for its reporting units, and individually, LG&E and KU, elected to perform the qualitative step zero evaluation of goodwill. These evaluations considered the excess of fair value over the carrying value of each reporting unit that was calculated during step one of the quantitative impairment tests performed in the fourth quarter of 2022, and the relevant events and circumstances that occurred since those tests were performed including:
+•
+current year financial performance versus the prior year,
+105
+Table of Contents
+•
+changes in planned capital expenditures,
+•
+the consistency of forecasted free cash flows,
+•
+earnings quality and sustainability,
+•
+changes in market participant discount rates,
+•
+changes in long-term growth rates,
+•
+changes in PPL's market capitalization, and
+•
+the overall economic and regulatory environments in which these regulated entities operate.
+Based on these evaluations, management concluded it was not more likely than not that the fair value of these reporting units was less than their carrying value. As such, the step one quantitative impairment test was not performed and no impairment was recognized.
+
+PPL and its subsidiaries record liabilities to reflect various legal obligations associated with the retirement of long-lived assets. Initially, this obligation is measured at fair value and offset with an increase in the value of the capitalized asset, which is depreciated over the asset's useful life. Until the obligation is settled, the liability is increased through the recognition of accretion expense classified within "Other operation and maintenance" on the Statements of Income
+
+(All Registrants)
+Certain PPL subsidiaries sponsor various defined benefit pension and other postretirement plans. An asset or liability is recorded to recognize the funded status of all defined benefit plans with an offsetting entry to AOCI or, for PPL Electric, LG&E, KU and RIE, to regulatory assets or liabilities. Consequently, the funded status of all defined benefit plans is fully recognized on the Balance Sheets.
+The expected return on plan assets is determined based on a market-related value of plan assets, which is calculated by rolling forward the prior year market-related value with contributions, disbursements and long-term expected return on investments. One-fifth of the difference between the actual value and the expected value is added (or subtracted if negative) to the expected value to determine the new market-related value.
+PPL and its subsidiaries, excluding RIE, use an accelerated amortization method for the recognition of gains and losses for its defined benefit pension plans. Under the accelerated method, actuarial gains and losses in excess of 
+30
+% of the plan's projected benefit obligation are amortized on a straight-line basis over one-half of the required amortization period. Actuarial gains and losses in excess of 
+10
+% of the greater of the plan's projected benefit obligation or the market-related value of plan assets and less than 
+30
+% of the plan's projected benefit obligation are amortized on a straight-line basis over the full required amortization period. RIE uses the standard amortization method under GAAP for recognition of gains and losses for its defined benefit pension plan.
+See Note 7 for a discussion of the regulatory treatment of defined benefit costs and Note 10 for a discussion of defined benefits.
+106
+Table of Contents
+Stock-Based Compensation
+
+(PPL)
+PPL has several stock-based compensation plans for purposes of granting stock options, restricted stock, restricted stock units and performance units to certain employees as well as stock units and restricted stock units to directors. PPL grants most stock-based compensation awards in the first quarter of each year. PPL recognizes compensation expense for stock-based compensation awards based on the fair value method. Forfeitures of awards are recognized when they occur. All awards are recorded as equity or a liability on the Balance Sheets. Stock-based compensation expense is primarily included in "Other operation and maintenance" on the Statements of Income.
+Taxes
+Income Taxes
+(All Registrants)
+PPL and its subsidiaries file a consolidated U.S. federal income tax return.
+Significant management judgment is required in developing the Registrants' provision for income taxes, primarily due to the uncertainty related to tax positions taken or expected to be taken on tax returns and valuation allowances on deferred tax assets.
+The Registrants use a two-step process to evaluate uncertain tax positions. The first step requires an entity to determine whether, based on the technical merits supporting a particular tax position, it is more likely than not (greater than a 50% chance) that the tax position will be sustained. This determination assumes that the relevant taxing authority will examine the tax position and is aware of all the relevant facts surrounding the tax position. The second step requires an entity to recognize in its financial statements the amount of the benefit of a tax position that meets the more-likely-than-not recognition criterion. The benefit recognized is measured at the largest amount of benefit that has a likelihood of realization upon settlement that exceeds 
+50
+%. Unrecognized tax benefits are classified as current to the extent management expects to settle the uncertain tax position by payment or receipt of cash within one year of the reporting date. The amounts ultimately paid upon resolution of issues raised by taxing authorities may differ materially from the amounts accrued and may materially impact the financial statements of the Registrants in future periods. At December 31, 2025, no significant changes in unrecognized tax benefits were projected over the next 12 months.
+Deferred income taxes reflect the net future tax effects of temporary differences between the carrying amounts of assets and liabilities for accounting purposes and their basis for income tax purposes, as well as the tax effects of net operating losses and tax credit carryforwards.
+The Registrants record valuation allowances to reduce deferred income tax assets to the amounts that are more-likely-than-not to be realized. The need for valuation allowances requires significant management judgment. If the Registrants determine that they are able to realize deferred tax assets in the future in excess of recorded net deferred tax assets, adjustments to the valuation allowances increase income by reducing tax expense in the period that such determination is made. Likewise, if the Registrants determine that they are not able to realize all or part of net deferred tax assets in the future, adjustments to the valuation allowances would decrease income by increasing tax expense in the period that such determination is made. The amount of deferred tax assets ultimately realized may differ materially from the estimates utilized in the computation of valuation allowances and may materially impact the financial statements in the future
+.
+The Registrants defer investment tax credits when the credits are generated and amortize the deferred amounts over the average lives of the related assets. With respect to acquired renewable tax credits, pursuant to the IRA, any benefit is recognized in the period the credits can be utilized.
+The Registrants recognize tax-related interest and penalties in "Income Taxes" on their Statements of Income.
+The Registrants use the portfolio approach method of accounting for deferred taxes related to pre-tax OCI transactions. The portfolio approach involves a strict period-by-period cumulative incremental allocation of income taxes to the change in income and losses reflected in OCI. Under this approach, the net cumulative tax effect is ignored. The net change in unrealized gains and losses recorded in AOCI under this approach would be eliminated only on the date the investment portfolio is classified as held for sale or is liquidated.
+See Note 6 for income tax disclosures.
+107
+Table of Contents
+The provision for the Registrants' deferred income taxes related to regulatory assets and liabilities is based upon the ratemaking principles reflected in rates established by relevant regulators. The difference in the provision for deferred income taxes for regulatory assets and liabilities and the amount that otherwise would be recorded under GAAP is deferred and included on the Balance Sheets in noncurrent "Regulatory assets" or "Regulatory liabilities."
+(PPL Electric, LG&E and KU) 
+The income tax provision for PPL Electric, LG&E and KU is calculated in accordance with an intercompany tax sharing agreement, which provides that taxable income be calculated as if PPL Electric, LG&E, KU and any subsidiaries each filed a separate return. Tax benefits are not shared between companies. The entity that generates a tax benefit is the entity that is entitled to the tax benefit. The effect of PPL filing a consolidated tax return is taken into account in the settlement of current taxes and the recognition of deferred taxes.
+At December 31, the following intercompany tax payables were recorded: 
+2025
+2024
+PPL Electric
+$
+(
+27
+)
+$
+(
+2
+)
+LG&E
+(
+7
+)
+(
+2
+)
+KU
+(
+10
+)
+(
+5
+)
+Taxes, Other Than Income
+
+(All Registrants)
+The Registrants present sales taxes in "Other current liabilities" on the Balance Sheets. These taxes are not reflected on the Statements of Income. See Note 6 for details of taxes included in "Taxes, other than income" on the Statements of Income.
+Other
+(All Registrants)
+Fuel, Materials and Supplies
+Fuel, natural gas stored underground and materials and supplies are valued using the average cost method. Fuel costs for electricity generation are charged to expense as used. For RIE, natural gas supply costs are charged to expense when delivered to customers. For LG&E, natural gas supply costs are charged to expense as delivered to the distribution system. See Note 7 for further discussion of the gas supply clause.
+"Fuel, materials and supplies" on the Balance Sheets consisted of the following at December 31:
+2025
+
+108
+Table of Contents
+(PPL and PPL Electric)
+Renewable Energy Standard Obligation
+Purchased Renewable Energy Certificates (RECs) are stated at cost and are used to measure compliance with state renewable energy standards. RECs support new renewable generation standards and are held primarily to be utilized in fulfillment of RIE's and PPL Electric's compliance obligations.
+(All Registrants)
+Guarantees
+
+Generally, the initial measurement of a guarantee liability is the fair value of the guarantee at its inception. However, there are certain guarantees excluded from the scope of accounting guidance and other guarantees that are not subject to the initial recognition and measurement provisions of accounting guidance that only require disclosure. See Note 12 for further discussion of guarantees.
+New Accounting Guidance Adopted 
+(All Registrants)
+Improvements to Income Tax Disclosures
+Effective December 31, 2025, the Registrants retrospectively adopted accounting guidance to improve income tax disclosures. The guidance requires enhanced disclosures about disaggregated rate reconciliation in eight specific categories, presented in both percentages and currency amounts. Further disaggregation by jurisdiction or nature of the item, or both, is required if over a 5% threshold. The utility industry has specific tax rate impacts due to federal and state rate-making requirements, which frequently exceed the 5% threshold. Accordingly, a ninth category is used to disaggregate the utility rate-making tax adjustments. The guidance also requires disclosure of the amount of income taxes paid disaggregated by federal, state, and foreign. See Note 6 for additional information.
+2. Segment and Related Information 
+(PPL)
+PPL is organized into 
+three
+ segments, broken down by geographic location: Kentucky Regulated, Pennsylvania Regulated, and Rhode Island Regulated.
+The Kentucky Regulated segment consists primarily of the regulated electricity generation, transmission and distribution operations conducted by LG&E and KU, as well as LG&E's regulated distribution and sale of natural gas.
+The Pennsylvania Regulated segment includes the regulated electricity transmission and distribution operations of PPL Electric.
+The Rhode Island Regulated segment includes the regulated electricity transmission and distribution and natural gas distribution operations of RIE.
+"Corporate and Other" primarily includes corporate level financing costs, certain unallocated corporate costs, and certain non-recoverable costs incurred in conjunction with the acquisition of RIE. "Corporate and Other" is presented to reconcile segment information to PPL's consolidated results and is not a reportable segment. 
+PPL's Chief Operating Decision Maker (CODM) is the CLC. The CLC uses financial metrics including segment net income, earnings from ongoing operations, earnings per share and return on equity, as well as various operational metrics to assess segment performance and make investment and resource decisions. Segment net income is the measure of segment profit or loss that most closely aligns with GAAP and is being presented for disclosure purposes.
+109
+Table of Contents
+The tables below provide information about PPL's segments and include a reconciliation of segment net income to consolidated net income for the year ended December 31, 2025:
+Kentucky Regulated
+Pennsylvania Regulated
+Rhode Island Regulated
+Total
+Operating Revenues from external customers (a)
+$
+3,760
+
+Deferred - State
+(
+5
+)
+(
+3
+)
+(
+12
+)
+Total Tax Expense (Benefit) of Operating Loss Carryforwards
+(
+4
+)
+(
+2
+)
+(
+9
+)
+Total income tax expense (benefit)
+$
+291
+
+(a)
+In 2025, 2024, and 2023, PPL purchased approximately $
+153
+ million, $
+27
+ million and $
+300
+ million of renewable tax credits and recorded a current tax benefit and a deferred tax expense for utilization of approximately $
+138
+ million, $
+61
+ million and $
+250
+ million of the credits, respectively. 
+In the table above, the following income tax expense (benefit) are excluded from income taxes:
+2025
+2024
+2023
+Other comprehensive income
+$
+(
+6
+)
+$
+(
+8
+)
+$
+(
+14
+)
+Valuation allowance recorded to other comprehensive income
+—
+
+2025
+2024
+2023
+Amount
+Percent
+Amount
+Percent
+Amount
+Percent
+Reconciliation of Income Tax Expense (Benefit)
+
+IT system costs represent expenditures incurred associated with implementing strategic information technology investments. As part of the ongoing rate case proceedings, PPL Electric has requested certain of these implementation costs to be treated as capital for ratemaking purposes to be recovered over the useful life of the associated IT asset. Recovery of these costs is subject to approval by the PAPUC, but PPL and PPL Electric believe recovery of these costs is probable. 
+(PPL, LG&E and KU)
+AROs
+As discussed in Note 1, for LG&E and KU, all ARO accretion and depreciation expenses are reclassified as a regulatory asset or regulatory liability. ARO regulatory assets associated with certain CCR projects are amortized to expense in accordance with regulatory approvals. For other AROs, deferred accretion and depreciation expense is recovered through cost of removal.
+Terminated Interest Rate Swaps
+Net realized gains and losses on all interest rate swaps are recovered through regulated rates. As such, any gains and losses on these derivatives are included in regulatory assets or liabilities and are primarily recognized in "Interest Expense" on the Statements of Income over the life of the associated debt.
+Plant Outage Costs
+From July 1, 2017 through June 30, 2021, plant outage costs were normalized for ratemaking purposes based on an average level of expenses. Plant outage expenses that were greater or less than the average would be collected from or returned to customers, through future base rates. Effective July 1, 2021, under-recovered plant outage costs are being amortized through 2029 for LG&E and KU.
+Advanced Metering Infrastructure (AMI)
+In 2021 base rate case orders from the KPSC, LG&E and KU received approval to record regulatory assets comprised of the operating expenses associated with implementation of the AMI project, the incremental difference between AFUDC accrued at LG&E's and KU's weighted average cost of capital and that calculated using the methodology approved by the FERC, and the remaining net book value of the retired legacy meters replaced by AMI. Additionally, LG&E and KU received approval to record regulatory liabilities comprised of meter reading and field service expense savings since their previous rate case and the cost of capital impact for legacy meters replaced and retired during the AMI implementation. Recovery and/or return of these costs was approved effective January 1, 2026 in the base rate case proceedings. 
+(PPL)
+Energy Efficiency
+
+The energy efficiency mechanism is designed to collect the estimated costs of RIE's energy efficiency plan for the upcoming calendar year. Any differences between revenue billed to customers through RIE's energy efficiency charge and the costs of RIE's energy efficiency programs, as approved by the RIPUC, are recorded as regulatory assets or regulatory liabilities. The final annual over or under collection is reconciled in the next year's energy efficiency plan filing, as part of the reconciliation factor calculation. RIE may file to change the energy efficiency plan charge at any time should significant over-or under-recoveries occur.
+131
+Table of Contents
+Net Metering
+The net metering mechanism provides for recovery of costs associated with customer-installed on-site generation facilities, including the costs of renewable generation credits. Net metering is reconcilable annually, and any over- or under-recovery from customers will be refunded to, or recovered from, customers through the adjustment factor determined for the subsequent year.
+Rate Adjustment Mechanisms
+In addition to commodity costs, RIE is subject to a number of additional rate adjustment mechanisms whereby a regulatory asset or regulatory liability is recognized resulting from differences between actual revenues and the underlying cost being recovered or differences between actual revenues and targeted amounts as approved by the RIPUC. The rate adjustment mechanisms are reconcilable, and any over- or under-recovery from customers are to be refunded or recovered annually in the subsequent year.
+Renewable Energy Certificates
+The Renewable Energy Certificates regulatory asset represents deferred costs associated with RIE's compliance obligation with the Rhode Island Renewable Portfolio Standard (RPS). The RPS is legislation established to foster the development of new renewable energy sources. The regulatory asset will be recovered over the next year.
+Environmental Cost Recovery
+(PPL, LG&E and KU)
+Kentucky law permits LG&E and KU to recover the costs, including a return of operating expenses and a return of and on capital invested, of complying with the Clean Air Act and those federal, state or local environmental requirements, which apply to coal combustion wastes and by-products from coal-fired electricity generating facilities. The KPSC requires reviews of the past operations of the environmental surcharge for six-month and two-year billing periods to evaluate the related charges, credits and rates of return, as well as to provide for the opportunity to roll-in ECR amounts to base rates each two-year period. The KPSC has authorized a return on equity of 
+9.35
+% for existing approved ECR projects. The ECR regulatory asset or liability represents the amount that has been under- or over-recovered due to timing or adjustments to the mechanism and is typically recovered or refunded within 
+12
+ months.
+(PPL)
+RIE's rate plans provide for specific rate allowances for RIE's share of the estimated costs to investigate and perform certain remediation activities at sites with which it may be associated, with variances deferred for future recovery from, or return to, customers. RIE believes future costs, beyond the expiration of current rate plans, will continue to be recovered through rates. The regulatory asset represents the excess of amounts incurred for RIE's actual site investigation and remediation costs versus amounts received in rates.
+(PPL and LG&E)
+Gas Supply Clause
+LG&E's natural gas rates contain a gas supply clause, whereby the expected cost of natural gas supply and variances between actual and expected costs and customer usage from prior periods are adjusted quarterly in LG&E's rates, subject to approval by the KPSC. The gas supply clause previously included a separate natural gas procurement incentive mechanism, which allowed LG&E's rates to be adjusted annually to share savings between the actual cost of gas purchases and market indices, with the shareholders and the customers during each performance-based rate year (12 months ending October 31). The operation of this incentive mechanism expired on October 31, 2024, but savings achieved through October 31, 2024 will be included in LG&E's rates through October 31, 2026. The regulatory assets or liabilities represent the total amounts that have been under- or over-recovered due to timing or adjustments to the mechanisms and are typically recovered or refunded within 
+18
+ months.
+132
+Table of Contents
+RAR
+The RAR rider was established by KPSC orders in 2021 to provide recovery of and return on the retirement costs of certain electric generating units, including the remaining net book value of each unit, materials and supplies that cannot be used at other plants and any associated removal costs, upon their retirement over a ten-year period following retirement. Costs included as of December 31, 2025 represent the remaining retirement costs of Mill Creek Unit 1 to be recovered through April 2034. 
+Regulatory Matters
+Rhode Island Activities
+
+(PPL)
+Rate Case Proceeding
+On November 26, 2025, RIE filed a request with the RIPUC for an increase in electric and natural gas base distribution rates, and approval of certain regulatory and accounting treatments. In its application, RIE seeks to implement a two-year rate plan. In the first year of the rate plan, RIE's proposed base distribution rates for electric and gas combined are designed to collect additional operating revenue of approximately $
+181
+ million ($
+66
+ million or 
+18.2
+% in electricity revenues and $
+115
+ million or 
+36.4
+% in gas revenues). In the second year of the rate plan, RIE's proposed base distribution rates for electric and gas combined are designed to collect the proposed base distribution rate increases for electric and gas in the first year of the rate plan and additional operating revenues of approximately $
+49
+ million ($
+17
+ million or 
+3.6
+% in electricity revenues and $
+32
+ million or 
+7.4
+% in gas revenues). 
+The application is based on a historical test year of September 1, 2024 through August 31, 2025 and requested an authorized ROE of 
+10.75
+%. Subject to RIPUC approval, new rates are expected to become effective on September 1, 2026. Certain counterparties have intervened in the proceeding. A ruling from the RIPUC is anticipated during the third quarter of 2026. PPL cannot predict the outcome of the proceeding.
+Hold Harmless Implementation Agreement
+As a condition of its approval of the acquisition of RIE in May 2022, the Rhode Island Division of Public Utilities and Carriers required PPL to hold harmless Rhode Island customers from the impact of future rate increases resulting from changes in Accumulated Deferred Income Taxes as a result of the Acquisition (the Hold Harmless Commitment). On June 13, 2025, an agreement was entered into by and among RIE, PPL, PPL Rhode Island Holdings and the Rhode Island Division of Public Utilities and Carriers Advocacy Section (the Hold Harmless Implementation Agreement) to satisfy the Hold Harmless Commitment by providing approximately $
+155
+ million in miscellaneous bill credits issued to customers, with approximately $
+74
+ million to be issued in the first quarter of 2026 and approximately $
+81
+ million to be issued in the first quarter of 2027. The bill credits would be recorded as a reduction to revenue in the periods in which the credits are applied to customers' bills. On September 10, 2025, the Rhode Island Division of Public Utilities and Carriers issued an order confirming that RIE's provision of proposed miscellaneous bill credits as set forth in the Hold Harmless Implementation Agreement would satisfy the Hold Harmless Commitment. Also on September 10, 2025, the RIPUC opened a docket to evaluate the miscellaneous bill credit proposal set forth in the Hold Harmless Implementation Agreement, including the underlying rate accounting, and required RIE to file a tariff advice with the RIPUC, which RIE filed on October 2, 2025. After responding to discovery in that proceeding and before the evidentiary hearing was held or convened, RIE filed a notice of withdrawal of its tariff advice filing noting that it would hold in abeyance a comprehensive satisfaction of the Hold Harmless Commitment at this time. As a result of RIE's filing the notice of withdrawal, the Commission cancelled the evidentiary hearing. The docket remains open, but there has been no further activity since RIE's withdrawal of the tariff advice and the RIPUC's cancellation of the evidentiary hearing. PPL cannot predict whether there will be any further proceedings on the docket or the outcome of any further proceedings that may occur. 
+133
+Table of Contents
+Winter Bill Volatility Docket
+At an Open Meeting on November 24, 2025, the RIPUC approved several measures to help mitigate winter bill increases for electric customers. First, the RIPUC approved miscellaneous bill credits for all residential electric customers of $
+23.54
+ per month for January, February, and March 2026. Second, the RIPUC paused the Storm Fund Replenishment Factor for usage on and after January 1, 2026, subject to further review through the 2026 Annual Retail Rate Filing. Third, the RIPUC paused the electric Energy Efficiency Charge for usage beginning January 1, 2026 through March 31, 2026. To offset the costs of the miscellaneous bill credits, the RIPUC directed RIE to apply the December 31, 2025 electric Energy Efficiency fund balance, net of any earned incentives, and directed RIE to transfer $
+11
+ million from the storm fund balance. The RIPUC approved future cost recovery for RIE of any unfunded balance of the miscellaneous bill credits through future identified offsets and/or a reconciling recovery mechanism to be determined in conjunction with the 2026 electric retail rate filing to allow recovery by December 31, 2026. Any remaining unfunded balance shall accrue at RIE's weighted average cost of capital.
+FY 2026 Gas ISR Plan
+On March 28, 2025, the RIPUC approved the FY 2026 Gas ISR Plan of $
+165
+ million, of which $
+147
+ million is for capital investment spend and $
+18
+ million is spend for paving costs as operation and maintenance (O&M), plus a potential additional $
+15
+ million is available if certain regulations are implemented by the PHMSA. On March 31, 2025, the RIPUC approved RIE's compliance filing for rates effective April 1, 2025.
+FY 2027 Gas ISR Plan
+On December 22, 2025, RIE filed its FY 2027 Gas ISR Plan with the RIPUC with a budget of $
+184
+ million that primarily included $
+166
+ million of capital investment spend and $
+17
+ million for spending on curb-to-curb paving. A decision from the RIPUC on the Plan is expected by March 31, 2026. RIE cannot predict the outcome of this matter. 
+FY 2026 Electric ISR Plan
+On March 28, 2025, the RIPUC approved a FY 2026 Electric ISR Plan of $
+219
+ million for capital investment spend (including $
+88
+ million for Advanced Metering Functionality), $
+14
+ million for vegetation operations and maintenance spend and $
+1
+ million for Other O&M spend. On March 31, 2025, the RIPUC approved RIE's compliance filing for rates effective April 1, 2025.
+FY 2027 Electric ISR Plan
+On December 22, 2025, RIE filed its FY 2027 Electric ISR Plan with the RIPUC with a budget that primarily included $
+154
+ million of capital investment spend (including $
+18
+ million for Advanced Metering Functionality) and $
+13
+ million of vegetation operation and maintenance spend. A decision from the RIPUC is expected by March 31, 2026. RIE cannot predict the outcome of this matter. 
+Kentucky Activities
+(PPL, LG&E and KU)
+Rate Case Proceedings
+On May 30, 2025, LG&E and KU filed requests with the KPSC for an increase in annual electricity and gas revenues of approximately $
+391
+ million ($
+105
+ million and $
+226
+ million in electricity revenues at LG&E and KU and $
+60
+ million in gas revenues at LG&E) and approval of certain regulatory and accounting treatments. The revenue increases would be an increase of 
+8.3
+% and 
+11.5
+% in electricity revenues at LG&E and KU, and an increase of 
+14.0
+% in gas revenues at LG&E.
+The applications were based on a forecasted test year of January 1, 2026 through December 31, 2026 and requested an authorized ROE of 
+10.95
+%. New interim rates became effective on January 1, 2026, subject to refund pursuant to the KPSC's final order. Certain counterparties have intervened in the proceedings.
+On October 20, 2025, LG&E and KU filed with the KPSC a stipulation and recommendation (the agreement) regarding a proposed resolution of issues with a majority of the intervenors in the proceedings.
+Under the agreement, the parties proposed that the KPSC should issue orders granting a revised increase in annual electricity and gas revenues of approximately $
+235
+ million ($
+58
+ million and $
+132
+ million in electricity revenues at LG&E and KU and $
+45
+ million in gas revenues at LG&E.) The agreement proposed a revised authorized ROE of 
+9.90
+%.
+134
+Table of Contents
+The agreement proposed a "stay out" commitment from LG&E and KU to refrain from effective base rate increases before August 1, 2028, subject to certain exceptions. In connection with the stay out period, the agreement also proposed the establishment of two new rate adjustment clause mechanisms, a Generation Cost Recovery Adjustment Clause (GCR) and a Sharing Mechanism Adjustment Clause (SM).
+The proposed GCR mechanism would provide LG&E and KU recovery of and return on investment of covered costs (excluding fuel amounts, which LG&E and KU can recover via an existing rate mechanism) of relevant new generation and energy storage assets authorized in the 2022 and 2025 CPCN proceedings (excluding the Mill Creek Unit 6 NGCC, see "2025 CPCN" for more information regarding the Mill Creek Unit 6 NGCC) as they are placed in service.
+The proposed SM mechanism would address any base rate revenue deficiency or surplus during the final thirteen months of the stay out period, July 2027 through July 2028, below or above a suggested ROE band of 
+9.40
+% to 
+10.15
+%. Any such base rate revenue deficiency or surplus would be collected from or returned to customers over a thirteen-month billing period beginning November 2028.
+Following issuance of the 2025 CPCN Order, LG&E and KU filed supplemental testimony with the KPSC in the rate case proceedings seeking recovery of the Mill Creek Unit 2 stay open costs through a proposed additional rate adjustment clause mechanism.
+The agreement further proposed that LG&E and KU use regulatory deferral accounting for actual expenses above or below base rate levels for certain expenses including: pension and post-retirement benefits, storm restoration, vegetation management, transmission waivers and credits, and gas line or well activities, with recovery of such deferred asset or liability amounts to be addressed in future rate cases.
+On February 16, 2026, the KPSC issued orders approving portions of the October 2025 stipulation and recommendation, with modifications. 
+The KPSC orders provide for increases in annual electricity and gas revenues of $
+233
+ million ($
+59
+ million and $
+128
+ million in electricity revenues at LG&E and KU and $
+46
+ million in gas revenues at LG&E.) The orders include authorized returns on equity of 
+9.775
+% for base rate purposes and 
+9.675
+% for capital rate adjustment mechanisms.
+The KPSC orders approve LG&E's and KU's requests for establishment of certain new rate adjustment mechanisms or tariffs, with modifications:
+•    a temporary Pilot Generation Recovery Adjustment Clause (PGR) to provide recovery of and return on investment of applicable costs of certain new generation and storage assets being built or anticipated to be built by LG&E and KU as authorized in the 2022 CPCN proceeding;
+•    the inclusion in the PGR of recovery of and return on investment of certain costs associated with a potential extension of the operating life of LG&E's Mill Creek Unit 2 beyond its original 2027 retirement date; and
+•    an Extremely High Load Factor Tariff for future applicable customers, such as data centers, which includes requirements such as long-term contracts, minimum revenue payments and collateral security structures that help protect the interests of LG&E, KU and of other ratepayers.
+The PGR mechanism is similar to the GCR proposed in the stipulation, but restructured by the KPSC to be a pilot adjustment mechanism with a term until the earlier of ten months following the submission of LG&E's and KU's next base rate proceeding or the effective date of new rates in such proceeding, with the expectation that the mechanism would be reviewed in such proceeding. The pilot mechanism will apply to the planned Mill Creek Unit 5, Brown Battery Energy Storage System, Mercer County Solar and Marion County Solar generation-related projects. The KPSC also included Mill Creek Unit 2's potential stay-open costs in the PGR in lieu of approving the stipulation's request for a stand-alone adjustment mechanism for such costs. Finally, the KPSC excluded from coverage under the PGR costs related to Mill Creek Unit 6 and Brown Unit 12 planned new generation assets due to their anticipated in-service dates falling outside of the estimated pilot mechanism's duration, but without prejudice to LG&E and KU seeking recovery of such costs in future proceedings.
+The KPSC orders also approved, approved with modifications, or denied in some cases, other requested accounting and rate matters relating to regulatory assets or liabilities, depreciation rates, and other areas. 
+The rate changes have a retroactive effective date as of January 1, 2026. Consistent with authorized rate case procedures, LG&E and KU will refund to customers amounts billed in excess of the final approved rates within sixty days.
+135
+Table of Contents
+The KPSC orders did not approve the SM adjustment clause that had been requested in the stipulation and made no modifications to the stay out offer by LG&E and KU to refrain from effective base rate increases prior to August 2028.
+LG&E and KU and
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+
+
+[SOURCE: Net Zero Tracker]
+
+Entity: PPL
+Industry: Infrastructure
+End target: Net zero
+  Target year: 2050.0
+  % reduction: nan
+  Baseline year: 2010.0
+  Status: In corporate strategy
+  Target description: Achieve net-zero carbon emissions by 2050
+Interim target: Other
+  Interim year: 2035.0
+  Interim % reduction: nan
+  Interim description: 41% reduction in fleet emissions by 2035 (from 2021 baseline)
+Published transition plan: Yes
+Reporting mechanism: Annual reporting
+Accountability/governance: Not Specified
+Race to Zero member: No
+Scopes covered: 1=Yes, 2=Yes, 3=Yes
+Source URL: https://web.archive.org/web/20250923052202/https://www.pplweb.com/wp-content/uploads/2025/04/PPL_CSR-2024-Report_FINAL.pdf

@@ -1,0 +1,129 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+The Board of Directors is responsible for reviewing and overseeing the long-term strategic plans and principal issues facing the Registrants and includes the oversight of the major risk exposures and the risk management activities of the Registrants. As part of its risk oversight role, the 
+Board delegates specific roles to its committees to help ensure risks, mitigations and opportunities are appropriately monitored and managed. The Audit Committee has overall oversight responsibility over the Registrants’ major financial risks, while the Nominating, Corporate Governance and Stewardship Committee oversees the Registrants’ cybersecurity risk exposure and management.
+
+These Committees and the full Board of Directors are updated regularly by the Chief Information Officer and the Director of Enterprise Security on cybersecurity risks and related matters, including results from audits and assessments of the Registrants’ cybersecurity practices and systems, as well as the results of their incident response and business resiliency exercises.
+
+The Chief Information Officer serves on the Corporate Risk Oversight Committee where cyber risks are regularly discussed and addressed. 
+The Registrants’ Corporate Risk Oversight Committee includes corporate officers and members of management and is responsible for the overall development, implementation and enforcement of strategies and policies for all significant risk management activities of the Registrants.
+
+The Registrants’ contingency plans, including its security incident response plan and event management framework, set forth the processes through which cybersecurity incidents are managed, including how management is informed of cybersecurity incidents. As part of these plans, incidents are evaluated, classified and elevated, as necessary, to an executive team which includes the Chief Information Officer and other executives on the Registrants’ Corporate Risk Oversight Committee.
+ Once elevated, these executives are ultimately responsible for the management, mitigation and remediation of incidents.
+
+OG&E owns and operates an interconnected electric generation, transmission and distribution system, located in Oklahoma and western Arkansas, which included 18 generating stations with an aggregate capability of 6,921 MWs at December 31, 2025. The following table presents information with respect to OG&E's electric generating facilities. Unless otherwise indicated, these electric generating facilities are located in Oklahoma.
+
+Total Generating Capability (all stations, excluding renewable)
+
+(A)
+2025 Capacity Factor = 2025 Net Actual Generation / (2025 Net Maximum Capacity (Nameplate Rating in MWs) x Period Hours (8,760 Hours)). Capacity Factors are impacted by events that reduce Net Actual Generation such as outages.
+(B)
+Represents units located at Tinker Air Force Base that are maintained by Horseshoe Lake.
+(C)
+Represents OG&E's 51 percent ownership interest in the Redbud Plant.
+(D)
+Represents OG&E's 77 percent ownership interest in the McClain Plant.
+
+On March 27, 2025, the OCC issued a final order approving the settlement agreement relating to OG&E's 2023 general rate review and approved the ALJ report on the remaining one MW issue with one exception. OG&E also issued its 2025 IRP to the OCC and APSC and has filed for and/or received preapproval, in both Oklahoma and Arkansas, of certain generation and capacity investments identified by OG&E's IRP and related request for proposals process. These matters, as well as other regulatory matters, are discussed in Note 14 within "Item 8. Financial Statements and Supplementary Data."
+
+On July 4, 2025, the legislation known as the “One Big Beautiful Bill” was signed into law, which includes significant changes to federal tax law and other regulatory provisions that may impact the Registrants. The Registrants will consider the legislation’s provisions, such as changes to tax credits for renewables, and the potential impact on future investment decisions.
+
+In May 2025, SB 998 was passed into law and became effective August 29, 2025. This legislation allows rate-regulated retail electric service providers, such as OG&E, to receive CWIP recovery of new natural gas generation capacity, if those proposed generation sources are approved by the OCC under existing statutory review procedures, and sets specific timelines for the OCC to review proposed projects. SB 998 also allows utilities to establish a regulatory asset to defer 90 percent of depreciation expense and return associated with qualified plant investments, that are not classified as transmission or new generation, for recovery over an allowed 20-year period in a future rate review filing. OG&E began deferring such costs to a regulatory asset in September 2025, as further discussed in Note 1 within "Item 8. Financial Statements and Supplementary Data."
+
+On April 14, 2025, Moody's Investors Service revised their ratings outlook on both OGE Energy and OG&E from stable to negative. Moody's Investors Service indicated that the revised outlook reflects pressure related to OG&E's capital expenditure plan and higher debt levels at the holding company.
+
+On November 18, 2025, S&P's Global Ratings revised their ratings outlook on OG&E from stable to negative and affirmed their stable ratings outlook on OGE Energy. S&P's Global Ratings indicated the revised outlook for OG&E reflects the elevated wildfire exposure and the mitigation efforts needed to reduce such risks.
+
+Future financing requirements may be dependent, to varying degrees, upon numerous factors such as general economic conditions, abnormal weather, load growth, commodity prices, acquisitions of other businesses and/or development of projects, actions by rating agencies, inflation, changes in environmental laws or regulations, rate increases or decreases allowed by regulatory agencies, new legislation, and market entry of competing electric power generators.
+
+In the normal course of business, the Registrants are confronted with issues or events that may result in a contingent liability. These generally relate to lawsuits or claims made by third parties, including governmental agencies. When appropriate, management consults with legal counsel and other experts to assess the claim. If, in management's opinion, the Registrants have incurred a probable loss as set forth by GAAP, an estimate is made of the loss, and the appropriate accounting entries are reflected in the financial statements. If the assessment indicates that a potential loss is not probable but reasonably possible, the nature of the contingent matter, together with an estimate of the range of possible loss, if determinable and material, would be disclosed. At the present time, based on currently available information, except as disclosed in Note 13 within "Item 8. Financial Statements and Supplementary Data," the Registrants believe that any reasonably possible losses in excess of accrued amounts arising out of pending or threatened lawsuits or claims would not be quantitatively material to their financial statements and would not have a material adverse effect on their financial position, results of operations or cash flows. See Notes 13 and 14 within "Item 8. Financial Statements and Supplementary Data" and "Item 3. Legal Proceedings" for further discussion of the Registrants' commitments and contingencies.
+
+The activities of OG&E are subject to numerous stringent and complex federal, state and local laws and regulations governing environmental protection. These laws and regulations can change, restrict or otherwise impact the Registrants' business activities in many ways, including the handling or disposal of waste material, planning for future construction activities to avoid or mitigate harm to threatened or endangered species and requiring the installation and operation of emissions or pollution control equipment. Failure to comply with these laws and regulations could result in the assessment of administrative, civil and criminal penalties, the imposition of remedial requirements and the issuance of orders enjoining future operations. Management believes that all of the Registrants' operations are in substantial compliance with current federal, state and local environmental standards.
+
+Changes in presidential administrations can result in uncertainty regarding policy or initiatives relating to activities that may affect the environment. In March 2025, the EPA announced that it would begin reconsideration of numerous regulations, including several that apply to OG&E. The EPA has begun this process for certain regulations as described below and must adhere to the legal requirements for enacting, revising, repealing, or replacing agency regulations. Future developments, such as changes in existing laws, introduction of new laws or regulations, or the emergence of new facts or conditions, may result in significant costs for the Registrants.
+
+Environmental regulation can increase the cost of planning, design, initial installation and operation of OG&E's facilities. Management continues to evaluate its compliance with existing and proposed environmental legislation and regulations and implement appropriate environmental programs in a competitive market.
+
+OG&E's operations are subject to the Federal Clean Air Act of 1970, as amended, and comparable state laws and regulations. These laws regulate air pollutant emissions from industrial sources, including electric generating units, and require monitoring and reporting. These laws and regulations may require OG&E to secure pre-approval for constructing or modifying projects or facilities that are anticipated to generate air emissions or increase current emission levels. Additionally, OG&E may need to obtain and comply with air permits outlining specific emission and operational requirements or implement emission control equipment. OG&E likely will be required to incur certain capital expenditures in the future for air pollution control equipment and technology in connection with obtaining and maintaining operating permits and approvals for air emissions.
+
+In 2015, the EPA updated the ambient air standards for ozone. Although Oklahoma meets these standards, the Clean Air Act requires states to submit implementation plans to the EPA to ensure their emissions do not affect other states. Oklahoma submitted its SIP in 2018. However, in January 2023, the EPA disapproved the SIPs of 19 states, including Oklahoma. In response, the Oklahoma Attorney General, the ODEQ and OG&E filed petitions for review in March 2023. A stay on the EPA's disapproval was granted in July 2023. The timing of further action is currently unknown.
+
+In a related matter, in April 2022, the EPA published a proposed FIP related to the "Good Neighbor" requirements intended to reduce interstate NO
+x
+ emissions. OG&E commented on this proposed FIP in June 2022. By June 2023, the EPA finalized this plan for 23 states, including Oklahoma. This final Good Neighbor FIP would revise Oklahoma's NO
+x
+ emissions budget for electric generating units, including OG&E's, starting in 2023. The emissions budget would decrease over time based on achievable reductions. OG&E estimated a 34.5 percent reduction by 2026 from 2023 levels and a 50 percent reduction by 2027 from 2021 levels. Following the FIP issuance, OG&E has been considering options to cut emissions at its generating units, including buying emission allowances, installing selective catalytic reduction systems, switching coal units to gas, or retiring and replacing capacity. OG&E submitted its final 2024 IRP to the OCC and APSC on March 29, 2024, which evaluates various compliance options related to the EPA's Good Neighbor FIP. Due to the uncertainty surrounding the SIP disapproval and FIP implementation, OG&E cannot determine the exact cost of compliance. The costs depend on the litigation outcome, chosen control strategies, regulatory approvals, and project timelines. However, OG&E estimated in mid-2023 that compliance costs could range from $2.4 billion to $2.8 billion, including $100 million to $300 million over the first 12 to 18 months following the FIP's effectiveness. OG&E plans to seek recovery of necessary environmental expenditures but cannot guarantee approval or timely recovery of all such expenditures. In October 2023, several petitioners sought a stay of the final FIP from the U.S. Supreme Court, pending review of the challenges in the U.S. Court of Appeals for the District of Columbia. The U.S. Supreme Court granted the stay in June 2024. The EPA requested a delay in the case in February 2025, which was denied. In March 2025, the EPA sought to reconsider the rule without vacating it. The D.C. Circuit Court agreed to hold the case in abeyance in April 2025, requiring status reports every 90 days. The timing of further action is unknown.
+
+The EPA has indicated that it intends to reconsider both the SIP disapprovals and the final FIP in a two-phase reconsideration rulemaking. In January 2026, the EPA proposed its "Phase 1" reconsideration of SIP disapprovals for several states. The EPA did not include the disapproved Oklahoma SIP in "Phase 1" but indicated that it intends to address the remaining states, including Oklahoma, in a separate action. The timing of further action is unknown.
+
+In December 2024, the EPA published in the Federal Register a proposed rule that would revise the new source performance standards regulating NO
+x
+ and SO
+2 
+emissions from new, modified, and reconstructed stationary combustion turbines. OG&E participated with trade associations to submit comments on the proposed rule on April 15, 2025. On January 15, 2026, the EPA published in the Federal Register its final rule establishing NO
+x
+ emissions standards for several subcategories of stationary combustion turbines based on the size, rates of utilization, design efficiency, and fuel type of these turbines. The rule applies to affected sources constructed, modified, or reconstructed after the December 2024 publication date. As only future, currently unknown activities are affected by this regulation, it is unknown what potential material impacts, if any, there will be from this final action by EPA.
+
+In February 2024, the EPA issued a final rule resulting from its reconsideration of the primary (health-based) and secondary (welfare-based) NAAQS for PM, which were set in 2013 and which the EPA declined to revise in 2020. The final rule lowers the primary annual PM
+2.5
+ NAAQS from 12.0 µg/m
+3
+ to 9.0 µg/m
+3
+ and retains the other PM standards at their current levels, including the 24-hour PM
+2.5
+ NAAQS. The EPA will determine which areas of the country meet the standards, such as making initial attainment and nonattainment designations, no later than two years after new standards are issued. States must develop and submit attainment plans no later than 18 months after the EPA finalizes nonattainment designations.
+
+Litigation on the final rule is proceeding in the D.C. Circuit. A coalition of 24 states, including Oklahoma, filed challenges to the final rule, and a separate coalition of states and other stakeholders filed to intervene in these challenges on behalf of the EPA. A coalition of 22 state governors separately requested the EPA to pause implementation of the final rule.
+
+The revised NAAQS could impact regional air quality goals and emission limits for emission sources; however, it is unknown at this time what, if any, potential material impacts to OG&E individual operating permit emission limits will result from the EPA actions.
+
+In July 2020, the ODEQ notified OG&E that the Horseshoe Lake generating units that were in-service at the time would be included in Oklahoma's second Regional Haze implementation period evaluation of visibility impairment impacts to the Wichita Mountains. OG&E submitted an analysis of all potential control measures for NO
+x
+ on these units to the ODEQ. The ODEQ submitted a revised SIP to the EPA in August 2022. In February 2026, the EPA proposed to approve the Oklahoma SIP revision, and a 2024 consent decree requires the EPA to take final action no later than December 31, 2026. It is unknown at this time what the outcome, or any potential material impacts, if any, will be from the evaluations by OG&E, the ODEQ and the EPA.
+
+In April 2024, the EPA released the final revised Mercury and Air Toxics Standards regulation with a compliance date in July 2027. A coalition of states, including Oklahoma, challenged this rule in the D.C. Circuit Court and sought a stay, which was denied. This coalition of states then filed an emergency stay application with the U.S. Supreme Court, which was also denied. In April 2025, the EPA extended the compliance deadline to July 8, 2029. In June 2025, the EPA proposed to repeal the revised Mercury and Air Toxics Standards, which would remove the revised emission limit and monitoring requirements. In December 2025, the EPA sent to the OMB for review a rule finalizing the proposed repeal. The potential material impacts, if any, of further actions by the EPA or final action by the D.C. Circuit Court are currently unknown.
+
+OG&E monitors developments in federal greenhouse gas (“GHG”) emissions regulations applicable to fossil fuel-fired electric generating units. Changes in legal standards, including the implementation of rules for the power sector finalized by the EPA in 2024 or the adoption of new regulations, could require significant capital investment and compliance expenditures. If such costs are not recoverable through regulated rates, OG&E’s financial position, results of operations, and cashflows could be materially affected.
+
+In May 2024, the EPA issued final rules establishing (i) emission guidelines under Section 111(d) of the Clean Air Act for existing fossil fuel-fired steam generating units and (ii) revised standards of performance under Section 111(b) for new natural gas-fired combustion turbines. Under these rules, existing coal-fired units that intend to operate beyond 2039 must achieve 90 percent carbon capture by 2032. Units that plan to operate until 2039 must co-fire with natural gas at 40 percent by 2030. Units that retire by 2032 are exempt from these requirements. State compliance plans reflecting affected unit owners’ compliance decisions are required to be submitted to the EPA by May 2026.
+
+OG&E’s existing natural gas-fired boilers satisfy the new standards and therefore require no additional compliance measures other than reporting. For new natural gas-fired combustion turbines commencing construction after May 23, 2023, the 2024 GHG rules establish three subcategories—baseload, intermediate-load, and low-load—based on capacity factor thresholds, all of which are subject to efficiency requirements. Baseload units, defined as units with capacity factors greater than 40 percent, are also required to achieve 90 percent CO₂ capture by January 1, 2032.
+
+Significant litigation related to these 2024 GHG rules is ongoing. In February 2025, the D.C. Circuit placed the litigation in abeyance at the EPA’s request while the agency reconsiders the 2024 GHG rules.
+
+In June 2025, the EPA proposed to repeal the 2024 GHG rules for both existing and new units or, alternatively, to repeal the 2024 GHG rules for existing units and rescind the carbon capture requirements applicable to new combustion turbines. OG&E submitted comments on the 2025 proposed rules individually and through trade associations. Although the EPA has initiated reconsideration and proposed repeal, the 2024 power sector GHG rules have not been stayed, and future compliance timelines remain in effect. If the new emission standards and guidelines are implemented, compliance costs could be significant. OG&E continues to monitor these developments and plan for compliance with 2024 GHG rules standards currently in effect.
+
+Separately, in February 2026, the EPA released a final rule that rescinds the agency’s 2009 Endangerment Finding, which determined that GHG emissions endanger public health and welfare. While rescinding the Endangerment Finding would not directly alter the 2024 GHG regulations, it may result in increased regulatory uncertainty for the power sector as future generation needs are considered.
+
+OG&E cannot predict the outcome of the EPA’s reconsideration process, the proposed repeal, or the pending litigation. However, the 2024 GHG rules remain in effect and could result in material compliance obligations and associated costs. OG&E continues to monitor these regulatory developments and evaluate potential impacts on its operations.
+
+Certain federal laws, including the Bald and Golden Eagle Protection Act, the Migratory Bird Treaty Act and the Endangered Species Act, provide special protection to certain designated species. These laws and any state equivalents provide for significant civil and criminal penalties for unpermitted activities that result in harm to or harassment of certain protected animals and plants, including damage to their habitats. If such species are in an area in which OG&E conducts operations, or if additional species in those areas become subject to protection, OG&E's operations and development projects, particularly transmission, wind or solar projects, could be restricted or delayed, or OG&E could be required to implement expensive mitigation measures.
+
+OG&E's operations generate wastes that are subject to the Federal Resource Conservation and Recovery Act of 1976 as well as comparable state laws which impose detailed requirements for the handling, storage, treatment and disposal of waste.
+
+Ash from OG&E's River Valley, Muskogee and Sooner facilities is recovered and reused off-site in various ways, including soil stabilization, landfill cover, road base construction and cement and concrete production. Reusing fly ash reduces the need to manufacture cement resulting in reductions in greenhouse gas emissions from cement and concrete production.
+
+OG&E has sought and will continue to seek pollution prevention opportunities and to evaluate the effectiveness of its waste reduction, reuse and recycling efforts. In 2025, OG&E obtained refunds of $2.2 million from the recycling of scrap metal, salvaged transformers and used transformer oil. This figure does not include the additional savings gained through the reduction and/or avoidance of disposal costs and the reduction in material purchases due to the reuse of existing materials. Similar savings are anticipated in future years.
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+OG&E has generation capacity construction projects at its existing Horseshoe Lake generating facility and Tinker Air Force Base. At Horseshoe Lake, OG&E is installing 
+four
+ combustion turbines with a total capacity of 
+896
+ MWs, of which 
+448
+ MWs (Units 11 and 12) is expected to be placed into service by late 2026 and the remaining 
+448
+ MWs (Units 13 and 14) is expected to be placed into service during 2029. At Tinker Air Force Base, OG&E is installing 
+two
+ combustion turbines with a combined capacity of 
+96
+ MWs which are expected to be placed into service in early 2026. OG&E also has a commitment related to the Frontier Energy Storage Project, which involves a purchase and sale agreement for a 
+300
+ MW battery storage facility in Oklahoma.
+
+The activities of OG&E are subject to numerous stringent and complex federal, state and local laws and regulations governing environmental protection. These laws and regulations can change, restrict or otherwise impact the Registrants' business activities in many ways, including the handling or disposal of waste material, planning for future construction activities to avoid or mitigate harm to threatened or endangered species and requiring the installation and operation of emissions or pollution control equipment. Failure to comply with these laws and regulations could result in the assessment of administrative, civil and criminal penalties, the imposition of remedial requirements and the issuance of orders enjoining future operations. Management believes that all of the Registrants' operations are in substantial compliance with current federal, state and local environmental standards.
+
+Environmental regulation can increase the cost of planning, design, initial installation and operation of OG&E's facilities. Management continues to evaluate its compliance with existing and proposed environmental legislation and regulations and implement appropriate environmental programs in a competitive market.

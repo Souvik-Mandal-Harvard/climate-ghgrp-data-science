@@ -1,0 +1,28 @@
+[SOURCE: SEC 10-K Item 1A — Risk Factors (climate-relevant excerpts)]
+
+
+
+[SOURCE: SEC 10-K Item 7 — MD&A (climate-relevant excerpts)]
+
+
+
+[SOURCE: Net Zero Tracker]
+
+Entity: Xcel Energy
+Industry: Power generation
+End target: Net zero
+  Target year: 2050.0
+  % reduction: nan
+  Baseline year: 2005.0
+  Status: In corporate strategy
+  Target description: Become an overall net-zero energy company by 2050, including providing 100% carbon-free electricity to customers by 2050 and delivering net-zero natural gas service by 2050.
+Interim target: Emissions reduction target
+  Interim year: 2030.0
+  Interim % reduction: 80.0
+  Interim description: 80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030.
+Published transition plan: Yes
+Reporting mechanism: Annual reporting
+Accountability/governance: Not Specified
+Race to Zero member: No
+Scopes covered: 1=Yes, 2=Yes, 3=Yes
+Source URL: https://web.archive.org/web/20251213032629/https://s202.q4cdn.com/586283047/files/doc_downloads/2025/06/Sustainability-Report-2024.pdf
