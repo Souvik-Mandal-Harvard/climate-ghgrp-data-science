@@ -1,0 +1,2066 @@
+{
+  "FIRSTENERGY CORP": {
+    "claude": {
+      "parent_name": "FIRSTENERGY CORP",
+      "overall_assessment": "FirstEnergy has a Scope 1-only carbon neutrality pledge by 2050 with no interim targets (having removed its 2030 interim target), no SBTi validation, and limited mechanism detail; the disclosure reflects a modest and weakening climate commitment.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "FirstEnergy commits to carbon neutrality by 2050 but explicitly limits the pledge to Scope 1 emissions only, with no Scope 2 or 3 coverage, no 1.5\u00b0C alignment claim, and no SBTi validation. The 10-K confirms the pledge is conditioned on factors outside the company's control, further weakening ambition.",
+          "evidence_quote": "FirstEnergy has pledged to achieve carbon neutrality by 2050 with respect to GHGs within FirstEnergy's direct operational control (known as Scope 1 emissions)."
+        },
+        "specificity": {
+          "score": 2,
+          "reasoning": "The corpus provides a single end-year (2050) with no percentage reduction figure and no base year tied to a measurable target. The Net Zero Tracker notes baseline year as 2022 but no % reduction is specified. The previously stated 2030 interim target (30% from 2019 baseline) was removed in late 2023, leaving only a single vague long-term year.",
+          "evidence_quote": "End target: Carbon neutral(ity) | Target year: 2050.0 | % reduction: nan | Baseline year: 2022.0"
+        },
+        "time_horizon": {
+          "score": 2,
+          "reasoning": "Only a single long-term target (2050) remains. The interim 2030 target was deliberately removed, leaving no near-term or interim milestones. The Net Zero Tracker confirms 'Interim target: No target.'",
+          "evidence_quote": "After careful consideration and evaluation, in late 2023 we made the decision to remove our interim target to achieve a 30% reduction in GHG emissions by 2030 from a 2019 baseline since achieving it is not entirely within our control."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The 10-K identifies the coal-fired plants (Fort Martin end-of-life 2035, Harrison 2040) as the primary Scope 1 source and notes an integrated resource plan filed with WVPSC, but provides no capex figures, no named decarbonization projects beyond plant retirements, and no offset treatment policy. Two mechanisms (plant retirement timelines, IRP filing) are mentioned but unquantified in climate terms.",
+          "evidence_quote": "With respect to FirstEnergy's coal-fired facilities in West Virginia, which serve as the primary source of its Scope 1 emissions, it has identified that the end of the useful life date is 2035 for Fort Martin and 2040 for Harrison."
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' and the 10-K references board-level risk review. However, there is no evidence of third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate targets in the provided corpus. Only one or two governance elements are evidenced.",
+          "evidence_quote": "Accountability/governance: Yes | Reporting mechanism: Annual reporting | Race to Zero member: No"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "FIRSTENERGY CORP",
+      "overall_assessment": "FirstEnergy Corp has a long-term carbon neutrality target for 2050 covering Scope 1 emissions, but lacks interim targets and detailed mechanisms for achieving this goal.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "The company has committed to carbon neutrality by 2050, but only for Scope 1 emissions.",
+          "evidence_quote": "FirstEnergy has pledged to achieve carbon neutrality by 2050 with respect to GHGs within FirstEnergy\u2019s direct operational control (known as Scope 1 emissions)."
+        },
+        "specificity": {
+          "score": 2,
+          "reasoning": "The company has defined a single target year (2050) without interim targets.",
+          "evidence_quote": "Target year: 2050.0... Interim target: No target"
+        },
+        "time_horizon": {
+          "score": 2,
+          "reasoning": "Only a single long-term target for 2050 is mentioned, with no interim targets.",
+          "evidence_quote": "Interim target: No target"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "There is a mention of a transition plan but no detailed mechanisms or pathways are provided.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "There is some governance structure mentioned, but no third-party verification or external validation.",
+          "evidence_quote": "Accountability/governance: Yes"
+        }
+      }
+    }
+  },
+  "WEC Energy Group Inc": {
+    "claude": {
+      "parent_name": "WEC Energy Group Inc",
+      "overall_assessment": "WEC Energy Group has a stated carbon neutrality goal for electric generation by 2050 with an 80% reduction interim target by 2030 (vs. 2005 baseline), but the pledge covers only Scope 1 electric generation, lacks SBTi validation, and the 10-K corpus provided contains virtually no climate-commitment disclosure, limiting confidence in several dimensions.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "low",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "The company commits to 'carbon neutrality from electric generation by 2050' with a Paris alignment claim, but coverage is explicitly Scope 1 only (electric generation), Scope 2 is not specified, and Scope 3 is excluded. No SBTi validation. The Paris alignment claim is asserted but not independently validated, and the target is limited to one segment of operations.",
+          "evidence_quote": "Our long-term goal is to achieve carbon neutrality from electric generation by 2050, in alignment with the Paris climate agreement"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "Both a baseline year (2005) and target years (2025 and 2030) are provided with explicit percentage reductions (60% by 2025, 80% by 2030), and a 2050 carbon neutrality end goal. However, no absolute tonnage figures are given, no Scope 2 or 3 baselines are defined, and the 2050 target lacks a percentage reduction figure.",
+          "evidence_quote": "60% below 2005 levels by the end of 2025 80% below 2005 levels by the end of 2030"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term 2050 target plus two interim milestones (2025 and 2030), which satisfies the 'long-term + 1 interim 5-15yr' threshold and edges toward multiple interim targets. However, there are no explicit annual or quinquennial milestones beyond these two data points, and no tracking cadence is described in the corpus.",
+          "evidence_quote": "60% below 2005 levels by the end of 2025 80% below 2005 levels by the end of 2030 \u2026 carbon neutrality from electric generation by 2050"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker entry notes a published transition plan exists, but the disclosure corpus contains no description of specific mechanisms, capital expenditure commitments, named projects, or offset treatment. The 10-K excerpts provided are dominated by accounting and financial disclosures with no climate transition pathway detail.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "Annual reporting is noted as the reporting mechanism, but no board committee for climate, third-party emissions assurance, SBTi or other external target validation, or executive compensation linkage to climate targets is evidenced in the corpus. Accountability/governance is explicitly listed as 'Not Specified' in the NZT entry.",
+          "evidence_quote": "Reporting mechanism: Annual reporting \u2026 Accountability/governance: Not Specified"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "WEC Energy Group Inc",
+      "overall_assessment": "WEC Energy Group Inc has set a carbon neutrality target for 2050 with interim targets for 2025 and 2030. However, the disclosure lacks detailed mechanisms and governance structures.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "The company has a carbon neutrality target for 2050 and an 80% reduction by 2030, but it lacks clarity on Scope 2 and 3 emissions.",
+          "evidence_quote": "Our long-term goal is to achieve carbon neutrality from electric generation by 2050, in alignment with the Paris climate agreement."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company provides specific interim targets for 2025 and 2030 but lacks a baseline year for the 2050 target.",
+          "evidence_quote": "60% below 2005 levels by the end of 2025, 80% below 2005 levels by the end of 2030."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "The company has a long-term target for 2050 and interim targets for 2025 and 2030.",
+          "evidence_quote": "60% below 2005 levels by the end of 2025, 80% below 2005 levels by the end of 2030."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "There is a published transition plan, but the mechanisms are not detailed in terms of specific projects or investments.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is no specified governance structure or third-party verification mentioned.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "AES CORP": {
+    "claude": {
+      "parent_name": "AES CORP",
+      "overall_assessment": "AES has articulated a multi-horizon climate commitment (2030 carbon-intensity alignment, 2040 net-zero Scope 1+2, 2050 net-zero including Scope 3) that demonstrates meaningful ambition, but the targets lack quantified percentage reductions, a defined baseline year, and SBTi validation, and the 10-K corpus provides virtually no climate-commitment detail, limiting confidence in mechanism clarity and governance depth.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "AES commits to net-zero across Scope 1, 2, and partial Scope 3 by 2050, with a 2030 well-below-2\u00b0C carbon-intensity milestone and a 2040 Scope 1+2 net-zero interim target. However, no specific percentage reduction is stated, no baseline year is defined, and the targets are conditioned on 'new policies that facilitate transition to low emissions energy systems, such as a price on carbon,' which materially hedges the commitment. No SBTi validation is present. This places it above a simple net-zero-with-year pledge but below a fully unconditional, SBTi-validated 1.5\u00b0C-aligned target.",
+          "evidence_quote": "2050: Net zero carbon emissions for entire business portfolio... Includes scope 1 and 2 emissions for 2040 and Scope 3 for 2050. Actions assume new policies that facilitate transition to low emissions energy systems, such as a price on carbon."
+        },
+        "specificity": {
+          "score": 4,
+          "reasoning": "Three target years are identified (2030, 2040, 2050) with qualitative descriptions, but no percentage reduction figures are provided and no baseline year is disclosed. The interim description for 2030 is framed as a carbon-intensity alignment rather than a measurable absolute reduction, and the NZT entry explicitly records '% reduction: nan' and 'Baseline year: nan.' This hedged, non-quantified structure limits specificity to the lower-middle range.",
+          "evidence_quote": "2030: generation portfolio carbon intensity in line with a well below 2C scenario. 2040: net zero carbon emissions from electricity sales... 2050: Net zero carbon emissions for entire business portfolio."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "AES provides a long-term target (2050 net-zero), a medium-term interim target (2040 Scope 1+2 net-zero), and a nearer-term milestone (2030 carbon-intensity alignment with well-below-2\u00b0C). This constitutes a long-term target plus two interim points, satisfying the criteria for a score of 6-8. However, no annual or quinquennial milestones with explicit tracking are disclosed in the corpus, preventing a higher score.",
+          "evidence_quote": "2030: generation portfolio carbon intensity in line with a well below 2C scenario. 2040: net zero carbon emissions from electricity sales... 2050: Net zero carbon emissions for entire business portfolio."
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker notes a published transition plan exists and annual reporting is in place, but the disclosure corpus contains no detail on specific decarbonization mechanisms, named projects, capital expenditure commitments, or offset treatment linked to the climate targets. The 10-K excerpts reference renewable energy growth strategy and battery storage but do not connect these to quantified emissions-reduction pathways. The transition plan is acknowledged but its content is not reproduced in the corpus.",
+          "evidence_quote": "AES' renewable energy generation growth strategy has depended in part on federal, state, and local government policies and incentives that support the development, financing, ownership, and operation of renewable energy generation projects."
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The Net Zero Tracker records 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' indicating at least one governance element and annual progress disclosure. However, the corpus contains no evidence of board committee oversight of climate, third-party emissions assurance, SBTi or other external target validation, or executive compensation linkage to climate metrics. Race to Zero membership is explicitly 'No.' With only one confirmed element (governance/accountability structure) and annual reporting, a score of 4 is appropriate.",
+          "evidence_quote": "Accountability/governance: Yes. Reporting mechanism: Annual reporting. Race to Zero member: No."
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "AES CORP",
+      "overall_assessment": "AES CORP has a net-zero target for 2050 covering all scopes, but lacks specific interim targets and detailed mechanisms. Governance and verification structures are partially in place.",
+      "supplemental_indicators": {
+        "sbti_status": "unknown"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "AES has a net-zero target for 2050 covering Scope 1, 2, and 3 emissions, aligning with a well-below-2\u00b0C scenario.",
+          "evidence_quote": "\"2050: Net zero carbon emissions for entire business portfolio... Includes scope 1 and 2 emissions for 2040 and Scope 3 for 2050.\""
+        },
+        "specificity": {
+          "score": 4,
+          "reasoning": "The target year is specified as 2050, but there is no baseline year or specific percentage reduction mentioned.",
+          "evidence_quote": "\"Target year: 2050.0... Baseline year: nan\""
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+          "evidence_quote": "\"2030: generation portfolio carbon intensity in line with a well below 2C scenario.\""
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The disclosure mentions assumptions about new policies but lacks detailed mechanisms or specific projects.",
+          "evidence_quote": "\"Actions assume new policies that facilitate transition to low emissions energy systems, such as a price on carbon.\""
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "There is some governance and accountability mentioned, but not all elements are covered.",
+          "evidence_quote": "\"Accountability/governance: Yes\""
+        }
+      }
+    }
+  },
+  "AMEREN CORP": {
+    "claude": {
+      "parent_name": "AMEREN CORP",
+      "overall_assessment": "Ameren has a moderately well-articulated net-zero-by-2045 pledge with two interim milestones (60% by 2030, 85% by 2040) anchored to a 2005 baseline and framed as Paris/1.5\u00b0C-aligned, covering Scope 1 and 2 with only partial Scope 3; however, the 10-K corpus provides virtually no climate-commitment detail, mechanism specifics are thin, and SBTi validation is not confirmed in the available disclosure.",
+      "supplemental_indicators": {
+        "sbti_status": "unknown"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 7,
+          "reasoning": "Net-zero by 2045 with explicit 1.5\u00b0C/Paris alignment, covering Scope 1 and Scope 2 plus partial Scope 3. Falls short of a 10 because Scope 3 is only partial and SBTi validation is not confirmed in the corpus. Scores above 6 because the 1.5\u00b0C framing and dual-scope coverage are explicit.",
+          "evidence_quote": "Ameren's companywide goal of net-zero carbon emissions by 2045 are science based and consistent with the objectives of the Paris Agreement and limiting global temperature rise to 1.5 degrees Celsius. This goal encompasses both Scope 1 and Scope 2 emissions, including other greenhouse gas emissions of methane, nitrous oxide and sulfur hexafluoride."
+        },
+        "specificity": {
+          "score": 7,
+          "reasoning": "Three precise quantified targets are stated: 60% reduction by 2030, 85% reduction by 2040, and net-zero by 2045, all against a 2005 baseline. This constitutes multiple precise targets with a defined base year. Stops short of 10 because no annual or quinquennial sub-milestones with tracking metrics are described in the corpus.",
+          "evidence_quote": "Ameren is targeting net-zero carbon emissions by 2045, as well as a 60% reduction by 2030 and an 85% reduction by 2040 based on 2005 levels."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "Long-term target (2045 net-zero) plus two interim targets at distinct horizons (2030 and 2040), providing a multi-step structure. Does not reach 10 because no explicit annual or quinquennial milestone tracking schedule is described in the available corpus.",
+          "evidence_quote": "Interim targets include reducing carbon emissions 60% by 2030 and 85% carbon emissions reduction by 2040, in each case based on 2005 levels."
+        },
+        "mechanism_clarity": {
+          "score": 3,
+          "reasoning": "The NZT entry notes a published transition plan and annual reporting, but the corpus provides no description of specific mechanisms, named projects, capital expenditure figures, or offset treatment. The 10-K excerpts are entirely silent on decarbonization pathways. A score above 2 is warranted only because a transition plan is referenced as existing.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 5,
+          "reasoning": "The NZT entry confirms accountability/governance structures exist and annual reporting is in place (2 elements). A sustainability report is referenced as the source, suggesting third-party or structured reporting. However, the corpus does not confirm board committee specifics, third-party emissions assurance, SBTi validation, or exec compensation linkage. Two confirmed elements plus annual reporting yields a score between 4 and 6.",
+          "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "AMEREN CORP",
+      "overall_assessment": "Ameren Corp has a clear net-zero target for 2045 covering Scope 1 and 2 emissions, with interim targets for 2030 and 2040. However, the disclosure lacks detailed mechanisms and verification elements.",
+      "supplemental_indicators": {
+        "sbti_status": "unknown"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "Ameren has set a net-zero target for 2045 covering Scope 1 and 2 emissions, aligned with 1.5\u00b0C.",
+          "evidence_quote": "Ameren\u2019s companywide goal of net-zero carbon emissions by 2045 are science based and consistent with the objectives of the Paris Agreement and limiting global temperature rise to 1.5 degrees Celsius."
+        },
+        "specificity": {
+          "score": 10,
+          "reasoning": "The company has defined a base year (2005) and multiple interim targets with explicit years and percentages.",
+          "evidence_quote": "Ameren is targeting net-zero carbon emissions by 2045, as well as a 60% reduction by 2030 and an 85% reduction by 2040 based on 2005 levels."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "Ameren has a long-term target for 2045 and multiple interim targets for 2030 and 2040.",
+          "evidence_quote": "Interim targets include reducing carbon emissions 60% by 2030 and 85% carbon emissions reduction by 2040, in each case based on 2005 levels."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or quantified offset limits.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "The company has accountability/governance and annual reporting but lacks third-party assurance and SBTi validation.",
+          "evidence_quote": "Accountability/governance: Yes; Reporting mechanism: Annual reporting"
+        }
+      }
+    }
+  },
+  "CMS ENERGY CORP": {
+    "claude": {
+      "parent_name": "CMS ENERGY CORP",
+      "overall_assessment": "CMS Energy has a net-zero-by-2050 pledge covering Scopes 1-3 and a 20% Scope 3 interim target by 2030, but the corpus lacks a validated SBTi commitment, explicit percentage reduction targets for Scope 1/2, a detailed base year, and robust governance/verification disclosures, limiting scores across most pillars.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "The company claims net-zero GHG emissions by 2050 covering Scopes 1, 2, and 3, which is a meaningful commitment. However, there is no SBTi validation, no explicit 1.5\u00b0C alignment language, and the interim target is framed only around Scope 3 customer emissions (20% reduction), not a specific Scope 1/2 percentage reduction. This places it above a simple net-zero-with-year pledge but below a fully 1.5\u00b0C-aligned, SBTi-validated commitment.",
+          "evidence_quote": "Net zero greenhouse gas emissions target for our entire business by 2050"
+        },
+        "specificity": {
+          "score": 4,
+          "reasoning": "There is a long-term target year (2050) and an interim year (2030) with a specific percentage (20%), but the 20% applies only to Scope 3 customer emissions, not to overall Scope 1/2 reductions. No baseline year is provided for the net-zero target, and the interim target is hedged to a single scope. The disclosure is partially quantified but incomplete.",
+          "evidence_quote": "we set an interim goal to help our customers reduce Scope 3 emissions by 20 percent from 2020 levels by 2030"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (net zero by 2050) and one interim target (20% Scope 3 reduction by 2030). The 10-K also references clean energy milestones (50% renewable by 2030, 60% by 2035, 100% clean by 2040), which provide additional time-structured markers, but these are regulatory compliance targets rather than explicit GHG reduction milestones. No annual or quinquennial GHG tracking milestones are disclosed.",
+          "evidence_quote": "increased the renewable energy standard from 15 percent to 50 percent by 2030 and 60 percent by 2035... established a clean energy standard of 80 percent by 2035 and 100 percent by 2040"
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The corpus identifies several mechanisms: coal retirement (specific plants named with MW capacity and dates), renewable expansion (up to 4,000 MW wind, up to 9,000 MW solar), energy storage (850 MW contracted), energy waste reduction, renewable natural gas, carbon offsets, and emerging decarbonization technologies. However, capital expenditure amounts are not quantified for the climate targets, and offset limits/treatment are not explicitly defined.",
+          "evidence_quote": "Our Scope 3 emissions reduction plan includes energy waste reduction, renewable natural gas, carbon offsets and emerging decarbonization technologies."
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and CMS Energy is not a Race to Zero member. The corpus references annual reporting and a published transition plan, but there is no evidence of board committee oversight of climate, third-party emissions assurance, SBTi validation, or executive compensation linked to climate targets within the provided text.",
+          "evidence_quote": "Accountability/governance: Not Specified... Race to Zero member: No... Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "CMS ENERGY CORP",
+      "overall_assessment": "CMS Energy has a net-zero target for 2050 covering all scopes, with interim targets and some mechanisms outlined, but lacks detailed governance and verification structures.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "The company has a net-zero target for 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+          "evidence_quote": "Net zero greenhouse gas emissions target for our entire business by 2050"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company provides a long-term target year and an interim target with a specific percentage reduction.",
+          "evidence_quote": "Interim goal to help our customers reduce Scope 3 emissions by 20 percent from 2020 levels by 2030."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+          "evidence_quote": "Interim year: 2030.0"
+        },
+        "mechanism_clarity": {
+          "score": 6,
+          "reasoning": "Multiple mechanisms are mentioned, such as energy waste reduction and renewable natural gas, but without detailed capex or timelines.",
+          "evidence_quote": "Our Scope 3 emissions reduction plan includes energy waste reduction, renewable natural gas, carbon offsets and emerging decarbonization technologies."
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is no specified governance structure or third-party verification mentioned.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "CONSTELLATION ENERGY CORP": {
+    "claude": {
+      "parent_name": "CONSTELLATION ENERGY CORP",
+      "overall_assessment": "Constellation Energy has a moderately ambitious climate pledge\u2014100% carbon-free generation and 100% operational emissions reduction by 2040 with a 2030 interim target\u2014but the disclosure corpus is dominated by financial/debt disclosures with minimal climate mechanism detail, no published transition plan, and no SBTi validation, limiting scores on mechanism clarity and verification.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "The company commits to 100% reduction in operational emissions by 2040 vs. a 2020 baseline, covering Scopes 1, 2, and 3 per NZT, and targets 100% carbon-free generation. However, there is no SBTi validation, no explicit 1.5\u00b0C alignment claim, and the Scope 3 coverage is asserted in the NZT entry without elaboration. The methane interim target adds breadth but the overall framing stops short of a formally validated net-zero-all-scopes commitment.",
+          "evidence_quote": "reduce our operational emissions by 100 percent by 2040, compared to a 2020 baseline year...and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "There is a clear base year (2020), a long-term target year (2040) with a 100% reduction figure, and an interim target year (2030) with a 65% reduction figure plus a separate methane target (30% by 2030). This constitutes multiple targets with explicit years and percentages, but there is only one interim milestone and no additional granular milestones or sub-targets beyond these three data points.",
+          "evidence_quote": "increase the percentage of our owned electricity generation from carbon-free sources...with an interim goal of 95 percent by 2030; reduce our operational emissions...with an interim goal of 65 percent reduction by 2030; and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "The structure includes a long-term target (2040) and one interim target year (2030) with two distinct metrics (operational emissions 65% and carbon-free generation 95%). This satisfies 'long-term + 1 interim 5-15yr' but does not reach the threshold of multiple interim milestones or explicit annual/quinquennial tracking milestones.",
+          "evidence_quote": "increase the percentage of our owned electricity generation from carbon-free sources to 100 percent by 2040...with an interim goal of 95 percent by 2030; reduce our operational emissions by 100 percent by 2040...with an interim goal of 65 percent reduction by 2030."
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The 10-K corpus is almost entirely financial/debt disclosures with no climate mechanism detail. The NZT entry notes no published transition plan. The only mechanism implied is increasing carbon-free generation percentage, but no capex figures, named projects, offset treatment, or specific decarbonization pathways are described in the provided corpus.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The NZT entry notes annual reporting as the reporting mechanism but specifies 'Not Specified' for accountability/governance. There is no mention of board committee for climate, third-party emissions assurance, SBTi validation, or executive compensation linkage in the provided corpus. Annual reporting alone satisfies one element (reporting mechanism), placing this at the '1 element' level.",
+          "evidence_quote": "Reporting mechanism: Annual reporting\nAccountability/governance: Not Specified"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "CONSTELLATION ENERGY CORP",
+      "overall_assessment": "Constellation Energy Corp has set a clear emissions reduction target with specific interim goals, but lacks detailed mechanisms and governance structures.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "The company has committed to a 100% reduction in emissions by 2040, covering Scopes 1, 2, and 3, which aligns with a net-zero target.",
+          "evidence_quote": "\"reduce our operational emissions by 100 percent by 2040, compared to a 2020 baseline year...and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year.\""
+        },
+        "specificity": {
+          "score": 10,
+          "reasoning": "The company provides a baseline year (2020) and multiple interim targets with explicit years and percentages.",
+          "evidence_quote": "\"reduce our operational emissions by 100 percent by 2040, compared to a 2020 baseline year...and reduce our methane emissions by 30 percent by 2030, also compared to a 2020 baseline year.\""
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "The company has a long-term target for 2040 and an interim target for 2030, but lacks explicit annual or quinquennial milestones.",
+          "evidence_quote": "\"with an interim goal of 95 percent by 2030; reduce our operational emissions...with an interim goal of 65 percent reduction by 2030.\""
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "There is no published transition plan or detailed mechanisms on how the targets will be achieved.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is no mention of governance structures or third-party verification in the provided disclosures.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "Vistra Corp": {
+    "claude": {
+      "parent_name": "Vistra Corp",
+      "overall_assessment": "Vistra has SBTi-validated near-term targets covering Scopes 1, 2, and partial Scope 3 at 1.5\u00b0C alignment, plus a long-term net-zero 2050 commitment, but the 10-K itself is largely silent on climate pledges and the transition plan is not published, limiting mechanism clarity and governance transparency within the SEC filing.",
+      "supplemental_indicators": {
+        "sbti_status": "targets_set"
+      },
+      "data_quality_flags": [],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "NZT and SBTi sources confirm 1.5\u00b0C-aligned Scope 1+2 targets (58% by 2028 from 2018 base) and partial Scope 3 coverage (sold electricity 58%, use of sold products 42%), plus a net-zero 2050 long-term goal. SBTi status shows 'Target set' with 1.5\u00b0C classification for S1+2 and S1+3. Falls short of 10 because Scope 3 coverage is only partial (not all categories) and the net-zero target is not SBTi-validated at the long-term level.",
+          "evidence_quote": "Vistra Corp. commits to reduce absolute scope 1 and 2 GHG emissions 58% by 2028 from a 2018 base year. Vistra Corp also commits to reduce absolute scope 1 and 3 GHG emissions from all sold electricity 58% within the same timeframe. Vistra Corp. further commits to reduce absolute scope 3 GHG emissions from use of sold products 42% within the same timeframe."
+        },
+        "specificity": {
+          "score": 7,
+          "reasoning": "Multiple precise targets exist: 58% S1+2 by 2028 (2018 base), 58% S1+3 sold electricity by 2028, 42% S3 use-of-sold-products by 2028, and a separate 60% CO2e reduction by 2030 (2010 base) plus net-zero 2050. Base years and target years are explicit. However, no interim milestones between 2018 and 2028 are disclosed, and the 2030 target uses a different baseline than the SBTi targets, creating some inconsistency. Score of 8 is not reached because the multiple targets use different baselines and there are no sub-annual or quinquennial milestones.",
+          "evidence_quote": "Vistra is committed to a 60% reduction in CO2e emissions by 2030, compared to a 2010 baseline, and achieving net zero carbon emissions by 2050."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (net-zero 2050) and one near-term/interim target cluster (2028 SBTi targets) and a 2030 milestone. This gives long-term + one interim (2028/2030), but no additional interim waypoints between 2028 and 2050, and no annual or quinquennial milestones with explicit tracking schedules are disclosed in the corpus.",
+          "evidence_quote": "Interim target: Emissions reduction target \u2014 Interim year: 2028.0 \u2014 Interim % reduction: 58.0 ... End target: Net zero \u2014 Target year: 2050.0"
+        },
+        "mechanism_clarity": {
+          "score": 3,
+          "reasoning": "The 10-K references coal plant retirements/repowering to natural gas, nuclear uprates adding carbon-free capacity, solar development, and battery storage, but these are framed as business strategy rather than as a quantified decarbonization pathway. No published transition plan exists per NZT. Dollar amounts for clean energy capex are mentioned ($300M solar/storage in 2026 budget) but not linked to emissions reduction targets. Offset treatment is not discussed.",
+          "evidence_quote": "We announced plans to repower the Coleto Creek and Miami Fort coal generation facilities as natural gas-fueled facilities upon their retirement no later than 2027 and the middle of 2028, respectively."
+        },
+        "verification_governance": {
+          "score": 5,
+          "reasoning": "Elements present: (c) SBTi external target validation confirmed ('Target set', 1.5\u00b0C classification); (a) a 'Sustainability and Risk Committee of the Board' exists with oversight responsibilities. Annual reporting mechanism is confirmed per NZT. However, the 10-K corpus does not evidence third-party GHG emissions assurance (element b) or executive compensation linked to climate targets (element d). No scenario analysis or offset/credit policy is disclosed in the corpus. Two elements confirmed plus annual reporting, but not three elements with annual progress reporting.",
+          "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting ... Target row: action=Commitment, status=Target set ... classification=1.5\u00b0C"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "Vistra Corp",
+      "overall_assessment": "Vistra Corp has set ambitious climate targets with specific interim goals, but lacks detailed mechanisms and governance structures for verification.",
+      "supplemental_indicators": {
+        "sbti_status": "targets_set"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "Vistra Corp commits to a 60% reduction in CO2e emissions by 2030 and achieving net zero by 2050, covering Scope 1, 2, and partial Scope 3.",
+          "evidence_quote": "Vistra is committed to a 60% reduction in CO2e emissions by 2030, compared to a 2010 baseline, and achieving net zero carbon emissions by 2050."
+        },
+        "specificity": {
+          "score": 8,
+          "reasoning": "Multiple precise targets are set for 2028 and 2030 with specific percentage reductions.",
+          "evidence_quote": "Vistra Corp. commits to reduce absolute scope 1 and 2 GHG emissions 58% by 2028 from a 2018 base year."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "Long-term target for 2050 with multiple interim targets for 2028 and 2030.",
+          "evidence_quote": "Vistra Corp. commits to reduce absolute scope 1 and 2 GHG emissions 58% by 2028 from a 2018 base year."
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "No detailed transition plan or mechanisms are provided.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "There is some governance structure, but no mention of third-party verification or executive compensation linked to climate targets.",
+          "evidence_quote": "Accountability/governance: Yes"
+        }
+      }
+    }
+  },
+  "ENTERGY CORP": {
+    "claude": {
+      "parent_name": "ENTERGY CORP",
+      "overall_assessment": "Entergy has a net-zero 2050 pledge with a 2030 interim carbon intensity target and some governance structures, but the commitment lacks SBTi validation, explicit Scope 2/3 quantification, detailed mechanism clarity, and robust verification elements, resulting in a mid-range overall profile.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_10k_text"
+      ],
+      "confidence": "low",
+      "criteria": {
+        "ambition": {
+          "score": 5,
+          "reasoning": "Entergy commits to net-zero by 2050 and covers Scopes 1, 2, and 3 per NZT, but the 2030 target is framed as a CO2 emission-rate reduction (intensity, not absolute) and is described as a 'goal' based on 'current planning,' which is hedged. No 1.5\u00b0C alignment is stated, no SBTi validation is present, and the Scope 2/3 coverage is asserted by NZT without substantive detail in the corpus. This places it above a vague aspiration but below a fully specified 1.5\u00b0C-aligned commitment.",
+          "evidence_quote": "Our carbon dioxide reduction goal is 50% reduction in utility emission rate by 2030 compared with 2000 levels and net-zero emissions by 2050"
+        },
+        "specificity": {
+          "score": 5,
+          "reasoning": "Two target years are provided (2030 and 2050) with a quantified interim metric (50% rate reduction vs. 2000 baseline) and a long-term net-zero end goal. However, the interim target is intensity-based rather than absolute, the baseline year for the net-zero target is not explicitly stated in the corpus, and there are no additional interim milestones or measurable sub-targets beyond these two data points. This warrants a score between 'both years + value, single target' (6) and 'both years but hedged' (4); the hedging language ('based on current planning,' 'expected to be') pulls it down.",
+          "evidence_quote": "Based on current planning, by 2030 our absolute emissions from oxides of nitrogen and sulfur dioxide are expected to be 90% below 2000 levels, and mercury emissions are expected to be near zero. Our carbon dioxide reduction goal is 50% reduction in utility emission rate by 2030 compared with 2000 levels and net-zero emissions by 2050"
+        },
+        "time_horizon": {
+          "score": 5,
+          "reasoning": "There is a long-term target (net-zero 2050) and one interim target (2030), which satisfies the 'long-term + 1 interim 5-15yr' threshold. However, there are no additional interim milestones between 2030 and 2050, no annual or quinquennial tracking milestones, and no near-term (<5 year) targets disclosed in the corpus. This places it at the lower end of the 6-band but the hedged language prevents a full 6.",
+          "evidence_quote": "net-zero emissions by 2050 ... carbon dioxide reduction goal is 50% reduction in utility emission rate by 2030 compared with 2000 levels"
+        },
+        "mechanism_clarity": {
+          "score": 3,
+          "reasoning": "The 10-K mentions carbon capture and storage, generation investments, and infrastructure projects in passing within risk-factor language, but no quantified capex, named projects, or explicit decarbonization mechanisms are disclosed in the corpus. The NZT entry notes a published transition plan exists, but no content from that plan is included. The corpus provides only vague references to how emissions reductions will be achieved.",
+          "evidence_quote": "efforts to execute on and/or obtain regulatory approvals for generation, transmission, carbon capture and storage, or other facilities"
+        },
+        "verification_governance": {
+          "score": 5,
+          "reasoning": "NZT records accountability/governance as 'Yes' and annual reporting as the reporting mechanism, suggesting at least board-level awareness and annual progress disclosure (2 elements). The 10-K references climate and environmental matters in risk factors, implying board/executive awareness. However, the corpus contains no evidence of third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate metrics. With two elements (governance structure + annual reporting) and no scenario analysis or offset policy disclosed, a score of 5 is appropriate.",
+          "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "ENTERGY CORP",
+      "overall_assessment": "Entergy Corp has a net-zero target by 2050 covering all scopes, with interim targets for 2030. However, the disclosure lacks detailed mechanisms and verification elements.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "Entergy has a net-zero target by 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+          "evidence_quote": "Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company has a long-term target year and an interim target year, but lacks multiple interim targets and detailed milestones.",
+          "evidence_quote": "Target year: 2050.0... Interim year: 2030.0"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+          "evidence_quote": "Interim description: GOAL: Based on current planning, by 2030 our absolute emissions from oxides of nitrogen and sulfur dioxide are expected to be 90% below 2000 levels..."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms, capex, or specific projects.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "There is some governance and accountability mentioned, but no evidence of third-party verification or SBTi validation.",
+          "evidence_quote": "Accountability/governance: Yes"
+        }
+      }
+    }
+  },
+  "MARATHON PETROLEUM CORP": {
+    "claude": {
+      "parent_name": "MARATHON PETROLEUM CORP",
+      "overall_assessment": "Marathon Petroleum has a modest emissions intensity reduction target covering Scopes 1, 2, and partial Scope 3, with a 2030 interim milestone and a 2035 end target, but the commitment falls well short of net-zero or 1.5\u00b0C-aligned absolute reduction pledges and lacks SBTi validation or robust governance disclosure in the provided corpus.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "The company has a specific percentage intensity reduction target (30% Scope 1+2 by 2030; 15% Scope 3 category 11 by 2030) with a defined baseline year (2014/2019) and a 2035 end target, but the commitment is framed as an intensity target rather than an absolute reduction, is not aligned to 1.5\u00b0C or well-below-2\u00b0C, is not SBTi-validated, and Scope 3 coverage is only partial (category 11 only). This places it above a vague aspiration but below a specific absolute % with 1.5\u00b0C alignment.",
+          "evidence_quote": "30% reduction of scope 1 and 2 GHG emissions intensity by 2030 from 2014 levels; 15% reduction of scope 3 - category 11 GHG emissions by 2030 from 2019 levels"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The disclosure provides a baseline year (2014 for Scope 1+2; 2019 for Scope 3), a target year (2030 interim, 2035 end), and specific percentage reductions (30% and 15%). However, there is only one primary target type (intensity) and the end-target description is less precise than the interim, with no additional measurable milestones beyond the two data points.",
+          "evidence_quote": "End target: Emissions intensity target; Target year: 2035.0; % reduction: 38.0; Baseline year: 2014.0; Interim target: Interim year: 2030.0; Interim % reduction: 30.0"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (2035) and one interim target (2030), which satisfies the 'long-term + 1 interim 5-15yr' criterion. However, there are no additional interim milestones, no near-term (<5yr) targets, and no annual or quinquennial tracking milestones disclosed in the corpus.",
+          "evidence_quote": "Interim target: Interim year: 2030.0; Interim % reduction: 30.0 ... End target: Target year: 2035.0; % reduction: 38.0"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker entry notes a published transition plan and annual reporting, but the corpus provides no detail on specific mechanisms, capital expenditures, named projects, or offset treatment. The 10-K excerpts are focused on financial accounting and cash flows with no climate mechanism disclosure. Only a vague reference to a transition plan exists.",
+          "evidence_quote": "Published transition plan: Yes; Reporting mechanism: Annual reporting"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and the company is not a Race to Zero member. There is no mention of board committee oversight, third-party emissions assurance, SBTi validation, or executive compensation linkage to climate targets in the provided corpus. Annual reporting is noted but no verification structure is described.",
+          "evidence_quote": "Accountability/governance: Not Specified; Race to Zero member: No; Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "MARATHON PETROLEUM CORP",
+      "overall_assessment": "Marathon Petroleum has set specific emissions intensity targets for Scope 1, 2, and partially for Scope 3, but lacks comprehensive governance and verification structures.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "The company has set specific percentage reduction targets for Scope 1 and 2 emissions and a partial target for Scope 3.",
+          "evidence_quote": "30% reduction of scope 1 and 2 GHG emissions intensity by 2030 from 2014 levels; 15% reduction of scope 3 - category 11 GHG emissions by 2030 from 2019 levels."
+        },
+        "specificity": {
+          "score": 8,
+          "reasoning": "The company has defined a baseline year and multiple precise targets for 2030 and 2035.",
+          "evidence_quote": "Baseline year: 2014.0; Target year: 2035.0; Interim year: 2030.0."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "The company has set a long-term target for 2035 and an interim target for 2030.",
+          "evidence_quote": "End target: Emissions intensity target; Interim target: Emissions intensity target."
+        },
+        "mechanism_clarity": {
+          "score": 6,
+          "reasoning": "A published transition plan is mentioned, but details on specific mechanisms and capex are not provided.",
+          "evidence_quote": "Published transition plan: Yes."
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "Annual reporting is mentioned, but there is no specification of governance structures or third-party verification.",
+          "evidence_quote": "Reporting mechanism: Annual reporting; Accountability/governance: Not Specified."
+        }
+      }
+    }
+  },
+  "ALLIANT ENERGY CORP": {
+    "claude": {
+      "parent_name": "ALLIANT ENERGY CORP",
+      "overall_assessment": "Alliant Energy has a stated net-zero aspiration for 2050 with a quantified 50% CO2 interim target by 2030, but the commitment is described as an 'aspiration' covering only utility operations (Scope 1+2, Scope 3 unspecified), lacks SBTi validation, and the disclosed mechanisms and governance details are sparse in the available corpus.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 5,
+          "reasoning": "The company aspires to net-zero by 2050 and has a 50% CO2 reduction target by 2030 from a 2005 baseline, covering Scope 1 and 2 from utility operations. However, the net-zero target is explicitly framed as an 'aspiration' rather than a firm commitment, Scope 3 is not specified, there is no SBTi validation, and the 1.5\u00b0C alignment is not explicitly claimed. This sits between a vague aspiration (2) and a specific % with 1.5\u00b0C alignment (8), landing around 5-6; conservatively scored 5 given the aspirational language and Scope 3 gap.",
+          "evidence_quote": "Aspire to achieve net-zero greenhouse gas emissions from our utility operations. / reduction of carbon dioxide (CO2) emissions from the electricity we generate by 50% from 2005 levels (which was approximately 24 million tons) by 2030"
+        },
+        "specificity": {
+          "score": 5,
+          "reasoning": "There is a base year (2005), an interim target year (2030) with a specific percentage (50% CO2 reduction), and a long-term target year (2050). However, the long-term target carries no explicit percentage reduction figure (% reduction listed as nan), and the interim target covers only CO2 from electricity generation rather than all GHGs across all operations. A single interim target with a measurable value but a hedged/aspirational long-term target warrants a mid-range score.",
+          "evidence_quote": "Interim % reduction: 50.0 / Interim year: 2030.0 / Baseline year: nan / % reduction: nan"
+        },
+        "time_horizon": {
+          "score": 5,
+          "reasoning": "There is a long-term target (2050 net-zero) and one interim target (2030, 50% CO2 reduction). Progress tracking is noted (39% reduction achieved by 2024 reported). However, only one interim milestone is present; there are no additional interim waypoints between 2030 and 2050, and no explicit annual or quinquennial milestones are described in the corpus.",
+          "evidence_quote": "In 2024, we achieved a 39% reduction in CO2e emissions compared to 2005 levels / Interim year: 2030.0 / End target year: 2050.0"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The 10-K corpus references renewable energy construction, solar generation projects, natural gas-fired generation, and energy storage in the context of risk factors and regulatory matters, but these are not presented as a structured decarbonization pathway with capex figures, named projects tied to emissions targets, or offset treatment. The Net Zero Tracker notes a published transition plan exists, but no substantive mechanism detail is present in the provided corpus.",
+          "evidence_quote": "our ability to site and construct new energy facilities, such as renewable energy, energy storage projects, or natural gas-fired electric generating units (EGUs)"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The Net Zero Tracker indicates accountability/governance is present and annual reporting is the reporting mechanism, and a published transition plan exists. The 10-K references the Audit Committee in the context of accounting estimates. However, the corpus does not confirm third-party emissions assurance, SBTi or other external target validation, or explicit executive compensation linkage to climate targets. Only one or two governance elements are evidenced in the available text.",
+          "evidence_quote": "Accountability/governance: Yes / Reporting mechanism: Annual reporting / Published transition plan: Yes"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "ALLIANT ENERGY CORP",
+      "overall_assessment": "Alliant Energy has set a net-zero target for 2050 with interim goals, but lacks comprehensive details on mechanisms and verification structures.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "The company has a net-zero target for 2050 covering Scope 1 and 2 emissions, with a 50% reduction by 2030.",
+          "evidence_quote": "Aspire to achieve net-zero greenhouse gas emissions from our utility operations. Interim goals include the reduction of carbon dioxide (CO2) emissions by 50% from 2005 levels by 2030."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company provides a long-term target year and an interim target with a specific percentage reduction.",
+          "evidence_quote": "Target year: 2050. Interim year: 2030. Interim % reduction: 50% from 2005 levels."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no additional interim targets or milestones.",
+          "evidence_quote": "End target: Net zero by 2050. Interim target: 50% reduction by 2030."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or quantified financial commitments.",
+          "evidence_quote": "Published transition plan: Yes."
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "There is some accountability and governance mentioned, but no evidence of third-party verification or SBTi validation.",
+          "evidence_quote": "Accountability/governance: Yes."
+        }
+      }
+    }
+  },
+  "DUKE ENERGY CORP": {
+    "claude": {
+      "parent_name": "DUKE ENERGY CORP",
+      "overall_assessment": "Duke Energy has a publicly stated net-zero 2050 electricity-generation goal with a 50% CO2 reduction interim target for 2030, but the pledge is narrowly scoped to electricity generation (not all Scope 1+2+3), lacks SBTi validation, and the 10-K and NZT disclosures provide limited mechanism detail, interim milestones, or robust verification infrastructure.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "Duke Energy commits to net-zero CO2 by 2050 and a 50% reduction by 2030, but the target is explicitly limited to 'electricity generation' \u2014 not all Scope 1+2+3 emissions across the enterprise (natural gas distribution, Scope 3 are not clearly covered in the pledge). NZT records Scopes 1, 2, and 3 as covered, but the primary target language in both the 10-K and NZT description restricts the net-zero goal to electricity generation. No SBTi validation is present. This lands between a specific % target and a full 1.5\u00b0C-aligned all-scopes commitment.",
+          "evidence_quote": "We've set ambitious climate goals for our company, striving toward at least a 50% reduction in CO2 emissions from electricity generation in 2030 on the way to net-zero CO2 by 2050."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "Two target years are defined (2030 and 2050) with a specific percentage reduction for the interim target (at least 50% by 2030). However, no baseline year is recorded in the NZT entry (baseline year = nan), and there is only a single interim target rather than multiple precise milestones. The 10-K does not add further quantitative specificity.",
+          "evidence_quote": "Interim % reduction: 50.0 | Interim year: 2030.0 | Baseline year: nan"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (net-zero 2050) and one interim target (50% reduction by 2030), which satisfies the 'long-term + 1 interim 5-15yr' criterion. However, there are no additional interim milestones (e.g., 2035, 2040) and no explicit annual or quinquennial tracking milestones disclosed in the corpus.",
+          "evidence_quote": "striving toward at least a 50% reduction in CO2 emissions from electricity generation in 2030 on the way to net-zero CO2 by 2050."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The 10-K mentions several mechanisms \u2014 nuclear fleet relicensing, renewables build-out, carbon capture and sequestration, advanced nuclear, hydrogen, and long-duration storage \u2014 but none are quantified with specific capex amounts, project names, or timelines tied to the emissions targets. Offset treatment is not addressed. The NZT notes a published transition plan exists, but the corpus does not contain its contents.",
+          "evidence_quote": "new technologies that are not yet commercially available or are unproven at utility scale will likely be needed, including carbon capture and sequestration and supporting infrastructure as well as new resources capable of following electric load over long durations such as advanced nuclear, hydrogen and long-duration storage."
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "NZT records 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' suggesting at least a governance structure and annual progress reporting exist. The 10-K references ESG/climate expectations from investors and regulators, implying board-level awareness. However, the corpus contains no explicit evidence of: (a) a named board committee for climate, (b) third-party emissions assurance, (c) SBTi or other external target validation, or (d) executive compensation linked to climate metrics. Two elements (governance structure + annual reporting) are evidenced, placing this at a 6.",
+          "evidence_quote": "Accountability/governance: Yes | Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "DUKE ENERGY CORP",
+      "overall_assessment": "Duke Energy has set a net-zero target for 2050 covering all scopes, with a 50% reduction by 2030. However, the disclosure lacks detailed interim targets and mechanisms.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "Duke Energy has committed to a net-zero target by 2050 covering all scopes, which aligns with 1.5\u00b0C targets.",
+          "evidence_quote": "'net-zero 2050 carbon emissions goal for electricity generation'...Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company provides a long-term target year and an interim target year with a specific reduction percentage, but lacks multiple interim targets.",
+          "evidence_quote": "Interim target: Emissions reduction target...Interim year: 2030.0...Interim % reduction: 50.0"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "Duke Energy has a long-term target for 2050 and an interim target for 2030, but no additional interim targets or milestones.",
+          "evidence_quote": "Target year: 2050.0...Interim year: 2030.0"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or specific projects and investments.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The company has some governance structures in place but lacks third-party validation or detailed verification processes.",
+          "evidence_quote": "Accountability/governance: Yes"
+        }
+      }
+    }
+  },
+  "DTE ENERGY CO": {
+    "claude": {
+      "parent_name": "DTE ENERGY CO",
+      "overall_assessment": "DTE Energy has a moderately detailed climate commitment anchored by a 2050 net-zero target with multiple interim milestones for Scope 1 electric emissions, but the 10-K corpus is largely silent on climate pledges and the NZT entry reveals gaps in Scope 2/3 quantification, SBTi validation, and mechanism specificity.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "DTE commits to net-zero by 2050 covering electricity delivered to DTE Electric customers and DTE Gas operations, with Scopes 1, 2, and 3 noted as covered per NZT. However, the NZT entry shows no explicit % reduction figure for the overall net-zero target, Scope 3 coverage is asserted but not quantified, and there is no SBTi validation. The commitment is 'in corporate strategy' rather than externally validated, limiting the score.",
+          "evidence_quote": "Net zero carbon emissions of electricity delivered to DTE Electric customers and net zero carbon emissions for DTE Gas operations & supplied gas by 2050 (from 2005 baseline); interim milestones \u2026"
+        },
+        "specificity": {
+          "score": 7,
+          "reasoning": "Multiple precise interim targets are provided for Scope 1 electric emissions: 65% by 2028, 85% by 2032, and 90% by 2040, all from a 2005 baseline, plus a 2050 net-zero end target. This constitutes a base year, multiple interim targets with explicit years, and measurable milestones. However, the overall net-zero % reduction field is blank, and gas-side interim targets are referenced but not quoted in the corpus, preventing a top score.",
+          "evidence_quote": "Reduction in carbon emissions generated from stationary equipment used in the production of electricity delivered to DTE Electric customers \u2014 Scope 1 \u2014 65% (2028), 85% (2032), 90% (2040) from 2005 baseline."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "DTE has a long-term 2050 net-zero target plus three explicit interim milestones at 2028, 2032, and 2040 for electric Scope 1 emissions. This satisfies 'long-term + multiple interim' criteria. Annual reporting is noted. The corpus does not confirm explicit annual or quinquennial tracking milestones beyond these four data points, preventing a score of 10.",
+          "evidence_quote": "Scope 1 \u2014 65% (2028), 85% (2032), 90% (2040) from 2005 baseline \u2026 Net zero \u2026 by 2050"
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The 10-K references renewable energy generation, energy waste reduction programs, and retirement of fossil-fueled generation assets as mechanisms, but these are framed as regulatory compliance risks rather than a proactive transition plan. The NZT entry notes a published transition plan exists, but no capex figures, named projects, dates, or offset treatment are present in the provided corpus text.",
+          "evidence_quote": "The Registrants could be required to install expensive pollution control measures or limit or cease activities, including the retirement of certain generating plants, based on these regulations."
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "The NZT entry confirms accountability/governance structures exist and annual reporting is in place (two elements). The corpus does not provide evidence of third-party emissions assurance, SBTi or other external target validation, executive compensation linkage to climate targets, or scenario analysis disclosure within the provided text. Two confirmed elements yield a score of 6.",
+          "evidence_quote": "Accountability/governance: Yes \u2026 Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "DTE ENERGY CO",
+      "overall_assessment": "DTE Energy has a comprehensive climate-emissions pledge with specific targets and a clear timeline, but lacks detailed mechanisms and verification elements.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "DTE Energy has committed to net-zero carbon emissions across all scopes by 2050, which is aligned with 1.5\u00b0C targets.",
+          "evidence_quote": "Net zero carbon emissions of electricity delivered to DTE Electric customers and net zero carbon emissions for DTE Gas operations & supplied gas by 2050 (from 2005 baseline)."
+        },
+        "specificity": {
+          "score": 10,
+          "reasoning": "The company has defined a baseline year and multiple interim targets with explicit years and measurable milestones.",
+          "evidence_quote": "Reduction in carbon emissions generated from stationary equipment used in the production of electricity delivered to DTE Electric customers \u2014 Scope 1 \u2014 65% (2028), 85% (2032), 90% (2040) from 2005 baseline."
+        },
+        "time_horizon": {
+          "score": 10,
+          "reasoning": "DTE Energy has a long-term target for 2050 and multiple interim targets for 2028, 2032, and 2040.",
+          "evidence_quote": "Interim milestones \u2026 65% (2028), 85% (2032), 90% (2040) from 2005 baseline."
+        },
+        "mechanism_clarity": {
+          "score": 6,
+          "reasoning": "While there is a published transition plan, the specific mechanisms, capex, and offset treatments are not detailed.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "The company has accountability/governance and annual reporting but lacks third-party emissions assurance and external target validation.",
+          "evidence_quote": "Accountability/governance: Yes"
+        }
+      }
+    }
+  },
+  "EVERGY INC": {
+    "claude": {
+      "parent_name": "EVERGY INC",
+      "overall_assessment": "Evergy has a net-zero by 2045 target covering Scopes 1 and 2, anchored in a 2005 baseline, but the pledge lacks interim milestones, a published transition plan, SBTi validation, and detailed mechanism clarity; the 10-K corpus is dominated by natural gas expansion plans with minimal climate-commitment language.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "Evergy commits to net-zero by 2045 with a 2005 baseline, covering Scopes 1 and 2, but Scope 3 is explicitly excluded, no 1.5\u00b0C alignment is claimed, and no percentage reduction target is stated. The target is described as 'in corporate strategy' rather than formally validated.",
+          "evidence_quote": "Achieve net-zero carbon emissions by 2045. [...] Scopes covered: 1=Yes, 2=Yes, 3=No"
+        },
+        "specificity": {
+          "score": 4,
+          "reasoning": "A target year (2045) and baseline year (2005) are provided, but no explicit percentage reduction target is set for the end goal. The only quantified reduction figure (57% CO2 reduction by 2024) is described as an achieved outcome, not a pre-established target, and no interim target value is defined.",
+          "evidence_quote": "Not a pre-established target but in 2024, Evergy have reduced their carbon dioxide emissions by 57 percent [...] compared with the 2005 baseline numbers."
+        },
+        "time_horizon": {
+          "score": 2,
+          "reasoning": "Only a single long-term target year (2045) is disclosed. The 2030 entry in the Net Zero Tracker is explicitly noted as 'not a pre-established target,' meaning there are no formal interim milestones or near-term commitments.",
+          "evidence_quote": "Interim target: No target [...] Not a pre-established target but in 2024, Evergy have reduced their carbon dioxide emissions by 57 percent."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The 10-K references renewable solar investments and natural gas plant construction as generation fleet changes, but no explicit decarbonization pathway, capex allocation to clean energy vs. fossil, offset strategy, or retirement schedule for coal/gas assets is articulated in the context of the net-zero pledge. Mechanisms are inferable but unquantified relative to the climate target.",
+          "evidence_quote": "Evergy's long-term strategy focused on affordability, reliability and sustainability, including the modernization and expansion of its generation fleet [...] The Evergy Companies use IRPs [...] IRPs indicated the addition of new supply side resources, including combined and simple cycle natural gas plants, would be needed."
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and 'Published transition plan: No.' The corpus references annual reporting as a mechanism but provides no evidence of board committee oversight of climate, third-party emissions assurance, SBTi validation, or executive compensation linked to climate targets.",
+          "evidence_quote": "Published transition plan: No [...] Accountability/governance: Not Specified [...] Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "EVERGY INC",
+      "overall_assessment": "Evergy Inc has a net-zero target for 2045 but lacks interim targets and detailed mechanisms for achieving this goal. The disclosure is sparse and lacks specificity in governance and verification.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "Evergy has a net-zero target for 2045 but does not specify a percentage reduction or cover Scope 3 emissions.",
+          "evidence_quote": "Achieve net-zero carbon emissions by 2045."
+        },
+        "specificity": {
+          "score": 2,
+          "reasoning": "Only a single long-term target year is specified without interim targets or detailed milestones.",
+          "evidence_quote": "End target: Net zero, Target year: 2045.0"
+        },
+        "time_horizon": {
+          "score": 2,
+          "reasoning": "There is only a single long-term target for 2045 with no interim targets.",
+          "evidence_quote": "Interim target: No target"
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "There is no mention of specific mechanisms or pathways to achieve the net-zero target.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "There is no evidence of governance structures or third-party verification related to climate targets.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "NEXTERA ENERGY INC": {
+    "claude": {
+      "parent_name": "NEXTERA ENERGY INC",
+      "overall_assessment": "NextEra Energy has a moderately well-structured climate pledge anchored by a 2045 carbon-free goal with multiple interim intensity-reduction milestones, covering Scope 1 and 2 with partial Scope 3; however, the pledge is intensity-based rather than absolute, lacks SBTi validation, and the 10-K corpus provides limited detail on mechanisms, governance structures, and verification.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "The company commits to zero carbon by 2045 covering Scope 1 and Scope 2, with partial Scope 3. However, the targets are framed as electric generation intensity reductions (not absolute emissions), there is no explicit 1.5\u00b0C or well-below-2\u00b0C alignment claim in the corpus, and Scope 3 is only partially covered with no SBTi validation. This places it above a simple net-zero-with-year pledge but below full 1.5\u00b0C-aligned, all-scopes, SBTi-validated status.",
+          "evidence_quote": "In 2022, NextEra Energy announced its industry-leading goal to be carbon-emissions free by no later than 2045, with zero scope 1 direct emissions from owned assets and zero scope 2 indirect emissions from owned or leased operations."
+        },
+        "specificity": {
+          "score": 8,
+          "reasoning": "The corpus provides a base year (2005), a final target year (2045), and four explicit interim percentage-reduction milestones (70% by 2025, 82% by 2030, 87% by 2035, 94% by 2040). This constitutes multiple precise, dated targets. The main limitation is that these are intensity-based rather than absolute, and the base year metric is not fully elaborated in the available text.",
+          "evidence_quote": "We have set clear interim emissions-reduction targets, aiming for a 70% reduction in electric generation intensity by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "The structure includes a long-term target (2045), multiple interim milestones at roughly five-year intervals (2025, 2030, 2035, 2040), and a baseline year of 2005. This satisfies the 'long-term + multiple interim' criterion. It falls short of a perfect 10 because there is no evidence of explicit annual tracking milestones or quinquennial sub-targets beyond the five listed.",
+          "evidence_quote": "aiming for a 70% reduction in electric generation intensity by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The 10-K corpus references growth in wind, solar, and battery storage investments and mentions new renewable generation facilities entering service, but does not provide a detailed transition plan with named projects, specific capex figures tied to decarbonization, or quantified offset limits. The Net Zero Tracker notes a published transition plan exists, but the corpus itself does not contain its contents.",
+          "evidence_quote": "Results from new investments in 2025 increased primarily due to higher earnings related to new wind and solar generation and battery storage facilities that entered service during or after 2024."
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "The Net Zero Tracker entry confirms annual reporting and an accountability/governance structure is in place. The corpus does not provide evidence of board committee specifics, third-party emissions assurance, SBTi validation, or executive compensation linkage to climate targets within the available text. Two elements (annual reporting and governance accountability) are confirmed, but the others cannot be verified from this corpus.",
+          "evidence_quote": "Reporting mechanism: Annual reporting. Accountability/governance: Yes."
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "NEXTERA ENERGY INC",
+      "overall_assessment": "NextEra Energy has a comprehensive climate-emissions pledge with specific targets and a clear timeline, but lacks full Scope 3 coverage and SBTi validation.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "The company commits to zero carbon emissions by 2045, covering Scope 1 and 2, with partial Scope 3 coverage.",
+          "evidence_quote": "In 2022, NextEra Energy announced its industry-leading goal to be carbon-emissions free by no later than 2045, with zero scope 1 direct emissions from owned assets and zero scope 2 indirect emissions from owned or leased operations."
+        },
+        "specificity": {
+          "score": 10,
+          "reasoning": "Multiple interim targets with explicit years and measurable milestones are provided.",
+          "evidence_quote": "We have set clear interim emissions-reduction targets, aiming for a 70% reduction in electric generation intensity by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+        },
+        "time_horizon": {
+          "score": 10,
+          "reasoning": "The company has a long-term target with multiple interim targets and explicit annual milestones.",
+          "evidence_quote": "Interim targets: 70% by 2025, 82% by 2030, 87% by 2035, 94% by 2040, and reaching 100% by no later than 2045."
+        },
+        "mechanism_clarity": {
+          "score": 8,
+          "reasoning": "A published transition plan is mentioned, but specific projects, dates, and capex details are not provided.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "The company has accountability/governance and annual reporting but lacks SBTi validation and detailed governance structure.",
+          "evidence_quote": "Accountability/governance: Yes; Reporting mechanism: Annual reporting"
+        }
+      }
+    }
+  },
+  "PINNACLE WEST CAPITAL CORP": {
+    "claude": {
+      "parent_name": "PINNACLE WEST CAPITAL CORP",
+      "overall_assessment": "The disclosure corpus contains no climate emissions pledge, net-zero commitment, or interim reduction targets; the Net Zero Tracker entry explicitly records 'No target' across all scopes, and the 10-K excerpts address climate only as a regulatory/financial risk rather than as a commitment. This represents one of the weakest possible disclosure profiles.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_sbti_entry",
+        "sparse_disclosure"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "No emissions reduction commitment of any kind is present in the corpus. The Net Zero Tracker explicitly records 'End target: No target' and 'Scopes covered: 1=No, 2=No, 3=No'. The 10-K discusses climate regulation only as an external risk factor.",
+          "evidence_quote": "End target: No target | Target year: nan | % reduction: nan | Baseline year: nan | Status: nan"
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No base year, target year, percentage reduction, or measurable milestone is defined anywhere in the corpus. The Net Zero Tracker confirms the absence of any quantified target.",
+          "evidence_quote": "End target: No target | Interim target: No target | Interim year: nan | Interim % reduction: nan"
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "Neither a long-term nor a near-term emissions target exists. The Net Zero Tracker records no interim or end targets, and the 10-K contains no time-bound climate commitments.",
+          "evidence_quote": "End target: No target | Interim target: No target"
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No transition plan, decarbonisation mechanism, capital expenditure commitment, or offset policy is disclosed. The Net Zero Tracker explicitly states 'Published transition plan: No'.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "No board climate committee, third-party emissions assurance, external target validation, or executive compensation linkage to climate is evidenced in the corpus. The Net Zero Tracker records 'Accountability/governance: No' and 'Reporting mechanism: No reporting mechanism'.",
+          "evidence_quote": "Reporting mechanism: No reporting mechanism | Accountability/governance: No | Race to Zero member: No"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "PINNACLE WEST CAPITAL CORP",
+      "overall_assessment": "Pinnacle West Capital Corp lacks any specific climate-emissions targets or commitments, and there is no evidence of a structured plan or governance for climate-related goals.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_nzt_entry"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "There is no commitment to any climate-emissions targets or net-zero goals.",
+          "evidence_quote": "Entity: Pinnacle West Capital; End target: No target; Scopes covered: 1=No, 2=No, 3=No"
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No specific years or targets are defined for emissions reductions.",
+          "evidence_quote": "Interim target: No target; Interim year: nan"
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "There are no targets set, either long-term or interim.",
+          "evidence_quote": "End target: No target; Interim target: No target"
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "There is no mention of mechanisms or pathways to achieve emissions reductions.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "There is no evidence of verification or governance structures related to climate targets.",
+          "evidence_quote": "Accountability/governance: No"
+        }
+      }
+    }
+  },
+  "AMERICAN ELECTRIC POWER CO INC": {
+    "claude": {
+      "parent_name": "AMERICAN ELECTRIC POWER CO INC",
+      "overall_assessment": "AEP has a moderately ambitious climate pledge\u2014net-zero Scope 1+2 by 2045 with an 80% reduction interim target by 2030\u2014but the commitment is explicitly conditioned on state regulatory alignment and technology availability, limiting its credibility; verification and governance disclosures in the corpus are sparse.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_10k_text"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 5,
+          "reasoning": "AEP commits to net-zero Scope 1 and 2 by 2045 with an 80% interim reduction by 2030 from a 2005 baseline, which is more than a vague aspiration but falls short of a 1.5\u00b0C-aligned, SBTi-validated commitment. Scope 3 is explicitly not specified, and the target is heavily conditioned ('our performance will ultimately be driven by the needs and desires of the states we serve'), undermining its firmness. No SBTi validation is present. Scores between 4 and 6; the specific % and dual-scope coverage push it to 5, but the conditionality and absence of Scope 3 prevent a higher score.",
+          "evidence_quote": "While we aspire to be at net-zero Scope 1 and 2 emissions by 2045, our performance will ultimately be driven by the needs and desires of the states we serve. Additionally, further advancement of affordable new generation technologies and a market for offsets, as well as continued alignment with our states, would be required to achieve net zero."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "AEP provides a base year (2005), an interim target year (2030) with a specific percentage (80% reduction), and a long-term target year (2045) for net-zero. However, only a single interim target is stated, and the long-term target lacks a quantified percentage reduction figure. The baseline year listed in NZT is 2024, creating some ambiguity. This is more than a single-year target but does not rise to multiple precise interim milestones.",
+          "evidence_quote": "Based on the assumptions used in our most recent IRP analysis, we expect that our Scope 1 GHG emissions will be reduced by 80% by 2030 (from a 2005 baseline)."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "AEP has a long-term target (net-zero by 2045) and one interim target in the 5\u201315 year range (80% by 2030). There is also a near-term operational milestone (retire or convert ~4,100 MW of coal by end of 2028). This gives a long-term target plus one interim plus one near-term operational milestone, but explicit annual or quinquennial tracking milestones are not described in the corpus.",
+          "evidence_quote": "Furthermore, we currently plan to retire or convert approximately 4,100 MW of additional coal generation by the end of 2028. Based on the assumptions used in our most recent IRP analysis, we expect that our Scope 1 GHG emissions will be reduced by 80% by 2030 (from a 2005 baseline)."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The corpus identifies coal retirement/conversion (~4,100 MW by 2028) as a concrete mechanism, and references IRP analysis as the analytical basis. However, no capital expenditure figures tied to decarbonization, no renewable build-out quantities, no offset policy, and no detailed transition plan elements are present in the provided text. The 10-K risk factors discuss capital investment broadly but not in the context of decarbonization pathways.",
+          "evidence_quote": "Furthermore, we currently plan to retire or convert approximately 4,100 MW of additional coal generation by the end of 2028."
+        },
+        "verification_governance": {
+          "score": 3,
+          "reasoning": "The NZT entry notes 'Annual reporting' as a reporting mechanism and 'Published transition plan: Yes,' but 'Accountability/governance: Not Specified.' The corpus contains no mention of a board climate committee, third-party emissions assurance, SBTi validation, or executive compensation linked to climate targets. Race to Zero membership is listed as No. Only annual reporting and a published transition plan are evidenced, which is roughly one element.",
+          "evidence_quote": "Reporting mechanism: Annual reporting; Accountability/governance: Not Specified; Race to Zero member: No"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "AMERICAN ELECTRIC POWER CO INC",
+      "overall_assessment": "AEP has set a net-zero target for Scope 1 and 2 emissions by 2045 with an 80% reduction by 2030. However, the plan lacks clarity on Scope 3 emissions and detailed governance structures.",
+      "supplemental_indicators": {
+        "sbti_status": "unknown"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "AEP has committed to net-zero Scope 1 and 2 emissions by 2045, with an 80% reduction by 2030.",
+          "evidence_quote": "While we aspire to be at net-zero Scope 1 and 2 emissions by 2045... Scope 1 GHG emissions will be reduced by 80% by 2030 (from a 2005 baseline)."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "AEP provides a base year and a single interim target with a specific percentage reduction.",
+          "evidence_quote": "Baseline year: 2024.0... Interim year: 2030.0... Interim % reduction: 80.0"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "AEP has a long-term target for 2045 and an interim target for 2030.",
+          "evidence_quote": "Target year: 2045.0... Interim year: 2030.0"
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "AEP mentions retiring or converting coal generation but lacks detailed mechanisms or quantified financial commitments.",
+          "evidence_quote": "We currently plan to retire or convert approximately 4,100 MW of additional coal generation by the end of 2028."
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is no specific mention of governance structures or third-party verification.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "THE SOUTHERN CO": {
+    "claude": {
+      "parent_name": "THE SOUTHERN CO",
+      "overall_assessment": "Southern Company has a net-zero-by-2050 goal with a 50% interim reduction target by 2030 (vs. 2007 baseline), but coverage is limited to Scope 1 only, no SBTi validation is present, and mechanism detail in the disclosed corpus is sparse.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "The company has a net-zero target with a specific year (2050) and a quantified interim reduction (50% by 2030 vs. 2007), which is more than a vague aspiration. However, coverage is explicitly Scope 1 only (Scope 2 and 3 are marked 'No' in NZT), there is no stated 1.5\u00b0C or well-below-2\u00b0C alignment, and no SBTi validation is present. This places it at the '6' band: specific % but limited to Scope 1.",
+          "evidence_quote": "GHG emissions reduction goal of net zero emissions by 2050 ... We also have an interim target to achieve 50% GHG emissions reduction by 2030 relative to 2007 levels."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "There is a defined base year (2007), a long-term target year (2050), and a single interim target year (2030) with an explicit percentage (50%). This meets the '6' threshold of both years plus a value for a single target, but there are no multiple precise targets or additional milestones beyond these two data points.",
+          "evidence_quote": "Interim % reduction: 50.0 ... Interim year: 2030.0 ... Baseline year: 2007.0"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (net zero by 2050) and one interim target in the 5\u201315 year range (50% by 2030). This fits the '6' band. There are no additional interim milestones, no annual or quinquennial tracking milestones disclosed in the corpus.",
+          "evidence_quote": "End target: Net zero, Target year: 2050.0 ... Interim year: 2030.0, Interim % reduction: 50.0"
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The NZT entry notes a published transition plan exists and annual reporting is in place, but the disclosed corpus text does not provide quantified mechanisms, named projects, capex figures, or offset treatment. The 10-K excerpts reference renewable energy investments and infrastructure capital expenditures in general terms but do not link them explicitly to emissions targets. This warrants a '4': 1\u20132 mechanisms referenced but unquantified.",
+          "evidence_quote": "Published transition plan: Yes ... Reporting mechanism: Annual reporting"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The NZT entry confirms accountability/governance structures exist, and annual reporting is noted. However, the corpus does not evidence third-party emissions assurance, SBTi or other external target validation, or explicit executive compensation linkage to climate targets. Race to Zero membership is 'No'. Only one element (governance/accountability) is clearly evidenced, placing this at '4'.",
+          "evidence_quote": "Accountability/governance: Yes ... Race to Zero member: No"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "THE SOUTHERN CO",
+      "overall_assessment": "Southern Company has a net-zero target by 2050 with an interim target for 2030, but lacks comprehensive scope coverage and detailed mechanisms.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "The company has a net-zero target by 2050 but does not cover all scopes and lacks SBTi validation.",
+          "evidence_quote": "\"GHG emissions reduction goal of net zero emissions by 2050\""
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company provides a baseline year and specific interim target for 2030, but lacks multiple interim targets.",
+          "evidence_quote": "\"We also have an interim target to achieve 50% GHG emissions reduction by 2030 relative to 2007 levels.\""
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target for 2050 and an interim target for 2030, but no multiple interim targets or annual milestones.",
+          "evidence_quote": "\"Interim target: Emissions reduction target Interim year: 2030.0\""
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The disclosure lacks detailed mechanisms or quantified pathways for achieving the targets.",
+          "evidence_quote": "No specific mechanisms or pathways detailed in the provided text."
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "There is some accountability and governance mentioned, but no evidence of third-party verification or SBTi validation.",
+          "evidence_quote": "\"Accountability/governance: Yes\""
+        }
+      }
+    }
+  },
+  "PPL CORP": {
+    "claude": {
+      "parent_name": "PPL CORP",
+      "overall_assessment": "PPL Corp has a net-zero 2050 commitment covering Scopes 1, 2, and 3 with one interim target (41% fleet emissions reduction by 2035), but the disclosure corpus is sparse on mechanism detail, verification structures, and SBTi validation, limiting scores across most pillars.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_10k_text"
+      ],
+      "confidence": "low",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "PPL has a net-zero 2050 target covering Scopes 1, 2, and 3 per the Net Zero Tracker entry, which is a meaningful commitment. However, no SBTi validation is evidenced, no explicit 1.5\u00b0C alignment language is present in the corpus, and the percentage reduction figure for the overall target is listed as 'nan' (not specified). The interim target references 'fleet emissions' rather than total Scope 1+2+3, limiting ambition clarity. This places it above a simple net-zero-with-year pledge but below a fully validated 1.5\u00b0C-aligned commitment.",
+          "evidence_quote": "Achieve net-zero carbon emissions by 2050 | Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+        },
+        "specificity": {
+          "score": 4,
+          "reasoning": "A base year (2010 for the overall target; 2021 for the interim) and a target year (2050) are provided, along with one interim year (2035) and one quantified interim value (41% fleet emissions reduction). However, the overall percentage reduction is not specified ('nan'), the interim target is limited to 'fleet emissions' rather than total emissions, and no additional measurable milestones are disclosed in the corpus. This meets the threshold for 'both years + value, single target' but is hedged by the missing overall reduction percentage.",
+          "evidence_quote": "41% reduction in fleet emissions by 2035 (from 2021 baseline) | Baseline year: 2010.0 | Target year: 2050.0 | % reduction: nan"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (net zero by 2050) and one interim target in the 5\u201315 year range (41% fleet emissions reduction by 2035). No additional interim milestones, near-term (<5 year) targets, or annual/quinquennial tracking milestones are evidenced in the corpus. This fits the '6' band: long-term + 1 interim 5\u201315 year.",
+          "evidence_quote": "End target: Net zero | Target year: 2050.0 | Interim year: 2035.0 | Interim % reduction: nan | Interim description: 41% reduction in fleet emissions by 2035 (from 2021 baseline)"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The 10-K excerpts provided contain no discussion of decarbonization mechanisms, capex allocations for clean energy, offset strategy, or transition pathways. The Net Zero Tracker notes a 'Published transition plan: Yes' and references annual reporting, but no content from that plan is included in the corpus. The Kentucky rate case discussions mention new generation assets (solar, battery storage, NGCC) but these are framed as regulatory/financial matters, not as explicit climate mechanisms with quantified emissions impact. Only vague pathway inference is possible.",
+          "evidence_quote": "Published transition plan: Yes | Reporting mechanism: Annual reporting"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker notes 'Accountability/governance: Not Specified' and 'Race to Zero member: No.' No SBTi validation, no board committee for climate, no third-party emissions assurance, and no executive compensation linkage to climate targets are evidenced in the provided corpus. Annual reporting is noted, which suggests some progress tracking, but no structural governance elements are confirmed.",
+          "evidence_quote": "Accountability/governance: Not Specified | Race to Zero member: No | Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "PPL CORP",
+      "overall_assessment": "PPL CORP has a net-zero target by 2050 covering all scopes, but lacks detailed interim targets and mechanisms. Governance and verification structures are not well-defined.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "PPL has a net-zero target by 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+          "evidence_quote": "Achieve net-zero carbon emissions by 2050... Scopes covered: 1=Yes, 2=Yes, 3=Yes"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company has a long-term target year and an interim target year, but lacks multiple interim targets and specific reduction percentages.",
+          "evidence_quote": "Target year: 2050.0... Interim year: 2035.0"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "PPL has a long-term target and one interim target, but lacks multiple interim targets or annual milestones.",
+          "evidence_quote": "Interim description: 41% reduction in fleet emissions by 2035 (from 2021 baseline)"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "There is a published transition plan, but no detailed mechanisms or financial commitments are provided.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is no specific mention of governance structures or third-party verification.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "TALEN ENERGY CORP": {
+    "claude": {
+      "parent_name": "TALEN ENERGY CORP",
+      "overall_assessment": "Talen Energy's disclosure corpus contains no climate emissions pledge, net-zero commitment, or emissions reduction targets; the climate-relevant text is limited to regulatory compliance discussions (RGGI, EPA GHG rules, CCR/ELG rules) with no voluntary ambition, specificity, time-horizon structure, mechanism clarity, or verification/governance framework evident.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_nzt_entry",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "No net-zero, carbon-neutral, or emissions-reduction commitment of any kind appears in the corpus. References to GHG are exclusively in the context of regulatory compliance risk (EPA GHG Rule, RGGI) rather than voluntary pledges.",
+          "evidence_quote": "In June 2025, the EPA released a proposed rule to repeal all GHG emission standards for fossil fuel-fired power plants... Operating decisions about the future of Colstrip are highly dependent on the fate of the EPA GHG Rule."
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No emissions reduction targets, base years, target years, or percentage reductions are disclosed. The corpus contains only financial accounting and regulatory compliance language.",
+          "evidence_quote": "Environmental product costs primarily include RGGIs and other emission product compliance costs that are mandated by certain states."
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "No short-term, interim, or long-term climate targets are present. The only forward-looking dates relate to regulatory deadlines and capacity market obligations, not voluntary climate commitments.",
+          "evidence_quote": "In 2020, the EPA issued changes that would exempt coal generation facility operators from meeting certain wastewater standards if the facility would commit to cease coal-fired generation by the end of 2028, which Talen elected for its wholly owned coal operations."
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No decarbonization mechanisms, transition plans, capital expenditure commitments for clean energy, or offset strategies are described. The corpus discusses only compliance with existing environmental regulations.",
+          "evidence_quote": "Talen is evaluating what: (i) potential discharge limits may apply; (ii) treatment may be required; and (iii) the implementation timeline may be."
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "No board climate committee, third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate metrics is mentioned anywhere in the corpus.",
+          "evidence_quote": null
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "TALEN ENERGY CORP",
+      "overall_assessment": "Talen Energy Corp's disclosure lacks specific climate-emissions pledges or targets, focusing instead on regulatory compliance and operational details.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "There is no mention of any climate-emissions commitment or net-zero target.",
+          "evidence_quote": "No evidence of climate-emissions commitment found in the provided text."
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No specific targets or years related to emissions reductions are mentioned.",
+          "evidence_quote": "No evidence of specific emissions targets or timelines found in the provided text."
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "There are no emissions targets or time horizons discussed.",
+          "evidence_quote": "No evidence of emissions targets or time horizons found in the provided text."
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "There is no mention of mechanisms for achieving emissions reductions.",
+          "evidence_quote": "No evidence of mechanisms for emissions reductions found in the provided text."
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "There is no mention of governance structures or verification processes related to climate targets.",
+          "evidence_quote": "No evidence of governance or verification related to climate targets found in the provided text."
+        }
+      }
+    }
+  },
+  "EXXON MOBIL CORP": {
+    "claude": {
+      "parent_name": "EXXON MOBIL CORP",
+      "overall_assessment": "ExxonMobil has a 2050 net-zero 'ambition' for Scope 1+2 operated assets with a 2030 intensity-based interim target, but the commitment is explicitly conditional on technology advances and government policy, excludes Scope 3, lacks SBTi validation, and is framed as an aspiration rather than a binding pledge\u2014resulting in moderate scores across most pillars.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 4,
+          "reasoning": "The company states a 2050 net-zero ambition covering Scopes 1 and 2 for operated assets, which provides a year and a net-zero framing. However, it is explicitly conditional ('requires new advancements in technology and practical government policies'), excludes Scope 3 entirely, is not SBTi-validated, and is described as an 'ambition' rather than a commitment. This places it above a vague aspiration but below a specific % reduction with 1.5\u00b0C alignment.",
+          "evidence_quote": "In January 2022, we announced a 2050 net-zero GHG ambition for our operated assets, which requires new advancements in technology and practical government policies. (covers Scopes 1 and 2)"
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "There is a 2050 end-year target and a 2030 interim year with multiple specific percentage ranges (20-30% corporate GHG intensity, 40-50% upstream GHG intensity, 70-80% methane intensity, 60-70% flaring intensity). However, no absolute baseline year or baseline emissions figure is provided, and all targets are intensity-based rather than absolute, limiting comparability and accountability.",
+          "evidence_quote": "20-30% reduction in corporate-wide greenhouse gas intensity; 40-50% reduction in upstream GHG intensity; 70-80% reduction in corporate-wide methane intensity; 60-70% reduction in corporate-wide flaring intensity"
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term 2050 net-zero ambition and one interim 2030 target set. This satisfies the 'long-term + 1 interim 5-15yr' criterion. However, there are no additional interim milestones between 2030 and 2050, no annual or quinquennial tracking milestones disclosed in the corpus, and no near-term (<5yr) targets identified.",
+          "evidence_quote": "End target: Net zero, Target year: 2050.0 ... Interim target: Emissions intensity target, Interim year: 2030.0"
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The 10-K references lower-emission business opportunities (CCS, hydrogen, ammonia, lower-emission fuels) and notes adoption of new technologies and operating practices to reduce emissions. However, no specific capital expenditure amounts, named projects with dates, or quantified offset limits are provided in the disclosed corpus. The transition plan is noted as published but its contents are not reproduced here.",
+          "evidence_quote": "our pursuit of lower-emission and other new business opportunities, including carbon capture and storage, hydrogen and ammonia, lower-emission fuels, Proxxima resin systems, carbon materials, low-carbon data centers, and lithium"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The Net Zero Tracker entry notes 'Accountability/governance: Yes' and 'Reporting mechanism: Annual reporting,' suggesting some governance structure and annual progress reporting exist. However, the corpus contains no evidence of third-party emissions assurance, SBTi or other external target validation, or executive compensation linked to climate targets. Only one or two elements of the rubric's four-element framework are evidenced.",
+          "evidence_quote": "Accountability/governance: Yes ... Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "EXXON MOBIL CORP",
+      "overall_assessment": "Exxon Mobil has set a net-zero target for 2050 covering Scopes 1 and 2, with interim intensity reduction targets for 2030. However, the ambition lacks Scope 3 coverage and SBTi validation.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "The company has a net-zero target for 2050 covering Scopes 1 and 2, but lacks Scope 3 coverage and SBTi validation.",
+          "evidence_quote": "\"In January 2022, we announced a 2050 net-zero GHG ambition for our operated assets, which requires new advancements in technology and practical government policies.\""
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company provides a long-term target year (2050) and interim targets for 2030, but lacks a baseline year and specific percentage reductions for the end target.",
+          "evidence_quote": "\"20-30% reduction in corporate-wide greenhouse gas intensity\""
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "Exxon Mobil has a long-term target for 2050 and multiple interim targets for 2030.",
+          "evidence_quote": "\"20-30% reduction in corporate-wide greenhouse gas intensity\""
+        },
+        "mechanism_clarity": {
+          "score": 6,
+          "reasoning": "The company mentions mechanisms like carbon capture and storage, but lacks detailed capex, dates, and quantified offset limits.",
+          "evidence_quote": "\"Our pursuit of lower-emission and other new business opportunities, including carbon capture and storage, hydrogen and ammonia, lower-emission fuels...\""
+        },
+        "verification_governance": {
+          "score": 6,
+          "reasoning": "The company has accountability/governance and annual reporting but lacks third-party emissions assurance and SBTi validation.",
+          "evidence_quote": "Accountability/governance: Yes"
+        }
+      }
+    }
+  },
+  "OGE ENERGY CORP": {
+    "claude": {
+      "parent_name": "OGE ENERGY CORP",
+      "overall_assessment": "OGE Energy Corp's public disclosure corpus contains no climate emissions pledge, net-zero commitment, or GHG reduction target of any kind; the filings address climate regulation only as a compliance risk and make no voluntary emissions commitments.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "The corpus contains zero voluntary climate commitment or emissions reduction pledge. GHG is discussed exclusively as a regulatory compliance risk. The company is actively adding natural gas generation capacity with no stated decarbonization goal.",
+          "evidence_quote": "OG&E monitors developments in federal greenhouse gas ('GHG') emissions regulations applicable to fossil fuel-fired electric generating units."
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No base year, target year, percentage reduction, or any quantified emissions target is present anywhere in the corpus.",
+          "evidence_quote": "No relevant quote available \u2014 no emissions targets disclosed."
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "No near-term, interim, or long-term climate targets are disclosed. The only time-referenced content relates to regulatory compliance deadlines imposed externally (e.g., EPA rules), not voluntary company commitments.",
+          "evidence_quote": "No relevant quote available \u2014 no climate target timeline disclosed."
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No decarbonization mechanisms, transition plan, capital allocation toward emissions reduction, or offset strategy is described. Capital expenditure discussion focuses on new natural gas combustion turbines and battery storage, with no emissions-reduction framing.",
+          "evidence_quote": "OG&E is installing four combustion turbines with a total capacity of 896 MWs... OG&E also has a commitment related to the Frontier Energy Storage Project, which involves a purchase and sale agreement for a 300 MW battery storage facility in Oklahoma."
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "The Board and its committees are described as overseeing major risks, and a Corporate Risk Oversight Committee exists, but climate/emissions oversight is not specifically assigned to any committee. No third-party emissions assurance, SBTi validation, exec comp linkage to climate, or scenario analysis is mentioned. Board awareness of risk exists but no structured climate governance.",
+          "evidence_quote": "The Board of Directors is responsible for reviewing and overseeing the long-term strategic plans and principal issues facing the Registrants and includes the oversight of the major risk exposures and the risk management activities of the Registrants."
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "OGE ENERGY CORP",
+      "overall_assessment": "OGE Energy Corp's disclosures lack specific climate-emissions pledges, targets, or mechanisms, focusing instead on regulatory compliance and risk management.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "There is no mention of any climate-emissions commitment or net-zero target.",
+          "evidence_quote": "OG&E monitors developments in federal greenhouse gas (\u201cGHG\u201d) emissions regulations applicable to fossil fuel-fired electric generating units."
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No specific targets or years are defined for emissions reductions.",
+          "evidence_quote": "OG&E continues to monitor these regulatory developments and evaluate potential impacts on its operations."
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "No time-bound targets or interim goals are provided.",
+          "evidence_quote": "OG&E cannot predict the outcome of the EPA\u2019s reconsideration process, the proposed repeal, or the pending litigation."
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No mechanisms for achieving emissions reductions are described.",
+          "evidence_quote": "OG&E has sought and will continue to seek pollution prevention opportunities and to evaluate the effectiveness of its waste reduction, reuse and recycling efforts."
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is board oversight of risk management, but no specific climate governance or verification structures are mentioned.",
+          "evidence_quote": "The Board of Directors is responsible for reviewing and overseeing the long-term strategic plans and principal issues facing the Registrants."
+        }
+      }
+    }
+  },
+  "UNS ENERGY CORP": {
+    "claude": {
+      "parent_name": "UNS ENERGY CORP",
+      "overall_assessment": "The disclosure corpus contains no climate emissions pledge, net-zero commitment, or any quantified emissions reduction target; all climate-related text is limited to risk-factor boilerplate describing physical and transition risks to the business, with zero forward-looking decarbonization commitments.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_nzt_entry",
+        "no_sbti_entry"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "No emissions reduction commitment, net-zero pledge, or climate target of any kind appears in the corpus. Climate is discussed exclusively as an external risk to the company, not as a domain in which the company has made any pledge.",
+          "evidence_quote": "The physical effects of climate change could disrupt our production and cause us to incur significant costs in preparing for or responding to those effects."
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No base year, target year, percentage reduction, or any measurable emissions milestone is disclosed anywhere in the corpus.",
+          "evidence_quote": "No relevant quote available \u2014 no targets disclosed."
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "No near-term, interim, or long-term emissions targets are present. The corpus contains only risk disclosures with no time-structured decarbonization roadmap.",
+          "evidence_quote": "No relevant quote available \u2014 no targets disclosed."
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No decarbonization mechanisms, capital expenditure plans, renewable energy investments, or offset strategies are described. The corpus does not address how the company would reduce emissions.",
+          "evidence_quote": "No relevant quote available \u2014 no mechanisms disclosed."
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "No board climate committee, third-party emissions assurance, SBTi or other external target validation, executive compensation linkage to climate, or scenario analysis is mentioned in the corpus.",
+          "evidence_quote": "Increasing attention to ESG matters, including those related to climate change and sustainability...may result in increased costs, reduced profits, increased investigations and litigation."
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "UNS ENERGY CORP",
+      "overall_assessment": "UNS Energy Corp's disclosures lack any specific climate-emissions pledges or targets, focusing instead on risks and impacts of climate change on operations.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_nzt_entry",
+        "no_sbti_entry"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "There is no commitment or mention of any climate-emissions targets or net-zero goals.",
+          "evidence_quote": "The Company\u2019s operations are subject to disruption from natural or human causes beyond its control, including risks from... climate change."
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No specific years or targets are defined for emissions reductions.",
+          "evidence_quote": "Efforts by governments, international bodies, businesses and consumers to reduce GHGs and otherwise mitigate the effects of climate change are ongoing."
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "There are no targets or timelines mentioned for emissions reductions.",
+          "evidence_quote": "The long-term effects of climate change are difficult to predict; however, such effects may be widespread."
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No mechanisms or pathways for achieving emissions reductions are discussed.",
+          "evidence_quote": "Increasing attention to ESG matters, including those related to climate change and sustainability, increasing societal, investor and legislative pressure on companies to address ESG matters, may result in increased costs..."
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "There is no mention of governance structures or verification processes related to climate targets.",
+          "evidence_quote": "Increasing attention to ESG matters, including those related to climate change and sustainability, increasing societal, investor and legislative pressure on companies to address ESG matters..."
+        }
+      }
+    }
+  },
+  "BERKSHIRE HATHAWAY INC": {
+    "claude": {
+      "parent_name": "BERKSHIRE HATHAWAY INC",
+      "overall_assessment": "Berkshire Hathaway's public disclosure corpus contains no climate emissions pledge, no net-zero or reduction target, and no transition plan; the Net Zero Tracker explicitly records 'No target' across all dimensions, leaving virtually every scoring pillar at zero or null.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_sbti_entry",
+        "sparse_disclosure"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "No emissions reduction commitment of any kind is present in the 10-K excerpts or the Net Zero Tracker entry. The NZT explicitly records 'End target: No target' and 'Race to Zero member: No'.",
+          "evidence_quote": "End target: No target | Target year: nan | % reduction: nan | Baseline year: nan | Status: nan"
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No base year, target year, percentage reduction, or measurable milestone is disclosed anywhere in the corpus. All NZT fields are 'nan'.",
+          "evidence_quote": "Interim target: No target | Interim year: nan | Interim % reduction: nan | Interim description: nan"
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "No near-term, interim, or long-term climate targets are defined. The corpus contains only operational and financial disclosures with no time-structured emissions pathway.",
+          "evidence_quote": "End target: No target | Interim target: No target"
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No decarbonisation mechanisms, capital expenditure commitments for emissions reduction, or offset policies are described in the context of a climate pledge. References to wind generation and renewable energy are purely financial/operational in nature and not tied to any stated emissions target.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": null,
+          "reasoning": "The corpus provides no information on board climate committee structure, third-party emissions assurance, SBTi validation, or executive compensation linkage to climate metrics. The NZT records 'Accountability/governance: Not Specified', making a score of 0 vs. null indeterminate; null is assigned because governance structures may exist but are simply absent from this disclosure corpus.",
+          "evidence_quote": "Accountability/governance: Not Specified | Scopes covered: 1=Not Specified, 2=Not Specified, 3=Not Specified"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "BERKSHIRE HATHAWAY INC",
+      "overall_assessment": "Berkshire Hathaway Inc lacks a clear climate-emissions pledge, with no specific targets or mechanisms disclosed. The company does not appear to have a structured approach to climate governance or verification.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_nzt_entry",
+        "no_sbti_entry"
+      ],
+      "confidence": "high",
+      "criteria": {
+        "ambition": {
+          "score": 0,
+          "reasoning": "There is no commitment to any climate-emissions target or net-zero goal.",
+          "evidence_quote": "End target: No target"
+        },
+        "specificity": {
+          "score": 0,
+          "reasoning": "No specific years or reduction percentages are defined.",
+          "evidence_quote": "Target year: nan, % reduction: nan"
+        },
+        "time_horizon": {
+          "score": 0,
+          "reasoning": "There are no targets, interim or long-term, mentioned.",
+          "evidence_quote": "Interim target: No target"
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "No mechanisms or transition plans are disclosed.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "There is no mention of governance structures or verification processes related to climate targets.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "DOMINION ENERGY INC": {
+    "claude": {
+      "parent_name": "DOMINION ENERGY INC",
+      "overall_assessment": "Dominion Energy has a net-zero-by-2050 commitment covering Scope 1, 2, and partial Scope 3, but the disclosure corpus lacks interim targets, a published transition plan, SBTi validation, and robust governance structures, resulting in a mid-range overall profile with significant gaps in specificity and mechanism clarity.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_sbti_entry",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 6,
+          "reasoning": "The company commits to net zero by 2050 covering Scope 1, 2, and material Scope 3 categories, which is meaningful breadth. However, there is no SBTi validation, no explicit 1.5\u00b0C alignment claim, and Scope 3 coverage is only partial. The 53% CO2 reduction from 2005 baseline is noted as an achieved milestone, not a forward target. This places it above a Scope-1-only commitment but below full 1.5\u00b0C-aligned, SBTi-validated status.",
+          "evidence_quote": "Our Net Zero commitment includes carbon and methane emissions within our direct control (known as Scope 1 emissions), as well as Scope 2 and material categories of Scope 3 emissions, including: electricity purchased to power the grid, fossil fuel purchased for our power stations and gas distribution systems, and consumption of gas sold to our end-use customers."
+        },
+        "specificity": {
+          "score": 4,
+          "reasoning": "The corpus provides a target year (2050) and a baseline year is implied (2005 referenced for the 53% reduction milestone), but no explicit percentage reduction target is stated for the net-zero commitment itself (NZT shows '% reduction: nan'). There is only one long-term target with no interim percentage targets defined. The 53% figure is a historical achievement, not a forward-looking quantified milestone.",
+          "evidence_quote": "The Company has reduced 53% of its CO2 emission in 2023 from the baseline year of 2005."
+        },
+        "time_horizon": {
+          "score": 2,
+          "reasoning": "Only a single long-term target year (2050) is disclosed. The Net Zero Tracker explicitly shows 'Interim target: nan' and 'Interim year: nan', confirming no interim targets are publicly committed. The 53% reduction is a historical data point, not a structured interim milestone.",
+          "evidence_quote": "End target: Net zero | Target year: 2050.0 ... Interim target: nan | Interim year: nan | Interim % reduction: nan"
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The 10-K excerpts reference offshore wind, solar, and renewable natural gas operations, and the NZT notes 'No' for a published transition plan. No capex figures, named projects tied to the net-zero pathway, offset treatment policies, or quantified mechanism contributions are provided in the disclosure corpus for the climate commitment itself.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker records 'Accountability/governance: No' and 'Race to Zero member: No'. The 10-K mentions SEC climate disclosure guidance but only in the context of accounting treatment, not governance structures. No board committee for climate, third-party emissions assurance, SBTi validation, or exec compensation linkage is evidenced in the corpus.",
+          "evidence_quote": "Accountability/governance: No | Race to Zero member: No | Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "DOMINION ENERGY INC",
+      "overall_assessment": "Dominion Energy has a net-zero target for 2050 covering Scope 1, 2, and partial Scope 3 emissions, but lacks detailed interim targets and a published transition plan.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "sparse_disclosure",
+        "no_10k_text"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "The company has a net-zero target for 2050 covering Scope 1, 2, and partial Scope 3 emissions.",
+          "evidence_quote": "Our Net Zero commitment includes carbon and methane emissions within our direct control (known as Scope 1 emissions), as well as Scope 2 and material categories of Scope 3 emissions."
+        },
+        "specificity": {
+          "score": 2,
+          "reasoning": "The target year is specified as 2050, but there is no baseline year or interim targets with specific values.",
+          "evidence_quote": "Target year: 2050.0; Baseline year: nan; Interim target: nan"
+        },
+        "time_horizon": {
+          "score": 2,
+          "reasoning": "Only a long-term target for 2050 is provided without any interim targets.",
+          "evidence_quote": "End target: Net zero; Target year: 2050.0; Interim target: nan"
+        },
+        "mechanism_clarity": {
+          "score": 0,
+          "reasoning": "There is no published transition plan or detailed mechanisms for achieving the targets.",
+          "evidence_quote": "Published transition plan: No"
+        },
+        "verification_governance": {
+          "score": 0,
+          "reasoning": "There is no mention of governance structures or third-party verification.",
+          "evidence_quote": "Accountability/governance: No"
+        }
+      }
+    }
+  },
+  "NRG ENERGY INC": {
+    "claude": {
+      "parent_name": "NRG ENERGY INC",
+      "overall_assessment": "NRG Energy has SBTi-validated targets (50% by 2025, net zero by 2050, 1.5\u00b0C-aligned, Scopes 1+2+3 with partial Scope 3) and is a Race to Zero member, but the SBTi commitment status shows 'Removed' alongside 'Target set', raising currency concerns; the 10-K excerpts provided are empty, limiting verification of mechanism clarity and governance disclosures.",
+      "supplemental_indicators": {
+        "sbti_status": "targets_set"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure",
+        "conflicting_information"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "The corpus confirms 1.5\u00b0C-aligned targets covering Scopes 1, 2, and partial Scope 3, with SBTi classification noted. However, Scope 3 coverage is only partial (business travel), and one SBTi commitment row shows 'Removed' status, preventing a full 10-score. The net-zero 2050 goal with 1.5\u00b0C alignment and SBTi validation warrants a high score, but partial Scope 3 and the removal flag cap it at 8.",
+          "evidence_quote": "Our goals \u2014to reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050 \u2013 were certified by the Science Based Targets initiative as consistent with limiting global warming to 1.5 degrees Celsius."
+        },
+        "specificity": {
+          "score": 7,
+          "reasoning": "Two precise targets are defined: 50% reduction by 2025 and 100% (net zero) by 2050, both from a 2014 base year, covering Scopes 1+2+3 (partial). This provides base year, two target years, and explicit percentage values. However, only two data points exist with no additional interim milestones between 2025 and 2050, preventing a score of 10. Scores an 8 on the rubric's 'multiple precise targets' criterion but the absence of milestones between 2025 and 2050 keeps it at 7.",
+          "evidence_quote": "NRG Energy commits to reduce absolute scope 1, 2 and scope 3 business travel GHG emissions 50% by 2025 and 100% by 2050 from a 2014 base year."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "There is a long-term target (net zero 2050) and one near-term/interim target (50% by 2025). This satisfies 'long-term + 1 near-term' but there are no additional interim milestones between 2025 and 2050, and no annual or quinquennial tracking milestones disclosed in the corpus.",
+          "evidence_quote": "Our goals \u2014to reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050."
+        },
+        "mechanism_clarity": {
+          "score": 2,
+          "reasoning": "The Net Zero Tracker notes a published transition plan exists, but no content from that plan appears in the corpus. The 10-K excerpts are entirely blank. No specific mechanisms, capex figures, named projects, or offset treatment are described in the available text. Only a vague reference to 'advance on climate' is present.",
+          "evidence_quote": "We continued to advance on climate."
+        },
+        "verification_governance": {
+          "score": 5,
+          "reasoning": "SBTi validation is confirmed (1.5\u00b0C classification), and Race to Zero membership is noted, providing external target validation. Annual reporting is listed as the reporting mechanism. However, board committee structure, third-party emissions assurance, and executive compensation linkage are not specified in the corpus ('Accountability/governance: Not Specified'). The SBTi 'Removed' commitment flag also introduces uncertainty. Two elements (external validation + annual reporting) are confirmed, warranting a score near 6, but the 'Not Specified' governance and missing assurance details reduce it to 5.",
+          "evidence_quote": "certified by the Science Based Targets initiative as consistent with limiting global warming to 1.5 degrees Celsius... Reporting mechanism: Annual reporting... Accountability/governance: Not Specified"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "NRG ENERGY INC",
+      "overall_assessment": "NRG Energy has set ambitious climate targets with SBTi validation, but lacks detailed governance and mechanism clarity.",
+      "supplemental_indicators": {
+        "sbti_status": "targets_set"
+      },
+      "data_quality_flags": [
+        "no_10k_text"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "NRG Energy has committed to net-zero emissions by 2050 across Scopes 1, 2, and 3, with SBTi validation for 1.5\u00b0C alignment.",
+          "evidence_quote": "Our goals \u2014to reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050 \u2013 were certified by the Science Based Targets initiative as consistent with limiting global warming to 1.5 degrees Celsius."
+        },
+        "specificity": {
+          "score": 6,
+          "reasoning": "The company has defined a base year and two specific target years, but lacks multiple interim targets.",
+          "evidence_quote": "reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050."
+        },
+        "time_horizon": {
+          "score": 6,
+          "reasoning": "NRG Energy has a long-term target for 2050 and an interim target for 2025, but no additional interim targets.",
+          "evidence_quote": "reduce carbon dioxide equivalent emissions by 50% by 2025 from our current 2014 baseline and to achieve net zero by 2050."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "The disclosure mentions a transition plan but lacks detailed mechanisms or quantified financial commitments.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "The disclosure lacks specific governance structures or verification mechanisms beyond SBTi validation.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  },
+  "XCEL ENERGY INC": {
+    "claude": {
+      "parent_name": "XCEL ENERGY INC",
+      "overall_assessment": "Xcel Energy has a moderately robust climate pledge with a net-zero 2050 target covering Scopes 1-3, an 80% interim reduction target by 2030, and a published transition plan, but the disclosure corpus lacks 10-K text and SBTi validation, limiting scores on mechanism clarity and verification/governance.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "sparse_disclosure"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 8,
+          "reasoning": "Xcel commits to net-zero by 2050 covering Scopes 1, 2, and 3, with 100% carbon-free electricity and net-zero natural gas service. The 80% reduction target by 2030 vs. 2005 baseline implies alignment with well-below-2\u00b0C trajectories. However, no SBTi validation is present, preventing a score of 10.",
+          "evidence_quote": "Become an overall net-zero energy company by 2050, including providing 100% carbon-free electricity to customers by 2050 and delivering net-zero natural gas service by 2050."
+        },
+        "specificity": {
+          "score": 8,
+          "reasoning": "Multiple precise targets are present: 80% reduction in carbon emissions from electricity by 2030 vs. 2005 baseline; 25% reduction in natural gas GHGs by 2030 vs. 2020 baseline; net-zero methane on distribution system by 2030; and net-zero overall by 2050. Two distinct baseline years (2005 and 2020) and multiple measurable values are defined. Falls short of 10 due to absence of explicit annual/quinquennial milestones beyond these anchor years.",
+          "evidence_quote": "80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "There is a long-term target (net-zero 2050) and multiple interim targets at 2030 (electricity carbon -80%, natural gas GHGs -25%, net-zero methane on distribution). This satisfies 'long-term + multiple interim.' However, no explicit annual or quinquennial milestone tracking schedule is described in the corpus, preventing a score of 10.",
+          "evidence_quote": "Interim year: 2030.0 | Interim % reduction: 80.0 | Interim description: 80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+        },
+        "mechanism_clarity": {
+          "score": 4,
+          "reasoning": "A published transition plan is noted and annual reporting is referenced, but the corpus provides no detail on specific mechanisms, capital expenditure amounts, named projects, or offset treatment. The 10-K excerpts are entirely absent, leaving only high-level target descriptions without quantified pathways.",
+          "evidence_quote": "Published transition plan: Yes | Reporting mechanism: Annual reporting"
+        },
+        "verification_governance": {
+          "score": 4,
+          "reasoning": "Annual reporting is confirmed and a published transition plan exists (suggesting some governance structure), but the corpus explicitly states 'Accountability/governance: Not Specified.' No board committee, third-party assurance, SBTi validation, or exec compensation linkage is evidenced in the available text. The 10-K risk factor and MD&A sections are blank, removing the primary source for governance disclosures. Scoring 4 for the annual reporting mechanism as one identifiable element.",
+          "evidence_quote": "Accountability/governance: Not Specified | Reporting mechanism: Annual reporting"
+        }
+      }
+    },
+    "openai": {
+      "parent_name": "XCEL ENERGY INC",
+      "overall_assessment": "Xcel Energy has a comprehensive net-zero target for 2050 covering all scopes, with interim targets for 2030. However, the disclosure lacks detailed governance and verification structures.",
+      "supplemental_indicators": {
+        "sbti_status": "not_present"
+      },
+      "data_quality_flags": [
+        "no_10k_text",
+        "no_sbti_entry"
+      ],
+      "confidence": "medium",
+      "criteria": {
+        "ambition": {
+          "score": 10,
+          "reasoning": "The company has a net-zero target for 2050 covering all scopes, which aligns with 1.5\u00b0C pathways.",
+          "evidence_quote": "Become an overall net-zero energy company by 2050, including providing 100% carbon-free electricity to customers by 2050 and delivering net-zero natural gas service by 2050."
+        },
+        "specificity": {
+          "score": 8,
+          "reasoning": "The company provides a base year and multiple interim targets with explicit years.",
+          "evidence_quote": "80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+        },
+        "time_horizon": {
+          "score": 8,
+          "reasoning": "The company has a long-term target for 2050 and multiple interim targets for 2030.",
+          "evidence_quote": "80% reduction in carbon emissions from electricity by 2030 (vs. 2005); for natural gas, a 25% reduction in GHGs by 2030 (vs. 2020) and net-zero methane on distribution system by 2030."
+        },
+        "mechanism_clarity": {
+          "score": 6,
+          "reasoning": "A published transition plan is mentioned, but specific mechanisms, capex, or project details are not provided.",
+          "evidence_quote": "Published transition plan: Yes"
+        },
+        "verification_governance": {
+          "score": 2,
+          "reasoning": "There is no specific mention of governance structures or third-party verification.",
+          "evidence_quote": "Accountability/governance: Not Specified"
+        }
+      }
+    }
+  }
+}

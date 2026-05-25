@@ -1,0 +1,33 @@
+{
+  "spec": "OLS log(co2_cems) ~ log(co2_ghgrp) with HC1 robust SE",
+  "sample": {
+    "n_obs": 7627,
+    "n_facilities": 575,
+    "n_parents": 48,
+    "dropped": "6 refinery facility-years (consistent with the LME sample)"
+  },
+  "intercept": {
+    "estimate": 0.08001263567870028,
+    "ci_95": [
+      -0.004061234584875575,
+      0.16408650594227614
+    ],
+    "zero_in_ci": true
+  },
+  "slope": {
+    "estimate": 0.992862848673962,
+    "ci_95": [
+      0.9870164452448041,
+      0.9987092521031199
+    ],
+    "one_in_ci": false
+  },
+  "r_squared": 0.9768344391853458,
+  "median_ratio_cems_over_ghgrp": 0.9964007187863795,
+  "per_parent_diagnostic": {
+    "n_parents_tested": 48,
+    "n_bonferroni_significant": 25,
+    "max_abs_systematic_deviation_pct": 20.99602216725738
+  },
+  "headline": "For the U.S. power-sector cohort (n=7,627 facility-years, 575 facilities, 48 parents), CEMS continuous-stack measurements and GHGRP self-reports show high agreement at the facility-year level (R\u00b2 = 0.977; OLS slope 0.9929 with 95% CI [0.9870, 0.9987]; intercept +0.0800 not statistically distinguishable from 0). The median CEMS/GHGRP ratio is 0.9964. Per-parent deviations are statistically detectable due to large sample sizes but bounded (largest systematic deviation = 21.0%; most parents <10%). This contrasts sharply with the broader S&P 500 where Cohen, Rouen & Sachdeva (2026) documented a 74% restatement rate, suggesting self-reports approach measurement-grade reliability in sectors with continuous monitoring infrastructure."
+}

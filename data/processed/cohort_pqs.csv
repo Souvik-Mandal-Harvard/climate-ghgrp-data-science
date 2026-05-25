@@ -1,0 +1,27 @@
+parent_name,status,pqs_composite,pqs_raw_5criterion,sbti_status,sbti_bonus,ambition_mean,specificity_mean,time_horizon_mean,mechanism_clarity_mean,verification_governance_mean,ambition_claude,specificity_claude,time_horizon_claude,mechanism_clarity_claude,verification_governance_claude,ambition_openai,specificity_openai,time_horizon_openai,mechanism_clarity_openai,verification_governance_openai
+FIRSTENERGY CORP,scored,30.0,30.0,not_present,0.0,4.0,2.0,2.0,3.0,4.0,4,2,2,4,4.0,4,2,2,2,4
+WEC Energy Group Inc,scored,46.0,46.0,not_present,0.0,5.0,6.0,7.0,3.0,2.0,4,6,6,2,2.0,6,6,8,4,2
+AES CORP,scored,48.0,48.0,not_present,0.0,7.0,4.0,6.0,2.0,5.0,6,4,6,2,4.0,8,4,6,2,6
+AMEREN CORP,scored,66.0,66.0,unknown,0.0,7.5,8.5,8.0,3.5,5.5,7,7,8,3,5.0,8,10,8,4,6
+CMS ENERGY CORP,scored,52.0,52.0,not_present,0.0,8.0,5.0,6.0,5.0,2.0,6,4,6,4,2.0,10,6,6,6,2
+CONSTELLATION ENERGY CORP,scored,56.0,56.0,not_present,0.0,8.0,8.0,7.0,2.0,3.0,6,6,6,2,4.0,10,10,8,2,2
+Vistra Corp,scored,64.0,59.0,targets_set,5.0,8.0,7.5,7.0,2.5,4.5,8,7,6,3,5.0,8,8,8,2,4
+ENTERGY CORP,scored,53.0,53.0,not_present,0.0,7.5,5.5,5.5,3.5,4.5,5,5,5,3,5.0,10,6,6,4,4
+MARATHON PETROLEUM CORP,scored,54.0,54.0,not_present,0.0,6.0,7.0,7.0,4.0,3.0,4,6,6,2,2.0,8,8,8,6,4
+ALLIANT ENERGY CORP,scored,49.0,49.0,not_present,0.0,6.5,5.5,5.5,3.0,4.0,5,5,5,2,4.0,8,6,6,4,4
+DUKE ENERGY CORP,scored,56.0,56.0,not_present,0.0,8.0,6.0,6.0,3.0,5.0,6,6,6,4,6.0,10,6,6,2,4
+DTE ENERGY CO,scored,73.0,73.0,not_present,0.0,8.0,8.5,9.0,5.0,6.0,6,7,8,4,6.0,10,10,10,6,6
+EVERGY INC,scored,24.0,24.0,not_present,0.0,4.0,3.0,2.0,2.0,1.0,4,4,2,4,2.0,4,2,2,0,0
+NEXTERA ENERGY INC,scored,74.0,74.0,not_present,0.0,7.0,9.0,9.0,6.0,6.0,6,8,8,4,6.0,8,10,10,8,6
+PINNACLE WEST CAPITAL CORP,scored,0.0,0.0,not_present,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0
+AMERICAN ELECTRIC POWER CO INC,scored,50.0,50.0,not_present,0.0,6.5,6.0,6.0,4.0,2.5,5,6,6,4,3.0,8,6,6,4,2
+THE SOUTHERN CO,scored,48.0,48.0,not_present,0.0,5.0,6.0,6.0,3.0,4.0,6,6,6,4,4.0,4,6,6,2,4
+PPL CORP,scored,46.0,46.0,not_present,0.0,8.0,5.0,6.0,2.0,2.0,6,4,6,2,2.0,10,6,6,2,2
+TALEN ENERGY CORP,scored,0.0,0.0,not_present,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0
+EXXON MOBIL CORP,scored,58.0,58.0,not_present,0.0,6.0,6.0,7.0,5.0,5.0,4,6,6,4,4.0,8,6,8,6,6
+OGE ENERGY CORP,scored,4.0,4.0,not_present,0.0,0.0,0.0,0.0,0.0,2.0,0,0,0,0,2.0,0,0,0,0,2
+UNS ENERGY CORP,scored,0.0,0.0,not_present,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0,0,0,0,0
+BERKSHIRE HATHAWAY INC,scored,0.0,0.0,not_present,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+DOMINION ENERGY INC,scored,28.0,28.0,not_present,0.0,7.0,3.0,2.0,1.0,1.0,6,4,2,2,2.0,8,2,2,0,0
+NRG ENERGY INC,scored,63.0,58.0,targets_set,5.0,9.0,6.5,6.0,3.0,4.5,8,7,6,2,5.0,10,6,6,4,4
+XCEL ENERGY INC,scored,66.0,66.0,not_present,0.0,9.0,8.0,8.0,5.0,3.0,8,8,8,4,4.0,10,8,8,6,2

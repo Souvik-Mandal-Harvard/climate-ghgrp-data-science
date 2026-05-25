@@ -1,0 +1,80 @@
+{
+  "spec": "log(co2_ghgrp) ~ log(co2_ct) + log(gross_load_mwh) + (1|parent_name) + (1|facility_id)",
+  "engine": "statsmodels.MixedLM with vc_formula for nested REs",
+  "ar1": "dropped (3-year overlap insufficient + facility REs absorb the persistence)",
+  "sample": {
+    "n_obs": 1714,
+    "n_facilities": 548,
+    "n_parents": 48,
+    "years": [
+      2021,
+      2022,
+      2023
+    ],
+    "dropped": "6 refinery facility-years (Galveston Bay Marathon + Exxon Beaumont)"
+  },
+  "fixed_effects": {
+    "intercept": {
+      "estimate": -0.09710627836488585,
+      "se": 0.09165669407821078,
+      "pvalue": 0.2893919397026682
+    },
+    "log_ct": {
+      "estimate": 0.07893691733305064,
+      "se": 0.009240203160732444,
+      "ci_95": [
+        0.06082611913801505,
+        0.09704771552808622
+      ],
+      "pvalue": 1.3104365594700505e-17
+    },
+    "log_load": {
+      "estimate": 0.8959221941387591,
+      "se": 0.007236644856217954,
+      "ci_95": [
+        0.8817383702205719,
+        0.9101060180569462
+      ],
+      "pvalue": 0.0
+    }
+  },
+  "variance_components": {
+    "parent": {
+      "variance": 0.013565887613042145,
+      "icc": 0.0955547086962145
+    },
+    "facility": {
+      "variance": 0.12250144648326683,
+      "icc": 0.8628694536964764
+    },
+    "residual": {
+      "variance": 0.00590251540813068,
+      "icc": 0.041575837607308985
+    }
+  },
+  "bland_altman": {
+    "bias_log": 0.27492924766390575,
+    "bias_pct_real": 31.64375305419631,
+    "sd_diff_log": 1.0173679661983641,
+    "loa_95_log": [
+      -1.719111966084888,
+      2.2689704614126995
+    ],
+    "loa_95_ratio": [
+      0.17922523535095322,
+      9.669440625511811
+    ],
+    "proportional_bias_slope": -0.1418566666923423,
+    "proportional_bias_pvalue": 2.0073059325852174e-20,
+    "interpretation": "Negative slope = heteroscedasticity confirmed (peaker pattern; smaller facilities have wider CT divergence)"
+  },
+  "parent_vs_state": {
+    "parent_only_variance": 0.019435098896815613,
+    "state_only_variance": 0.027700041230916312,
+    "crossed_parent_icc": 0.11972283925758567,
+    "crossed_state_icc": 0.16740579179804754,
+    "crossed_residual_icc": 0.7128713689443669,
+    "interpretation": "State and parent each absorb 10-20% of variance when crossed; residual (facility) dominates"
+  },
+  "headline": "Climate TRACE adds little independent emissions signal beyond CEMS gross load: beta_1 = 0.079 (CI [0.061, 0.097]) after controlling for log(gross_load_mwh) and nested random effects. The naive OLS slope of 0.69 reflected confounding between CT and operational intensity. Mechanism: CT relies on assumed capacity factors that fail systematically for low-capacity-factor units (peakers), overestimating their emissions by 1-3 orders of magnitude (Bland-Altman quintile analysis confirms)."
+}

@@ -1,0 +1,1543 @@
+{
+  "generated_at": "2026-05-23T00:45:43.153850+00:00",
+  "project_root": "/Users/souvikmandal/Documents/S00_Career-development/20260318_HBS_Sen-Data-Scientist/task",
+  "n_files": 256,
+  "files": [
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/ABOUT_THE_DATA/about_the_data_v5_6_0.pdf",
+      "size_bytes": 142604,
+      "sha256": "d2fa03506d2d56740b980cc8621c29ff277b5773f6ed389b436665e9e3f97d15",
+      "mtime_utc": "2026-05-22T23:40:56.268631+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/ABOUT_THE_DATA/detailed_data_schema_v5_6_0.csv",
+      "size_bytes": 185137,
+      "sha256": "f88612ba3755e826d7efbbdb1bde318246489be0d691e3a4d0cce2172230cb6d",
+      "mtime_utc": "2026-05-22T23:40:56.268934+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/crop-residues_country_emissions_v5_6_0.csv",
+      "size_bytes": 2066,
+      "sha256": "fb2e4e00a1abfb7e7bcd5306dd3063ef74fcb0a4ea1352dd28bd3ef079e400fd",
+      "mtime_utc": "2026-05-22T23:40:50.519842+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/crop-residues_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 35874603,
+      "sha256": "b02349e30f1381a1cba37e25bef88a643b0de131f62711cc49f74e2c3254de08",
+      "mtime_utc": "2026-05-22T23:40:50.538489+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/crop-residues_emissions_sources_v5_6_0.csv",
+      "size_bytes": 93548406,
+      "sha256": "7d52effae4e8aa45f094d564ceafde9aa6af48a35b526e8ada59f38e97770acd",
+      "mtime_utc": "2026-05-22T23:40:50.514743+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/cropland-fires_country_emissions_v5_6_0.csv",
+      "size_bytes": 2063,
+      "sha256": "4188c20ca21af0c45508b1ab64cf0583ca8ab4e2428bc7873a704748f5f49d92",
+      "mtime_utc": "2026-05-22T23:40:50.421504+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/cropland-fires_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 38745515,
+      "sha256": "bf1efaf0ac080e6d5946d34d43d2561e63768ff271fdca769e0a47957628f4be",
+      "mtime_utc": "2026-05-22T23:40:50.443536+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/cropland-fires_emissions_sources_v5_6_0.csv",
+      "size_bytes": 92241064,
+      "sha256": "7a66987152004c04bdf7c291a08751fb9c89fd1cf83bd2c564e53d9f3ad26ca8",
+      "mtime_utc": "2026-05-22T23:40:50.420685+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-operation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2398,
+      "sha256": "8ed26eefc025d0f43c0889dd5a2d9b7de689757dbb2c8b3b559ef2bafa9b4409",
+      "mtime_utc": "2026-05-22T23:40:51.743290+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-operation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 686558264,
+      "sha256": "3e9f06d2f282601381142222a5ae2e593d1dc5fd7a2f4f183c102f55b6ecee01",
+      "mtime_utc": "2026-05-22T23:40:51.999775+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-operation_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 349747,
+      "sha256": "a4359e33916cf0de2bf69515900ae5e9fcd40ac25dee3c2f3aaafdefafde8277",
+      "mtime_utc": "2026-05-22T23:40:51.738863+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-operation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 2458339703,
+      "sha256": "0b911e853d833244401fa255ac4c6bcb8f51f199ef2e3c0daa4875cd765b7d00",
+      "mtime_utc": "2026-05-22T23:40:51.738079+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-pasture_country_emissions_v5_6_0.csv",
+      "size_bytes": 2318,
+      "sha256": "ea04143b06220fa757d90b30acf12169cefa6d8032f5dd6d24735e306110c807",
+      "mtime_utc": "2026-05-22T23:40:52.045012+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-pasture_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 43251323,
+      "sha256": "328fbc066d9fb5391e53d7b05ae71ded2045ea127dabecdf52b2b11d339ccf44",
+      "mtime_utc": "2026-05-22T23:40:52.061503+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-cattle-pasture_emissions_sources_v5_6_0.csv",
+      "size_bytes": 97915442,
+      "sha256": "75e86c6028f8583bb725d0b920edc6560f178b8525057f248b4600d258fd76d3",
+      "mtime_utc": "2026-05-22T23:40:52.042174+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/enteric-fermentation-other_country_emissions_v5_6_0.csv",
+      "size_bytes": 2289,
+      "sha256": "0f024746bc6844a4990849fe7786e45dfdad596a31c13c8a5010321d0f74ffb5",
+      "mtime_utc": "2026-05-22T23:40:52.068350+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-applied-to-soils_country_emissions_v5_6_0.csv",
+      "size_bytes": 2181,
+      "sha256": "c4a7e0334efecfa5177265ac4892516fa2e87a85843cc5f97e52f065788558d7",
+      "mtime_utc": "2026-05-22T23:40:52.133059+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-applied-to-soils_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 38019611,
+      "sha256": "c899cc36463aa6a8405ffe4c008d84489c12e7ab5cce462dede12c66ca165382",
+      "mtime_utc": "2026-05-22T23:40:52.147287+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-applied-to-soils_emissions_sources_v5_6_0.csv",
+      "size_bytes": 96564296,
+      "sha256": "7271978dc7d92500670340d1cff8f41723b78eca7d5f664c41bba5bcb2389d16",
+      "mtime_utc": "2026-05-22T23:40:52.132687+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-left-on-pasture-cattle_country_emissions_v5_6_0.csv",
+      "size_bytes": 2242,
+      "sha256": "d680b2f2ff1c89d4f62e480f454cdfbd287b09d222857dd8d587235064441769",
+      "mtime_utc": "2026-05-22T23:40:52.187169+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-left-on-pasture-cattle_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 41964203,
+      "sha256": "8bca0dc74c6e03cd7e98e57beb50ec28b3b762992be73f018e698b2d0d67a42b",
+      "mtime_utc": "2026-05-22T23:40:52.202766+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-left-on-pasture-cattle_emissions_sources_v5_6_0.csv",
+      "size_bytes": 100634604,
+      "sha256": "d7ab306b549f34a604914b43909f7dc863aa3870df7fc3def6b953e59ce76742",
+      "mtime_utc": "2026-05-22T23:40:52.186780+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-management-cattle-operation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2366,
+      "sha256": "cd08b0b1b79cd1468a66690b096790787e75f2153cbb8c0792b6f9b697978d36",
+      "mtime_utc": "2026-05-22T23:40:53.925702+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-management-cattle-operation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 677316668,
+      "sha256": "75f33815f0515bbc5b140e5587620d7fc5c86c3fbf79e05d06ea78752e8fd1f6",
+      "mtime_utc": "2026-05-22T23:40:54.160283+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-management-cattle-operation_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 345214,
+      "sha256": "109659c8f57edf5535f864b4dac53cdcb1f5d8681a1a5f8714d28c97962a378e",
+      "mtime_utc": "2026-05-22T23:40:53.922649+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-management-cattle-operation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 4340560082,
+      "sha256": "7070bbecd7813dff7de669086716fd784e73714185a34ee5cc526b9dadb5c5e8",
+      "mtime_utc": "2026-05-22T23:40:53.921678+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/manure-management-other_country_emissions_v5_6_0.csv",
+      "size_bytes": 2247,
+      "sha256": "4e4cdaf17f869dbd14e1f7d2173983d3ad0bf429ca0b551836b962433e6cad1c",
+      "mtime_utc": "2026-05-22T23:40:54.165031+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/other-agricultural-soil-emissions_country_emissions_v5_6_0.csv",
+      "size_bytes": 2366,
+      "sha256": "a83afa2b7705b58c440f511a410ab12605938f45cad168cdb7c1f15760a35443",
+      "mtime_utc": "2026-05-22T23:40:54.165185+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/rice-cultivation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2148,
+      "sha256": "efafe8c84f40efa3d3910152065b497e0bbe9a237634da85a0ec561ae6c3962f",
+      "mtime_utc": "2026-05-22T23:40:54.200073+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/rice-cultivation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 38592687,
+      "sha256": "d0340a4d957d6bf8cbcccea1fbd4c7209fe6190bb106b2195e4c951f3d06abb5",
+      "mtime_utc": "2026-05-22T23:40:54.214631+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/rice-cultivation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 88270019,
+      "sha256": "777ae5a6012458d6abe04d70547dda5e1b2fdac7ad7ccac1ad37f210cbc26516",
+      "mtime_utc": "2026-05-22T23:40:54.197373+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/synthetic-fertilizer-application_country_emissions_v5_6_0.csv",
+      "size_bytes": 2277,
+      "sha256": "84dcd9b90339487a73c480e67a1f4f6c608cad3ed3ccc7571b363abcfa627f91",
+      "mtime_utc": "2026-05-22T23:40:54.298033+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/synthetic-fertilizer-application_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 39507603,
+      "sha256": "a374669758cd9fedb3368d4f53677392b9a03467c4bc41bbf582610f64563682",
+      "mtime_utc": "2026-05-22T23:40:54.311287+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/agriculture/synthetic-fertilizer-application_emissions_sources_v5_6_0.csv",
+      "size_bytes": 126209138,
+      "sha256": "e9650ef46a048f7db38c7174a34f4302217a72baf6975131ebf5bc7c16a6bdd8",
+      "mtime_utc": "2026-05-22T23:40:54.297635+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/non-residential-onsite-fuel-usage_country_emissions_v5_6_0.csv",
+      "size_bytes": 2281,
+      "sha256": "107f0a7fcf7ed0a689aedc11eeb1766ad97f9fe94070ab5d27dac16f30f7539f",
+      "mtime_utc": "2026-05-22T23:40:54.434706+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/non-residential-onsite-fuel-usage_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 40210967,
+      "sha256": "74fc6b2539c7204407460568fb299376c91c0405dbc4c4252862dac3fcedc298",
+      "mtime_utc": "2026-05-22T23:40:54.448983+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/non-residential-onsite-fuel-usage_emissions_sources_v5_6_0.csv",
+      "size_bytes": 138199902,
+      "sha256": "81a534203e5726e14508163a16d67de30d96e2604d06bbec97386dc3b5a3e937",
+      "mtime_utc": "2026-05-22T23:40:54.434369+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/other-onsite-fuel-usage_country_emissions_v5_6_0.csv",
+      "size_bytes": 2230,
+      "sha256": "5cd36bdced8a284bb2f956f5e1584087bad439092b9ef9933cf44c33f451c29e",
+      "mtime_utc": "2026-05-22T23:40:54.451762+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/residential-onsite-fuel-usage_country_emissions_v5_6_0.csv",
+      "size_bytes": 2225,
+      "sha256": "009f2dbea2a3d13dc13150836cb84b3349d3ff2d26e4d360f7b57c5b064fccb6",
+      "mtime_utc": "2026-05-22T23:40:54.580698+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/residential-onsite-fuel-usage_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 39352763,
+      "sha256": "a1e1d5ab7205243965fa3b33fc9a2b91fb4f3549a9b5e7a7504731bcc771e821",
+      "mtime_utc": "2026-05-22T23:40:54.594174+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/buildings/residential-onsite-fuel-usage_emissions_sources_v5_6_0.csv",
+      "size_bytes": 140361852,
+      "sha256": "6b457820370a83b7ec727c0c163a56f4244e990336fd2a1e668e8705db07a145",
+      "mtime_utc": "2026-05-22T23:40:54.579637+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fluorinated_gases/fluorinated-gases_country_emissions_v5_6_0.csv",
+      "size_bytes": 2247,
+      "sha256": "3d7cfab8c9d12bf88adbcd3e5aea5371070cd07a218dd3e28f8373e84331f356",
+      "mtime_utc": "2026-05-22T23:40:54.594559+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-clearing_country_emissions_v5_6_0.csv",
+      "size_bytes": 2300,
+      "sha256": "b84bc02a77dd760d49f9c85d649ca4f695bce751ba72db2a2ae70c824c59faea",
+      "mtime_utc": "2026-05-22T23:40:54.638106+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-clearing_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 40571303,
+      "sha256": "ab0b4adfc3e901e07155be4a86e3eec7ffaef019a3912949c78b0801153c0b88",
+      "mtime_utc": "2026-05-22T23:40:54.653184+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-clearing_emissions_sources_v5_6_0.csv",
+      "size_bytes": 95270688,
+      "sha256": "27f2c099a14218453bc33fe57ebb6be81d04191f5e7db3214a7993ef22913ad5",
+      "mtime_utc": "2026-05-22T23:40:54.637788+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-degradation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2316,
+      "sha256": "d5bf13ea94123c49c02155e1bd928f2f5b56f402ccf9232b5920790e7d376633",
+      "mtime_utc": "2026-05-22T23:40:54.690572+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-degradation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 42741219,
+      "sha256": "cab5567f8200040928898bf79ba4d7923e0f6ca743efe8ea537dd98841948aa8",
+      "mtime_utc": "2026-05-22T23:40:54.705404+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-degradation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 90703277,
+      "sha256": "c5796c76b06f55b93c315dbc736f44f49719b7e4ff3af867077cbb101148d5e7",
+      "mtime_utc": "2026-05-22T23:40:54.687281+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-fires_country_emissions_v5_6_0.csv",
+      "size_bytes": 2266,
+      "sha256": "9cc1e5db8f4298292d62334ab3b526e3c2fdf3fe32fed5ea8155cb1db2af3837",
+      "mtime_utc": "2026-05-22T23:40:54.746901+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-fires_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 40721849,
+      "sha256": "3e48a4d4468494bf51e096c00227e484f69dbe6a111e3236fef158bf7d7aa91f",
+      "mtime_utc": "2026-05-22T23:40:54.761951+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/forest-land-fires_emissions_sources_v5_6_0.csv",
+      "size_bytes": 92952187,
+      "sha256": "d99f1d9018432c2044034e7d5a0bd5e71ab7b07752f41607a4f49bb1c8182968",
+      "mtime_utc": "2026-05-22T23:40:54.746578+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-forest-land_country_emissions_v5_6_0.csv",
+      "size_bytes": 2227,
+      "sha256": "02cbc1e43e256347e473cf5f2fc234605e223d7dc6d3eacb75302e953a787c76",
+      "mtime_utc": "2026-05-22T23:40:54.804968+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-forest-land_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 39505209,
+      "sha256": "92785afd177d9bf295d000c9779c47cb84490ff89a6fa4502930b1b29107813f",
+      "mtime_utc": "2026-05-22T23:40:54.819620+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-forest-land_emissions_sources_v5_6_0.csv",
+      "size_bytes": 98126876,
+      "sha256": "dd11c967fe0e44537bc39cb361b4578500b1feda3b8270e828265c442cc3f569",
+      "mtime_utc": "2026-05-22T23:40:54.802369+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-shrubgrass_country_emissions_v5_6_0.csv",
+      "size_bytes": 2210,
+      "sha256": "e550efbd6ff0cfd5240eb3f9b5a22af0c104d8b64272a5566ced339550430732",
+      "mtime_utc": "2026-05-22T23:40:54.861546+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-shrubgrass_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 39201465,
+      "sha256": "b615616b1d0221fa1f1b1ceefbf8c8e7cdb5bc2ec7507d80f0d4be14d02e52c1",
+      "mtime_utc": "2026-05-22T23:40:54.876617+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-shrubgrass_emissions_sources_v5_6_0.csv",
+      "size_bytes": 97259464,
+      "sha256": "d35d79355469f774051dc3ada1853fc8c485b90f4415423d05451327383ad284",
+      "mtime_utc": "2026-05-22T23:40:54.856795+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-wetland_country_emissions_v5_6_0.csv",
+      "size_bytes": 2169,
+      "sha256": "fb116b10c769bff21e59144fec2b892a2a26151615af91ce80054fc661deff3c",
+      "mtime_utc": "2026-05-22T23:40:54.918846+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-wetland_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 38655901,
+      "sha256": "ba98bec9a23e2b21d1e976e88e4387558f07330beb42d2cd07475f68d361e180",
+      "mtime_utc": "2026-05-22T23:40:54.933395+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/net-wetland_emissions_sources_v5_6_0.csv",
+      "size_bytes": 97111388,
+      "sha256": "2baef780ac6d48c6a8c7ffb8c5445a8efb0c489edc7a31105556c64b8b1a7a20",
+      "mtime_utc": "2026-05-22T23:40:54.918510+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/removals_country_emissions_v5_6_0.csv",
+      "size_bytes": 2145,
+      "sha256": "819b2cfed474ffa7351037b0326c57b03387b28178a62c9440c0590866d31c07",
+      "mtime_utc": "2026-05-22T23:40:54.977274+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/removals_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 39406145,
+      "sha256": "0f7b3c9f90d9c4f98414cd2f04b27384d33f118e73a6ac5781d0af61dd468c28",
+      "mtime_utc": "2026-05-22T23:40:54.991238+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/removals_emissions_sources_v5_6_0.csv",
+      "size_bytes": 96820824,
+      "sha256": "f4716db9daa9205ab75923b407307253fa5fe6ef05f263d08feeffcb13ea6be1",
+      "mtime_utc": "2026-05-22T23:40:54.971349+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/shrubgrass-fires_country_emissions_v5_6_0.csv",
+      "size_bytes": 2252,
+      "sha256": "b0c27f7a9dfe0a6f8fa47576afeea912f3fed6b90007d1a773f624fca6a2a836",
+      "mtime_utc": "2026-05-22T23:40:55.038202+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/shrubgrass-fires_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 40563613,
+      "sha256": "fd625be7351f09c1f787ac84c3f586ebef39ffc9d811d6fbf46f2014116de26f",
+      "mtime_utc": "2026-05-22T23:40:55.054480+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/shrubgrass-fires_emissions_sources_v5_6_0.csv",
+      "size_bytes": 91729758,
+      "sha256": "cc9573d92a13c9a4846c3e825ad548008cc125a690b43eb6ef2fa8b3de4fdfa9",
+      "mtime_utc": "2026-05-22T23:40:55.036540+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/water-reservoirs_country_emissions_v5_6_0.csv",
+      "size_bytes": 2211,
+      "sha256": "1c30cc9c605e1e487db20cf986d5aefe63a8c3fee9a309c56a4eef90a32df12c",
+      "mtime_utc": "2026-05-22T23:40:55.104102+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/water-reservoirs_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 20645628,
+      "sha256": "c37d4c05cb6156f4c4daebc9966ae4c6a5c84bc21ed0becd81949037255077b3",
+      "mtime_utc": "2026-05-22T23:40:55.111786+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/water-reservoirs_emissions_sources_v5_6_0.csv",
+      "size_bytes": 63952169,
+      "sha256": "f84e332f1a505be73ae236e7770491b75c17afaef3a37c282b7233951b2e605d",
+      "mtime_utc": "2026-05-22T23:40:55.101533+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/wetland-fires_country_emissions_v5_6_0.csv",
+      "size_bytes": 2215,
+      "sha256": "c44a8aa5b2fc2a94e4a2bbee4a4ea5b2cd5b27b58357ac45fa5ff514031948de",
+      "mtime_utc": "2026-05-22T23:40:55.154568+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/wetland-fires_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 40347645,
+      "sha256": "5943babd9b0d0873548ed98762a9325305d21122bd3f375d6d675e37fd4e114e",
+      "mtime_utc": "2026-05-22T23:40:55.168629+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/forestry_and_land_use/wetland-fires_emissions_sources_v5_6_0.csv",
+      "size_bytes": 95827568,
+      "sha256": "dd00c3bb140b47f7b1168bf874cdb0ed49b00ae6230e063e7993f790a20801f4",
+      "mtime_utc": "2026-05-22T23:40:55.154186+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/coal-mining_country_emissions_v5_6_0.csv",
+      "size_bytes": 2221,
+      "sha256": "8287325bc31b604efbeac95a8b0c3a37fd6bd1baa77c764aaf7c2f657b78fbad",
+      "mtime_utc": "2026-05-22T23:40:55.187216+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/coal-mining_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 7265455,
+      "sha256": "62402c3bb1ab56be659e9a4f603eb8bf47e65d081c71a7619b5f0249b2ac34b2",
+      "mtime_utc": "2026-05-22T23:40:55.189942+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/coal-mining_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 332872,
+      "sha256": "6e82ec93286b33a737ef26bcbce7f50a5c6e52986d816e672ccc16d4761e119c",
+      "mtime_utc": "2026-05-22T23:40:55.186585+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/coal-mining_emissions_sources_v5_6_0.csv",
+      "size_bytes": 25391715,
+      "sha256": "64976b7c3ad52ea98867e201c3dbf6fc64273f1d49b1b64a9de22b1d1c541e77",
+      "mtime_utc": "2026-05-22T23:40:55.181672+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-production_country_emissions_v5_6_0.csv",
+      "size_bytes": 2304,
+      "sha256": "b0cb35d305b59eae5d06ac0e3d193ae4040fef692537a1db2f2ddaec673cfe60",
+      "mtime_utc": "2026-05-22T23:40:55.195770+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-production_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 4587565,
+      "sha256": "db705f2edd5b87b1e105436f76ea9f2175883168330e0de1028d95d297c54f8d",
+      "mtime_utc": "2026-05-22T23:40:55.197791+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-production_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 6846,
+      "sha256": "ca16ff5b94f4171d982f8cf57c524a9341fac6e42f4efe46b06ecfa30dd5db21",
+      "mtime_utc": "2026-05-22T23:40:55.195623+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-production_emissions_sources_v5_6_0.csv",
+      "size_bytes": 7987349,
+      "sha256": "a40b1ae5454e42aa2dafc19562fc3228625d7d27f3f6ad7fe226297572b50cda",
+      "mtime_utc": "2026-05-22T23:40:55.194531+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-refining_country_emissions_v5_6_0.csv",
+      "size_bytes": 2331,
+      "sha256": "9edbba41763601ee9418bfe0e7e19c2650c05d08b9be1c62de9167aa50b059e8",
+      "mtime_utc": "2026-05-22T23:40:55.202818+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-refining_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 1668779,
+      "sha256": "fc176a23ecb0db4adb350e72eeb8278fca45650f9c2f9ef7a04646e214a561ec",
+      "mtime_utc": "2026-05-22T23:40:55.203558+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-refining_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 160899,
+      "sha256": "38c87737d675467ad4136cf9f9259367772cd13325f4b763db601b728e3834ce",
+      "mtime_utc": "2026-05-22T23:40:55.202632+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-refining_emissions_sources_v5_6_0.csv",
+      "size_bytes": 3625860,
+      "sha256": "5d2e60bb778428ad127e135412b51618524a17f316a50ca41bea270ec3b9b667",
+      "mtime_utc": "2026-05-22T23:40:55.202252+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-transport_country_emissions_v5_6_0.csv",
+      "size_bytes": 2286,
+      "sha256": "7936c7bcdd2a006b8345c1678f62f2e45ca6f149c17900eb222e2b8dc94b78a4",
+      "mtime_utc": "2026-05-22T23:40:55.211465+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-transport_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 4565741,
+      "sha256": "9c7a5ada1a87b0ff1ecc68940a27de11d03a6c7a2a871abfb7777324de2cae33",
+      "mtime_utc": "2026-05-22T23:40:55.212950+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-transport_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 4855,
+      "sha256": "317a01c7d0dec7b1dec4f207b28723b32a8c3b058ad513a8f83eff8e02dc2c5e",
+      "mtime_utc": "2026-05-22T23:40:55.211216+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/oil-and-gas-transport_emissions_sources_v5_6_0.csv",
+      "size_bytes": 7926643,
+      "sha256": "ace9e26e948a30ac32c1af315f5592e7d3225904ebb82e13d4d2e3461d6acc98",
+      "mtime_utc": "2026-05-22T23:40:55.210523+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/other-fossil-fuel-operations_country_emissions_v5_6_0.csv",
+      "size_bytes": 2246,
+      "sha256": "c838853dbf743721cf9b076bc557876f7420f31efcb55a885550957456697092",
+      "mtime_utc": "2026-05-22T23:40:55.213128+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/fossil_fuel_operations/other-solid-fuels_country_emissions_v5_6_0.csv",
+      "size_bytes": 2309,
+      "sha256": "95d8de3f864786e21bab28c9ff3d21f4234cf29bda14d3fcaf91f0277297ab6f",
+      "mtime_utc": "2026-05-22T23:40:55.213627+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/aluminum_country_emissions_v5_6_0.csv",
+      "size_bytes": 2081,
+      "sha256": "3b8400772f4f516929e6209cea8c8522bdd2a96e40fc4a2e33bd57e6323d8641",
+      "mtime_utc": "2026-05-22T23:40:55.217685+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/aluminum_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 90723,
+      "sha256": "e92e0d6e3893551ba8e32b81f58ffdb64aadc8d8859b3ebb348b50a58cf2cc5a",
+      "mtime_utc": "2026-05-22T23:40:55.217800+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/aluminum_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 4056,
+      "sha256": "4cc19898e95bcc9f60e6a44cfc87bd20137708e4c23cd94dfd7e89222846a7d1",
+      "mtime_utc": "2026-05-22T23:40:55.217433+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/aluminum_emissions_sources_v5_6_0.csv",
+      "size_bytes": 448169,
+      "sha256": "0e29d7fceb4aa64c65c24d3362288f30f15fc73507a9b2ea43a5199db005d762",
+      "mtime_utc": "2026-05-22T23:40:55.214101+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/cement_country_emissions_v5_6_0.csv",
+      "size_bytes": 2040,
+      "sha256": "f700fb89410dcebb5551a7285a35527165b20a92feaba8fe27ed6b79d362ba95",
+      "mtime_utc": "2026-05-22T23:40:55.221474+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/cement_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 835643,
+      "sha256": "1fe0f5ad8bd06d31df8e910ced816f2736349867cef5969976100469e2e99fa6",
+      "mtime_utc": "2026-05-22T23:40:55.221821+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/cement_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 160206,
+      "sha256": "1bf4723eb722f08f79dc88dbf637fce72ed55f2fc9ddeebac65dd50ba21acf15",
+      "mtime_utc": "2026-05-22T23:40:55.221351+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/cement_emissions_sources_v5_6_0.csv",
+      "size_bytes": 3763622,
+      "sha256": "bcb817fde79bed16733ab6c8ca36997770262fa6c617ce95f2fbf56d542a92ef",
+      "mtime_utc": "2026-05-22T23:40:55.220606+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/chemicals_country_emissions_v5_6_0.csv",
+      "size_bytes": 2079,
+      "sha256": "3d7de854d12b128ce03136ed4530124676d02327a10401a6ff83c66d171e4e43",
+      "mtime_utc": "2026-05-22T23:40:55.227432+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/chemicals_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 314487,
+      "sha256": "2a6d7a6a442e5ec4747bbf6f2958643fd8b8151bd2277265aacb2c4e76bbe3ec",
+      "mtime_utc": "2026-05-22T23:40:55.227631+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/chemicals_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 12938,
+      "sha256": "96c8632c39d9095dd5de65c40df1dda8a8ac072cdc6a6f625cb348cd8d8597bc",
+      "mtime_utc": "2026-05-22T23:40:55.227297+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/chemicals_emissions_sources_v5_6_0.csv",
+      "size_bytes": 707974,
+      "sha256": "1399b349536d1cca8d6326bf7f3dbe24869162b9ffd8831455dc431a66b9696a",
+      "mtime_utc": "2026-05-22T23:40:55.222239+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/food-beverage-tobacco_country_emissions_v5_6_0.csv",
+      "size_bytes": 2246,
+      "sha256": "f213e1f61b3998a5685edc11aa5579e3a46c5eb86169b24c1f0f37bc73fe6bdd",
+      "mtime_utc": "2026-05-22T23:40:55.353004+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/food-beverage-tobacco_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 171599299,
+      "sha256": "996b04270e7cbb6ade84ca3820549aedd920b99c4eddd265712a80c27e24d8eb",
+      "mtime_utc": "2026-05-22T23:40:55.416046+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/food-beverage-tobacco_emissions_sources_v5_6_0.csv",
+      "size_bytes": 326761084,
+      "sha256": "e74a507423550ccc501c53594d3058aecb22afb69fa262d549158feb137271ab",
+      "mtime_utc": "2026-05-22T23:40:55.351114+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/glass_country_emissions_v5_6_0.csv",
+      "size_bytes": 2053,
+      "sha256": "144975ee9729af94fc9c6cb955691d8b3f60bff57354c66e071a66c7e6f72412",
+      "mtime_utc": "2026-05-22T23:40:55.418196+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/glass_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 1373641,
+      "sha256": "de7e0067af79f9e4ac4082af0461a623654a801099d81536d7948a4366ac6fb2",
+      "mtime_utc": "2026-05-22T23:40:55.418793+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/glass_emissions_sources_v5_6_0.csv",
+      "size_bytes": 2595929,
+      "sha256": "378370be0667a0490cc9053e30cf31c653656d75a24971e635c70868dbbafadc",
+      "mtime_utc": "2026-05-22T23:40:55.417310+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/iron-and-steel_country_emissions_v5_6_0.csv",
+      "size_bytes": 2088,
+      "sha256": "d88ec0a6c047437d4f427ab71ea34c29a93c073ec0da55f0c6979bdef997f856",
+      "mtime_utc": "2026-05-22T23:40:55.422391+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/iron-and-steel_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 796977,
+      "sha256": "dbb71a24fd3bcc61bad0b189b3a88bbd8d21223fcbc290d4372f07ad0aba18aa",
+      "mtime_utc": "2026-05-22T23:40:55.422782+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/iron-and-steel_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 126670,
+      "sha256": "2d7f7db69821e636714de20ced7ab5f8cc0b74049ebd06e9ab6df6aad3c71afd",
+      "mtime_utc": "2026-05-22T23:40:55.422227+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/iron-and-steel_emissions_sources_v5_6_0.csv",
+      "size_bytes": 3415055,
+      "sha256": "05b9a06f3239ce32f6a710e9bf71fba3b22c14cdf4557c37484fdff4c154fadc",
+      "mtime_utc": "2026-05-22T23:40:55.421550+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/lime_country_emissions_v5_6_0.csv",
+      "size_bytes": 2040,
+      "sha256": "929981861902b7bfec157d0ee223341a29318216bf56d46b21051255acff77b6",
+      "mtime_utc": "2026-05-22T23:40:55.424937+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/lime_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 1425175,
+      "sha256": "3f7da3f4b826e8cb578baf3ba86ea314f8dd02d601bd0816bf8e676404c93a42",
+      "mtime_utc": "2026-05-22T23:40:55.425599+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/lime_emissions_sources_v5_6_0.csv",
+      "size_bytes": 2988779,
+      "sha256": "88588405588b2aa01fe1eceb18e1cfd4cb2ec3ad27b9e23a4e609fa70b1563bd",
+      "mtime_utc": "2026-05-22T23:40:55.424765+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-chemicals_country_emissions_v5_6_0.csv",
+      "size_bytes": 2185,
+      "sha256": "b31f4a48ce498910d7d40a0ad8a0f346f99bbc8fb91a54932200c8d7aab7c163",
+      "mtime_utc": "2026-05-22T23:40:55.436521+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-chemicals_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 5160259,
+      "sha256": "e59ee97d93fbfc4649cef2e17667bb53b528890211c58eba8f450e2082be1eab",
+      "mtime_utc": "2026-05-22T23:40:55.438159+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-chemicals_emissions_sources_v5_6_0.csv",
+      "size_bytes": 11817462,
+      "sha256": "33375db5f1d7e4bab2902768dd81b6220d3cc7d6dc2e3621714b8fa28c09eb4f",
+      "mtime_utc": "2026-05-22T23:40:55.430930+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-manufacturing_country_emissions_v5_6_0.csv",
+      "size_bytes": 2232,
+      "sha256": "61e1f6e4f129274d8aa4970a0fd3897dee8d99b3dc0abca8e64d6ac49ab53732",
+      "mtime_utc": "2026-05-22T23:40:55.441999+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-manufacturing_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 4212227,
+      "sha256": "70e0f47cec29634d709e057c7bd3ae231bb1b33b5b7e4da5dbf7a5632256253b",
+      "mtime_utc": "2026-05-22T23:40:55.443366+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-manufacturing_emissions_sources_v5_6_0.csv",
+      "size_bytes": 9377686,
+      "sha256": "aefd8f04dd9ad09b1d0c13e1feed7439093ebe321e69a9e7253fea0bf7e198cc",
+      "mtime_utc": "2026-05-22T23:40:55.441726+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-metals_country_emissions_v5_6_0.csv",
+      "size_bytes": 2146,
+      "sha256": "e39d9e76e4a0370627ec040f66db85a319abe6143f39cb439a725c13f22c03fe",
+      "mtime_utc": "2026-05-22T23:40:55.451639+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-metals_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 3940471,
+      "sha256": "7a41012d13ba34c40101724957d5e39b96294bcdb407113a01eaf9de3c686600",
+      "mtime_utc": "2026-05-22T23:40:55.453706+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/other-metals_emissions_sources_v5_6_0.csv",
+      "size_bytes": 8953520,
+      "sha256": "75717c6cb90ed60478de9a0bc1069eeccf8bc298534b96663f6c95f649d16263",
+      "mtime_utc": "2026-05-22T23:40:55.446924+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/petrochemical-steam-cracking_country_emissions_v5_6_0.csv",
+      "size_bytes": 2315,
+      "sha256": "86ea6784cd99a1950fc8f9b4fe997a0fb2f0a15a87ee66595b8d8e642d8e3358",
+      "mtime_utc": "2026-05-22T23:40:55.455127+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/petrochemical-steam-cracking_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 431547,
+      "sha256": "7310d7c8c56a0b95add357752d2e70feeca79c7700ef8afaa9b9a53a2927668e",
+      "mtime_utc": "2026-05-22T23:40:55.455423+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/petrochemical-steam-cracking_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 57358,
+      "sha256": "c11f4f81c1fd9fba1303dc01b41d31c9f243a24cfec54bcf04c53cfee9f4dccc",
+      "mtime_utc": "2026-05-22T23:40:55.455009+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/petrochemical-steam-cracking_emissions_sources_v5_6_0.csv",
+      "size_bytes": 943349,
+      "sha256": "9acadbc2eccf405469baa5b84921f49f416839ae9e813e3cd49ac9a00e429f1c",
+      "mtime_utc": "2026-05-22T23:40:55.454307+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/pulp-and-paper_country_emissions_v5_6_0.csv",
+      "size_bytes": 2152,
+      "sha256": "a252777b64f5e02fb63b49c7c7d4f6e2eee3b968ce2ec513dbd9d4cc8590ade8",
+      "mtime_utc": "2026-05-22T23:40:55.456225+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/pulp-and-paper_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 12029,
+      "sha256": "de464f3be22ef63250705621a407d635d827f2732cc46a4005bf8069853a8614",
+      "mtime_utc": "2026-05-22T23:40:55.456334+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/pulp-and-paper_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 989,
+      "sha256": "65c818c8040ac8fced49856021944fd9b97c1f56f8d5aeeef96818f724f32653",
+      "mtime_utc": "2026-05-22T23:40:55.456124+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/pulp-and-paper_emissions_sources_v5_6_0.csv",
+      "size_bytes": 29250,
+      "sha256": "33381f04bd7664ea2b48ede9f6a3724b88efeaeca2f141da2c19d415d1470319",
+      "mtime_utc": "2026-05-22T23:40:55.456012+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/textiles-leather-apparel_country_emissions_v5_6_0.csv",
+      "size_bytes": 2290,
+      "sha256": "080fb2102426e867188d076c7a5a86d99980032b8921f2738e16e6d80b7202e5",
+      "mtime_utc": "2026-05-22T23:40:55.458094+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/textiles-leather-apparel_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 1706673,
+      "sha256": "bfb124afc15a02e13a90d3f56c1c3f2c0f3022c663fe7c00309024ce24a3b2be",
+      "mtime_utc": "2026-05-22T23:40:55.458690+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/textiles-leather-apparel_emissions_sources_v5_6_0.csv",
+      "size_bytes": 3219513,
+      "sha256": "82638b675d0ed044d5f60b540370741077a842dfbb4aa11e82b7f89aa92675e8",
+      "mtime_utc": "2026-05-22T23:40:55.457455+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/manufacturing/wood-and-wood-products_country_emissions_v5_6_0.csv",
+      "size_bytes": 2260,
+      "sha256": "0074718c053a5fc1276815b6609a75e48f2ac048f892a10e3ff168e40799e21e",
+      "mtime_utc": "2026-05-22T23:40:55.462153+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/bauxite-mining_country_emissions_v5_6_0.csv",
+      "size_bytes": 2012,
+      "sha256": "40086548086012b75458b2b7a5d0eaa66d75e43673841fa8433959ea06e89833",
+      "mtime_utc": "2026-05-22T23:40:55.462331+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/copper-mining_country_emissions_v5_6_0.csv",
+      "size_bytes": 2195,
+      "sha256": "c47895516f65794b0c706188ec808f3df8077feb632e8664a407e070720b5074",
+      "mtime_utc": "2026-05-22T23:40:55.463526+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/copper-mining_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 478245,
+      "sha256": "9e5ebcff13c67940bf74410f7b03e1f3b9f6cf94b1fd600460c477117de0aa87",
+      "mtime_utc": "2026-05-22T23:40:55.463831+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/copper-mining_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 19655,
+      "sha256": "313347274333b6c6040bbfeb9f1a39e51236336273990942851de3319ceefaa3",
+      "mtime_utc": "2026-05-22T23:40:55.463407+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/copper-mining_emissions_sources_v5_6_0.csv",
+      "size_bytes": 1257398,
+      "sha256": "bb7d2139f3101cba2c318df702436e92cb7a8a8adc6b4527850cc6fa1a7b31e1",
+      "mtime_utc": "2026-05-22T23:40:55.463253+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/iron-mining_country_emissions_v5_6_0.csv",
+      "size_bytes": 2145,
+      "sha256": "8c8904c0b8f2985336a1d82afefb8ae19c930db84e249645963d64f95313dbc9",
+      "mtime_utc": "2026-05-22T23:40:55.466224+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/iron-mining_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 168057,
+      "sha256": "92bd30546d495ce8d0e7b8aace6e4926203781d9bd3e44c39dd2c394621d1894",
+      "mtime_utc": "2026-05-22T23:40:55.466379+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/iron-mining_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 26188,
+      "sha256": "8b29534c936f89bafd7228a39ac6e590470600b8f989f6341bef58312bb34388",
+      "mtime_utc": "2026-05-22T23:40:55.465994+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/iron-mining_emissions_sources_v5_6_0.csv",
+      "size_bytes": 424753,
+      "sha256": "858473812b7aad7f3a5fe2300411cccd87e7dbe8b893bfd36d4421c17f14dc8e",
+      "mtime_utc": "2026-05-22T23:40:55.465333+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/other-mining-quarrying_country_emissions_v5_6_0.csv",
+      "size_bytes": 2326,
+      "sha256": "a7f926239692faf9801e7381680ebc8109e7953db50b4593a980531b93c8f4fd",
+      "mtime_utc": "2026-05-22T23:40:55.466918+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/rock-quarrying_country_emissions_v5_6_0.csv",
+      "size_bytes": 2204,
+      "sha256": "c7c720c5859b4257759511827a863bff2278a2b1a10d6e2d77ae65a9bee324cf",
+      "mtime_utc": "2026-05-22T23:40:55.467015+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/mineral_extraction/sand-quarrying_country_emissions_v5_6_0.csv",
+      "size_bytes": 2204,
+      "sha256": "d299e2dcba74f430871fcad9f9515f03010422401739467843021331307985c3",
+      "mtime_utc": "2026-05-22T23:40:55.467107+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/power/electricity-generation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2067,
+      "sha256": "0f230aa23cad8a3423ea2caef7db88494388e144d9159d6657a75b7de985b646",
+      "mtime_utc": "2026-05-22T23:40:55.515976+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/power/electricity-generation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 26379891,
+      "sha256": "06643abb6d60355cc89e5233002ba5f69f5b194a987d2f5afadadb0787e76a0f",
+      "mtime_utc": "2026-05-22T23:40:55.530814+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/power/electricity-generation_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 3345389,
+      "sha256": "ffd0ff87bc428eea6d0bb29277355ebee09dc765dcdd700c01d5506f479f863e",
+      "mtime_utc": "2026-05-22T23:40:55.514592+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/power/electricity-generation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 69668712,
+      "sha256": "10c0a557df368b37ce9ba630076807380ac7e2ab7637ad50e7c4dbcc9425ee36",
+      "mtime_utc": "2026-05-22T23:40:55.512028+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/power/heat-plants_country_emissions_v5_6_0.csv",
+      "size_bytes": 1766,
+      "sha256": "8bde1b0d553a80682243c0fe6c607c2ea349e5ee38e1a324ce629fa874536890",
+      "mtime_utc": "2026-05-22T23:40:55.531124+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/power/other-energy-use_country_emissions_v5_6_0.csv",
+      "size_bytes": 2088,
+      "sha256": "2bf885e0f665ebd924947f017e31bc2718781003407e5802c6aa76f8594b7f59",
+      "mtime_utc": "2026-05-22T23:40:55.531271+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-aviation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2146,
+      "sha256": "aa454420d8333df2c4b28ace50d7ef34eb6643d88705b0ceec40dcf6441a64f0",
+      "mtime_utc": "2026-05-22T23:40:55.553622+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-aviation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 10047967,
+      "sha256": "c497436e3c240e845d7aa064e6bdaee904801004daf9304133963da91766194e",
+      "mtime_utc": "2026-05-22T23:40:55.557583+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-aviation_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 327441,
+      "sha256": "c56620c26f0ac367e9ec639a3ceed44eb0cc721d7c7105654e61a817eeef4ed1",
+      "mtime_utc": "2026-05-22T23:40:55.553352+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-aviation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 18914721,
+      "sha256": "3db9aa624f0acdbe94d4cec567589d6edfa4b41c448bbbe78193afcbf20ca286",
+      "mtime_utc": "2026-05-22T23:40:55.549230+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-shipping_country_emissions_v5_6_0.csv",
+      "size_bytes": 2141,
+      "sha256": "453b165545bdafdcb14ee83a69a24e58bbb697863c2ac2cc0ca29442377ad745",
+      "mtime_utc": "2026-05-22T23:40:55.578585+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-shipping_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 8769589,
+      "sha256": "2ffca1ee1c998542e678ec2f2f48c926c2e37814af331e906cb331cf300e1e11",
+      "mtime_utc": "2026-05-22T23:40:55.581559+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/domestic-shipping_emissions_sources_v5_6_0.csv",
+      "size_bytes": 22467413,
+      "sha256": "0bfd59e1d5898202833c2ada087026b75a4da703365b567893c17015240839fc",
+      "mtime_utc": "2026-05-22T23:40:55.577680+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-aviation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2200,
+      "sha256": "7a6c3ad8066158d01af7b618da7561cada4c3040cf244f1347db29895f0dbac7",
+      "mtime_utc": "2026-05-22T23:40:55.592322+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-aviation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 3069743,
+      "sha256": "173e34708b7ecf0bdae5ad08fb8de82a7cb7cd02ad1e463e345007995a3931d2",
+      "mtime_utc": "2026-05-22T23:40:55.593609+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-aviation_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 152321,
+      "sha256": "523bd4fc7227cf0040691357377da9efb741e969b5005f4950210094145d6f84",
+      "mtime_utc": "2026-05-22T23:40:55.592149+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-aviation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 5375001,
+      "sha256": "66c83fff5c6b642e658e75d1346eb9ea017158756706d480d26cabd5dda8cc4d",
+      "mtime_utc": "2026-05-22T23:40:55.591096+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-shipping_country_emissions_v5_6_0.csv",
+      "size_bytes": 2199,
+      "sha256": "7b3270816f7d55a4ef81891a06ed0a33af89959f0b9f3ca8611bcd7da041443e",
+      "mtime_utc": "2026-05-22T23:40:55.607105+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-shipping_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 7764319,
+      "sha256": "6169f8351ddb58d886925b141be4733a5175d2b802f0e588723e846f4ec5abd4",
+      "mtime_utc": "2026-05-22T23:40:55.610901+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/international-shipping_emissions_sources_v5_6_0.csv",
+      "size_bytes": 19533907,
+      "sha256": "9915575edd7a086b576cf25910e20c3ea04aedf896bf536d0bfee3bd4fd67cc1",
+      "mtime_utc": "2026-05-22T23:40:55.606862+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/non-broadcasting-vessels_country_emissions_v5_6_0.csv",
+      "size_bytes": 2114,
+      "sha256": "af80f933ecf29282411fefbf523385e9d77beed8a960eeba3ad705c563089019",
+      "mtime_utc": "2026-05-22T23:40:55.611755+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/other-transport_country_emissions_v5_6_0.csv",
+      "size_bytes": 2189,
+      "sha256": "9e06f737b77fdc0f55f37cb549bc104d23cf61b0856e1e90d241a6006e3aeedb",
+      "mtime_utc": "2026-05-22T23:40:55.612164+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/railways_country_emissions_v5_6_0.csv",
+      "size_bytes": 2106,
+      "sha256": "ec8c694f2ffdd99f4cc450a048b719fc41d4d9bbbb2af80e9355e62ab2f60134",
+      "mtime_utc": "2026-05-22T23:40:55.613574+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/road-transportation_country_emissions_v5_6_0.csv",
+      "size_bytes": 2170,
+      "sha256": "e7c014c02df8faa9c796a5920fe800afe9eafff0dc9a35aaeea393dcf26d43ab",
+      "mtime_utc": "2026-05-22T23:40:55.752935+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/road-transportation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 35294181,
+      "sha256": "d6b9ed0a40faea8deb674ef374938d9cc46e73a8e0844e8af8acf63dbbeebc9d",
+      "mtime_utc": "2026-05-22T23:40:55.772254+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/transportation/road-transportation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 131068925,
+      "sha256": "f8aede70e71a44e2727c6c5741196f5784f804719f00077057684c949a0337e4",
+      "mtime_utc": "2026-05-22T23:40:55.751718+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/biological-treatment-of-solid-waste-and-biogenic_country_emissions_v5_6_0.csv",
+      "size_bytes": 2475,
+      "sha256": "2e17d4adc9d93315b6d23aa4556df94115a7cb8d00e61eee22cec8d880054e53",
+      "mtime_utc": "2026-05-22T23:40:55.772970+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/domestic-wastewater-treatment-and-discharge_country_emissions_v5_6_0.csv",
+      "size_bytes": 2346,
+      "sha256": "65c33c7b17e3f95d8cd87cd7a40e2a5a4ad9759dc3db3e6f9a9226a9d1198838",
+      "mtime_utc": "2026-05-22T23:40:56.144529+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/domestic-wastewater-treatment-and-discharge_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 189732551,
+      "sha256": "c338aea4a44ceeb8c411626c1939a3a8f5dcac2a084a3bcb8fd751485f6ef905",
+      "mtime_utc": "2026-05-22T23:40:56.211561+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/domestic-wastewater-treatment-and-discharge_emissions_sources_v5_6_0.csv",
+      "size_bytes": 583632333,
+      "sha256": "aa8b3bf252df82f81a87ad80f58c6eb0c20d5bc002dfe62a079b27f33cf32a7e",
+      "mtime_utc": "2026-05-22T23:40:56.141738+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/incineration-and-open-burning-of-waste_country_emissions_v5_6_0.csv",
+      "size_bytes": 2162,
+      "sha256": "434c6c0e40ad9759e7b8df6689dc41da06e47c4df44c172d236c462bd6e968ec",
+      "mtime_utc": "2026-05-22T23:40:56.211884+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/industrial-wastewater-treatment-and-discharge_country_emissions_v5_6_0.csv",
+      "size_bytes": 2373,
+      "sha256": "6f4e4cc996f66bddc825b8405f67b53320797b5f901688017f89c074d14e43d7",
+      "mtime_utc": "2026-05-22T23:40:56.215522+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/industrial-wastewater-treatment-and-discharge_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 1970049,
+      "sha256": "68abb0815fe1799dddf9e41b1efadccc29d8d556914f1e30f95e07c7b40bc8cc",
+      "mtime_utc": "2026-05-22T23:40:56.216173+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/industrial-wastewater-treatment-and-discharge_emissions_sources_v5_6_0.csv",
+      "size_bytes": 4123910,
+      "sha256": "587b19c52e0b27a9740c361ff55492458ab3f3eeeb357f076020ff23a8136963",
+      "mtime_utc": "2026-05-22T23:40:56.213367+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/solid-waste-disposal_country_emissions_v5_6_0.csv",
+      "size_bytes": 2073,
+      "sha256": "eac3198c97080650e26eef2f01c11b38f362d37079221907ee8e9d4adcbb6bbb",
+      "mtime_utc": "2026-05-22T23:40:56.257066+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/solid-waste-disposal_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 20029409,
+      "sha256": "828c6b2c2175c9ecc80325afdb234fa19c3df3b1cdd04c679468f53dde6e0985",
+      "mtime_utc": "2026-05-22T23:40:56.263797+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power/DATA/waste/solid-waste-disposal_emissions_sources_v5_6_0.csv",
+      "size_bytes": 80531958,
+      "sha256": "51f48fe29199a32943585f9d9780ead6499a9d4d9b8f7ed725fed844e1cfd7f3",
+      "mtime_utc": "2026-05-22T23:40:56.253779+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/climate_trace_us_power.zip",
+      "size_bytes": 351569742,
+      "sha256": "212c8ffe7171740c15a52ef13a05b8465cf0217eb0803ac535c16723a6920a77",
+      "mtime_utc": "2026-05-22T23:37:13.740991+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/ABOUT_THE_DATA/about_the_data_v5_6_0.pdf",
+      "size_bytes": 142604,
+      "sha256": "d2fa03506d2d56740b980cc8621c29ff277b5773f6ed389b436665e9e3f97d15",
+      "mtime_utc": "2026-04-24T02:25:10+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/ABOUT_THE_DATA/detailed_data_schema_v5_6_0.csv",
+      "size_bytes": 185137,
+      "sha256": "f88612ba3755e826d7efbbdb1bde318246489be0d691e3a4d0cce2172230cb6d",
+      "mtime_utc": "2026-04-24T02:25:10+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/DATA/electricity-generation_country_emissions_v5_6_0.csv",
+      "size_bytes": 473383,
+      "sha256": "e2baaf92a734d8861d904a1e603e92982f2452a341c873b3988a761d27bb2510",
+      "mtime_utc": "2026-04-24T02:25:24+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/DATA/electricity-generation_emissions_sources_confidence_v5_6_0.csv",
+      "size_bytes": 125102977,
+      "sha256": "2e05d952c22209893469f00619a46f9f686fd6494a7eecd518daed0a4c144c9a",
+      "mtime_utc": "2026-04-24T02:25:34+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/DATA/electricity-generation_emissions_sources_ownership_v5_6_0.csv",
+      "size_bytes": 17173084,
+      "sha256": "c90be13d77823f59a9da1f3255cfb0b7f98847a3326357fb52dc9a56c7ce4b0f",
+      "mtime_utc": "2026-04-24T02:25:24+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/DATA/electricity-generation_emissions_sources_v5_6_0.csv",
+      "size_bytes": 323776860,
+      "sha256": "daca45af683d9eed945b2593e181d9c2e35a0dae58a77d5814204e1363e69bc5",
+      "mtime_utc": "2026-04-24T02:25:24+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/DATA/heat-plants_country_emissions_v5_6_0.csv",
+      "size_bytes": 413579,
+      "sha256": "1bec9fbb48b30ae70d5b29e723174677c13f89d7faed3ac7adc278eb092ba76d",
+      "mtime_utc": "2026-04-24T02:25:34+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years/DATA/other-energy-use_country_emissions_v5_6_0.csv",
+      "size_bytes": 480805,
+      "sha256": "cb655b2409b941a9402baf306bb9859d76c82bcead4f0505232f332286725fe0",
+      "mtime_utc": "2026-04-24T02:25:34+00:00"
+    },
+    {
+      "path": "data/raw/climate_trace/power_CO2e_20years.zip",
+      "size_bytes": 24533280,
+      "sha256": "6e441c26aaa4bd4ae3aff4a54ad3148017a72147ff9e63b82cf64270a77575b0",
+      "mtime_utc": "2026-05-22T23:27:46.742270+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2010.xlsx",
+      "size_bytes": 1312491,
+      "sha256": "7b62f8b29466d489e1f7222a684699aacfa7b0631a6980b7938fdea208d5d5b0",
+      "mtime_utc": "2019-10-01T23:32:02+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2011.xlsx",
+      "size_bytes": 1671818,
+      "sha256": "3e33b0e14727ef344e05c359863b8c5d410cfac65091666faac6dc0414d76b4a",
+      "mtime_utc": "2019-10-01T23:32:10+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2012.xlsx",
+      "size_bytes": 1754801,
+      "sha256": "198d7ebab2a5ed04de54748a0f010d3a378b43d6a1e2a7427590e467832e21ef",
+      "mtime_utc": "2019-10-01T23:32:38+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2013.xlsx",
+      "size_bytes": 1763147,
+      "sha256": "bba68a647e60d4a22d309792267f495645ad6a716bc742b131a187b7e5849652",
+      "mtime_utc": "2020-11-02T14:40:06+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2014.xlsx",
+      "size_bytes": 1795032,
+      "sha256": "a48ccf1dcfdd70b46719812b1e4ad3be15f12ac9082307fe372ad70cc760c9c2",
+      "mtime_utc": "2021-09-07T18:25:28+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2015.xlsx",
+      "size_bytes": 1771698,
+      "sha256": "bc887b59c936e3b52efac89d373f8978e93602991d251ad4e1133fa94a133f4d",
+      "mtime_utc": "2021-09-07T18:24:12+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2016.xlsx",
+      "size_bytes": 2618822,
+      "sha256": "3a70c184a4f4474098543427badf548329c9e8a92a2e4b2b32a59dd00d16d695",
+      "mtime_utc": "2022-10-03T20:05:34+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2017.xlsx",
+      "size_bytes": 2606464,
+      "sha256": "eb1f515f0975021e7d321316e2670e6205bb147ece3cd88ab5de6a37fcceb06c",
+      "mtime_utc": "2023-10-11T17:26:40+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2018.xlsx",
+      "size_bytes": 2176668,
+      "sha256": "452e7fd11da91bb967b055b7b33f1a094560ea652bcfe54cc43d02f7b1977e7b",
+      "mtime_utc": "2024-10-07T01:46:06+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2019.xlsx",
+      "size_bytes": 2179358,
+      "sha256": "c9405f7260d73a621d8f99211fe04d19caaace04efc57e4cade70b41c67d28dd",
+      "mtime_utc": "2024-10-07T01:46:08+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2020.xlsx",
+      "size_bytes": 2171987,
+      "sha256": "885cf9c216b0a104ac136029b05b188fa994a0b2bae5af24a52d61714dc9991a",
+      "mtime_utc": "2024-10-07T01:46:10+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2021.xlsx",
+      "size_bytes": 2162625,
+      "sha256": "217cda4971e3bf4f5943a51876da9a6f5cb903c77c8608de821b092a4d6551e5",
+      "mtime_utc": "2024-10-07T01:46:14+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2022.xlsx",
+      "size_bytes": 2157645,
+      "sha256": "dd1893cb1994db5c08863dc0bda44198350d6f687ac77ff11ed59204f20d0ac4",
+      "mtime_utc": "2024-10-07T01:46:16+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_2023.xlsx",
+      "size_bytes": 2610840,
+      "sha256": "e348830722f59de38640b6f3ddfc9b7d406f26c3c153ffbdd7192c2260114ac3",
+      "mtime_utc": "2024-10-15T14:39:12+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/2023_data_summary_spreadsheets/ghgp_data_by_year_2023.xlsx",
+      "size_bytes": 3182304,
+      "sha256": "8cc575b5609bc361ba6ca335beb1939f1403a70e096b99a5f63c4a162f10f6d6",
+      "mtime_utc": "2024-10-15T14:39:14+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/e_s_cems_bb_cc_ll_full_data_set.xlsx",
+      "size_bytes": 57576,
+      "sha256": "845c0a8f65e300d8b9d344dfc3da828cc2b46aca35a4c981368f666cbf7cbcf4",
+      "mtime_utc": "2026-05-18T22:33:26.031051+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/emissions_by_unit_and_fuel_type_c_d_aa.xlsb",
+      "size_bytes": 11690938,
+      "sha256": "6fa39cd5ac4bc17560c64ccd93442c744c4d24945ff0c5045fe6f68cbebc7c27",
+      "mtime_utc": "2024-10-04T14:25:17+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/ghgp_data_parent_company.xlsb",
+      "size_bytes": 7984329,
+      "sha256": "5613dd8454b08deb160e3f1dec18c1a9b45464bc0ef8453c97989ea0d4fdbce2",
+      "mtime_utc": "2026-05-18T22:26:28.943849+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/ghgrp_oris_power_plant_crosswalk_12_13_21.xlsx",
+      "size_bytes": 272305,
+      "sha256": "f4ec8ff08d3d964f8531a011705dde1b228266d39c3f73dec1062c64adf4526d",
+      "mtime_utc": "2026-05-18T22:26:43.657072+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/i_freq_request_data.xlsx",
+      "size_bytes": 1396778,
+      "sha256": "1c339b439e179f21c966321df6ae035530450d87bbe981106993ce17ce1ab2cb",
+      "mtime_utc": "2026-05-18T22:33:12.386627+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/datasets/l_o_freq_request_data.xlsx",
+      "size_bytes": 1211185,
+      "sha256": "baf7dae963acb91b4702608c5fc5e7f693082fe2b3309cf475347e18e91a0978",
+      "mtime_utc": "2026-05-18T22:26:53.685696+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/emissions_by_unit_and_fuel_type_c_d_aa.xlsb",
+      "size_bytes": 11690938,
+      "sha256": "6fa39cd5ac4bc17560c64ccd93442c744c4d24945ff0c5045fe6f68cbebc7c27",
+      "mtime_utc": "2026-05-20T15:08:46.225681+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/ghgp_data_2023.xlsx",
+      "size_bytes": 2610840,
+      "sha256": "e348830722f59de38640b6f3ddfc9b7d406f26c3c153ffbdd7192c2260114ac3",
+      "mtime_utc": "2026-05-20T15:08:46.348303+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/ghgp_data_by_year_2023.xlsx",
+      "size_bytes": 3182304,
+      "sha256": "8cc575b5609bc361ba6ca335beb1939f1403a70e096b99a5f63c4a162f10f6d6",
+      "mtime_utc": "2026-05-20T15:08:46.296834+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/ghgp_data_parent_company.xlsb",
+      "size_bytes": 7984329,
+      "sha256": "5613dd8454b08deb160e3f1dec18c1a9b45464bc0ef8453c97989ea0d4fdbce2",
+      "mtime_utc": "2026-05-20T15:08:45.890613+00:00"
+    },
+    {
+      "path": "data/raw/epa_ghgrp/ghgrp_oris_power_plant_crosswalk_12_13_21.xlsx",
+      "size_bytes": 272305,
+      "sha256": "f4ec8ff08d3d964f8531a011705dde1b228266d39c3f73dec1062c64adf4526d",
+      "mtime_utc": "2026-05-20T15:08:46.232940+00:00"
+    },
+    {
+      "path": "data/raw/sbti/companies-excel.xlsx",
+      "size_bytes": 2156432,
+      "sha256": "ee5d571caf99a535f2825010955bcdf7ea0b01f1be4009306aae8ffb5080c93e",
+      "mtime_utc": "2026-05-22T21:07:50.814481+00:00"
+    },
+    {
+      "path": "data/raw/sbti/targets-excel.xlsx",
+      "size_bytes": 5443217,
+      "sha256": "89137b270e2e3d8fbc4fd8536d65849d31b9bd222c3a677b7960c2688169fdc8",
+      "mtime_utc": "2026-05-22T21:09:40.953274+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/AES CORP/2026-03-02__aes-20251231.htm",
+      "size_bytes": 6595638,
+      "sha256": "23c6d9a837c9f9cee1fc557c4a62707087ec6fd11704e4d03eec25ae76874e76",
+      "mtime_utc": "2026-05-22T21:16:33.332843+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/ALLIANT ENERGY CORP/2026-02-20__lnt-20251231.htm",
+      "size_bytes": 5644326,
+      "sha256": "19c45c9dc6a7df81bf840755b29c0f4c71e12d379852099ded97344e71d4f97a",
+      "mtime_utc": "2026-05-22T21:16:35.447686+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/AMEREN CORP/2026-02-18__aee-20251231.htm",
+      "size_bytes": 7909031,
+      "sha256": "2282b08d39d97549eea9a44a1be63bf24956355c27164333699a9e309c66e945",
+      "mtime_utc": "2026-05-22T21:16:31.799841+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/AMERICAN ELECTRIC POWER CO INC/2026-02-12__aep-20251231.htm",
+      "size_bytes": 18321403,
+      "sha256": "a151a87b99a7650555b6219012683f241af26655509d1d2fbae917d0f0dfe44d",
+      "mtime_utc": "2026-05-22T21:16:26.503607+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/BERKSHIRE HATHAWAY INC/2026-03-02__brka-20251231.htm",
+      "size_bytes": 10396820,
+      "sha256": "878392c22e73b92722d63bb4f486586cdb5a0b8ce0d08bc403b1c0239b891282",
+      "mtime_utc": "2026-05-22T21:16:27.247081+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/CMS ENERGY CORP/2026-02-10__cms-20251231.htm",
+      "size_bytes": 5959118,
+      "sha256": "eed2f9f70ad9dead61ba0e8012e1b1016967923427ffb776d0298e619cbd7f29",
+      "mtime_utc": "2026-05-22T21:16:34.462580+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/CONSTELLATION ENERGY CORP/2026-02-24__ceg-20251231.htm",
+      "size_bytes": 4811218,
+      "sha256": "ef26d09b86b43483e53d3f3b7b42f840fe3c0bd9a1f9c5f113a81fa94f374f65",
+      "mtime_utc": "2026-05-22T22:09:35.032465+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/DOMINION ENERGY INC/2026-02-23__d-20251231.htm",
+      "size_bytes": 18147230,
+      "sha256": "fdf2284c7aff9242012707d2071dca612265f27a8730918f98bba9c917321383",
+      "mtime_utc": "2026-05-22T21:16:29.453555+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/DTE ENERGY CO/2026-02-17__dte-20251231.htm",
+      "size_bytes": 6032479,
+      "sha256": "2947ce262e24e42a514c77340d04e4f308eb6ddfc7123916047f5740eae6760b",
+      "mtime_utc": "2026-05-22T21:16:31.408765+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/DUKE ENERGY CORP/2026-02-26__duk-20251231.htm",
+      "size_bytes": 16080176,
+      "sha256": "638cd653df525f8be9ec031196a2cb9ae2b44f55d719911129f9a406b3974c8f",
+      "mtime_utc": "2026-05-22T21:16:25.138266+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/ENTERGY CORP/2026-02-19__etr-20251231.htm",
+      "size_bytes": 15277598,
+      "sha256": "056119a2e10dc85c0ae437b9a706c844f8d9e3be95278c56b2ad53e19d30682c",
+      "mtime_utc": "2026-05-22T23:21:22.316255+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/EVERGY INC/2026-02-19__evrg-20251231.htm",
+      "size_bytes": 8540672,
+      "sha256": "847e0221041c2ad3cb055b586a85d3aa7b6dea41beae16ed3b8e6f51f153026d",
+      "mtime_utc": "2026-05-22T21:16:29.981936+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/EXXON MOBIL CORP/2026-02-18__xom-20251231.htm",
+      "size_bytes": 5591068,
+      "sha256": "3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8",
+      "mtime_utc": "2026-05-22T22:09:36.023771+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/FIRSTENERGY CORP/2026-02-18__fe-20251231.htm",
+      "size_bytes": 6497062,
+      "sha256": "af232311594baba6fc8a51e4bcda33fda83f1b890365c836ab4aeeb667849f90",
+      "mtime_utc": "2026-05-22T21:16:33.674310+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/GENON ENERGY INC/2026-02-24__mgee-20251231.htm",
+      "size_bytes": 10517867,
+      "sha256": "6eb0633b316dffe8896cd11d6f22bfb3eff9ba31da43cfd13651bfbd277e6519",
+      "mtime_utc": "2026-05-22T21:16:36.252501+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/MARATHON PETROLEUM CORP/2026-02-26__mpc-20251231.htm",
+      "size_bytes": 4001121,
+      "sha256": "257c588a88ff81d56cab615e89d62b9e27c01c0d745c829f82e764c75fa2fd80",
+      "mtime_utc": "2026-05-22T22:09:35.756040+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/NEXTERA ENERGY INC/2026-02-13__nee-20251231.htm",
+      "size_bytes": 4642182,
+      "sha256": "c9acc48394834880be0f585f88826d7ed2747cc59c31a293e0664aac78192249",
+      "mtime_utc": "2026-05-22T21:16:28.727082+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/NISOURCE INC/2026-02-11__nix-20251231.htm",
+      "size_bytes": 4606570,
+      "sha256": "d43f5e7e46e8fcfc6a619a62680514726b4920bcce7cfd2d31dda3e364dfcc80",
+      "mtime_utc": "2026-05-22T21:16:35.879828+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/NRG ENERGY INC/2026-02-24__nrg-20251231.htm",
+      "size_bytes": 5639759,
+      "sha256": "29cf4168c1154a24695749418cad32624cd512ddae4053cbff3449243bedec97",
+      "mtime_utc": "2026-05-22T21:16:28.243890+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/OGE ENERGY CORP/2026-02-18__oge-20251231.htm",
+      "size_bytes": 9001059,
+      "sha256": "bfafcc765f2e119411802fe418bec90748e71fbb8819f86fe6ff0206da382e32",
+      "mtime_utc": "2026-05-22T21:16:32.864966+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/PINNACLE WEST CAPITAL CORP/2026-02-25__pnw-20251231.htm",
+      "size_bytes": 5657541,
+      "sha256": "8e77a42fd6c69acfb83b5990d33079fc3459bbd2bf96cafd0fcb10a096e3708a",
+      "mtime_utc": "2026-05-22T21:16:35.016682+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/PPL CORP/2026-02-20__ppl-20251231.htm",
+      "size_bytes": 8362380,
+      "sha256": "8a517bb960593f7de2b5a1d2f73e2c6f55010787906882fc33414ff9448daedf",
+      "mtime_utc": "2026-05-22T21:16:31.017723+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/TALEN ENERGY CORP/2026-02-26__tln-20251231.htm",
+      "size_bytes": 3992782,
+      "sha256": "fc8d603cb14280f7d0f388882339845a0da584762323b1d2f55c4c779d06c67f",
+      "mtime_utc": "2026-05-22T21:16:32.190171+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/THE SOUTHERN CO/2026-02-19__so-20251231.htm",
+      "size_bytes": 15639198,
+      "sha256": "46aea07b6bd44b32b75014da650ae2610949a487927dd53b16f239110a734c7e",
+      "mtime_utc": "2026-05-22T23:21:21.324960+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/UNS ENERGY CORP/2026-03-13__useg20251231_10k.htm",
+      "size_bytes": 2109657,
+      "sha256": "3d34b0edd9ace574a084dc503bdb2010f264d77d8600c598a3dda95a6d06e0e5",
+      "mtime_utc": "2026-05-22T22:09:35.412636+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/Vistra Corp/2026-02-27__vistra-20251231.htm",
+      "size_bytes": 5587052,
+      "sha256": "7f14fefedd12aa959de58c3ab44de4c2eb77d12ec1c4e9ca41c1e91326f09225",
+      "mtime_utc": "2026-05-22T21:16:26.005322+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/WEC Energy Group Inc/2026-02-20__wec-20251231.htm",
+      "size_bytes": 6590988,
+      "sha256": "83ad5b5472981b4c9ce47ab2e5a070f0fcbecb1a6d387b3f959c362e2e3cbd21",
+      "mtime_utc": "2026-05-22T21:16:33.989547+00:00"
+    },
+    {
+      "path": "data/raw/sec_10k/XCEL ENERGY INC/2026-02-25__xel-20251231.htm",
+      "size_bytes": 5225223,
+      "sha256": "0f5acaa16e280c22d3e755f6c2061683e136ea6dc45e413cd01ed0f156578330",
+      "mtime_utc": "2026-05-22T21:16:27.757916+00:00"
+    },
+    {
+      "path": "data/processed/cohort_top50.csv",
+      "size_bytes": 2329,
+      "sha256": "95b0a12b8e2b8ea6702edc2981d28cac078688f1bc51ce279e5bde3ff2316a62",
+      "mtime_utc": "2026-05-23T00:45:19.006840+00:00"
+    },
+    {
+      "path": "data/processed/data_manifest.json",
+      "size_bytes": 77372,
+      "sha256": "ccd01c2cdf6cc0724f5eeb0199e6eec1364b71b2299795665b45a3f64856fb4f",
+      "mtime_utc": "2026-05-23T00:24:04.131115+00:00"
+    },
+    {
+      "path": "data/processed/parent_to_cik.csv",
+      "size_bytes": 2172,
+      "sha256": "6bb3c9800d3e7788ae792e2befb6b9441dfdf146db892b8d9feef2bdec2e5905",
+      "mtime_utc": "2026-05-23T00:45:21.084149+00:00"
+    },
+    {
+      "path": "data/processed/power_facility_parent_attribution_2023.csv",
+      "size_bytes": 198621,
+      "sha256": "7c407ffc4e169f16fcdabf8ffae6e605f6747b48b41605a6eebdf3ac9cde0080",
+      "mtime_utc": "2026-05-23T00:45:19.021695+00:00"
+    },
+    {
+      "path": "data/processed/tenk_filings_index.csv",
+      "size_bytes": 4366,
+      "sha256": "c906f5b9d5fbcdd67c709322f5e787449f09b09de347040017466c50847740e2",
+      "mtime_utc": "2026-05-23T00:45:36.114406+00:00"
+    }
+  ]
+}

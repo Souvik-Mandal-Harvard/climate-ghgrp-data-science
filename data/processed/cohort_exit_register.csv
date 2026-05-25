@@ -1,0 +1,2 @@
+facility_id,facility_name,state,parent_name,first_active_year,last_active_year,n_years_active,last_year_co2_mt,exit_reason,exit_date,source_url,notes
+1000707,Meramec,MO,AMEREN CORP,2011,2022,12,0.209080934,uncertain,,,No public source verified within scope; review individually.
