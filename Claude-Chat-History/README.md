@@ -4,37 +4,14 @@ This folder ships the raw `.jsonl` session transcripts from the Claude / Cowork 
 
 Two complementary deliverables together provide the prompt history:
 
-- **`/doc-03_prompt_log_HBS-assignment_SouvikMandal.md`** — a curated, human-readable log of the substantive prompts that shaped scope, methodology and deliverables. *Lead with this for a reviewer who wants a quick read.*
-- **`deliverables/provenance/*.jsonl`** *(this folder)* — the raw API event stream from each Cowork session. *Use this for full reproducibility / replay-the-collaboration auditing.*
+- **`/doc-03_prompt_log_HBS-contract_SouvikMandal.md`** — a curated, human-readable log of the substantive prompts that shaped scope, methodology and deliverables. *Lead with this for a reviewer who wants a quick read.*
+- **`/*.jsonl`** — the raw API event stream from each Cowork session. *Use this for full reproducibility / replay-the-collaboration auditing.*
 
 ## What's in this folder
 
 | File | Session | Period | Size | Records | Notes |
 |---|---|---|---:|---:|---|
 | `session_2026-05-22_current_429a7672.jsonl` | Day 2–Day 3 build + finalization | 2026-05-22 → 2026-05-25 | 11.2 MB | 3,087 | 763 user prompts, 1,305 assistant turns. Includes NB 03 polish, NB 06 build, NB 07 dashboard build, all final deliverables. |
-
-## What's missing (and how to add it)
-
-The Day 0 framing session (`local_1d2aa1be-a28b-467c-a4f1-353d5ebd106d`,
-"Senior Data Scientist Take-Home Assignment", 1,983 transcript lines) lives in a Claude application-private directory that the sandbox running this project cannot reach. The file is on your laptop — to add it to this submission, run the following from your shell (one line):
-
-```bash
-SRC="$HOME/Library/Application Support/Claude/local-agent-mode-sessions"
-find "$SRC" -name "*.jsonl" -type f -exec cp -n {} \
-  "$(pwd)/deliverables/provenance/" \;
-```
-
-That will sweep every Claude session `.jsonl` on your machine into this folder.
-Rename each file with a descriptive prefix (date + session-title slug) before
-committing to GitHub so the reviewer can scan the chronology at a glance.
-
-Alternatively, just the Day 0 session:
-
-```bash
-find "$HOME/Library/Application Support/Claude/local-agent-mode-sessions" \
-  -path "*local_1d2aa1be-a28b-467c-a4f1-353d5ebd106d*" -name "*.jsonl" \
-  -exec cp {} "$(pwd)/deliverables/provenance/session_2026-05-18_day0_framing.jsonl" \;
-```
 
 ## File format
 
