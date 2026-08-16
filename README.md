@@ -1,6 +1,6 @@
 # Insuring Against the Dismantling of GHGRP:
 ## A Predictive Climate Intelligence Framework for Corporate Decarbonization Credibility
-Author: Souvik Mandal
+Author: Souvik Mandal, Project leader, LS100, FAS, Harvard University, [LinkedIn Profile](https://www.linkedin.com/in/souvik-mandal-phd/)
 
 This project builds a public-goods framework for the top 50 U.S. power-sector parent companies — the **Corporate Climate Credibility Score (CCCS)** — that combines 
 - corporate pledges using multiple sources (SEC 10-K annual report for each company, Net Zero Tracker, SBTi), scored through multiple LLMs,
