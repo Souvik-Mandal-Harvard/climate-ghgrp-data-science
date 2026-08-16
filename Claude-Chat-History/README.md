@@ -4,7 +4,7 @@ This folder ships the raw `.jsonl` session transcripts from the Claude / Cowork 
 
 Two complementary deliverables together provide the prompt history:
 
-- **`deliverables/doc-03_prompt_log_HBS-assignment_SouvikMandal.md`** — a curated, human-readable log of the substantive prompts that shaped scope, methodology and deliverables. *Lead with this for a reviewer who wants a quick read.*
+- **`/doc-03_prompt_log_HBS-assignment_SouvikMandal.md`** — a curated, human-readable log of the substantive prompts that shaped scope, methodology and deliverables. *Lead with this for a reviewer who wants a quick read.*
 - **`deliverables/provenance/*.jsonl`** *(this folder)* — the raw API event stream from each Cowork session. *Use this for full reproducibility / replay-the-collaboration auditing.*
 
 ## What's in this folder
