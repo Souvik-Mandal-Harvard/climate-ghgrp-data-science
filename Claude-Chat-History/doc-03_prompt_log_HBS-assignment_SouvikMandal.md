@@ -1,13 +1,14 @@
-# LLM Prompt Log — *Climate Credibility Intelligence* (HBS Senior Data Scientist Take-Home)
+# LLM Prompt Log — *Climate Credibility Intelligence*
 
-**Author:** Souvik Mandal · souvikces@gmail.com
-**Project window:** 2026-05-18 to 2026-05-25 (Day 0 framing → Day 3 close-out)
+**Author:** Souvik Mandal · [LinkedIn](https://www.linkedin.com/in/souvik-mandal-phd/)
+**Project window:** 2026-05-18 to 2026-05-25
+
 **LLM collaborators used:**
 - **Claude Opus 4.7** (Anthropic), via Claude Code / Cowork Mode — primary driver across all sessions (framing, code, statistical modeling guidance, notebook polish, dashboard build).
 - **Claude Sonnet 4.6** + **GPT-4o** (OpenAI), via API, both at `temperature = 0` — dual-LLM Pledge Quality scoring inside Notebook 05.
 - Web search and document fetch (within Claude) — used to ground every external citation (HBS faculty research, EPA proposals, Nature Climate Change articles, EELP brief).
 
-This log is required by the assignment rubric ("a log of every LLM prompt used during the project"). It captures the **substantive** prompts that shaped scope, methodology, and deliverables. Single-word acknowledgements ("yes", "go", "approve") and routine clerical asks (e.g., "save", "validate", "lint") are summarized rather than transcribed.
+This log captures the **substantive** prompts that shaped scope, methodology, and deliverables. Single-word acknowledgements ("yes", "go", "approve") and routine clerical asks (e.g., "save", "validate", "lint") are summarized rather than transcribed.
 
 The log is organized by project phase, with the prompt's intent in italics.
 
@@ -18,7 +19,7 @@ The log is organized by project phase, with the prompt's intent in italics.
 ### 1.1 Initial assignment scoping
 
 > *Open the assignment, propose understanding.*
-> "The uploaded document contains an assignment I need to work on with utter professionalism and the best practices in the industry. Please go through the document first and give me your understanding. We will tackle the problem step by step."
+> "The uploaded document contains a task I need to work on with utter professionalism and the best practices in the industry. Please go through the document first and give me your understanding. We will tackle the problem step by step."
 
 ### 1.2 Audience refocus — from "data science project" to "consulting pitch"
 
@@ -28,7 +29,7 @@ The log is organized by project phase, with the prompt's intent in italics.
 ### 1.3 Dataset and skill anchor
 
 > *Tell Claude what role I'm pitching for and which dataset I want to work on.*
-> "This given task is to get a contract with the HBS as a Senior Data Scientist job role or consultant. I have not read the recent research papers by the HBS faculty but I would like to work on the 'EPA Greenhouse Gas Reporting Program' data. I would like you to do a research and frame the question accordingly so that it hits the right spots with the HBS faculty. I'm pitching for the Senior Data Scientist role, therefore I would like to showcase my skills of EDA, data preparation, statistical analysis, machine learning (and if needed, Time series analysis, Natural language processing tools, Networks or knowledge graphs, Causal inference or experimentation framing). I want the summary report to be in style of HBS reports, supported by: reproducible data pipeline; a detailed Jupyter notebook with detailed documentation hyperlinked to documents/codes in a GitHub repo; an app or dashboard (maybe Streamlit), perhaps with a chatbot function … Ask further questions if you need to clarify anything."
+> "This given task is to get a contract with the HBS as a Senior Data Scientist consultant. I have read some recent research papers by the HBS faculty on climate economics and I would like to work on the 'EPA Greenhouse Gas Reporting Program' data. I would like you to do a research and frame the question accordingly so that it hits the right spots with the HBS faculty. I'm pitching for the Senior Data Scientist consultancy, and I would like to limit the workflow within modern data practices and skills, like EDA, data preparation, statistical analysis, machine learning (e.g., Time series analysis, Natural language processing tools, Networks or knowledge graphs, Causal inference or experimentation framing). Showcasing is always good but NEVER by pushing to show-off knowledge/ expertise. I want the summary report to be in style of HBS reports, supported by: reproducible data pipeline; a detailed Jupyter notebook with detailed documentation hyperlinked to documents/codes in a GitHub repo; an app or dashboard (maybe Streamlit), perhaps with a chatbot function … Ask further questions if you need to clarify anything."
 
 ### 1.4 Surfacing the GHGRP-sunset context
 
@@ -171,7 +172,7 @@ The log is organized by project phase, with the prompt's intent in italics.
 ### 1.27 Project title — second round (reject "audit", reflect role)
 
 > *Reframe the title around the role being pitched for.*
-> "I don't want to highlight our work as an audit. It is way more than that. Remember, the main goal is to get the 'Senior Data Scientist' job / contract through this project. The title should reflect that."
+> "I don't want to highlight our work as an audit. It is way more than that."
 
 ---
 
