@@ -1,8 +1,6 @@
 # Provenance — raw Claude session transcripts
 
-This folder ships the raw `.jsonl` session transcripts from the Claude / Cowork
-sessions used to execute this project, in compliance with the take-home rubric
-("a log of every LLM prompt used during the project").
+This folder ships the raw `.jsonl` session transcripts from the Claude / Cowork sessions used to execute this project. This is added to maintain transparency.
 
 Two complementary deliverables together provide the prompt history:
 
@@ -18,10 +16,7 @@ Two complementary deliverables together provide the prompt history:
 ## What's missing (and how to add it)
 
 The Day 0 framing session (`local_1d2aa1be-a28b-467c-a4f1-353d5ebd106d`,
-"Senior Data Scientist Take-Home Assignment", 1,983 transcript lines) lives in a
-Claude application-private directory that the sandbox running this project
-cannot reach. The file is on your laptop — to add it to this submission, run
-the following from your shell (one line):
+"Senior Data Scientist Take-Home Assignment", 1,983 transcript lines) lives in a Claude application-private directory that the sandbox running this project cannot reach. The file is on your laptop — to add it to this submission, run the following from your shell (one line):
 
 ```bash
 SRC="$HOME/Library/Application Support/Claude/local-agent-mode-sessions"
